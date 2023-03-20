@@ -36,7 +36,7 @@ You can cite it using:
     date      = 2023,
     journal   = {Open-Source Dataset of Malicious Software Packages},
     publisher = {Datadog Security Labs},
-    url       = https://github.com/datadog/malicious-software-packages, 
+    url       = https://github.com/datadog/malicious-software-packages-dataset, 
 }
 ```
 
