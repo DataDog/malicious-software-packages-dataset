@@ -4,8 +4,8 @@
   <img src="./image.png" height="300" />
 </p>
 
-This repository is an open-source dataset of malicious software packages identified by Datadog, as part of our security research efforts in software supply-chain security. Most of the malicious 
-packages have been identified by [GuardDog](https://github.com/DataDog/guarddog).
+This repository is an open-source dataset of hundreds of <span id="package-count"></span> software packages identified by Datadog, as part of our security research efforts in software supply-chain 
+security. Most of the malicious packages have been identified by [GuardDog](https://github.com/DataDog/guarddog).
 
 Current ecosystems:
 - PyPI
@@ -18,8 +18,8 @@ discovery date, not necessarily the package publication date.
 You can use the script [extract.sh](./samples/pypi/extract.sh) to automatically extract all the samples to perform local analysis on them. Alternatively, you can extract a single sample using:
 
 ```
-$ unzip -o -P infected samples/pypi/2023-03-20-pydefender-v1.0.0.zip -d /tmp/
-Archive:  samples/pypi/2023-03-20-pydefender-v1.0.0.zip
+$ unzip -o -P infected pypi/2023-03-20-pydefender-v1.0.0.zip -d /tmp/
+Archive:  pypi/2023-03-20-pydefender-v1.0.0.zip
    creating: /tmp/2023-03-20-pydefender-v1.0.0/
 ```
 
@@ -46,6 +46,10 @@ You can cite it using:
 * This dataset may suffer from selection biais, as it was mostly identified. As such, it may not accurately represent the landscape of software supply-chain security malware.
 
 ## FAQ
+
+### Are you maintaining this dataset?
+
+We will be regularly adding new packages to the dataset.
 
 ### How do you know these packages are malicious?
 
