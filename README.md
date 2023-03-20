@@ -18,8 +18,8 @@ discovery date, not necessarily the package publication date.
 You can use the script [extract.sh](./samples/pypi/extract.sh) to automatically extract all the samples to perform local analysis on them. Alternatively, you can extract a single sample using:
 
 ```
-$ unzip -o -P infected pypi/2023-03-20-pydefender-v1.0.0.zip -d /tmp/
-Archive:  pypi/2023-03-20-pydefender-v1.0.0.zip
+$ unzip -o -P infected samples/pypi/2023-03-20-pydefender-v1.0.0.zip -d /tmp/
+Archive:  samples/pypi/2023-03-20-pydefender-v1.0.0.zip
    creating: /tmp/2023-03-20-pydefender-v1.0.0/
 ```
 
