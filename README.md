@@ -1,7 +1,7 @@
 # Malicious Software Packages Dataset
 
 <p align="center">
-  <img src="./image.png" height="300" />
+  <img src="./image.png" height="400" />
 </p>
 
 This repository is an **open-source dataset of <span id="num-samples">872</span> malicious software packages** (and counting) identified by Datadog, as part of our security research efforts in software supply-chain 
