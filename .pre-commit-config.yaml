@@ -1,0 +1,7 @@
+repos:
+- repo: local
+  hooks:
+  - id: update-count
+    name: Update number of samples in README
+    language: system
+    entry: python3 scripts/update-count.py
