@@ -43,7 +43,7 @@ You can cite it using:
 ## Disclaimer
 
 * This repository contains actively malicious software that was published by threat actors. Do not run it on your machine.
-* This dataset may suffer from selection biais, as it was mostly identified. As such, it may not accurately represent the landscape of software supply-chain security malware.
+* This dataset may suffer from selection biais, as it was mostly identified by a single ruleset ([GuardDog](https://github.com/datadog/guarddog)). As such, it may not accurately represent the landscape of software supply-chain security malware.
 
 ## FAQ
 
