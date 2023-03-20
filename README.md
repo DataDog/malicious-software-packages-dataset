@@ -30,13 +30,13 @@ This dataset is released under the Apache-2.0 license. You're welcome to use it 
 You can cite it using:
 
 ```
-@misc{AITextClassifier, 
+@misc{OpenSourceDatasetMaliciousSoftwarePackages, 
     month     = Mar,
     day       = 20,
-    journal   = {Open-source Dataset of Malicious Software Packages},
+    date      = 2023,
+    journal   = {Open-Source Dataset of Malicious Software Packages},
     publisher = {Datadog Security Labs},
     url       = https://github.com/datadog/malicious-software-packages, 
-    date      = 2023,
 }
 ```
 
