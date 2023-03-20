@@ -1,8 +1,7 @@
-# Malicious Software Packages
-
+# Malicious Software Packages Dataset
 
 <p align="center">
-  <img src="./image.png" height="350" />
+  <img src="./image.png" height="300" />
 </p>
 
 This repository is an open-source dataset of malicious software packages identified by Datadog, as part of our security research efforts in software supply-chain security. Most of the malicious 
@@ -28,8 +27,7 @@ Archive:  samples/pypi/2023-03-20-pydefender-v1.0.0.zip
 
 This dataset is released under the Apache-2.0 license. You're welcome to use it with attribution.
 
-
-You can cite it in a paper using:
+You can cite it using:
 
 ```
 @misc{AITextClassifier, 
@@ -47,6 +45,12 @@ You can cite it in a paper using:
 * This repository contains actively malicious software that was published by threat actors. Do not run it on your machine.
 * This dataset may suffer from selection biais, as it was mostly identified. As such, it may not accurately represent the landscape of software supply-chain security malware.
 
-## Contributions
+## FAQ
+
+### How do you know these packages are malicious?
+
+Every single software package included in this dataset has been manually triaged by a human.
+
+### Do you accept contributions? 
 
 At the time, the repository is not accepting contributions. However, if you'd like to share an interesting finding with us, reach out at securitylabs@datadoghq.com!
