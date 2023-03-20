@@ -47,3 +47,6 @@ You can cite it in a paper using:
 * This repository contains actively malicious software that was published by threat actors. Do not run it on your machine.
 * This dataset may suffer from selection biais, as it was mostly identified. As such, it may not accurately represent the landscape of software supply-chain security malware.
 
+## Contributions
+
+At the time, the repository is not accepting contributions. However, if you'd like to share an interesting finding with us, reach out at securitylabs@datadoghq.com!
