@@ -40,6 +40,8 @@ You can cite it using:
 }
 ```
 
+Malicious software packages provided as part of this repository may contain legitimate, licensed code. In that case, the applicable license is the one of the original package, indicated in the metadata of its `setup.py` file.
+
 ## Disclaimer
 
 * This repository contains actively malicious software that was published by threat actors. Do not run it on your machine.
