@@ -71,3 +71,8 @@ we'll be happy to talk!
 ### Do you accept contributions? 
 
 At the time, the repository is not accepting contributions. However, if you'd like to share an interesting finding with us, reach out at securitylabs@datadoghq.com!
+
+## Other datasets
+
+https://github.com/lxyeternal/pypi_malregistry and related paper https://lcwj3.github.io/img_cs/pdf/An%20Empirical%20Study%20of%20Malicious%20Code%20In%20PyPI%20Ecosystem.pdf
+https://github.com/cybertier/Backstabbers-Knife-Collection
