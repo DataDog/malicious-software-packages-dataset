@@ -9,6 +9,7 @@ security. Most of the malicious packages have been identified by [GuardDog](http
 
 Current ecosystems:
 - PyPI
+- NPM
 
 ## Usage
 
