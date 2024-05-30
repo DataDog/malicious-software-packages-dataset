@@ -56,3 +56,4 @@ jobs:
           delete-branch: true
           title: "[Bot] Auto-synchronize malicious packages"
           labels: sync
+          branch-suffix: timestamp
