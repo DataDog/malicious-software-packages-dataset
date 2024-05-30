@@ -44,11 +44,14 @@ jobs:
       - name: Synchronize malicious packages
         run: |
           python scripts/sync-malicious-packages/sync-malicious-packages.py --since 2024-01-01 --destination ./samples/pypi --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --dynamodb-table ${{ secrets.DYNAMODB_TABLE_NAME }} --ecosystem pypi
+          python python scripts/update-count.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          add-paths: samples/
+          add-paths: |
+            samples/
+            README.md
           commit-message: "Auto-synchronize malicious packages"
           delete-branch: true
           title: "[Bot] Auto-synchronize malicious packages"
