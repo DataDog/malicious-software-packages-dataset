@@ -1,10 +1,7 @@
 name: Deploy
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  workflow_dispatch: {}
 
   
 permissions:
@@ -23,12 +20,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12' 
-
-      - name: Install AWS CLI
-        run: |
-          curl https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip -o awscliv2.zip
-          unzip awscliv2.zip
-          sudo ./aws/install
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
