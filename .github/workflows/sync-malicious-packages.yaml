@@ -1,4 +1,4 @@
-name: Deploy
+name: Synchronize malicious packages
 
 on:
   workflow_dispatch: {}
@@ -13,6 +13,7 @@ jobs:
   synchronize-malicious-packages:
     name: 'Synchronize malicious packages'
     runs-on: ubuntu-latest
+    environment: Main
 
     steps:
       - uses: actions/checkout@v4
