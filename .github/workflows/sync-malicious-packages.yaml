@@ -39,7 +39,7 @@ jobs:
       - name: Synchronize malicious packages
         run: |
           python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination ./samples/pypi --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --dynamodb-table ${{ secrets.DYNAMODB_TABLE_NAME }} --ecosystem pypi
-          python python scripts/update-count.py
+          python scripts/update-count.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
