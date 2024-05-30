@@ -1,7 +1,9 @@
 name: Synchronize malicious packages
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch: {} # allows manual trigger
+  schedule:
+  - cron: '0 0 * * *' # every day at midnight UTC
 
   
 permissions:
@@ -52,3 +54,6 @@ jobs:
           title: "[Bot] Auto-synchronize malicious packages"
           labels: sync
           branch-suffix: timestamp
+          reviewers: |
+            christophetd
+            sobregosodd
