@@ -51,7 +51,8 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
     formatted_date = scan_datetime.strftime('%Y-%m-%d')
     
     # Download the folder from S3
-    s3_prefix = f'{ecosystem}/{formatted_date}/{item["package_name"]}/{item["package_version"]}/'
+    package_s3_path = item["package_name"].replace("npm|", "")
+    s3_prefix = f'{ecosystem}/{formatted_date}/{package_s3_path}/{item["package_version"]}/'
     package_name = item["package_name"]
     package_name = package_name.replace("/", "_")
     package_name = package_name.replace("npm|", "")
