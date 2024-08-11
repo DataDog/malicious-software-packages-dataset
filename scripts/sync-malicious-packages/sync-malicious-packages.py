@@ -1,11 +1,14 @@
 import argparse
-import boto3
 from datetime import datetime
+import json
 import os
 from pathlib import Path
 import time
 import subprocess
 import shutil
+
+import boto3
+
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Download malicious samples from S3')
@@ -16,6 +19,25 @@ def parse_arguments():
     parser.add_argument('--dynamodb-table', help='DynamoDB table containing the scan results')
     args = parser.parse_args()
     return args
+
+
+def update_manifest(destination, samples):
+  manifest_path = os.path.join(destination, "manifest.json")
+
+  with open(manifest_path, 'r') as f:
+    manifest = json.loads(f.read())
+
+  for sample in samples:
+    package, version = sample["package_name"], sample["package_version"]
+    if package not in manifest:
+      manifest[package] = [version]
+    elif version not in manifest[package]:
+      manifest[package].append(version)
+      manifest[package].sort()
+
+  with open(manifest_path, 'w') as f:
+    f.write(json.dumps(manifest))
+
   
 def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bucket):
   table = boto3.resource('dynamodb').Table(dynamodb_table)
@@ -86,7 +108,11 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
       exit(1)
     print("Wrote new ZIP file " + zip_file)
     shutil.rmtree(local_folder, ignore_errors=True)
-  
+
+  return results
+
+
 if __name__ == "__main__":
     args = parse_arguments()
-    query_and_download_items(args.ecosystem, args.since, args.destination, args.dynamodb_table, args.s3_bucket)
+    new_samples = query_and_download_items(args.ecosystem, args.since, args.destination, args.dynamodb_table, args.s3_bucket)
+    update_manifest(args.destination, new_samples)
