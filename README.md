@@ -16,6 +16,10 @@ Current ecosystems:
 Malicious samples are available under the **[samples/](samples/)** folder and compressed as an encrypted ZIP file with the password `infected`. The date indicated as part of the file name is the 
 discovery date, not necessarily the package publication date.
 
+The samples directory for each ecosystem contains a `manifest.json`
+file that describes which packages and versions are present as samples
+in the dataset.  In some cases, version information is not available.
+
 You can use the script [extract.sh](./samples/pypi/extract.sh) to automatically extract all the samples to perform local analysis on them. Alternatively, you can extract a single sample using:
 
 ```
