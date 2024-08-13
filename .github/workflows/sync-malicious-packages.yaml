@@ -40,6 +40,7 @@ jobs:
         run: |
           for ecosystem in pypi npm; do
             python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination $(pwd)/samples/$ecosystem --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --dynamodb-table ${{ secrets.DYNAMODB_TABLE_NAME }} --ecosystem $ecosystem;
+            python scripts/generate_manifest.py --output-file $(pwd)/samples/$(ecosystem)/manifest.json $(pwd)/samples/$ecosystem
           done
           python scripts/update-count.py
 
