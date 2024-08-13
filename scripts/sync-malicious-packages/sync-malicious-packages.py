@@ -29,6 +29,9 @@ def update_manifest(destination, samples):
 
   for sample in samples:
     package, version = sample["package_name"], sample["package_version"]
+    if package.startswith("npm|"):
+      package = package[4:]
+
     if package not in manifest:
       manifest[package] = [version]
     elif version not in manifest[package]:
