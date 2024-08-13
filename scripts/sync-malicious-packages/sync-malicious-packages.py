@@ -54,12 +54,13 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
     package_s3_path = item["package_name"].replace("npm|", "")
     s3_prefix = f'{ecosystem}/{formatted_date}/{package_s3_path}/{item["package_version"]}/'
     package_name = item["package_name"]
-    package_name = package_name.replace("/", "_")
+    package_name = package_name.replace("/", ",")
     package_name = package_name.replace("npm|", "")
-    package_identifier = f'{package_name}-v{item["package_version"]}'
+    package_version = item["package_version"]
+    package_identifier = f'{package_name}-v{package_version}'
     local_folder = f'{formatted_date}-{package_identifier}'
     Path(local_folder).mkdir(parents=True, exist_ok=True)
-    zip_file = f'{local_folder}.zip'
+    zip_file = f'{formatted_date}:{package_name}:{package_version}.zip'
     
     if os.path.isfile(zip_file):
       continue
