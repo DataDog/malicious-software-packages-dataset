@@ -5,3 +5,11 @@ repos:
     name: Update number of samples in README
     language: system
     entry: python3 scripts/update-count.py
+  - id: update-pypi-manifest
+    name: Update the PyPI manifest file based on the current repo state
+    language: system
+    entry: python3 scripts/generate_manifest/generate_manifest.py --output-file samples/pypi/manifest.json samples/pypi
+  - id: update-npm-manifest
+    name: Update the npm manifest file based on the current repo state
+    language: system
+    entry: python3 scripts/generate_manifest/generate_manifest.py --output-file samples/npm/manifest.json samples/npm

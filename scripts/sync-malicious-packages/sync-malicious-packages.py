@@ -53,20 +53,27 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
     # Download the folder from S3
     package_s3_path = item["package_name"].replace("npm|", "")
     s3_prefix = f'{ecosystem}/{formatted_date}/{package_s3_path}/{item["package_version"]}/'
-    package_name = item["package_name"]
-    package_name = package_name.replace("/", "_")
-    package_name = package_name.replace("npm|", "")
-    package_identifier = f'{package_name}-v{item["package_version"]}'
-    local_folder = f'{formatted_date}-{package_identifier}'
-    Path(local_folder).mkdir(parents=True, exist_ok=True)
-    zip_file = f'{local_folder}.zip'
-    
-    if os.path.isfile(zip_file):
+
+    package_name = item["package_name"].replace("npm|", "")
+    package_version = item["package_version"]
+
+    package_name_directory = package_name.replace('/', '@')
+    package_name_file = package_name.replace('/', '_')
+    sample_identifier = f"{formatted_date}-{package_name_file}-v{package_version}"
+    sample_directory = os.path.join(package_name_directory, package_version)
+    sample_filename = os.path.join(sample_directory, f"{sample_identifier}.zip")
+
+    if os.path.isfile(sample_filename):
       continue
 
+    # The first one is a temporary download directory for the package contents to be zipped
+    # TODO: Use a `tempfile` temporary directory in a context for this
+    Path(sample_identifier).mkdir(parents=True, exist_ok=True)
+    Path(sample_directory).mkdir(parents=True, exist_ok=True)
+
     s3_url = f"s3://{s3_bucket}/{s3_prefix}"
-    print(f"Downloading files for {package_identifier}")
-    command = ['aws', 's3', 'sync', s3_url, local_folder]
+    print(f"Downloading files for {package_name}-v{package_version}")
+    command = ['aws', 's3', 'sync', s3_url, sample_identifier]
     try:
       subprocess.run(command, check=True, capture_output=True)
     except subprocess.CalledProcessError as e:
@@ -77,15 +84,15 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
 
     # Zip and encrypt the folder
     # We spawn zip because no way to encrypt with the standard ZipFile library...
-    command = ["zip", "--encrypt", "-r", "-P", "infected", zip_file, local_folder]
+    command = ["zip", "--encrypt", "-r", "-P", "infected", sample_filename, sample_identifier]
     try:
       subprocess.run(command, check=True, capture_output=True, cwd=dest)
     except subprocess.CalledProcessError as e:
       print("Unable to ZIP: " + str(e))
       print(e.stderr)
       exit(1)
-    print("Wrote new ZIP file " + zip_file)
-    shutil.rmtree(local_folder, ignore_errors=True)
+    print("Wrote new ZIP file " + sample_filename)
+    shutil.rmtree(sample_identifier, ignore_errors=True)
   
 if __name__ == "__main__":
     args = parse_arguments()
