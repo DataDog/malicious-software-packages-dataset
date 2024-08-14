@@ -1,11 +1,14 @@
 import argparse
-import boto3
 from datetime import datetime
 import os
 from pathlib import Path
+import tempfile
 import time
 import subprocess
 import shutil
+
+import boto3
+
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Download malicious samples from S3')
@@ -16,6 +19,7 @@ def parse_arguments():
     parser.add_argument('--dynamodb-table', help='DynamoDB table containing the scan results')
     args = parser.parse_args()
     return args
+
   
 def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bucket):
   table = boto3.resource('dynamodb').Table(dynamodb_table)
@@ -49,43 +53,53 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
     # Convert scan_datetime to the desired format
     scan_datetime = datetime.strptime(item['scan_datetime'], '%Y-%m-%d %H:%M:%S.%f')
     formatted_date = scan_datetime.strftime('%Y-%m-%d')
-    
-    # Download the folder from S3
-    package_s3_path = item["package_name"].replace("npm|", "")
-    s3_prefix = f'{ecosystem}/{formatted_date}/{package_s3_path}/{item["package_version"]}/'
-    package_name = item["package_name"]
-    package_name = package_name.replace("/", "_")
-    package_name = package_name.replace("npm|", "")
-    package_identifier = f'{package_name}-v{item["package_version"]}'
-    local_folder = f'{formatted_date}-{package_identifier}'
-    Path(local_folder).mkdir(parents=True, exist_ok=True)
-    zip_file = f'{local_folder}.zip'
-    
-    if os.path.isfile(zip_file):
+
+    package_name = item["package_name"].replace("npm|", "")
+    package_version = item["package_version"]
+
+    # Sanitize the package name and version for use in a file or directory name
+    # `@` is used in place of `/` for the directory versions because it is:
+    #   1) unambiguously identifiable as a replacement character (used by the manifest generator on that basis)
+    #   2) already used in certain of the npm package names
+    package_name_directory = package_name.replace('/', '@')
+    package_version_directory = package_version.replace('/', '@')
+    package_name_file = package_name.replace('/', '_')
+    package_version_file = package_version.replace('/', '_')
+
+    sample_identifier = f"{formatted_date}-{package_name_file}-v{package_version_file}"
+    sample_directory = os.path.join(package_name_directory, package_version_directory)
+    sample_filename = os.path.join(sample_directory, f"{sample_identifier}.zip")
+
+    if os.path.isfile(sample_filename):
       continue
 
+    print(f"Downloading files for {package_name}-v{package_version}")
+    s3_prefix = f'{ecosystem}/{formatted_date}/{package_name}/{package_version}/'
     s3_url = f"s3://{s3_bucket}/{s3_prefix}"
-    print(f"Downloading files for {package_identifier}")
-    command = ['aws', 's3', 'sync', s3_url, local_folder]
-    try:
-      subprocess.run(command, check=True, capture_output=True)
-    except subprocess.CalledProcessError as e:
-      print("Unable to download: " + str(e))
-      print("Command: " + " ".join(command))
-      print(e.stderr)
-      exit(1)
+    with tempfile.TemporaryDirectory() as tempdir:
+      # Download the folder from S3
+      command = ['aws', 's3', 'sync', s3_url, tempdir]
+      try:
+        subprocess.run(command, check=True, capture_output=True)
+      except subprocess.CalledProcessError as e:
+        print("Unable to download: " + str(e))
+        print("Command: " + " ".join(command))
+        print(e.stderr)
+        exit(1)
 
-    # Zip and encrypt the folder
-    # We spawn zip because no way to encrypt with the standard ZipFile library...
-    command = ["zip", "--encrypt", "-r", "-P", "infected", zip_file, local_folder]
-    try:
-      subprocess.run(command, check=True, capture_output=True, cwd=dest)
-    except subprocess.CalledProcessError as e:
-      print("Unable to ZIP: " + str(e))
-      print(e.stderr)
-      exit(1)
-    print("Wrote new ZIP file " + zip_file)
-    shutil.rmtree(local_folder, ignore_errors=True)
+      # Make the directory for the sample zip file
+      Path(sample_directory).mkdir(parents=True, exist_ok=True)
+
+      # We spawn zip because no way to encrypt with the standard ZipFile library...
+      command = ["zip", "--encrypt", "-r", "-P", "infected", sample_filename, tempdir]
+      try:
+        subprocess.run(command, check=True, capture_output=True, cwd=dest)
+      except subprocess.CalledProcessError as e:
+        print("Unable to ZIP: " + str(e))
+        print(e.stderr)
+        exit(1)
+      print("Wrote new ZIP file " + sample_filename)
+
   
 if __name__ == "__main__":
     args = parse_arguments()
