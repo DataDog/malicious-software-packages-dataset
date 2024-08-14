@@ -12,6 +12,9 @@ def generate_manifest(directory: str) -> dict[str, list[str]]:
     def restore_original_name(package_name: str) -> str:
         return package_name[0] + package_name[1:].replace('@', '/')
 
+    def restore_original_version(package_version: str) -> str:
+        return package_version.replace('@', '/')
+
     manifest = {}
 
     package_dirs = filter(lambda d: d.is_dir(), os.scandir(directory))
@@ -21,7 +24,8 @@ def generate_manifest(directory: str) -> dict[str, list[str]]:
 
         version_dirs = filter(lambda d: d.is_dir(), os.scandir(package_dir))
         for version_dir in version_dirs:
-            manifest[package_name].append(version_dir.name)
+            package_version = restore_original_version(version_dir.name)
+            manifest[package_name].append(package_version)
             manifest[package_name].sort(key=version_parse)
 
     return manifest
