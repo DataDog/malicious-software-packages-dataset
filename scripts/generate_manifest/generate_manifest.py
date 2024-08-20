@@ -28,7 +28,7 @@ def generate_manifest(directory: str) -> dict[str, list[str]]:
             manifest[package_name].append(package_version)
             manifest[package_name].sort(key=version_parse)
 
-    return manifest
+    return {package: manifest[package] for package in sorted(manifest)}
 
 
 def cli() -> ArgumentParser:
