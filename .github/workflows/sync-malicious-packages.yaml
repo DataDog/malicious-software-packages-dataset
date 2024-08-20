@@ -3,7 +3,7 @@ name: Synchronize malicious packages
 on:
   workflow_dispatch: {} # allows manual trigger
   schedule:
-  - cron: '0 0 * * *' # every day at midnight UTC
+  - cron: '0 8 * * 1-5' # every weekday at 8 UTC
 
   
 permissions:
