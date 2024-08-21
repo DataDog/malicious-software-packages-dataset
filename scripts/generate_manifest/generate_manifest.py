@@ -60,12 +60,13 @@ def main() -> int:
         args = cli().parse_args()
 
         manifest = generate_manifest(args.directory)
+        manifest_json = json.dumps(manifest, indent=4)
 
         if args.output_file:
             with open(args.output_file, 'w') as f:
-                f.write(json.dumps(manifest))
+                f.write(manifest_json)
         else:
-            print(json.dumps(manifest))
+            print(manifest_json)
 
         return 0
     except Exception as e:
