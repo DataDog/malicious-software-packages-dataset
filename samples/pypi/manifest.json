@@ -110,6 +110,9 @@
     "artifact-lab-3-package-3ccf47e8": [
         "0.1.1"
     ],
+    "artifact-lab-3-package-77d0c154": [
+        "0.1.2"
+    ],
     "artifact-lab-3-package-a18ff5d9": [
         "1.1.5"
     ],
@@ -991,6 +994,9 @@
     ],
     "install-pyyaml": [
         "1.19.12"
+    ],
+    "invokehttp": [
+        "2.5.5"
     ],
     "ironic-secureboot-driver": [
         "31463.0.0"
