@@ -8,6 +8,10 @@
         "3.2.2",
         "3.2.3"
     ],
+    "@google-research/retvecjs": [
+        "100.99.99",
+        "100.999.99"
+    ],
     "@live-backstage/client": [
         "2.2.2"
     ],
@@ -116,7 +120,8 @@
         "1.1.0"
     ],
     "mhnumjp": [
-        "1.999.1"
+        "1.999.1",
+        "1.999.2"
     ],
     "modernliner": [
         "30.0.0"
@@ -214,6 +219,9 @@
     ],
     "trigiated": [
         "9.0.0"
+    ],
+    "videoads-util-capability-detection": [
+        "1.0.3"
     ],
     "winderlingz": [
         "16.0.0"
