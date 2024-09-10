@@ -980,6 +980,9 @@
     "huluquests": [
         "0.0.3"
     ],
+    "hyperreq": [
+        "0.1"
+    ],
     "icedgen": [],
     "imap-utisl": [],
     "importlib-metadate": [
@@ -1002,6 +1005,7 @@
         "1.19.12"
     ],
     "invokehttp": [
+        "2.5.3",
         "2.5.5"
     ],
     "ironic-secureboot-driver": [
@@ -1011,6 +1015,9 @@
         "1.0.4",
         "1.0.5",
         "1.0.6"
+    ],
+    "juphelp": [
+        "0.1.0"
     ],
     "jupyter-calendar-extension": [
         "0.1"
@@ -1477,6 +1484,9 @@
     ],
     "modelize": [
         "1"
+    ],
+    "modernreqs": [
+        "2.3.5"
     ],
     "moneyprinter-api": [
         "0.1.0"
@@ -2995,6 +3005,9 @@
         "2",
         "3"
     ],
+    "testerpackage123": [
+        "0.1"
+    ],
     "testfiwldsd21233s": [
         "0.1"
     ],
@@ -3440,6 +3453,9 @@
     ],
     "useragentclient": [
         "1.0"
+    ],
+    "utilhttp": [
+        "2.3.5"
     ],
     "value2": [],
     "value3": [],

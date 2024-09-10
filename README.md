@@ -4,7 +4,7 @@
   <img src="./image.png" height="400" />
 </p>
 
-This repository is an **open-source dataset of <span id="num-samples">1613</span> malicious software packages** (and counting) identified by Datadog, as part of our security research efforts in software supply-chain 
+This repository is an **open-source dataset of <span id="num-samples">1619</span> malicious software packages** (and counting) identified by Datadog, as part of our security research efforts in software supply-chain 
 security. Most of the malicious packages have been identified by [GuardDog](https://github.com/DataDog/guarddog).
 
 Current ecosystems:
