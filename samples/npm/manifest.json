@@ -39,6 +39,10 @@
     "@mosfe/sso-sdk": [
         "0.0.6"
     ],
+    "@msidentity/authx": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "@pgc-web/web-creation": [
         "2.2.2"
     ],
@@ -47,6 +51,11 @@
     ],
     "avx-web-build": [
         "1000.0.1"
+    ],
+    "azure-iothub-service-client": [
+        "0.0.1",
+        "0.0.2",
+        "1.3.5"
     ],
     "basementio": [
         "16.0.0"
@@ -132,6 +141,10 @@
     ],
     "react-zutils": [
         "1.0.1"
+    ],
+    "roblox-event-tracker": [
+        "99.50.54",
+        "99.50.56"
     ],
     "safebs58.js": [
         "2.3.2"
