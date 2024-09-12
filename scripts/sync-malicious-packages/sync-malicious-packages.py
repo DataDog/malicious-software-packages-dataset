@@ -5,9 +5,10 @@ from pathlib import Path
 import tempfile
 import time
 import subprocess
-import shutil
 
 import boto3
+
+NPM_SECURITY_VERSION = "0.0.1-security"
 
 
 def parse_arguments():
@@ -54,8 +55,10 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
     scan_datetime = datetime.strptime(item['scan_datetime'], '%Y-%m-%d %H:%M:%S.%f')
     formatted_date = scan_datetime.strftime('%Y-%m-%d')
 
-    package_name = item["package_name"].replace("npm|", "")
+    package_name = item["package_name"].removeprefix("npm|")
     package_version = item["package_version"]
+    if package_name != item["package_name"] and package_version == NPM_SECURITY_VERSION:
+      continue
 
     # Sanitize the package name and version for use in a file or directory name
     # `@` is used in place of `/` for the directory versions because it is:

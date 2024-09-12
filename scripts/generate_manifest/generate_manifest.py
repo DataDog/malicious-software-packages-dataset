@@ -5,7 +5,7 @@ import json
 import os
 import sys
 
-from packaging.version import parse as version_parse
+from packaging.version import InvalidVersion, parse as version_parse
 
 
 def generate_manifest(directory: str) -> dict[str, list[str]]:
@@ -26,7 +26,10 @@ def generate_manifest(directory: str) -> dict[str, list[str]]:
         for version_dir in version_dirs:
             package_version = restore_original_version(version_dir.name)
             manifest[package_name].append(package_version)
-            manifest[package_name].sort(key=version_parse)
+            try:
+                manifest[package_name].sort(key=version_parse)
+            except InvalidVersion:
+                manifest[package_name].sort()
 
     return {package: manifest[package] for package in sorted(manifest)}
 
