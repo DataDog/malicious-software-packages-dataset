@@ -234,6 +234,9 @@
     "sap-cd": [
         "0.0.0"
     ],
+    "sketch-crowdin": [
+        "7.7.8"
+    ],
     "strictructor": [
         "10.0.0"
     ],
