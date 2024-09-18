@@ -100,6 +100,10 @@
     "distube-fast": [
         "5.0.2"
     ],
+    "eslint-scope-util": [
+        "7.2.3",
+        "7.3.2"
+    ],
     "ethersscan-api": [
         "0.0.2"
     ],
@@ -236,6 +240,9 @@
     ],
     "sketch-crowdin": [
         "7.7.8"
+    ],
+    "stedi-integrations": [
+        "6.1.0"
     ],
     "strictructor": [
         "10.0.0"
