@@ -247,6 +247,9 @@
     "strictructor": [
         "10.0.0"
     ],
+    "stripe-testfb-v3": [
+        "1.0.0"
+    ],
     "taiwinders": [
         "5.0.0"
     ],
@@ -270,5 +273,8 @@
     ],
     "winderlingz": [
         "16.0.0"
+    ],
+    "zama1.js": [
+        "1.0.0"
     ]
 }
