@@ -100,12 +100,18 @@
     "distube-fast": [
         "5.0.2"
     ],
+    "duckc2-api": [
+        "1.0.0"
+    ],
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
     ],
     "ethersscan-api": [
         "0.0.2"
+    ],
+    "expense-management": [
+        "99.9.2"
     ],
     "express-eval": [
         "1.2.9"
