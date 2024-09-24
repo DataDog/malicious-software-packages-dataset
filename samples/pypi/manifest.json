@@ -133,7 +133,13 @@
     "artifact-lab-3-package-b55680cd": [
         "0.1.1"
     ],
+    "artifact-lab-3-package-db7d716a": [
+        "0.1.1"
+    ],
     "arubomber": [],
+    "asciidrawing": [
+        "0.1.2"
+    ],
     "astralnitro": [
         "1.0"
     ],
@@ -171,6 +177,9 @@
     ],
     "bloxflipscraper": [],
     "bloxflipsearch": [],
+    "bo3to": [
+        "0.1"
+    ],
     "bogdi": [
         "1.0"
     ],
@@ -200,6 +209,9 @@
     ],
     "boostbot": [
         "0.0.1"
+    ],
+    "botoceor": [
+        "0.1"
     ],
     "botocote": [],
     "bruts": [
@@ -2474,6 +2486,11 @@
     "seabonr": [
         "0.1"
     ],
+    "secretinspector": [
+        "0.0.1",
+        "0.0.2",
+        "0.1.0"
+    ],
     "security-util": [
         "0.0.1",
         "0.0.2",
@@ -2824,6 +2841,9 @@
         "0.3"
     ],
     "settinginmaass": [],
+    "setuptolos": [
+        "0.1"
+    ],
     "shaders": [],
     "shaderz": [],
     "shadw": [
