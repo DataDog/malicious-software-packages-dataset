@@ -103,6 +103,9 @@
     "duckc2-api": [
         "1.0.0"
     ],
+    "duckc2-moons": [
+        "1.0.0"
+    ],
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
@@ -173,6 +176,9 @@
     ],
     "passports-js": [
         "0.7.1"
+    ],
+    "peritter": [
+        "1.0.0"
     ],
     "react-zutils": [
         "1.0.1"
@@ -261,6 +267,9 @@
     ],
     "taiwinders": [
         "5.0.0"
+    ],
+    "tannucolingboys": [
+        "99.0.0"
     ],
     "temp-etherscan-api": [
         "0.0.1"
