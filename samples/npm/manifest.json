@@ -183,6 +183,12 @@
     "react-zutils": [
         "1.0.1"
     ],
+    "request-ip-check": [
+        "3.4.4"
+    ],
+    "request-ip-validator": [
+        "3.2.0"
+    ],
     "roblox-event-tracker": [
         "99.50.54",
         "99.50.56"
