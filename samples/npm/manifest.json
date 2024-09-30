@@ -106,6 +106,9 @@
     "duckc2-moons": [
         "1.0.0"
     ],
+    "eslint-config-b2b": [
+        "9.9.4"
+    ],
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
