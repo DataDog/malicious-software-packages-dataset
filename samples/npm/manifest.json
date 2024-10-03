@@ -106,12 +106,18 @@
     "duckc2-moons": [
         "1.0.0"
     ],
+    "ens-austt": [
+        "4.1.2"
+    ],
     "eslint-config-b2b": [
         "9.9.4"
     ],
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
+    ],
+    "eth-austt": [
+        "4.1.2"
     ],
     "ethersscan-api": [
         "0.0.2"
@@ -124,6 +130,9 @@
     ],
     "express-request-ip": [
         "3.4.0"
+    ],
+    "finaustt": [
+        "4.1.2"
     ],
     "flexfone-reseller": [
         "100.0.3",
@@ -156,6 +165,9 @@
     ],
     "img-aws-s3-object-multipart-copy": [
         "0.3.3"
+    ],
+    "js-austt": [
+        "4.1.2"
     ],
     "legacyaws-s3-object-multipart-copy": [
         "0.3.2"
@@ -300,6 +312,9 @@
     ],
     "videoads-util-capability-detection": [
         "1.0.3"
+    ],
+    "web3-austt": [
+        "4.1.2"
     ],
     "winderlingz": [
         "16.0.0"

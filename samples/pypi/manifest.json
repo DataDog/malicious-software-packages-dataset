@@ -144,6 +144,9 @@
         "1.0"
     ],
     "asycn": [],
+    "asyncmodules": [
+        "2.3.5"
+    ],
     "asyncoi": [],
     "auto-scrubber": [
         "0.1"
