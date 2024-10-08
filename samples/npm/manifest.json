@@ -19,6 +19,15 @@
         "100.99.99",
         "100.999.99"
     ],
+    "@linx-ui/admin": [
+        "1.0.0"
+    ],
+    "@linx-ui/payatu": [
+        "99.0.0"
+    ],
+    "@linx-ui/pharmacy": [
+        "4.2.1"
+    ],
     "@live-backstage/client": [
         "2.2.2"
     ],
