@@ -385,6 +385,9 @@
         "0.22"
     ],
     "cosmostroposphere": [],
+    "crustyhttp": [
+        "1.3.5"
+    ],
     "crypto-pygame": [
         "10.14.7"
     ],
