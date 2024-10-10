@@ -381,6 +381,9 @@
     "videoads-util-capability-detection": [
         "1.0.3"
     ],
+    "wagmi-toolkits": [
+        "1.0.5"
+    ],
     "web3-austt": [
         "4.1.2"
     ],
