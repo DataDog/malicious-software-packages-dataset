@@ -1113,6 +1113,9 @@
     "lalaproxy": [
         "1"
     ],
+    "larpexodus": [
+        "0.1"
+    ],
     "ld-impl-linux": [
         "64"
     ],
