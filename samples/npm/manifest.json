@@ -8,6 +8,18 @@
         "3.2.2",
         "3.2.3"
     ],
+    "@cawraytestorg/packagetest2": [
+        "9.9.9"
+    ],
+    "@client-innovation/librct": [
+        "0.100.0"
+    ],
+    "@copilot-web-widgets/ai-writer": [
+        "60.0.0"
+    ],
+    "@copilot-web-widgets/common-core-sdk": [
+        "2.100.0"
+    ],
     "@dp-bpsc-tiktok/ranking": [
         "1.0.0"
     ],
@@ -61,6 +73,12 @@
     ],
     "@pgc-web/web-creation": [
         "2.2.2"
+    ],
+    "@platform-ui-kit/components-library-react": [
+        "9.9.1"
+    ],
+    "@service-and-repairs/awpintegrationlib": [
+        "20.0.0"
     ],
     "@sxmp/detector": [
         "0.100.4"
@@ -243,6 +261,9 @@
         "1.0.1",
         "1.0.16"
     ],
+    "odistube": [
+        "5.0.5"
+    ],
     "passports-js": [
         "0.7.0",
         "0.7.1"
@@ -262,6 +283,9 @@
     ],
     "react-zutils": [
         "1.0.1"
+    ],
+    "relay-github-root": [
+        "100.0.2"
     ],
     "request-ip-check": [
         "3.4.4"

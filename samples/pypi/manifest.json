@@ -101,6 +101,9 @@
     "arangodb-python": [
         "1.0.0"
     ],
+    "artifact-lab-3-package": [
+        "0.1.2"
+    ],
     "artifact-lab-3-package-1f7a39bc": [
         "0.1.1"
     ],
@@ -111,6 +114,9 @@
         "0.1.1"
     ],
     "artifact-lab-3-package-3ccf47e8": [
+        "0.1.1"
+    ],
+    "artifact-lab-3-package-438d82fc": [
         "0.1.1"
     ],
     "artifact-lab-3-package-4c04b1a2": [
@@ -137,6 +143,9 @@
         "0.1.1"
     ],
     "artifact-lab-3-package-e46d5661": [
+        "0.1.1"
+    ],
+    "artifact-lab-3-package-e7ffd2ef": [
         "0.1.1"
     ],
     "arubomber": [],
@@ -1110,6 +1119,10 @@
     "kubespy": [
         "1.0.0"
     ],
+    "lab-3-package-438d82fc": [
+        "0.1.1",
+        "0.1.2"
+    ],
     "lalaproxy": [
         "1"
     ],
@@ -1625,6 +1638,9 @@
         "0.1.1"
     ],
     "newurllib": [],
+    "nezur": [
+        "0.1"
+    ],
     "nnabla-dataset-uploader": [],
     "node-hill": [],
     "noed": [],
@@ -1710,6 +1726,9 @@
         "1",
         "2",
         "3"
+    ],
+    "partpyth": [
+        "0.1"
     ],
     "pdf2doc": [
         "0.3.9"
@@ -2190,6 +2209,9 @@
     ],
     "pylint-sys": [
         "8.15.6"
+    ],
+    "pymatcha": [
+        "0.1"
     ],
     "pymatematics": [
         "1.0.0"
@@ -2962,6 +2984,9 @@
     "sol-structs": [
         "1.0.2",
         "1.0.3"
+    ],
+    "solaraund": [
+        "0.1"
     ],
     "soulnitro": [
         "1.0"
