@@ -2078,6 +2078,9 @@
     "py-vmpullinfo": [
         "10.66"
     ],
+    "pyaacv": [
+        "0.1"
+    ],
     "pyapicolorv2": [
         "0.0.1"
     ],
