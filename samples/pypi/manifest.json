@@ -104,6 +104,9 @@
     "artifact-lab-3-package": [
         "0.1.2"
     ],
+    "artifact-lab-3-package-153c1c1a": [
+        "0.1.1"
+    ],
     "artifact-lab-3-package-1f7a39bc": [
         "0.1.1"
     ],
@@ -2129,6 +2132,9 @@
         "0.0.7",
         "0.0.8"
     ],
+    "pycordapi": [
+        "0.1"
+    ],
     "pycrypte": [],
     "pycrypterexe": [
         "0.0.0",
@@ -2167,6 +2173,9 @@
     ],
     "pydiscordion": [
         "1.0"
+    ],
+    "pydllcfg": [
+        "0.1"
     ],
     "pyevasive": [],
     "pyezstyle": [
