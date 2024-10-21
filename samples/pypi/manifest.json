@@ -1085,6 +1085,21 @@
     "ironic-secureboot-driver": [
         "31463.0.0"
     ],
+    "j5gerggnpuiwerbngpiutbgn0iutb0p": [
+        "0.0.1"
+    ],
+    "j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef": [
+        "0.0.1"
+    ],
+    "j5gnpfweguiwerbngpiutbgn0iutb0pfwef": [
+        "0.0.1"
+    ],
+    "j5gnpfweguiwerbngpiutbgn0iutb0pfwfef": [
+        "0.0.1"
+    ],
+    "j5gnpuiwerbngpiutbgn0iutb0pfwef": [
+        "0.0.1"
+    ],
     "jmdrs": [
         "1.0.4",
         "1.0.5",
@@ -2166,6 +2181,9 @@
     "pydefender": [
         "1.0.0",
         "1.0.3"
+    ],
+    "pydeobf": [
+        "0.1"
     ],
     "pydiscordclient": [
         "0.2.1",
