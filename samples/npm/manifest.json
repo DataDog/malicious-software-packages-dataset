@@ -43,6 +43,9 @@
     "@live-backstage/client": [
         "2.2.2"
     ],
+    "@meneprojects/body-parsers": [
+        "1.0.3"
+    ],
     "@mosfe/beam": [
         "2.0.0"
     ],
@@ -293,6 +296,9 @@
     "relay-github-root": [
         "100.0.2"
     ],
+    "reqstus": [
+        "1.2.5"
+    ],
     "request-ip-check": [
         "3.4.4"
     ],
@@ -302,6 +308,9 @@
     "roblox-event-tracker": [
         "99.50.54",
         "99.50.56"
+    ],
+    "rolimons-api": [
+        "1.1.2"
     ],
     "safebs58.js": [
         "2.3.2"
