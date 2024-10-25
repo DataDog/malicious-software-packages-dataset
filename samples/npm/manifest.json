@@ -261,6 +261,9 @@
     "modernliner": [
         "30.0.0"
     ],
+    "node-dlls": [
+        "1.0.0"
+    ],
     "node-request-ip": [
         "3.4.3"
     ],
