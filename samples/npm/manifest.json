@@ -96,6 +96,11 @@
     "airwallex-platform-onboarding-sdk-demo-react": [
         "1.0.0"
     ],
+    "arangodb": [
+        "1.0.3",
+        "1.0.8",
+        "1.1.3"
+    ],
     "avx-web-build": [
         "1000.0.1"
     ],
@@ -122,6 +127,12 @@
     ],
     "blockscan-api": [
         "1.3.1"
+    ],
+    "bloxbootstrap": [
+        "1.0.0"
+    ],
+    "bloxupgrade": [
+        "1.0.0"
     ],
     "boostrapsio": [
         "4.0.0"
@@ -316,6 +327,12 @@
         "99.50.54",
         "99.50.56"
     ],
+    "roblox.dll": [
+        "1.0.0"
+    ],
+    "robloxbootstrapper": [
+        "1.0.0"
+    ],
     "rolimons-api": [
         "1.1.2"
     ],
@@ -388,6 +405,9 @@
     "sketch-crowdin": [
         "7.7.8"
     ],
+    "solaraupdater": [
+        "1.0.0"
+    ],
     "stedi-integrations": [
         "6.1.0"
     ],
@@ -414,6 +434,9 @@
         "3.2.1",
         "3.2.2",
         "3.2.3"
+    ],
+    "testinbro": [
+        "1.0.0"
     ],
     "transitive-vulnerability-demo": [
         "1.0.2"
