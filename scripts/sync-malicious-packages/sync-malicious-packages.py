@@ -5,8 +5,13 @@ from pathlib import Path
 import tempfile
 import time
 import subprocess
+import boto3.dynamodb.types
+import decimal
 
 import boto3
+
+boto3.dynamodb.types.DYNAMODB_CONTEXT = decimal.Context(prec=100)
+
 
 NPM_SECURITY_VERSION = "0.0.1-security"
 
@@ -21,7 +26,7 @@ def parse_arguments():
     args = parser.parse_args()
     return args
 
-  
+
 def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bucket):
   table = boto3.resource('dynamodb').Table(dynamodb_table)
 
@@ -103,7 +108,7 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
         exit(1)
       print("Wrote new ZIP file " + sample_filename)
 
-  
+
 if __name__ == "__main__":
     args = parse_arguments()
     query_and_download_items(args.ecosystem, args.since, args.destination, args.dynamodb_table, args.s3_bucket)
