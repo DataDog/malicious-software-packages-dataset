@@ -1028,6 +1028,10 @@
     "henter": [
         "1.0.0"
     ],
+    "hmac2": [
+        "0.0.2rc0",
+        "0.0.2"
+    ],
     "http3-client": [
         "1.0.0",
         "1.0.0.1",
@@ -1691,6 +1695,10 @@
     "oe-extract-ids": [
         "1.5.0",
         "1.5.1"
+    ],
+    "oe-extract-idss": [
+        "1.5.2",
+        "1.5.3"
     ],
     "only-a-test": [
         "0.1.1"
@@ -3771,6 +3779,10 @@
     "yohewoasaw": [],
     "youhans": [
         "1.0.0"
+    ],
+    "youreallydontwantthispackage2131": [
+        "1",
+        "1.0.1"
     ],
     "zelixnitro": [
         "1.0"
