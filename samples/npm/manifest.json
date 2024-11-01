@@ -11,6 +11,9 @@
     "@cawraytestorg/packagetest2": [
         "9.9.9"
     ],
+    "@cb-global-design-system-tokens/tailwind": [
+        "1.0.21"
+    ],
     "@client-innovation/librct": [
         "0.100.0"
     ],
@@ -96,6 +99,9 @@
     "airwallex-platform-onboarding-sdk-demo-react": [
         "1.0.0"
     ],
+    "ansem-wasm": [
+        "10.0.1"
+    ],
     "arangodb": [
         "1.0.3",
         "1.0.8",
@@ -152,6 +158,12 @@
     "celtra-auto-exporter": [
         "1.0.1"
     ],
+    "client-req-bans": [
+        "3.3.2"
+    ],
+    "client-req-scopes": [
+        "3.4.3"
+    ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
@@ -189,6 +201,9 @@
     "duckc2-v5.5.5": [
         "5.5.5"
     ],
+    "easy-upgrade": [
+        "1.0.1"
+    ],
     "ens-austt": [
         "4.1.2"
     ],
@@ -221,6 +236,9 @@
         "100.0.3",
         "100.0.4",
         "100.0.5"
+    ],
+    "getsolara": [
+        "1.0.1"
     ],
     "hardhat-cookie": [
         "3.8.9"
@@ -274,6 +292,9 @@
     "lol1234": [
         "1.1.0"
     ],
+    "ltval": [
+        "2.3.10"
+    ],
     "meditek": [
         "1.0.2"
     ],
@@ -303,9 +324,13 @@
     "npj4": [
         "1.0.1",
         "1.0.16",
-        "1.0.39"
+        "1.0.39",
+        "1.0.52"
     ],
     "odistube": [
+        "5.0.5"
+    ],
+    "opdistube": [
         "5.0.5"
     ],
     "passports-js": [
@@ -319,6 +344,9 @@
     "pring-payment-demo-backend": [
         "299.2.1",
         "299.12.1"
+    ],
+    "prismjs-editor-v1": [
+        "1.0.0"
     ],
     "pumptoolforvolumeandcomment": [
         "1.5.1"
