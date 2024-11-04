@@ -131,6 +131,12 @@
     "bcrypts-js": [
         "2.4.4"
     ],
+    "bignum.js": [
+        "9.1.2"
+    ],
+    "bigumner-js": [
+        "9.1.2"
+    ],
     "blockscan-api": [
         "1.3.1"
     ],
@@ -173,6 +179,9 @@
     ],
     "cx-web-themes": [
         "200.0.0"
+    ],
+    "daun124wdsa8": [
+        "23.6.1"
     ],
     "dialog-holder": [
         "1.0.1"
@@ -217,8 +226,80 @@
     "eth-austt": [
         "4.1.2"
     ],
+    "eth-err": [
+        "4.0.3"
+    ],
+    "eth-errors": [
+        "4.0.3"
+    ],
+    "eth-gas-report": [
+        "0.2.27"
+    ],
+    "eth-gasreportr": [
+        "0.2.27"
+    ],
+    "eth-keycontroler": [
+        "9.0.0"
+    ],
+    "eth-keyringcontrler": [
+        "9.0.0"
+    ],
+    "eth-namehash": [
+        "2.0.8"
+    ],
+    "eth-rperrors": [
+        "4.0.3"
+    ],
+    "eth-tracker": [
+        "8.1.0"
+    ],
+    "ethblk-tracker": [
+        "8.1.0"
+    ],
+    "ethblock-trackr": [
+        "8.1.0"
+    ],
+    "ether-js-tx": [
+        "2.1.2"
+    ],
+    "ether-multcal": [
+        "0.2.3"
+    ],
+    "ethereumjsutility": [
+        "7.1.5"
+    ],
+    "etherjs-util": [
+        "7.1.5"
+    ],
+    "ethers-multcall": [
+        "0.2.3"
+    ],
+    "ethers-multicaal": [
+        "0.2.3"
+    ],
+    "etherscaan-api": [
+        "10.3.0"
+    ],
+    "etherscn-api": [
+        "10.3.0"
+    ],
+    "etherscna-api": [
+        "10.3.0"
+    ],
     "ethersscan-api": [
         "0.0.2"
+    ],
+    "ethgass-reporter": [
+        "0.2.27"
+    ],
+    "ethkr-controler": [
+        "9.0.0"
+    ],
+    "ethrereum-js-tx": [
+        "2.1.2"
+    ],
+    "ethsg-util": [
+        "3.0.1"
     ],
     "expense-management": [
         "99.9.2"
@@ -237,11 +318,20 @@
         "100.0.4",
         "100.0.5"
     ],
+    "ganach-cli": [
+        "6.12.2"
+    ],
     "getsolara": [
         "1.0.1"
     ],
+    "gnache-cli": [
+        "6.12.2"
+    ],
     "hardhat-cookie": [
         "3.8.9"
+    ],
+    "hardhatjs": [
+        "2.22.15"
     ],
     "harthat-api": [
         "1.3.1"
@@ -273,6 +363,9 @@
     "js-austt": [
         "4.1.2"
     ],
+    "keyring-controller": [
+        "9.0.0"
+    ],
     "labelv2": [
         "1.0.0",
         "1.1.0"
@@ -293,7 +386,12 @@
         "1.1.0"
     ],
     "ltval": [
-        "2.3.10"
+        "2.3.10",
+        "2.3.18",
+        "2.3.25",
+        "2.3.32",
+        "2.3.48",
+        "2.3.49"
     ],
     "meditek": [
         "1.0.2"
@@ -350,6 +448,123 @@
     ],
     "pumptoolforvolumeandcomment": [
         "1.5.1"
+    ],
+    "pupeteeerproxy": [
+        "1.0.3"
+    ],
+    "pupeteer-autoscroll-down": [
+        "2.0.0"
+    ],
+    "pupeteer-capture": [
+        "1.1.1"
+    ],
+    "pupeteer-cli": [
+        "1.5.1"
+    ],
+    "pupeteer-cluster": [
+        "0.24.0"
+    ],
+    "pupeteer-extra-plugin-adblocker": [
+        "2.13.6"
+    ],
+    "pupeteer-firefox": [
+        "0.5.1"
+    ],
+    "pupeteer-har": [
+        "1.1.2"
+    ],
+    "pupeteer-page-proxy": [
+        "1.3.0"
+    ],
+    "pupeteer-proxy": [
+        "1.0.3"
+    ],
+    "pupeteer-record": [
+        "1.0.7"
+    ],
+    "pupeteer-recorder": [
+        "1.0.7"
+    ],
+    "pupeteer-screen-recorder": [
+        "3.0.6"
+    ],
+    "pupeteer-web": [
+        "0.0.3"
+    ],
+    "pupeteerextra": [
+        "3.3.6"
+    ],
+    "pupeteerreqintercepter": [
+        "3.0.1"
+    ],
+    "pupeteerscreenrecordr": [
+        "3.0.6"
+    ],
+    "pupeter": [
+        "23.6.1"
+    ],
+    "pupetier": [
+        "23.6.1"
+    ],
+    "puppeteer-autoscroll": [
+        "2.0.0"
+    ],
+    "puppeteer-captre": [
+        "1.1.1"
+    ],
+    "puppeteer-extra-plugin-adblokcer": [
+        "2.13.6"
+    ],
+    "puppeteer-extra-stealth": [
+        "2.11.2"
+    ],
+    "puppeteer-firfox": [
+        "0.5.1"
+    ],
+    "puppeteer-harr": [
+        "1.1.2"
+    ],
+    "puppeteer-html2pd": [
+        "1.0.0"
+    ],
+    "puppeteer-req-interceptor": [
+        "3.0.1"
+    ],
+    "puppeteer-screencorder": [
+        "3.0.6"
+    ],
+    "puppeteercaptur": [
+        "1.1.1"
+    ],
+    "puppeteercluser": [
+        "0.24.0"
+    ],
+    "puppeteerextraadblocker": [
+        "2.13.6"
+    ],
+    "puppeteerfox": [
+        "0.5.1"
+    ],
+    "puppeteerpluginstealth": [
+        "2.11.2"
+    ],
+    "puppeteerrecordr": [
+        "1.0.7"
+    ],
+    "puppeteerrequestinterceptor": [
+        "3.0.1"
+    ],
+    "puppeteerscroll-down": [
+        "2.0.0"
+    ],
+    "puppeteerwweb": [
+        "0.0.3"
+    ],
+    "puppeterfirefox": [
+        "0.5.1"
+    ],
+    "puppetewebr": [
+        "0.0.3"
     ],
     "randompackage-notreal": [
         "1.0.2"
@@ -463,6 +678,27 @@
     "solaraupdater": [
         "1.0.0"
     ],
+    "soliddty-coverage": [
+        "0.8.13"
+    ],
+    "solidity-covrage": [
+        "0.8.13"
+    ],
+    "soliditycoverag": [
+        "0.8.13"
+    ],
+    "solidty-coveage": [
+        "0.8.13"
+    ],
+    "soliidty": [
+        "0.0.1"
+    ],
+    "solitdy": [
+        "0.0.1"
+    ],
+    "solity": [
+        "0.0.1"
+    ],
     "stedi-integrations": [
         "6.1.0"
     ],
@@ -499,6 +735,9 @@
     "trigiated": [
         "9.0.0"
     ],
+    "trufel": [
+        "5.11.5"
+    ],
     "unguess-react": [
         "1.5.0"
     ],
@@ -508,8 +747,68 @@
     "wagmi-toolkits": [
         "1.0.5"
     ],
+    "wb-eth3": [
+        "4.10.0"
+    ],
+    "wb3-eth": [
+        "4.10.0"
+    ],
+    "wb3-provider": [
+        "1.0.0-beta.55"
+    ],
+    "wb3-tokn": [
+        "1.0.6"
+    ],
+    "wb3cor": [
+        "4.7.0"
+    ],
+    "web-bz": [
+        "1.10.3"
+    ],
+    "web-bzz": [
+        "1.10.3"
+    ],
+    "web-eth": [
+        "4.10.0"
+    ],
+    "web-eth-abi": [
+        "4.3.0"
+    ],
+    "web-providers": [
+        "1.0.0-beta.55"
+    ],
     "web3-austt": [
         "4.1.2"
+    ],
+    "web3-provdr": [
+        "1.0.0-beta.55"
+    ],
+    "web3-toekn": [
+        "1.0.6"
+    ],
+    "web3bz": [
+        "1.10.3"
+    ],
+    "web3e-iban": [
+        "4.0.7"
+    ],
+    "web3ethabii": [
+        "4.3.0"
+    ],
+    "web3ibaan": [
+        "4.0.7"
+    ],
+    "web3ibn": [
+        "4.0.7"
+    ],
+    "web3tokn": [
+        "1.0.6"
+    ],
+    "web3util": [
+        "4.3.2"
+    ],
+    "webb3-bzz": [
+        "1.10.3"
     ],
     "winderlingz": [
         "16.0.0"
@@ -517,6 +816,12 @@
     "wpdesigndev.wp.agoda.com": [
         "100.0.5",
         "108.0.0"
+    ],
+    "zalf22ausi8": [
+        "23.6.1"
+    ],
+    "zalfausi8": [
+        "23.6.1"
     ],
     "zama1.js": [
         "1.0.0"
