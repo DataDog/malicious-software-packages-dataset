@@ -23,6 +23,21 @@
     "@copilot-web-widgets/common-core-sdk": [
         "2.100.0"
     ],
+    "@douinfe/create-semi-d2c-plugin": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-adimation": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-animation-react": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-animation-styled": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-d2c-typings": [
+        "9.3.5"
+    ],
     "@dp-bpsc-tiktok/ranking": [
         "1.0.0"
     ],
@@ -99,6 +114,9 @@
     "airwallex-platform-onboarding-sdk-demo-react": [
         "1.0.0"
     ],
+    "another-query-parser": [
+        "8.3.5"
+    ],
     "ansem-wasm": [
         "10.0.1"
     ],
@@ -173,6 +191,9 @@
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
+    ],
+    "create-semi-d2c-plugin": [
+        "9.3.5"
     ],
     "custom-ui-extension-template": [
         "1.0.1"
@@ -325,6 +346,7 @@
         "6.12.2"
     ],
     "getsolara": [
+        "1.0.0",
         "1.0.1"
     ],
     "gnache-cli": [
@@ -358,6 +380,9 @@
         "1.0.2"
     ],
     "houdini_test_pack_1": [
+        "1.0.0"
+    ],
+    "hwidrefresh": [
         "1.0.0"
     ],
     "img-aws-s3-object-multipart-copy": [
@@ -433,6 +458,9 @@
     ],
     "opdistube": [
         "5.0.5"
+    ],
+    "oss-feature-flags": [
+        "7.7.7"
     ],
     "passports-js": [
         "0.7.0",
@@ -674,6 +702,18 @@
     ],
     "sap-cd": [
         "0.0.0"
+    ],
+    "semi-adimation": [
+        "9.3.5"
+    ],
+    "semi-animation-react": [
+        "9.3.5"
+    ],
+    "semi-animation-styled": [
+        "9.3.5"
+    ],
+    "semi-d2c-typings": [
+        "9.3.5"
     ],
     "sketch-crowdin": [
         "7.7.8"

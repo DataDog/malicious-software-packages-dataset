@@ -160,6 +160,10 @@
     "asciidrawing": [
         "0.1.2"
     ],
+    "aslmutetion": [
+        "98.7",
+        "99.7"
+    ],
     "assaulthimars": [
         "1.3.5"
     ],
@@ -182,6 +186,12 @@
     ],
     "axelo": [],
     "azure-sdk-tools": [],
+    "babetmf": [
+        "99.7"
+    ],
+    "baibitmf": [
+        "99.7"
+    ],
     "beautifulsoup-numpy": [
         "10.13.10"
     ],
@@ -193,6 +203,9 @@
     ],
     "beautifulsup4": [
         "0.1"
+    ],
+    "bebitmf": [
+        "99.7"
     ],
     "bettercolor": [
         "3"
@@ -309,6 +322,25 @@
         "0.10.2",
         "0.10.3",
         "0.10.4"
+    ],
+    "bytekafka": [
+        "98.7",
+        "99.7"
+    ],
+    "bytekafka-0-0-15": [
+        "98.7"
+    ],
+    "bytekafka-0-15": [
+        "98.7"
+    ],
+    "bytesap": [
+        "99.7"
+    ],
+    "byteseep": [
+        "99.7"
+    ],
+    "bytesip": [
+        "99.7"
     ],
     "calculator-2c397c49ab20c445": [],
     "calendar-extender": [
@@ -1497,6 +1529,18 @@
         "9.72"
     ],
     "lightgmb": [],
+    "lightseeq": [
+        "98.7",
+        "99.7"
+    ],
+    "lightseqe": [
+        "98.7",
+        "99.7"
+    ],
+    "lightsequ": [
+        "98.7",
+        "99.7"
+    ],
     "ligitgays": [
         "1.0"
     ],
@@ -1660,6 +1704,9 @@
     "neftron": [
         "1.0"
     ],
+    "nerst": [
+        "99.7"
+    ],
     "networkx-match": [
         "0.1.0",
         "0.1.1"
@@ -1684,9 +1731,18 @@
     "nt4padyp3": [
         "0.0.2"
     ],
+    "nuerst": [
+        "99.7"
+    ],
+    "nuest": [
+        "99.7"
+    ],
     "numoy": [],
     "numpy-selenium": [
         "5.20.19"
+    ],
+    "nurst": [
+        "99.7"
     ],
     "oaijwdoijwaoj": [],
     "oauth20-api": [
@@ -3643,6 +3699,12 @@
     "utilhttp": [
         "2.3.5"
     ],
+    "v2mlx-gml": [
+        "99.7"
+    ],
+    "v2xlm-gml": [
+        "99.7"
+    ],
     "value2": [],
     "value3": [],
     "vermillion": [
@@ -3697,6 +3759,9 @@
     ],
     "wxpayproto": [
         "1.3.1"
+    ],
+    "x2vml-gml": [
+        "99.7"
     ],
     "xboxkeyauth": [
         "1.0"
