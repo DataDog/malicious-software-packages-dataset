@@ -17,6 +17,9 @@
     "@client-innovation/librct": [
         "0.100.0"
     ],
+    "@common-pattern/components": [
+        "8.2.9"
+    ],
     "@copilot-web-widgets/ai-writer": [
         "60.0.0"
     ],
@@ -36,6 +39,21 @@
         "9.3.5"
     ],
     "@douinfe/semi-d2c-typings": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-foundation": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-icons": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-illustrations": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-theme-default": [
+        "9.3.5"
+    ],
+    "@douinfe/semi-ui": [
         "9.3.5"
     ],
     "@dp-bpsc-tiktok/ranking": [
@@ -182,11 +200,20 @@
     "celtra-auto-exporter": [
         "1.0.1"
     ],
+    "chameleon-sdk-android": [
+        "9.3.5"
+    ],
     "client-req-bans": [
         "3.3.2"
     ],
     "client-req-scopes": [
         "3.4.3"
+    ],
+    "cml-cloudbase": [
+        "9.3.5"
+    ],
+    "cml-tt-sets": [
+        "9.3.5"
     ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
@@ -447,6 +474,10 @@
         "1.0.0",
         "1.0.1"
     ],
+    "nodepaysafesdk": [
+        "1.0.6",
+        "1.1.1"
+    ],
     "npj4": [
         "1.0.1",
         "1.0.16",
@@ -460,7 +491,8 @@
         "5.0.5"
     ],
     "oss-feature-flags": [
-        "7.7.7"
+        "7.7.7",
+        "7.7.8"
     ],
     "passports-js": [
         "0.7.0",
@@ -712,7 +744,13 @@
     "semi-animation-styled": [
         "9.3.5"
     ],
+    "semi-d2c": [
+        "9.3.5"
+    ],
     "semi-d2c-typings": [
+        "9.3.5"
+    ],
+    "semi-design": [
         "9.3.5"
     ],
     "sketch-crowdin": [
@@ -747,6 +785,12 @@
     ],
     "strictructor": [
         "10.0.0"
+    ],
+    "string-easy-assistant": [
+        "1.0.0"
+    ],
+    "string-utils-assistant": [
+        "1.0.0"
     ],
     "stripe-testfb-v3": [
         "1.0.0"
@@ -786,6 +830,9 @@
     ],
     "videoads-util-capability-detection": [
         "1.0.3"
+    ],
+    "vue-cli-plugin-changelog": [
+        "1.1.9"
     ],
     "wagmi-toolkits": [
         "1.0.5"
