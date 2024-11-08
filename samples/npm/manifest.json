@@ -27,7 +27,8 @@
         "2.100.0"
     ],
     "@douinfe/create-semi-d2c-plugin": [
-        "9.3.5"
+        "9.3.5",
+        "89.3.5"
     ],
     "@douinfe/semi-adimation": [
         "9.3.5"
@@ -67,6 +68,15 @@
         "100.99.99",
         "100.999.99"
     ],
+    "@isfe-common/image-minimizer": [
+        "9.1.30"
+    ],
+    "@isfe-common/testing-constants": [
+        "9.2.9"
+    ],
+    "@isfe-common/testing-utils": [
+        "9.5.9"
+    ],
     "@linx-ui/admin": [
         "1.0.0"
     ],
@@ -78,6 +88,12 @@
     ],
     "@live-backstage/client": [
         "2.2.2"
+    ],
+    "@maps-bc/i18n": [
+        "1.0.0"
+    ],
+    "@maps-bc/runtime": [
+        "1.0.0"
     ],
     "@meneprojects/body-parsers": [
         "1.0.3"
@@ -129,6 +145,18 @@
     "@the-df-company/commod": [
         "1.0.0"
     ],
+    "@umreg/zxcvbn": [
+        "10.10.12"
+    ],
+    "acp-docs": [
+        "6.1.3"
+    ],
+    "acribus-core": [
+        "6.1.3"
+    ],
+    "admin-upload-common": [
+        "6.1.3"
+    ],
     "airwallex-platform-onboarding-sdk-demo-react": [
         "1.0.0"
     ],
@@ -138,6 +166,27 @@
     "ansem-wasm": [
         "10.0.1"
     ],
+    "apa-components": [
+        "6.1.3"
+    ],
+    "apc-admin-utils": [
+        "6.1.3"
+    ],
+    "apc-official-icon": [
+        "6.1.3"
+    ],
+    "apc-protobuf": [
+        "6.1.3"
+    ],
+    "apc-publish": [
+        "6.1.3"
+    ],
+    "api-cache-worker": [
+        "6.1.3"
+    ],
+    "app-webbridge": [
+        "6.1.3"
+    ],
     "arangodb": [
         "1.0.3",
         "1.0.8",
@@ -146,10 +195,25 @@
     "avx-web-build": [
         "1000.0.1"
     ],
+    "axios-older": [
+        "9.2.5"
+    ],
     "azure-iothub-service-client": [
         "0.0.1",
         "0.0.2",
         "1.3.5"
+    ],
+    "babel-plugin-error-context": [
+        "9.2.9"
+    ],
+    "babel-plugin-istanbul-shopee": [
+        "9.2.5"
+    ],
+    "babel-plugin-method-version": [
+        "5.3.5"
+    ],
+    "babel-plugin-transform-vuex-analysis": [
+        "5.3.5"
     ],
     "basecontext": [
         "80.9.555",
@@ -194,6 +258,9 @@
     "cargo-hub-ui-api-internal": [
         "420.6.10"
     ],
+    "case-dispute-common": [
+        "5.3.5"
+    ],
     "cdntodister": [
         "20.0.0"
     ],
@@ -202,6 +269,12 @@
     ],
     "chameleon-sdk-android": [
         "9.3.5"
+    ],
+    "chargetrip": [
+        "1.0.1"
+    ],
+    "chat-history-log-viewer": [
+        "5.3.5"
     ],
     "client-req-bans": [
         "3.3.2"
@@ -215,12 +288,45 @@
     "cml-tt-sets": [
         "9.3.5"
     ],
+    "code-analysis-shopee-ui-for-scf": [
+        "5.3.5"
+    ],
+    "code-analysis-ts-for-sellercenter": [
+        "5.3.5"
+    ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
     ],
+    "commitlint-config-jira-type-infra": [
+        "5.3.5"
+    ],
+    "commitlint-config-marketing": [
+        "5.3.5"
+    ],
+    "commitlint-plugin-jira-type-rules": [
+        "10.3.3"
+    ],
+    "commitlint-plugin-marketing-rules": [
+        "7.2.3"
+    ],
+    "commitlint-plugin-rules-an": [
+        "7.2.3"
+    ],
+    "config-sdk-nodejs": [
+        "7.2.3"
+    ],
     "create-semi-d2c-plugin": [
         "9.3.5"
+    ],
+    "cs-base-component": [
+        "7.2.3"
+    ],
+    "cs-deploy-helper": [
+        "7.2.3"
+    ],
+    "cs-shared-component-tools": [
+        "7.2.3"
     ],
     "custom-ui-extension-template": [
         "1.0.1"
@@ -230,6 +336,12 @@
     ],
     "daun124wdsa8": [
         "23.6.1"
+    ],
+    "debugr1": [
+        "3.1.1"
+    ],
+    "dep-validator-cli": [
+        "7.2.3"
     ],
     "dialog-holder": [
         "1.0.1"
@@ -249,6 +361,9 @@
     "dragonhack-workshop": [
         "1.0.1"
     ],
+    "dre-example": [
+        "7.2.3"
+    ],
     "duckc2-api": [
         "1.0.0"
     ],
@@ -258,8 +373,26 @@
     "duckc2-v5.5.5": [
         "5.5.5"
     ],
+    "e39test": [
+        "1.0.0"
+    ],
+    "e39testing": [
+        "1.0.0"
+    ],
+    "eager-blog": [
+        "7.2.3"
+    ],
+    "easy-transify": [
+        "7.2.3"
+    ],
     "easy-upgrade": [
         "1.0.1"
+    ],
+    "eds-charts": [
+        "5.4.3"
+    ],
+    "eds-charts-react": [
+        "5.4.3"
     ],
     "ens-austt": [
         "4.1.2"
@@ -421,6 +554,12 @@
     "keyring-controller": [
         "9.0.0"
     ],
+    "kraken-wallet-cryptoicons": [
+        "9.2.8"
+    ],
+    "kraken-wallet-network-icons": [
+        "9.1.8"
+    ],
     "labelv2": [
         "1.0.0",
         "1.1.0"
@@ -476,7 +615,8 @@
     ],
     "nodepaysafesdk": [
         "1.0.6",
-        "1.1.1"
+        "1.1.1",
+        "1.1.5"
     ],
     "npj4": [
         "1.0.1",
@@ -490,6 +630,9 @@
     "opdistube": [
         "5.0.5"
     ],
+    "osm-legal-speed": [
+        "1.0.1"
+    ],
     "oss-feature-flags": [
         "7.7.7",
         "7.7.8"
@@ -501,6 +644,9 @@
     "peritter": [
         "1.0.0",
         "1.1.0"
+    ],
+    "permissionscaling": [
+        "1.0.0"
     ],
     "pring-payment-demo-backend": [
         "299.2.1",
@@ -666,6 +812,9 @@
     "robloxbootstrapper": [
         "1.0.0"
     ],
+    "robloxmatcher": [
+        "1.0.0"
+    ],
     "rolimons-api": [
         "1.1.2"
     ],
@@ -801,6 +950,9 @@
     "tannucolingboys": [
         "99.0.0"
     ],
+    "team-plain": [
+        "1.0.1"
+    ],
     "temp-etherscan-api": [
         "0.0.1"
     ],
@@ -824,6 +976,12 @@
     ],
     "trufel": [
         "5.11.5"
+    ],
+    "typedoc-gen": [
+        "10.10.10"
+    ],
+    "ui-common-components-angular": [
+        "3.3.1"
     ],
     "unguess-react": [
         "1.5.0"

@@ -195,6 +195,9 @@
     "baibitmf": [
         "99.7"
     ],
+    "batchran": [
+        "912.6"
+    ],
     "beautifulsoup-numpy": [
         "10.13.10"
     ],
@@ -283,6 +286,12 @@
     "byted-rtc-robot-api-v2": [
         "0.0.45.15"
     ],
+    "bytedplus": [
+        "99.7"
+    ],
+    "bytedplus-rec": [
+        "99.7"
+    ],
     "bytedps": [
         "99.7"
     ],
@@ -342,7 +351,16 @@
     "bytekafka0-0-15": [
         "99.7"
     ],
+    "bytemlperf": [
+        "912.6"
+    ],
     "bytep": [
+        "99.7"
+    ],
+    "bytepilot": [
+        "99.7"
+    ],
+    "bytepilot-0-0-15": [
         "99.7"
     ],
     "bytesap": [
@@ -452,6 +470,9 @@
     "crustyhttp": [
         "1.3.5"
     ],
+    "cryostar": [
+        "912.6"
+    ],
     "crypto-pygame": [
         "10.14.7"
     ],
@@ -504,6 +525,9 @@
     ],
     "dbt-byteshouse": [
         "99.7"
+    ],
+    "decompopt": [
+        "912.6"
     ],
     "deeprce": [
         "0.0.1"
@@ -597,6 +621,9 @@
     "dumers": [
         "1.0"
     ],
+    "e3po": [
+        "912.6"
+    ],
     "easygetflag": [
         "1.5"
     ],
@@ -609,6 +636,9 @@
     ],
     "embeddings-validation": [
         "99.9.9"
+    ],
+    "emumonitor": [
+        "912.6"
     ],
     "esqcandyosintcandy": [
         "1.61"
@@ -1087,6 +1117,9 @@
     "henter": [
         "1.0.0"
     ],
+    "hllm": [
+        "912.6"
+    ],
     "hmac2": [
         "0.0.2rc0",
         "0.0.2"
@@ -1127,6 +1160,9 @@
     "hugebbc": [],
     "huluquests": [
         "0.0.3"
+    ],
+    "hybrid-sd": [
+        "912.6"
     ],
     "hyperreq": [
         "0.1"
@@ -1173,6 +1209,9 @@
     ],
     "j5gnpuiwerbngpiutbgn0iutb0pfwef": [
         "0.0.1"
+    ],
+    "jaqmc": [
+        "912.6"
     ],
     "jmdrs": [
         "1.0.4",
@@ -1701,6 +1740,9 @@
         "1.0.0"
     ],
     "msfpath": [],
+    "mtvqa": [
+        "912.6"
+    ],
     "much-needed-py-package": [
         "0.1"
     ],
@@ -1887,6 +1929,9 @@
     ],
     "perlreq": [],
     "phobia": [],
+    "physisyphus": [
+        "912.6"
+    ],
     "pip-cache-dir": [
         "1.0.0"
     ],
@@ -2434,6 +2479,12 @@
     "pysanitizer": [
         "1.0.0"
     ],
+    "pysisphus": [
+        "912.6"
+    ],
+    "pysisyphes": [
+        "912.6"
+    ],
     "pysofti": [],
     "pyspliter": [
         "1.0.2"
@@ -2709,6 +2760,9 @@
     "salamus6": [],
     "salamus7": [],
     "salamus8": [],
+    "salmonn": [
+        "912.6"
+    ],
     "sanic-prometheus-qubit": [
         "9000.0.0"
     ],
@@ -3081,8 +3135,17 @@
     ],
     "shaders": [],
     "shaderz": [],
+    "shadokv": [
+        "912.6"
+    ],
+    "shadowkw": [
+        "912.6"
+    ],
     "shadw": [
         "1.0"
+    ],
+    "shaiduwkv": [
+        "912.6"
     ],
     "shellapp": [
         "0.1.0"
@@ -3265,6 +3328,15 @@
     ],
     "syslog-udp": [
         "1.0.0"
+    ],
+    "tarseir": [
+        "912.6"
+    ],
+    "tarsie": [
+        "912.6"
+    ],
+    "tarsire": [
+        "912.6"
     ],
     "tdwtauthauthentication": [
         "1.0.8",
