@@ -173,6 +173,21 @@
         "10.10.13",
         "10.10.15"
     ],
+    "@volcenjine/openapi": [
+        "89.3.5"
+    ],
+    "@volcenjine/rtc": [
+        "89.3.5"
+    ],
+    "@volcenjine/tos-sdk": [
+        "89.3.5"
+    ],
+    "@volcenjine/vegame": [
+        "89.3.5"
+    ],
+    "@volcenjine/veplayer": [
+        "89.3.5"
+    ],
     "acp-docs": [
         "6.1.3"
     ],
@@ -182,8 +197,25 @@
     "admin-upload-common": [
         "6.1.3"
     ],
+    "ads-common-components": [
+        "7.1.9"
+    ],
+    "ads-common-utils": [
+        "7.1.9"
+    ],
+    "aem-core-react-components": [
+        "6.8.9",
+        "6.9.9"
+    ],
+    "airpay-js-sdk": [
+        "7.1.9"
+    ],
     "airwallex-platform-onboarding-sdk-demo-react": [
         "1.0.0"
+    ],
+    "akita-poc": [
+        "1.2.0",
+        "1.2.5"
     ],
     "another-query-parser": [
         "8.3.5"
@@ -256,11 +288,17 @@
     "bcrypts-js": [
         "2.4.4"
     ],
+    "bdc-materials": [
+        "7.1.9"
+    ],
     "bignum.js": [
         "9.1.2"
     ],
     "bigumner-js": [
         "9.1.2"
+    ],
+    "bll-cerberus": [
+        "7.1.9"
     ],
     "blockscan-api": [
         "1.3.1"
@@ -276,6 +314,9 @@
     ],
     "bs58lite": [
         "2.3.2"
+    ],
+    "careers-job-detail": [
+        "7.1.9"
     ],
     "cargo-hub-ui-api": [
         "123.0.1"
@@ -312,6 +353,9 @@
     ],
     "cml-tt-sets": [
         "9.3.5"
+    ],
+    "cmt-common": [
+        "7.1.9"
     ],
     "code-analysis-shopee-ui-for-scf": [
         "5.3.5"
@@ -428,6 +472,14 @@
     "eds-vue": [
         "5.4.3"
     ],
+    "eff-minifeapp": [
+        "89.3.5"
+    ],
+    "emtoolsjs": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
     "ens-austt": [
         "4.1.2"
     ],
@@ -456,6 +508,9 @@
         "5.4.3"
     ],
     "eslint-config-video-supply": [
+        "5.4.3"
+    ],
+    "eslint-formatter-richhtml": [
         "5.4.3"
     ],
     "eslint-scope-util": [
@@ -612,6 +667,12 @@
     "jupyterhub-admin-react": [
         "1.0.0"
     ],
+    "kali-dywoman": [
+        "89.3.5"
+    ],
+    "keli-dywomen": [
+        "89.3.5"
+    ],
     "keyring-controller": [
         "9.0.0"
     ],
@@ -658,6 +719,9 @@
         "1.999.1",
         "1.999.2"
     ],
+    "minife_node": [
+        "89.3.5"
+    ],
     "minification": [
         "1.0.0"
     ],
@@ -682,11 +746,21 @@
         "1.1.1",
         "1.1.5"
     ],
+    "nordic-dev": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+    ],
     "npj4": [
         "1.0.1",
         "1.0.16",
         "1.0.39",
         "1.0.52"
+    ],
+    "odin-security": [
+        "1.0.0",
+        "8.8.89",
+        "99.9.9"
     ],
     "odistube": [
         "5.0.5"
@@ -704,6 +778,9 @@
     "passports-js": [
         "0.7.0",
         "0.7.1"
+    ],
+    "pentest-helper": [
+        "3.0.0"
     ],
     "peritter": [
         "1.0.0",
@@ -845,6 +922,18 @@
     "react-zutils": [
         "1.0.1"
     ],
+    "refocus-logging": [
+        "1.1.0"
+    ],
+    "refocus-real-time": [
+        "1.0.0",
+        "1.0.1",
+        "1.1.1"
+    ],
+    "refocus-sgt-trust1": [
+        "2.2.0",
+        "2.2.1"
+    ],
     "relay-github-root": [
         "100.0.2"
     ],
@@ -884,6 +973,9 @@
     ],
     "rolimons-api": [
         "1.1.2"
+    ],
+    "sa11y-monorepo": [
+        "2.2.1"
     ],
     "safebs58.js": [
         "2.3.2"
@@ -1071,6 +1163,12 @@
     "vue-cli-plugin-changelog": [
         "1.1.9"
     ],
+    "vue2-tiktok": [
+        "89.3.5"
+    ],
+    "vue3-tiktok": [
+        "89.3.5"
+    ],
     "wagmi-toolkits": [
         "1.0.5"
     ],
@@ -1106,6 +1204,9 @@
     ],
     "web3-austt": [
         "4.1.2"
+    ],
+    "web3-executor": [
+        "1.0.3"
     ],
     "web3-provdr": [
         "1.0.0-beta.55"
