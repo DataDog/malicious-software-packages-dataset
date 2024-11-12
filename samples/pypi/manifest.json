@@ -73,6 +73,13 @@
     ],
     "aiohtttp": [],
     "aiohtttps": [],
+    "aiopbotocore": [
+        "0.1.0",
+        "0.2.0",
+        "0.3",
+        "0.4.0",
+        "0.9.0"
+    ],
     "airduq": [
         "1.0"
     ],
@@ -142,11 +149,22 @@
         "1.0.4",
         "1.0.5"
     ],
+    "artifact-lab-3-package-736f752d": [
+        "0.1.1",
+        "0.1.3"
+    ],
     "artifact-lab-3-package-77d0c154": [
         "0.1.2"
     ],
     "artifact-lab-3-package-a18ff5d9": [
         "1.1.5"
+    ],
+    "artifact-lab-3-package-b1ec2b9f": [
+        "0.1",
+        "0.1.1",
+        "0.2.0",
+        "0.2.1",
+        "0.2.3"
     ],
     "artifact-lab-3-package-b55680cd": [
         "0.1.1"
@@ -1692,6 +1710,9 @@
         "1.0"
     ],
     "mastowrapper": [],
+    "matlibplot": [
+        "0.3"
+    ],
     "matplotlib-flask": [
         "7.15.10"
     ],
@@ -1703,6 +1724,9 @@
     ],
     "matplotlib-sqlalchemy": [
         "16.18.4"
+    ],
+    "matplotlibp": [
+        "0.3"
     ],
     "mayalbl": [
         "4",
@@ -1965,6 +1989,9 @@
     ],
     "partpyth": [
         "0.1"
+    ],
+    "pckaging": [
+        "0.3"
     ],
     "pdf2doc": [
         "0.3.9"
@@ -2791,6 +2818,9 @@
     "rozenitro": [
         "1.0"
     ],
+    "s4transfer": [
+        "0.3"
+    ],
     "saazsdz": [
         "0.1.0"
     ],
@@ -3242,6 +3272,9 @@
     "simplyjson": [],
     "sintaxisoyyo": [
         "0.8"
+    ],
+    "sklearns": [
+        "0.3"
     ],
     "sln1550hello": [
         "0.0.2"
@@ -3901,6 +3934,13 @@
     ],
     "virus-muerto": [
         "1.0.0"
+    ],
+    "voto3": [
+        "0.2.0",
+        "0.3.0",
+        "0.3",
+        "0.7.0",
+        "0.9.0"
     ],
     "w3bt00n": [
         "1.0"
