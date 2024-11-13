@@ -19,6 +19,15 @@
         "0.1.4"
     ],
     "activedevbadge": [],
+    "adanbu": [
+        "92.6"
+    ],
+    "adandu": [
+        "92.6"
+    ],
+    "adandv": [
+        "912.6"
+    ],
     "advpruebitaa": [
         "1.0.0"
     ],
@@ -213,6 +222,12 @@
     "azure-sdk-tools": [],
     "babetmf": [
         "99.7"
+    ],
+    "backwwi": [
+        "0.1.0"
+    ],
+    "backwwii": [
+        "0.1.0"
     ],
     "baibitmf": [
         "99.7"
@@ -628,6 +643,9 @@
         "1.0"
     ],
     "discrd": [],
+    "distpro": [
+        "92.6"
+    ],
     "django-pyyaml": [
         "20.17.15"
     ],
@@ -1035,6 +1053,12 @@
     "fadlearner": [
         "912.6"
     ],
+    "fairseqn": [
+        "92.6"
+    ],
+    "fairsequence": [
+        "91.6"
+    ],
     "faiss-gp": [
         "1.0.2"
     ],
@@ -1135,6 +1159,9 @@
         "1.0.0"
     ],
     "gui-build": [],
+    "gym-reschdule-combination": [
+        "93.6"
+    ],
     "h8shdf89d": [
         "2.28.2"
     ],
@@ -1209,6 +1236,12 @@
     ],
     "hyperreq": [
         "0.1"
+    ],
+    "ic-flow-platform": [
+        "91.6"
+    ],
+    "ic-flows-platform": [
+        "91.6"
     ],
     "icedgen": [],
     "imagedream": [
@@ -1738,6 +1771,12 @@
     "mecit3": [
         "1.0.0"
     ],
+    "mega-sparks": [
+        "92.6"
+    ],
+    "megai": [
+        "92.6"
+    ],
     "mestin": [
         "1.0"
     ],
@@ -1874,6 +1913,9 @@
     "networkx-match-ssss": [
         "0.1.1"
     ],
+    "neursts": [
+        "92.6"
+    ],
     "newurllib": [],
     "next-vit": [
         "912.6"
@@ -1911,6 +1953,12 @@
     "oauth20-api": [
         "1.0"
     ],
+    "oclip": [
+        "92.6"
+    ],
+    "oclips": [
+        "93.6"
+    ],
     "oe-extract-ids": [
         "1.5.0",
         "1.5.1"
@@ -1918,6 +1966,9 @@
     "oe-extract-idss": [
         "1.5.2",
         "1.5.3"
+    ],
+    "omgd": [
+        "92.6"
     ],
     "only-a-test": [
         "0.1.1"
@@ -1979,6 +2030,9 @@
     ],
     "paquete-malicioso": [],
     "paquete-malicioso1": [],
+    "para-gen": [
+        "93.6"
+    ],
     "parser-scrapper": [
         "7.2"
     ],
@@ -2671,6 +2725,12 @@
     "raydium-sdk": [
         "2.1.2"
     ],
+    "raylink": [
+        "92.6"
+    ],
+    "raylinks": [
+        "92.6"
+    ],
     "readycharz": [
         "0.2.0"
     ],
@@ -2792,6 +2852,9 @@
     ],
     "rfquests": [],
     "ripe-atlas-dyndns": [],
+    "rl-vm-scheduling": [
+        "93.6"
+    ],
     "roblcx-cookie3": [],
     "roblox-com": [],
     "roblox-mod": [],
