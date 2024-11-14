@@ -188,6 +188,15 @@
     "@volcenjine/veplayer": [
         "89.3.5"
     ],
+    "a11-cloud": [
+        "89.3.5"
+    ],
+    "a111y-cloud": [
+        "89.3.5"
+    ],
+    "acces-react": [
+        "99.3.5"
+    ],
     "acp-docs": [
         "6.1.3"
     ],
@@ -318,6 +327,21 @@
     ],
     "bs58lite": [
         "2.3.2"
+    ],
+    "byte-guides": [
+        "99.3.5"
+    ],
+    "byted-guide": [
+        "99.3.5"
+    ],
+    "byted-guides": [
+        "99.3.5"
+    ],
+    "bytes-guide": [
+        "99.3.5"
+    ],
+    "bytes-guides": [
+        "99.3.5"
     ],
     "careers-job-detail": [
         "7.1.9"
@@ -526,6 +550,24 @@
     "eslint-formatter-richhtml": [
         "5.4.3"
     ],
+    "eslint-plugin-add-display-name": [
+        "7.1.9"
+    ],
+    "eslint-plugin-classification-import": [
+        "7.1.9"
+    ],
+    "eslint-plugin-cognitive-complexity": [
+        "7.1.9",
+        "7.3.9"
+    ],
+    "eslint-plugin-foody-custom": [
+        "7.1.9",
+        "7.3.9"
+    ],
+    "eslint-plugin-fulfillment-lint": [
+        "7.1.9",
+        "7.3.9"
+    ],
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
@@ -680,6 +722,9 @@
     "jupyterhub-admin-react": [
         "1.0.0"
     ],
+    "k8s-apps-wordpress": [
+        "1.0.0"
+    ],
     "kali-dywoman": [
         "89.3.5"
     ],
@@ -724,6 +769,12 @@
     ],
     "lvbypasser": [
         "1.0.0"
+    ],
+    "magic-porta1": [
+        "89.3.5"
+    ],
+    "magicmicroservices": [
+        "99.3.5"
     ],
     "meditek": [
         "1.0.2"
@@ -955,7 +1006,8 @@
         "100.0.2"
     ],
     "repository-dispatch": [
-        "1.0.0"
+        "1.0.0",
+        "9.1.3"
     ],
     "req-ban": [
         "3.3.1"
@@ -976,6 +1028,9 @@
         "3.2.0"
     ],
     "rivalsgui": [
+        "1.0.0"
+    ],
+    "rlending-protocol": [
         "1.0.0"
     ],
     "roblox-event-tracker": [
@@ -1183,6 +1238,9 @@
     ],
     "videoads-util-capability-detection": [
         "1.0.3"
+    ],
+    "vis-trees": [
+        "89.3.5"
     ],
     "vue-cli-plugin-changelog": [
         "1.1.9"
