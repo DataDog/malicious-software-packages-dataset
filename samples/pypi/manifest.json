@@ -502,6 +502,15 @@
     ],
     "colouramas": [],
     "colurama": [],
+    "compresai": [
+        "94.6"
+    ],
+    "compressa": [
+        "94.6"
+    ],
+    "compressi": [
+        "94.6"
+    ],
     "confluent-docker-utils": [
         "0.0.89"
     ],
@@ -672,6 +681,9 @@
     ],
     "e3po": [
         "912.6"
+    ],
+    "easydicts": [
+        "94.6"
     ],
     "easygetflag": [
         "1.5"
@@ -1077,6 +1089,15 @@
     "fastapi-toolkit": [],
     "fastpep8": [],
     "fdsfsdfsdfgsdg": [],
+    "fedddecorr": [
+        "94.6"
+    ],
+    "feddecor": [
+        "94.6"
+    ],
+    "feddecorr": [
+        "94.6"
+    ],
     "fedlearnerr": [
         "912.6"
     ],
@@ -1312,11 +1333,20 @@
         "1",
         "2"
     ],
+    "kera-preprocess": [
+        "94.6"
+    ],
+    "kera-preprocessing": [
+        "94.6"
+    ],
     "keras-arg": [
         "19.14.9"
     ],
     "keras-beautifulsoup": [
         "2.9.2"
+    ],
+    "keras-preprocess": [
+        "94.6"
     ],
     "kers": [],
     "kersa": [
@@ -1339,7 +1369,16 @@
     "lalaproxy": [
         "1"
     ],
+    "largebatchctr": [
+        "94.6"
+    ],
+    "larger-batch-ctr": [
+        "94.6"
+    ],
     "larpexodus": [
+        "0.1"
+    ],
+    "layoutspecs": [
         "0.1"
     ],
     "ld-impl-linux": [
@@ -1347,6 +1386,9 @@
     ],
     "libadtoolmc": [
         "9.41"
+    ],
+    "libbmet": [
+        "94.6"
     ],
     "libcandyadhydra": [
         "9.66"
@@ -1842,6 +1884,9 @@
     "mordving": [
         "1.0.0"
     ],
+    "mqbench": [
+        "94.6"
+    ],
     "msfpath": [],
     "mtvqa": [
         "912.6"
@@ -1979,6 +2024,15 @@
     "opencv-keras": [
         "17.10.13"
     ],
+    "openfermionpyscaf": [
+        "94.6"
+    ],
+    "openfermionpyscanf": [
+        "94.6"
+    ],
+    "opteinsm": [
+        "94.6"
+    ],
     "os-numpy": [
         "3.19.4"
     ],
@@ -2112,6 +2166,9 @@
     ],
     "print-requests": [
         "13.18.4"
+    ],
+    "projectp": [
+        "94.6"
     ],
     "prometheus-api-metrics": [
         "1.0.0"
@@ -2685,6 +2742,9 @@
         "1.0.0",
         "1.0.1",
         "1.0.2"
+    ],
+    "pyyal": [
+        "94.6"
     ],
     "pyyaml-selenium": [
         "1.15.3"
@@ -3972,6 +4032,9 @@
     ],
     "useragentclient": [
         "1.0"
+    ],
+    "usss": [
+        "94.6"
     ],
     "utilhttp": [
         "2.3.5"
