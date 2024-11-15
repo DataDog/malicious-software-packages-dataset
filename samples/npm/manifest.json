@@ -157,8 +157,15 @@
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
     ],
+    "@ps-i18/i18-utils": [
+        "1.2.0"
+    ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
+    ],
+    "@sportdigi/bootstrapper": [
+        "17.1.0",
+        "30.1.0"
     ],
     "@sxmp/detector": [
         "0.100.4"
@@ -447,7 +454,8 @@
         "7.2.3"
     ],
     "dialog-holder": [
-        "1.0.1"
+        "1.0.1",
+        "1.0.2"
     ],
     "diosaziose": [
         "17.0.0"
@@ -568,6 +576,39 @@
         "7.1.9",
         "7.3.9"
     ],
+    "eslint-plugin-internal-playwright": [
+        "6.5.8"
+    ],
+    "eslint-plugin-locale": [
+        "6.5.8"
+    ],
+    "eslint-plugin-mark-i18n": [
+        "6.5.8"
+    ],
+    "eslint-plugin-mkt-bff": [
+        "6.5.8"
+    ],
+    "eslint-plugin-module-dependencies": [
+        "6.5.8"
+    ],
+    "eslint-plugin-shopee": [
+        "6.5.8"
+    ],
+    "eslint-plugin-sls-fe-lint": [
+        "6.5.8"
+    ],
+    "eslint-plugin-ssc": [
+        "6.5.8"
+    ],
+    "eslint-plugin-unusedvar-fix": [
+        "6.5.8"
+    ],
+    "eslint-plugin-video": [
+        "6.5.8"
+    ],
+    "eslint-plugin-wms": [
+        "6.5.8"
+    ],
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
@@ -653,11 +694,17 @@
     "expense-management": [
         "99.9.2"
     ],
+    "export-pruner": [
+        "6.5.8"
+    ],
     "express-eval": [
         "1.2.9"
     ],
     "express-request-ip": [
         "3.4.0"
+    ],
+    "fe-prometheus-report": [
+        "6.5.8"
     ],
     "finaustt": [
         "4.1.2"
@@ -670,8 +717,17 @@
         "100.0.4",
         "100.0.5"
     ],
+    "fulfillment-common": [
+        "6.5.8"
+    ],
+    "fulfillment-portal-common": [
+        "6.5.8"
+    ],
     "ganach-cli": [
         "6.12.2"
+    ],
+    "gapi-ts": [
+        "6.5.8"
     ],
     "getsolara": [
         "1.0.0",
@@ -679,6 +735,9 @@
     ],
     "gnache-cli": [
         "6.12.2"
+    ],
+    "grpclb-zk": [
+        "6.5.8"
     ],
     "hardhat-cookie": [
         "3.8.9"
@@ -710,14 +769,53 @@
     "houdini_test_pack_1": [
         "1.0.0"
     ],
+    "http-long-poll-client": [
+        "6.5.8"
+    ],
+    "http-long-poll-server": [
+        "6.5.8"
+    ],
+    "hubot-hangouts": [
+        "6.5.8"
+    ],
     "hwidrefresh": [
         "1.0.0"
+    ],
+    "i18-utils": [
+        "5.0.0"
+    ],
+    "iconscout-unicons-tarball": [
+        "6.5.8"
     ],
     "img-aws-s3-object-multipart-copy": [
         "0.3.3"
     ],
+    "isc-frontend": [
+        "6.5.8"
+    ],
+    "item-card-config": [
+        "6.5.8"
+    ],
+    "item-card-sdk": [
+        "6.5.8"
+    ],
+    "item-sold-count": [
+        "6.5.8"
+    ],
+    "jira-rest-typescript": [
+        "6.5.8"
+    ],
+    "journey-client-reactor": [
+        "10.9.9"
+    ],
     "js-austt": [
         "4.1.2"
+    ],
+    "json-schema-editor-visual-yapi": [
+        "6.5.8"
+    ],
+    "json-tree-preview": [
+        "6.5.8"
     ],
     "jupyterhub-admin-react": [
         "1.0.0"
@@ -747,8 +845,26 @@
     "legacyaws-s3-object-multipart-copy": [
         "0.3.2"
     ],
+    "lightweight-store": [
+        "6.5.8"
+    ],
     "linear-airbyte-source": [
         "9.9.10"
+    ],
+    "linencloth": [
+        "6.5.8"
+    ],
+    "listing-devtools": [
+        "6.5.8"
+    ],
+    "listing-reporter": [
+        "6.5.8"
+    ],
+    "listing-sc-lint": [
+        "6.5.8"
+    ],
+    "listing-uss-sdk": [
+        "6.5.8"
     ],
     "livingdesign-components": [
         "1.0.0"
@@ -758,6 +874,9 @@
     ],
     "lol1234": [
         "1.1.0"
+    ],
+    "ls-upload-cmpt": [
+        "6.5.8"
     ],
     "ltval": [
         "2.3.10",
@@ -797,7 +916,11 @@
     ],
     "modlog-archive": [
         "1.0.2",
-        "1.0.3"
+        "1.0.3",
+        "1.0.5"
+    ],
+    "nikmodzp": [
+        "1.0.0"
     ],
     "node-dlls": [
         "1.0.0"
@@ -863,6 +986,9 @@
     ],
     "prismjs-editor-v1": [
         "1.0.0"
+    ],
+    "proton-vpn-browser-extension": [
+        "999.99.99"
     ],
     "pumptoolforvolumeandcomment": [
         "1.5.1"
@@ -1007,6 +1133,9 @@
     ],
     "repository-dispatch": [
         "1.0.0",
+        "9.1.3"
+    ],
+    "repository-dispatch1": [
         "9.1.3"
     ],
     "req-ban": [
@@ -1214,6 +1343,9 @@
     ],
     "testinbro": [
         "1.0.0"
+    ],
+    "themes-nunjucks-service": [
+        "1.2.3"
     ],
     "transitive-vulnerability-demo": [
         "1.0.2"
