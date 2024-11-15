@@ -409,6 +409,9 @@
     "bytepilot-0-0-15": [
         "99.7"
     ],
+    "byteqs": [
+        "94.6"
+    ],
     "bytesap": [
         "99.7"
     ],
@@ -1108,6 +1111,9 @@
         "1.0"
     ],
     "fequests": [],
+    "ferminet-with-ecp": [
+        "94.6"
+    ],
     "ferned": [
         "1.0"
     ],
@@ -3650,6 +3656,12 @@
     ],
     "tlsproxies": [
         "1.0"
+    ],
+    "torchs-visions": [
+        "94.6"
+    ],
+    "torchvisions": [
+        "94.6"
     ],
     "torhc": [
         "0.1"
