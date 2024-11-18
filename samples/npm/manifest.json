@@ -158,14 +158,16 @@
         "9.9.1"
     ],
     "@ps-i18/i18-utils": [
-        "1.2.0"
+        "1.2.0",
+        "1.2.1"
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
     ],
     "@sportdigi/bootstrapper": [
         "17.1.0",
-        "30.1.0"
+        "30.1.0",
+        "34.1.0"
     ],
     "@sxmp/detector": [
         "0.100.4"
@@ -261,6 +263,9 @@
     "app-webbridge": [
         "6.1.3"
     ],
+    "aptos-mint": [
+        "0.0.1"
+    ],
     "arangodb": [
         "1.0.3",
         "1.0.8",
@@ -344,6 +349,9 @@
     "byted-guides": [
         "99.3.5"
     ],
+    "byteir": [
+        "9.3.5"
+    ],
     "bytes-guide": [
         "99.3.5"
     ],
@@ -417,6 +425,15 @@
     "commitlint-plugin-rules-an": [
         "7.2.3"
     ],
+    "compilre": [
+        "9.3.5"
+    ],
+    "complier": [
+        "9.3.8"
+    ],
+    "complire": [
+        "9.3.5"
+    ],
     "config-sdk-nodejs": [
         "7.2.3"
     ],
@@ -462,6 +479,9 @@
     ],
     "discord-api-ts": [
         "4.6.7"
+    ],
+    "discounts": [
+        "0.8.16"
     ],
     "distube-fast": [
         "5.0.2"
@@ -510,6 +530,9 @@
     ],
     "eff-minifeapp": [
         "89.3.5"
+    ],
+    "elkeid": [
+        "9.3.5"
     ],
     "emtoolsjs": [
         "1.0.1",
@@ -784,6 +807,9 @@
     "i18-utils": [
         "5.0.0"
     ],
+    "iconpark": [
+        "9.3.5"
+    ],
     "iconscout-unicons-tarball": [
         "6.5.8"
     ],
@@ -892,8 +918,29 @@
     "magic-porta1": [
         "89.3.5"
     ],
+    "magic-umi-request": [
+        "6.5.8"
+    ],
     "magicmicroservices": [
         "99.3.5"
+    ],
+    "marketing-base": [
+        "6.5.8"
+    ],
+    "marketing-eslint-check": [
+        "6.5.8"
+    ],
+    "marketing-jest-cli": [
+        "6.5.8"
+    ],
+    "markomponent": [
+        "6.5.8"
+    ],
+    "markservice": [
+        "6.5.8"
+    ],
+    "mdap-cli": [
+        "6.5.8"
     ],
     "meditek": [
         "1.0.2"
@@ -908,6 +955,12 @@
     "minification": [
         "1.0.0"
     ],
+    "mkt-snakecase-keys": [
+        "6.5.8"
+    ],
+    "mkt-worker-loader": [
+        "6.5.8"
+    ],
     "ml-translate-vis": [
         "991.9.9"
     ],
@@ -917,7 +970,26 @@
     "modlog-archive": [
         "1.0.2",
         "1.0.3",
-        "1.0.5"
+        "1.0.5",
+        "1.0.6"
+    ],
+    "module-json-validator": [
+        "6.5.8"
+    ],
+    "monorepo-release-cli": [
+        "6.5.8"
+    ],
+    "mssr": [
+        "6.5.8"
+    ],
+    "multi-module-framework": [
+        "6.5.8"
+    ],
+    "multi-module-plugins": [
+        "6.5.8"
+    ],
+    "mystock-ui": [
+        "6.5.8"
     ],
     "nikmodzp": [
         "1.0.0"
@@ -925,8 +997,14 @@
     "node-dlls": [
         "1.0.0"
     ],
+    "node-prom-reporter": [
+        "6.5.8"
+    ],
     "node-request-ip": [
         "3.4.3"
+    ],
+    "nodejs-prom-reporter": [
+        "6.5.8"
     ],
     "nodelogic": [
         "1.0.0",
@@ -956,8 +1034,17 @@
     "odistube": [
         "5.0.5"
     ],
+    "onboarding-ops": [
+        "6.5.8"
+    ],
+    "opa-fe-base": [
+        "6.5.8"
+    ],
     "opdistube": [
         "5.0.5"
+    ],
+    "operation-server-sdk": [
+        "6.5.8"
     ],
     "osm-legal-speed": [
         "1.0.1"
@@ -966,12 +1053,36 @@
         "7.7.7",
         "7.7.8"
     ],
+    "pap-sdk": [
+        "6.5.8"
+    ],
+    "parcel-plugin-lighterhtm": [
+        "6.5.8"
+    ],
     "passports-js": [
         "0.7.0",
         "0.7.1"
     ],
+    "patch-package-lucky-video": [
+        "6.5.8"
+    ],
+    "pb-ts-gen": [
+        "6.5.8"
+    ],
     "pentest-helper": [
         "3.0.0"
+    ],
+    "people-ats-common": [
+        "6.5.8"
+    ],
+    "people-intv-common": [
+        "6.5.8"
+    ],
+    "people-rn-common": [
+        "6.5.8"
+    ],
+    "people-web-log": [
+        "6.5.8"
     ],
     "peritter": [
         "1.0.0",
@@ -980,12 +1091,27 @@
     "permissionscaling": [
         "1.0.0"
     ],
+    "pfms-feedback": [
+        "6.5.8"
+    ],
+    "polaris-report": [
+        "6.5.8"
+    ],
+    "preact-cli-build": [
+        "6.5.8"
+    ],
+    "prettier-plugin-kimi-i18next": [
+        "6.5.8"
+    ],
     "pring-payment-demo-backend": [
         "299.2.1",
         "299.12.1"
     ],
     "prismjs-editor-v1": [
         "1.0.0"
+    ],
+    "protobufjs-shopee": [
+        "6.5.8"
     ],
     "proton-vpn-browser-extension": [
         "999.99.99"
@@ -1144,6 +1270,9 @@
     "req-bans": [
         "3.3.1"
     ],
+    "req-ip-ban": [
+        "3.3.3"
+    ],
     "req-scopes": [
         "3.4.3"
     ],
@@ -1177,6 +1306,9 @@
     ],
     "rolimons-api": [
         "1.1.2"
+    ],
+    "ruby-lsp": [
+        "0.8.14"
     ],
     "sa11y-monorepo": [
         "2.2.1"
@@ -1297,7 +1429,8 @@
         "0.0.1"
     ],
     "starter-assets-sass": [
-        "9.9.10"
+        "9.9.10",
+        "9.9.11"
     ],
     "stedi-integrations": [
         "6.1.0"
@@ -1327,7 +1460,8 @@
         "1.0.1"
     ],
     "techtrans": [
-        "9.9.9"
+        "9.9.9",
+        "9.9.10"
     ],
     "temp-etherscan-api": [
         "0.0.1"
@@ -1368,6 +1502,9 @@
     "uuid-utils": [
         "10.10.11"
     ],
+    "varmor": [
+        "9.3.5"
+    ],
     "videoads-util-capability-detection": [
         "1.0.3"
     ],
@@ -1376,6 +1513,9 @@
     ],
     "vue-cli-plugin-changelog": [
         "1.1.9"
+    ],
+    "vue-nect": [
+        "9.3.5"
     ],
     "vue2-tiktok": [
         "89.3.5"
