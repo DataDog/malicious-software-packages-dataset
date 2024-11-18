@@ -409,6 +409,9 @@
     "bytepilot-0-0-15": [
         "99.7"
     ],
+    "bytepps": [
+        "94.6"
+    ],
     "byteqs": [
         "94.6"
     ],
@@ -630,6 +633,12 @@
     "derkpy": [],
     "detection-telegram": [
         "5.6"
+    ],
+    "detectren": [
+        "94.6"
+    ],
+    "detectron4": [
+        "94.6"
     ],
     "dfdfdfdfhhh": [
         "1.0.0",
@@ -1839,6 +1848,15 @@
     "microsoft-helper": [
         "1.0"
     ],
+    "midi-melady-extraction": [
+        "94.6"
+    ],
+    "midi-melody-extraction": [
+        "94.6"
+    ],
+    "midi-melody-extractions": [
+        "94.6"
+    ],
     "milleday": [
         "1"
     ],
@@ -2026,6 +2044,9 @@
     ],
     "onyxproxy": [
         "1"
+    ],
+    "open-clips-torch": [
+        "95.6"
     ],
     "opencv-keras": [
         "17.10.13"
@@ -2727,6 +2748,9 @@
         "1.0.0",
         "1.0.1",
         "1.0.2"
+    ],
+    "pytorch-lighting": [
+        "95.6"
     ],
     "pytorch-pandas": [
         "14.19.3"
