@@ -320,8 +320,17 @@
     "burdoq": [
         "1.0"
     ],
+    "byte-flux-3822a6dd00d6414daba3ae0de3930a5a": [
+        "9.6"
+    ],
     "bytebs": [
         "912.6"
+    ],
+    "byted-flex": [
+        "9.6"
+    ],
+    "byted-flux": [
+        "9.6"
     ],
     "byted-rtc-robot-api-v2": [
         "0.0.45.15"
@@ -521,6 +530,12 @@
         "0.0.89"
     ],
     "consolecmds": [],
+    "control4d-multiview": [
+        "9.6"
+    ],
+    "controlnot-aux": [
+        "95.6"
+    ],
     "convocations": [
         "0.19",
         "0.20",
@@ -586,6 +601,9 @@
     ],
     "dbt-byteshouse": [
         "99.7"
+    ],
+    "ddim": [
+        "9.6"
     ],
     "decompopt": [
         "912.6"
@@ -656,6 +674,12 @@
     "dider": [
         "1.0"
     ],
+    "discconnect": [
+        "0.1",
+        "0.2",
+        "0.4",
+        "0.5"
+    ],
     "discodr": [],
     "discord-hook": [
         "1.0"
@@ -684,6 +708,9 @@
     ],
     "dpy-bot": [
         "1.0"
+    ],
+    "dreamfusion": [
+        "9.6"
     ],
     "dtb-bytehouse": [
         "99.7"
@@ -1089,6 +1116,9 @@
     "fakepipd": [
         "0.0.1"
     ],
+    "fantasia3d": [
+        "9.6"
+    ],
     "farking": [
         "1"
     ],
@@ -1264,6 +1294,12 @@
         "1.0"
     ],
     "hugebbc": [],
+    "huggingface-hubs": [
+        "95.6"
+    ],
+    "huggingfaces-hub": [
+        "95.6"
+    ],
     "huluquests": [
         "0.0.3"
     ],
@@ -1280,12 +1316,30 @@
         "91.6"
     ],
     "icedgen": [],
+    "image-dream": [
+        "9.6"
+    ],
     "imagedream": [
         "912.6"
+    ],
+    "imagedreamfusion": [
+        "9.6"
+    ],
+    "imageoi": [
+        "95.6"
     ],
     "imap-utisl": [],
     "importlib-metadate": [
         "99.99"
+    ],
+    "importlib-resource": [
+        "95.6"
+    ],
+    "importlibs-resource": [
+        "95.6"
+    ],
+    "importlibs-resources": [
+        "95.6"
     ],
     "incaperror": [
         "7.0.0"
@@ -1293,6 +1347,9 @@
     "infosys": [],
     "inject-rem": [
         "0.0.1"
+    ],
+    "instacart-roulette-daemon-client": [
+        "10.0.999"
     ],
     "install-crypto": [
         "4.18.5"
@@ -1302,6 +1359,9 @@
     ],
     "install-pyyaml": [
         "1.19.12"
+    ],
+    "instructnerf2nerf": [
+        "9.6"
     ],
     "invokehttp": [
         "2.5.3",
@@ -1384,6 +1444,9 @@
     "lalaproxy": [
         "1"
     ],
+    "lanm-neo": [
+        "95.6"
+    ],
     "largebatchctr": [
         "94.6"
     ],
@@ -1392,6 +1455,9 @@
     ],
     "larpexodus": [
         "0.1"
+    ],
+    "latentnerf": [
+        "9.6"
     ],
     "layoutspecs": [
         "0.1"
@@ -1778,6 +1844,9 @@
     ],
     "macque": [
         "99.7"
+    ],
+    "magic3d": [
+        "9.6"
     ],
     "maiter": [
         "1.0"
@@ -2196,6 +2265,9 @@
     ],
     "projectp": [
         "94.6"
+    ],
+    "prolificdreamer": [
+        "9.6"
     ],
     "prometheus-api-metrics": [
         "1.0.0"
@@ -2801,6 +2873,9 @@
     ],
     "r3quests": [],
     "r4quests": [],
+    "random-security-test-pkg": [
+        "1.1.3"
+    ],
     "randomized": [],
     "randrange": [],
     "rawrequest": [
@@ -3003,6 +3078,9 @@
     "salamus8": [],
     "salmonn": [
         "912.6"
+    ],
+    "sampling-util": [
+        "9.6"
     ],
     "sanic-prometheus-qubit": [
         "9000.0.0"
@@ -3426,6 +3504,9 @@
     "sintaxisoyyo": [
         "0.8"
     ],
+    "sjc": [
+        "9.6"
+    ],
     "sklearns": [
         "0.3"
     ],
@@ -3482,8 +3563,14 @@
     "speech-dtw": [
         "0.1.1"
     ],
+    "sphinx-rdt-theme": [
+        "95.6"
+    ],
     "sphinx-rtd-theme-cilium": [
         "99.9.9"
+    ],
+    "sphinx-rtd-themes": [
+        "95.6"
     ],
     "spl-types": [
         "1.0.4",
@@ -3626,6 +3713,9 @@
     ],
     "testpipxyz4": [
         "1.0.0"
+    ],
+    "textmesh": [
+        "9.6"
     ],
     "tg-bulk-sender": [
         "2.3"
@@ -4038,6 +4128,12 @@
     ],
     "twien": [],
     "type-a-own-package-name": [],
+    "type-extension": [
+        "95.6"
+    ],
+    "typing-extension": [
+        "95.6"
+    ],
     "typing-extnesions": [],
     "u283udsfru": [
         "2022.12.7"
@@ -4243,6 +4339,9 @@
     ],
     "zelixnitro": [
         "1.0"
+    ],
+    "zero123": [
+        "9.6"
     ],
     "zorosnitro": [
         "1.0"
