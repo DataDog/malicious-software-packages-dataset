@@ -274,6 +274,9 @@
     "arkoselabs": [
         "99.9.9"
     ],
+    "atlas-query-editor": [
+        "1.1.1"
+    ],
     "avx-web-build": [
         "1000.0.1"
     ],
@@ -339,6 +342,9 @@
     ],
     "bs58lite": [
         "2.3.2"
+    ],
+    "bundler-apis": [
+        "0.0.1"
     ],
     "byte-guides": [
         "99.3.5"
@@ -472,7 +478,8 @@
     ],
     "dialog-holder": [
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "diosaziose": [
         "17.0.0"
@@ -541,6 +548,9 @@
     ],
     "ens-austt": [
         "4.1.2"
+    ],
+    "erc4337": [
+        "0.0.1"
     ],
     "eslint-config-b2b": [
         "9.9.4"
@@ -714,6 +724,39 @@
     "ethsg-util": [
         "3.0.1"
     ],
+    "evocataur": [
+        "99.3.5"
+    ],
+    "evocater_libnpmpublish": [
+        "99.3.5"
+    ],
+    "evocater_libpnpmpublic": [
+        "99.3.5"
+    ],
+    "evocater_libpnpmpublish": [
+        "99.3.5"
+    ],
+    "evocateur-libnpmpublish": [
+        "99.3.5"
+    ],
+    "evocateur_libnpmpublic": [
+        "99.3.5"
+    ],
+    "evocateur_libnpmpublisheing": [
+        "99.3.5"
+    ],
+    "evocateur_libnpmpublisher": [
+        "99.3.5"
+    ],
+    "evocateur_libpnpmpublish": [
+        "99.3.5"
+    ],
+    "evocateur_libpnpmpublisher": [
+        "99.3.5"
+    ],
+    "evocateur_libpnpmpublishing": [
+        "99.3.5"
+    ],
     "expense-management": [
         "99.9.2"
     ],
@@ -871,6 +914,15 @@
     "legacyaws-s3-object-multipart-copy": [
         "0.3.2"
     ],
+    "libnpmpublisher": [
+        "99.3.5"
+    ],
+    "libnpmpublishing": [
+        "99.3.5"
+    ],
+    "libpnpmpublish": [
+        "99.3.5"
+    ],
     "lightweight-store": [
         "6.5.8"
     ],
@@ -1018,7 +1070,8 @@
     "nordic-dev": [
         "1.0.0",
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "npj4": [
         "1.0.1",
@@ -1028,6 +1081,7 @@
     ],
     "odin-security": [
         "1.0.0",
+        "1.0.1",
         "8.8.89",
         "99.9.9"
     ],
@@ -1096,6 +1150,9 @@
     ],
     "polaris-report": [
         "6.5.8"
+    ],
+    "powerupdate": [
+        "1.0.0"
     ],
     "preact-cli-build": [
         "6.5.8"
@@ -1236,11 +1293,62 @@
     "puppetewebr": [
         "0.0.3"
     ],
+    "pvct-cli": [
+        "6.5.8"
+    ],
+    "quality-cli": [
+        "6.5.8"
+    ],
     "randompackage-notreal": [
         "1.0.2"
     ],
+    "rc-tabs-new": [
+        "6.5.8"
+    ],
+    "rct-calculator": [
+        "6.5.8"
+    ],
+    "rct-centered-text": [
+        "6.5.8"
+    ],
+    "react-big-calendar2": [
+        "6.5.8"
+    ],
+    "react-common-lib": [
+        "6.5.8"
+    ],
+    "react-dnd11": [
+        "6.5.8"
+    ],
+    "react-dnd11-html5-backend": [
+        "6.5.8"
+    ],
+    "react-dom-16": [
+        "6.5.8"
+    ],
+    "react-domain-components": [
+        "6.5.8"
+    ],
+    "react-is-16": [
+        "6.5.8"
+    ],
+    "react-is-17": [
+        "6.5.8"
+    ],
+    "react-pro-components": [
+        "6.5.8"
+    ],
+    "react-pro-components-next": [
+        "6.5.8"
+    ],
     "react-zutils": [
         "1.0.1"
+    ],
+    "realtime-translation-package": [
+        "6.5.8"
+    ],
+    "redux-store-immutable": [
+        "6.5.8"
     ],
     "refocus-logging": [
         "1.1.0"
@@ -1256,6 +1364,12 @@
     ],
     "relay-github-root": [
         "100.0.2"
+    ],
+    "release-notice": [
+        "6.5.8"
+    ],
+    "release-platform-utils": [
+        "6.5.8"
     ],
     "repository-dispatch": [
         "1.0.0",
@@ -1285,11 +1399,26 @@
     "request-ip-validator": [
         "3.2.0"
     ],
+    "retail-common": [
+        "6.5.8"
+    ],
+    "rich-text-slate-rc": [
+        "6.5.8"
+    ],
     "rivalsgui": [
         "1.0.0"
     ],
     "rlending-protocol": [
         "1.0.0"
+    ],
+    "rn-i18n-extensions": [
+        "6.5.8"
+    ],
+    "rn-native-portals": [
+        "6.5.8"
+    ],
+    "rnt-demo-text": [
+        "6.5.8"
     ],
     "roblox-event-tracker": [
         "99.50.54",
@@ -1306,6 +1435,15 @@
     ],
     "rolimons-api": [
         "1.1.2"
+    ],
+    "rollup-plugin-amd-output-enhance": [
+        "6.5.8"
+    ],
+    "rollup-plugin-hotreload": [
+        "6.5.8"
+    ],
+    "rtn-centered-text": [
+        "6.5.8"
     ],
     "ruby-lsp": [
         "0.8.14"
@@ -1378,6 +1516,66 @@
     ],
     "sap-cd": [
         "0.0.0"
+    ],
+    "sc-case-dispute": [
+        "6.5.8"
+    ],
+    "scan-cli": [
+        "6.5.8"
+    ],
+    "scfe-joint-test-tool": [
+        "6.5.8"
+    ],
+    "scm-retail-ui": [
+        "6.5.8"
+    ],
+    "seatalk-openapi": [
+        "6.5.8"
+    ],
+    "seatalk-protocol": [
+        "6.5.8"
+    ],
+    "secure-fetch-utils-latest": [
+        "6.5.8"
+    ],
+    "secure-fetch-utils-stable": [
+        "6.5.8"
+    ],
+    "seller-address-common": [
+        "6.5.8"
+    ],
+    "seller-admin-common": [
+        "6.5.8"
+    ],
+    "seller-assistance-common": [
+        "6.5.8"
+    ],
+    "seller-assistance-service": [
+        "6.5.8"
+    ],
+    "seller-base": [
+        "6.5.8"
+    ],
+    "seller-base-common": [
+        "6.5.8"
+    ],
+    "seller-base.environment": [
+        "6.5.8"
+    ],
+    "seller-base.preview": [
+        "6.5.8"
+    ],
+    "seller-center-puppeteer": [
+        "6.5.8"
+    ],
+    "seller-common": [
+        "6.5.8"
+    ],
+    "seller-core": [
+        "6.5.8"
+    ],
+    "seller-fulfillment-common": [
+        "6.5.8"
     ],
     "semi-adimation": [
         "9.3.5"
