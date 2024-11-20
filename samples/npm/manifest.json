@@ -119,6 +119,9 @@
     "@meneprojects/body-parsers": [
         "1.0.3"
     ],
+    "@mnlo/common-user": [
+        "0.0.1"
+    ],
     "@mosfe/beam": [
         "2.0.0"
     ],
@@ -325,6 +328,9 @@
     "bigumner-js": [
         "9.1.2"
     ],
+    "bioma": [
+        "99.11.18"
+    ],
     "bll-cerberus": [
         "7.1.9"
     ],
@@ -354,6 +360,12 @@
     ],
     "byted-guides": [
         "99.3.5"
+    ],
+    "bytedance-i18n-ghook": [
+        "99.11.18"
+    ],
+    "bytedance-i18n-hooks": [
+        "99.11.18"
     ],
     "byteir": [
         "9.3.5"
@@ -390,6 +402,15 @@
     ],
     "chat-history-log-viewer": [
         "5.3.5"
+    ],
+    "check-dependency-ver-consistency": [
+        "99.11.18"
+    ],
+    "check-deps-ver-consistency": [
+        "99.11.18"
+    ],
+    "check-deps-version-consistency": [
+        "99.11.18"
     ],
     "client-req-bans": [
         "3.3.2"
@@ -492,6 +513,9 @@
     ],
     "distube-fast": [
         "5.0.2"
+    ],
+    "docs-ux": [
+        "99.11.18"
     ],
     "dotnet-runtime": [
         "991.9.9"
@@ -856,6 +880,9 @@
     "iconscout-unicons-tarball": [
         "6.5.8"
     ],
+    "ilogtail": [
+        "99.11.18"
+    ],
     "img-aws-s3-object-multipart-copy": [
         "0.3.3"
     ],
@@ -1028,6 +1055,54 @@
     "module-json-validator": [
         "6.5.8"
     ],
+    "mona-client-max": [
+        "99.11.18"
+    ],
+    "mona-client-mini": [
+        "99.11.18"
+    ],
+    "mona-client-plugin": [
+        "99.11.18"
+    ],
+    "mona-client-web": [
+        "99.11.18"
+    ],
+    "mona-manager": [
+        "99.11.18"
+    ],
+    "mona-manager-plugins-shared": [
+        "99.11.18"
+    ],
+    "mona-max": [
+        "99.11.18"
+    ],
+    "mona-plugin-events": [
+        "99.11.18"
+    ],
+    "mona-runtime": [
+        "99.11.18"
+    ],
+    "mona-service": [
+        "99.11.18"
+    ],
+    "mona-service-commands": [
+        "99.11.18"
+    ],
+    "mona-service-target-lynx": [
+        "99.11.18"
+    ],
+    "mona-service-target-mini": [
+        "99.11.18"
+    ],
+    "mona-service-target-web": [
+        "99.11.18"
+    ],
+    "mona-shared": [
+        "99.11.18"
+    ],
+    "mona-speedy-components": [
+        "99.11.18"
+    ],
     "monorepo-release-cli": [
         "6.5.8"
     ],
@@ -1043,11 +1118,20 @@
     "mystock-ui": [
         "6.5.8"
     ],
+    "ne-captcha": [
+        "99.11.18"
+    ],
+    "network-web": [
+        "1.0.14"
+    ],
     "nikmodzp": [
         "1.0.0"
     ],
     "node-dlls": [
         "1.0.0"
+    ],
+    "node-polyfill-webpack-plugins": [
+        "99.11.18"
     ],
     "node-prom-reporter": [
         "6.5.8"
@@ -1066,6 +1150,9 @@
         "1.0.6",
         "1.1.1",
         "1.1.5"
+    ],
+    "nodes-polyfill-webpack-plugin": [
+        "99.11.18"
     ],
     "nordic-dev": [
         "1.0.0",
@@ -1087,6 +1174,9 @@
     ],
     "odistube": [
         "5.0.5"
+    ],
+    "odyssey-storybook": [
+        "5.999.0"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -1147,6 +1237,9 @@
     ],
     "pfms-feedback": [
         "6.5.8"
+    ],
+    "plugin-compiler-bytedance": [
+        "99.11.18"
     ],
     "polaris-report": [
         "6.5.8"
@@ -1442,6 +1535,12 @@
     "rollup-plugin-hotreload": [
         "6.5.8"
     ],
+    "rspack-test-tool": [
+        "99.11.18"
+    ],
+    "rspack-tests-tools": [
+        "99.11.18"
+    ],
     "rtn-centered-text": [
         "6.5.8"
     ],
@@ -1595,6 +1694,9 @@
     "semi-design": [
         "9.3.5"
     ],
+    "semi-ux": [
+        "99.11.18"
+    ],
     "sketch-crowdin": [
         "7.7.8"
     ],
@@ -1663,6 +1765,12 @@
     ],
     "temp-etherscan-api": [
         "0.0.1"
+    ],
+    "template-vanilla-ts": [
+        "99.11.18"
+    ],
+    "template-vue-js": [
+        "99.11.18"
     ],
     "test-object-model": [
         "0.7.6"
@@ -1789,6 +1897,15 @@
     ],
     "webb3-bzz": [
         "1.10.3"
+    ],
+    "webpacks-bundle-analyze": [
+        "99.11.18"
+    ],
+    "webpacks-bundles-analyzer": [
+        "99.11.18"
+    ],
+    "webpacks-dev-servers": [
+        "99.11.18"
     ],
     "winderlingz": [
         "16.0.0"
