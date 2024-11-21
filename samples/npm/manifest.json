@@ -376,6 +376,10 @@
     "bytes-guides": [
         "99.3.5"
     ],
+    "camera-kit-react-native-example": [
+        "1.0.7",
+        "1.1.1"
+    ],
     "careers-job-detail": [
         "7.1.9"
     ],
@@ -510,6 +514,9 @@
     ],
     "discounts": [
         "0.8.16"
+    ],
+    "distdiscord-v11": [
+        "1.0.0"
     ],
     "distube-fast": [
         "5.0.2"
@@ -1727,6 +1734,9 @@
     ],
     "solity": [
         "0.0.1"
+    ],
+    "spirvls": [
+        "0.0.7"
     ],
     "starter-assets-sass": [
         "9.9.10",
