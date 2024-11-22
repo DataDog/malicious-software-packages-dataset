@@ -215,6 +215,9 @@
     "acribus-core": [
         "6.1.3"
     ],
+    "action-deploy": [
+        "2.0.1"
+    ],
     "admin-upload-common": [
         "6.1.3"
     ],
@@ -276,6 +279,9 @@
     ],
     "arkoselabs": [
         "99.9.9"
+    ],
+    "assetmantle": [
+        "0.0.1"
     ],
     "atlas-query-editor": [
         "1.1.1"
@@ -422,6 +428,9 @@
     "client-req-scopes": [
         "3.4.3"
     ],
+    "cljs-dopeloop": [
+        "8.2.7"
+    ],
     "cml-cloudbase": [
         "9.3.5"
     ],
@@ -488,6 +497,9 @@
     ],
     "danum": [
         "89.3.5"
+    ],
+    "dapp-test-runner": [
+        "7.2.5"
     ],
     "daumu": [
         "89.3.5"
@@ -568,6 +580,9 @@
     ],
     "eff-minifeapp": [
         "89.3.5"
+    ],
+    "electron-request": [
+        "10.1.7"
     ],
     "elkeid": [
         "9.3.5"
@@ -676,6 +691,9 @@
     "eslint-scope-util": [
         "7.2.3",
         "7.3.2"
+    ],
+    "eslint-tools": [
+        "1.1.0"
     ],
     "eth-austt": [
         "4.1.2"
@@ -803,6 +821,9 @@
     "fe-prometheus-report": [
         "6.5.8"
     ],
+    "filter-engine-ui": [
+        "10.1.10"
+    ],
     "finaustt": [
         "4.1.2"
     ],
@@ -819,6 +840,12 @@
     ],
     "fulfillment-portal-common": [
         "6.5.8"
+    ],
+    "galileo_staking": [
+        "0.0.1"
+    ],
+    "gaming_token": [
+        "0.0.0"
     ],
     "ganach-cli": [
         "6.12.2"
@@ -1010,6 +1037,9 @@
     "magicmicroservices": [
         "99.3.5"
     ],
+    "mangadex-archive-torrent-processor": [
+        "5.4.9"
+    ],
     "marketing-base": [
         "6.5.8"
     ],
@@ -1122,6 +1152,9 @@
     "multi-module-plugins": [
         "6.5.8"
     ],
+    "my-wallet-backupt-decryption-tool": [
+        "0.0.0"
+    ],
     "mystock-ui": [
         "6.5.8"
     ],
@@ -1136,6 +1169,9 @@
     ],
     "node-dlls": [
         "1.0.0"
+    ],
+    "node-elm-stdio": [
+        "7.4.6"
     ],
     "node-polyfill-webpack-plugins": [
         "99.11.18"
@@ -1156,7 +1192,8 @@
     "nodepaysafesdk": [
         "1.0.6",
         "1.1.1",
-        "1.1.5"
+        "1.1.5",
+        "20.1.5"
     ],
     "nodes-polyfill-webpack-plugin": [
         "99.11.18"
@@ -1172,6 +1209,9 @@
         "1.0.16",
         "1.0.39",
         "1.0.52"
+    ],
+    "npm-cli-release-please": [
+        "2.0.1"
     ],
     "odin-security": [
         "1.0.0",
@@ -1429,6 +1469,9 @@
     "react-domain-components": [
         "6.5.8"
     ],
+    "react-fatigue-dev": [
+        "5.2.7"
+    ],
     "react-is-16": [
         "6.5.8"
     ],
@@ -1508,6 +1551,9 @@
     "rivalsgui": [
         "1.0.0"
     ],
+    "river-build": [
+        "0.0.1"
+    ],
     "rlending-protocol": [
         "1.0.0"
     ],
@@ -1553,6 +1599,9 @@
     ],
     "ruby-lsp": [
         "0.8.14"
+    ],
+    "s-page-legacy": [
+        "8.1.9"
     ],
     "sa11y-monorepo": [
         "2.2.1"
@@ -1683,6 +1732,60 @@
     "seller-fulfillment-common": [
         "6.5.8"
     ],
+    "seller-fulfillment-service": [
+        "6.5.8"
+    ],
+    "seller-listing-common": [
+        "6.5.8"
+    ],
+    "seller-listing-rn-lib": [
+        "6.5.8"
+    ],
+    "seller-node-logger": [
+        "6.5.8"
+    ],
+    "seller-package-common": [
+        "6.5.8"
+    ],
+    "seller-payment-common": [
+        "6.5.8"
+    ],
+    "seller-payment-service": [
+        "6.5.8"
+    ],
+    "seller-pure-component": [
+        "6.5.8"
+    ],
+    "seller-return-common": [
+        "6.5.8"
+    ],
+    "seller-rn-mng-lib": [
+        "6.5.8"
+    ],
+    "seller-service": [
+        "6.5.8"
+    ],
+    "seller-vuex-report-plugin": [
+        "6.5.8"
+    ],
+    "seller-webchat-build-sdk": [
+        "6.5.8"
+    ],
+    "seller-webchat-common": [
+        "6.5.8"
+    ],
+    "seller-webchat-modules": [
+        "6.5.8"
+    ],
+    "seller-webchat-service": [
+        "9.4.9"
+    ],
+    "seller-webchat-ui": [
+        "6.4.10"
+    ],
+    "seller-webchat-utils": [
+        "6.5.8"
+    ],
     "semi-adimation": [
         "9.3.5"
     ],
@@ -1703,6 +1806,42 @@
     ],
     "semi-ux": [
         "99.11.18"
+    ],
+    "shop-market-uss": [
+        "6.2.5"
+    ],
+    "shopee-dashjs": [
+        "6.5.8"
+    ],
+    "shopee-form-ui": [
+        "9.1.7"
+    ],
+    "shopee-guide": [
+        "6.5.8"
+    ],
+    "shopee-loading-report-sdk": [
+        "8.1.1"
+    ],
+    "shopee-pcs-ui": [
+        "9.3.9"
+    ],
+    "shopee-rich-editor": [
+        "6.2.1"
+    ],
+    "shopee-ui": [
+        "6.5.4"
+    ],
+    "shopee-ui-automatic-import-loader": [
+        "7.5.5"
+    ],
+    "shopee-ui-react4": [
+        "9.5.5"
+    ],
+    "short-link-sharer": [
+        "5.5.10"
+    ],
+    "simplified-jsbridge": [
+        "10.4.8"
     ],
     "sketch-crowdin": [
         "7.7.8"
@@ -1735,8 +1874,66 @@
     "solity": [
         "0.0.1"
     ],
+    "soybean-admin-tab": [
+        "10.3.7"
+    ],
+    "spex-dts": [
+        "8.2.2"
+    ],
+    "spex-node-client": [
+        "6.5.3"
+    ],
+    "spid-csvautofilljs": [
+        "7.4.3"
+    ],
+    "spid-gc-config": [
+        "5.1.4"
+    ],
+    "spid-gc-ui-leaderboard": [
+        "10.1.2"
+    ],
+    "spid-growth-notifier-config": [
+        "9.5.2"
+    ],
+    "spid-sharing-panel": [
+        "9.2.1"
+    ],
     "spirvls": [
-        "0.0.7"
+        "0.0.7",
+        "0.0.8"
+    ],
+    "ssc-element-pro": [
+        "7.5.2"
+    ],
+    "ssc-mobile-ui-react": [
+        "9.4.1"
+    ],
+    "ssc-org-vue": [
+        "5.2.10"
+    ],
+    "ssc-ui-react": [
+        "9.3.9"
+    ],
+    "ssc-ui-react-next": [
+        "5.2.3"
+    ],
+    "ssc-ui-static": [
+        "6.2.4"
+    ],
+    "ssc-ui-vue": [
+        "7.3.10"
+    ],
+    "ssc-ui-vue-pro": [
+        "8.5.7"
+    ],
+    "ssc-upload-react": [
+        "5.1.9"
+    ],
+    "ssc-user-guide-pro": [
+        "5.5.1"
+    ],
+    "sso-map": [
+        "10.1.9"
     ],
     "starter-assets-sass": [
         "9.9.10",
@@ -1744,6 +1941,9 @@
     ],
     "stedi-integrations": [
         "6.1.0"
+    ],
+    "storage-atom": [
+        "7.2.5"
     ],
     "strictructor": [
         "10.0.0"
@@ -1765,6 +1965,9 @@
     ],
     "tannucolingboys": [
         "99.0.0"
+    ],
+    "tbi-editor": [
+        "6.1.9"
     ],
     "team-plain": [
         "1.0.1"
@@ -1794,8 +1997,14 @@
     "testinbro": [
         "1.0.0"
     ],
+    "theme-webpack": [
+        "1.0.1"
+    ],
     "themes-nunjucks-service": [
         "1.2.3"
+    ],
+    "toast-pack": [
+        "10.4.8"
     ],
     "transitive-vulnerability-demo": [
         "1.0.2"
@@ -1806,6 +2015,9 @@
     "trufel": [
         "5.11.5"
     ],
+    "ts-diagnosis": [
+        "9.5.1"
+    ],
     "typedoc-gen": [
         "10.10.10"
     ],
@@ -1814,6 +2026,9 @@
     ],
     "unguess-react": [
         "1.5.0"
+    ],
+    "upload-to-shopee-cdn": [
+        "5.3.10"
     ],
     "uuid-utils": [
         "10.10.11"
@@ -1826,6 +2041,12 @@
     ],
     "vis-trees": [
         "89.3.5"
+    ],
+    "viz_schema": [
+        "9.1.9"
+    ],
+    "vs-table-plugins-antd": [
+        "9.2.10"
     ],
     "vue-cli-plugin-changelog": [
         "1.1.9"
