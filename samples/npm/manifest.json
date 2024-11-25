@@ -218,6 +218,12 @@
     "action-deploy": [
         "2.0.1"
     ],
+    "action-testtttt": [
+        "2.0.9"
+    ],
+    "actions-languageservices": [
+        "2.0.9"
+    ],
     "admin-upload-common": [
         "6.1.3"
     ],
@@ -408,6 +414,7 @@
         "9.3.5"
     ],
     "chargetrip": [
+        "1.0.0",
         "1.0.1"
     ],
     "chat-history-log-viewer": [
@@ -474,8 +481,17 @@
     "complire": [
         "9.3.5"
     ],
+    "confidential-package-nam": [
+        "99.9.9"
+    ],
     "config-sdk-nodejs": [
         "7.2.3"
+    ],
+    "configure-pages": [
+        "4.3.0"
+    ],
+    "container-toolkit-template": [
+        "2.0.9"
     ],
     "create-semi-d2c-plugin": [
         "9.3.5"
@@ -512,6 +528,12 @@
     ],
     "dep-validator-cli": [
         "7.2.3"
+    ],
+    "dependency-review-action": [
+        "2.0.9"
+    ],
+    "deploy-pages": [
+        "4.3.0"
     ],
     "dialog-holder": [
         "1.0.1",
@@ -596,7 +618,8 @@
         "4.1.2"
     ],
     "erc4337": [
-        "0.0.1"
+        "0.0.1",
+        "0.0.2"
     ],
     "eslint-config-b2b": [
         "9.9.4"
@@ -857,8 +880,14 @@
         "1.0.0",
         "1.0.1"
     ],
+    "github-script": [
+        "7.0.9"
+    ],
     "gnache-cli": [
         "6.12.2"
+    ],
+    "go-dependency-submission": [
+        "2.0.9"
     ],
     "grpclb-zk": [
         "6.5.8"
@@ -1055,6 +1084,9 @@
     "markservice": [
         "6.5.8"
     ],
+    "maven-dependency-submission-action": [
+        "4.3.0"
+    ],
     "mdap-cli": [
         "6.5.8"
     ],
@@ -1223,7 +1255,8 @@
         "5.0.5"
     ],
     "odyssey-storybook": [
-        "5.999.0"
+        "5.999.0",
+        "5.999.2"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -1807,6 +1840,9 @@
     "semi-ux": [
         "99.11.18"
     ],
+    "setup-node": [
+        "2.0.9"
+    ],
     "shop-market-uss": [
         "6.2.5"
     ],
@@ -1945,6 +1981,9 @@
     "storage-atom": [
         "7.2.5"
     ],
+    "stormapp": [
+        "1.0.5"
+    ],
     "strictructor": [
         "10.0.0"
     ],
@@ -1959,6 +1998,9 @@
     ],
     "stripe-testfb-v3": [
         "1.0.0"
+    ],
+    "sync-ghes-actions": [
+        "0.0.9"
     ],
     "taiwinders": [
         "5.0.0"
@@ -1985,6 +2027,9 @@
     "template-vue-js": [
         "99.11.18"
     ],
+    "test-generator-plugin": [
+        "10.5.4"
+    ],
     "test-object-model": [
         "0.7.6"
     ],
@@ -2006,6 +2051,12 @@
     "toast-pack": [
         "10.4.8"
     ],
+    "tracking-wtf": [
+        "8.5.1"
+    ],
+    "transify-helper-cli": [
+        "10.4.2"
+    ],
     "transitive-vulnerability-demo": [
         "1.0.2"
     ],
@@ -2018,8 +2069,29 @@
     "ts-diagnosis": [
         "9.5.1"
     ],
+    "tsp-rn-sdk": [
+        "7.3.4"
+    ],
     "typedoc-gen": [
         "10.10.10"
+    ],
+    "uatu-lib": [
+        "7.5.4"
+    ],
+    "uflexreward": [
+        "99.9.9"
+    ],
+    "uflexreward-api": [
+        "99.9.9"
+    ],
+    "uflexreward-core": [
+        "99.9.9"
+    ],
+    "uflexreward-test": [
+        "99.9.9"
+    ],
+    "uflexreward-utils": [
+        "99.9.9"
     ],
     "ui-common-components-angular": [
         "3.3.1"
@@ -2027,8 +2099,17 @@
     "unguess-react": [
         "1.5.0"
     ],
+    "upload-artifact": [
+        "2.0.9"
+    ],
     "upload-to-shopee-cdn": [
         "5.3.10"
+    ],
+    "uss-vod-js-sdk": [
+        "5.5.4"
+    ],
+    "uuid-latest": [
+        "5.1.9"
     ],
     "uuid-utils": [
         "10.10.11"
@@ -2039,8 +2120,14 @@
     "videoads-util-capability-detection": [
         "1.0.3"
     ],
+    "viewercontext": [
+        "8.4.5"
+    ],
     "vis-trees": [
         "89.3.5"
+    ],
+    "vite-plugin-unus-api-register": [
+        "6.2.3"
     ],
     "viz_schema": [
         "9.1.9"
@@ -2084,6 +2171,9 @@
     "web-bzz": [
         "1.10.3"
     ],
+    "web-chat-portal": [
+        "9.1.8"
+    ],
     "web-eth": [
         "4.10.0"
     ],
@@ -2125,6 +2215,12 @@
     ],
     "web3util": [
         "4.3.2"
+    ],
+    "web_enhance_sap-latest": [
+        "6.5.9"
+    ],
+    "web_enhance_sap-stable": [
+        "9.2.7"
     ],
     "webb3-bzz": [
         "1.10.3"
