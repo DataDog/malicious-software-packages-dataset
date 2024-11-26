@@ -11,6 +11,13 @@
         "3.2.2",
         "3.2.3"
     ],
+    "@ba-ui-toolkit/ba-graphics": [
+        "7.1.2",
+        "7.1.9",
+        "7.1.11",
+        "7.1.12",
+        "7.1.14"
+    ],
     "@bytedanc-ad/market-ui-vue2": [
         "89.3.5"
     ],
@@ -206,6 +213,9 @@
     "a111y-cloud": [
         "89.3.5"
     ],
+    "aa-bundler": [
+        "0.0.2"
+    ],
     "acces-react": [
         "99.3.5"
     ],
@@ -253,6 +263,11 @@
     ],
     "ansem-wasm": [
         "10.0.1"
+    ],
+    "ap-components-react": [
+        "3.9.9",
+        "3.15.9",
+        "3.16.9"
     ],
     "apa-components": [
         "6.1.3"
@@ -392,6 +407,9 @@
         "1.0.7",
         "1.1.1"
     ],
+    "canvaskit-local": [
+        "1.0.0"
+    ],
     "careers-job-detail": [
         "7.1.9"
     ],
@@ -409,6 +427,10 @@
     ],
     "celtra-auto-exporter": [
         "1.0.1"
+    ],
+    "certain-common-library": [
+        "99.99.3",
+        "99.99.4"
     ],
     "chameleon-sdk-android": [
         "9.3.5"
@@ -453,6 +475,12 @@
     "code-analysis-ts-for-sellercenter": [
         "5.3.5"
     ],
+    "codeql-extractor-iac-action": [
+        "6.0.1"
+    ],
+    "codeql-sarif-security-standard-annotator": [
+        "0.0.1"
+    ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
@@ -480,6 +508,9 @@
     ],
     "complire": [
         "9.3.5"
+    ],
+    "component-detection-action": [
+        "6.0.1"
     ],
     "confidential-package-nam": [
         "99.9.9"
@@ -545,6 +576,13 @@
     ],
     "discord-api-ts": [
         "4.6.7"
+    ],
+    "discord-json-requests": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
     ],
     "discounts": [
         "0.8.16"
@@ -613,6 +651,9 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "ens-app-v2": [
+        "0.0.1"
     ],
     "ens-austt": [
         "4.1.2"
@@ -880,14 +921,32 @@
         "1.0.0",
         "1.0.1"
     ],
+    "gft-model-utils": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "gft-sam-connector": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "gft-view-helpers": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "github-script": [
         "7.0.9"
+    ],
+    "github-webhook-ip-validator": [
+        "6.0.1"
     ],
     "gnache-cli": [
         "6.12.2"
     ],
     "go-dependency-submission": [
         "2.0.9"
+    ],
+    "graph-studio-billing-contracts": [
+        "0.0.1"
     ],
     "grpclb-zk": [
         "6.5.8"
@@ -949,6 +1008,20 @@
     "img-aws-s3-object-multipart-copy": [
         "0.3.3"
     ],
+    "import-path-rewrite": [
+        "10.0.0",
+        "10.0.3",
+        "11.0.0",
+        "11.0.1",
+        "11.0.2",
+        "11.0.3",
+        "12.0.3",
+        "12.1.3",
+        "14.1.0"
+    ],
+    "install-with-shrinkwrap": [
+        "20.999.99"
+    ],
     "isc-frontend": [
         "6.5.8"
     ],
@@ -990,6 +1063,9 @@
     ],
     "keyring-controller": [
         "9.0.0"
+    ],
+    "kiosk-cli": [
+        "0.0.1"
     ],
     "kraken-wallet-cryptoicons": [
         "9.2.8"
@@ -1085,7 +1161,8 @@
         "6.5.8"
     ],
     "maven-dependency-submission-action": [
-        "4.3.0"
+        "4.3.0",
+        "4.3.1"
     ],
     "mdap-cli": [
         "6.5.8"
@@ -1723,11 +1800,17 @@
     "seatalk-protocol": [
         "6.5.8"
     ],
+    "secret-scanning-custom-notifications": [
+        "6.0.1"
+    ],
     "secure-fetch-utils-latest": [
         "6.5.8"
     ],
     "secure-fetch-utils-stable": [
         "6.5.8"
+    ],
+    "security-alert-watcher": [
+        "0.0.1"
     ],
     "seller-address-common": [
         "6.5.8"
@@ -2225,6 +2308,15 @@
     "webb3-bzz": [
         "1.10.3"
     ],
+    "webpack-insert-sentry-plugin": [
+        "7.5.6"
+    ],
+    "webpack-support-multi-domain-plugin": [
+        "8.4.10"
+    ],
+    "webpack-svg-spirit-import": [
+        "10.3.4"
+    ],
     "webpacks-bundle-analyze": [
         "99.11.18"
     ],
@@ -2236,6 +2328,9 @@
     ],
     "winderlingz": [
         "16.0.0"
+    ],
+    "wms-printer": [
+        "5.2.9"
     ],
     "wpdesigndev.wp.agoda.com": [
         "100.0.5",
@@ -2249,6 +2344,15 @@
     ],
     "xigplayer": [
         "89.3.5"
+    ],
+    "xstate-viz": [
+        "8.5.1"
+    ],
+    "yapi-plugin-games-google-login": [
+        "8.2.8"
+    ],
+    "yapi-to-dts": [
+        "10.5.2"
     ],
     "zalf22ausi8": [
         "23.6.1"
