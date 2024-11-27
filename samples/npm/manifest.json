@@ -298,6 +298,9 @@
         "1.0.8",
         "1.1.3"
     ],
+    "aries-bifold-root": [
+        "1.0.0"
+    ],
     "arkoselabs": [
         "99.9.9"
     ],
@@ -459,6 +462,9 @@
     ],
     "cljs-dopeloop": [
         "8.2.7"
+    ],
+    "cloud-functions-schedule-instance": [
+        "1.0.0"
     ],
     "cml-cloudbase": [
         "9.3.5"
@@ -994,6 +1000,7 @@
         "1.0.0"
     ],
     "i18-utils": [
+        "0.0.1-security.2",
         "5.0.0"
     ],
     "iconpark": [
@@ -1275,6 +1282,10 @@
     ],
     "nikmodzp": [
         "1.0.0"
+    ],
+    "node-commerce-web": [
+        "1.0.0",
+        "2.0.2"
     ],
     "node-dlls": [
         "1.0.0"
@@ -2080,6 +2091,9 @@
         "1.0.0"
     ],
     "stripe-testfb-v3": [
+        "1.0.0"
+    ],
+    "symphony-markdown": [
         "1.0.0"
     ],
     "sync-ghes-actions": [
