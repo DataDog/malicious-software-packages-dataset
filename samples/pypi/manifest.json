@@ -113,6 +113,9 @@
     "androidspyeye": [
         "2.5"
     ],
+    "antibyfron": [
+        "0.0.1"
+    ],
     "aowdjpawojd": [],
     "arangodb-driver": [
         "1.0.0"
@@ -190,6 +193,9 @@
     "artifact-lab-3-package-e7ffd2ef": [
         "0.1.1"
     ],
+    "artindex": [
+        "0.0.1"
+    ],
     "arubomber": [],
     "asciidrawing": [
         "0.1.2"
@@ -217,6 +223,9 @@
     "asyncoi": [],
     "auto-scrubber": [
         "0.1"
+    ],
+    "automsg": [
+        "0.0.1"
     ],
     "axderz": [
         "1.0.4"
@@ -599,6 +608,9 @@
     "ctfpipshell": [
         "0.0.4"
     ],
+    "dahood": [
+        "0.0.3"
+    ],
     "darknegrobbc": [],
     "dasdhaiusd1212": [
         "1.0.117"
@@ -763,6 +775,9 @@
     ],
     "embeddings-validation": [
         "99.9.9"
+    ],
+    "embeds": [
+        "0.0.1"
     ],
     "emumonitor": [
         "912.6"
@@ -1127,6 +1142,9 @@
     ],
     "evannlegoat": [
         "1.0.4"
+    ],
+    "ezauto": [
+        "0.0.1"
     ],
     "fadlearner": [
         "912.6"
@@ -2010,6 +2028,10 @@
     "mnolith": [
         "912.6"
     ],
+    "modeflow": [
+        "0.0.1",
+        "0.1.0"
+    ],
     "modelize": [
         "1"
     ],
@@ -2647,6 +2669,12 @@
     "pyaacv": [
         "0.1"
     ],
+    "pyadd": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.2",
+        "0.1.3"
+    ],
     "pyapicolorv2": [
         "0.0.1"
     ],
@@ -2794,6 +2822,9 @@
     "pylint-sys": [
         "8.15.6"
     ],
+    "pyloy": [
+        "0.0.1"
+    ],
     "pymatcha": [
         "0.1"
     ],
@@ -2857,6 +2888,9 @@
     ],
     "pysisyphes": [
         "912.6"
+    ],
+    "pysleek": [
+        "0.0.1"
     ],
     "pysofti": [],
     "pysolara": [
@@ -2923,6 +2957,9 @@
     ],
     "pytypier": [
         "1.0.2"
+    ],
+    "pyvantq": [
+        "0.0.1"
     ],
     "pywhool": [
         "1.0.0"
@@ -3132,6 +3169,15 @@
     "robonotif": [],
     "rock51": [
         "1.0.0"
+    ],
+    "rodll": [
+        "0.0.1"
+    ],
+    "roinject": [
+        "0.0.1"
+    ],
+    "rolib": [
+        "0.0.1"
     ],
     "rozenitro": [
         "1.0"
@@ -4242,6 +4288,9 @@
     ],
     "ucap": [
         "3.6.1"
+    ],
+    "uidesign": [
+        "0.0.1"
     ],
     "ulibasset": [],
     "ulrlib3": [],
