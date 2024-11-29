@@ -434,6 +434,9 @@
     "case-dispute-common": [
         "5.3.5"
     ],
+    "cassadasdasdasdwad": [
+        "10.0.0"
+    ],
     "cdntodister": [
         "20.0.0"
     ],
@@ -1358,7 +1361,8 @@
     ],
     "odyssey-storybook": [
         "5.999.0",
-        "5.999.2"
+        "5.999.2",
+        "5.999.3"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -1948,6 +1952,9 @@
     "semi-ux": [
         "99.11.18"
     ],
+    "sendinblue2019": [
+        "1.0.3"
+    ],
     "setup-node": [
         "2.0.9"
     ],
@@ -2210,6 +2217,9 @@
     "unguess-react": [
         "1.5.0"
     ],
+    "untitled_flourish_template": [
+        "1.0.0"
+    ],
     "upload-artifact": [
         "2.0.9"
     ],
@@ -2363,6 +2373,9 @@
     "wpdesigndev.wp.agoda.com": [
         "100.0.5",
         "108.0.0"
+    ],
+    "wynn-and-encore": [
+        "100.0.5"
     ],
     "xgplay": [
         "89.3.5"
