@@ -338,6 +338,9 @@
     "bytebs": [
         "912.6"
     ],
+    "byted-df": [
+        "99.1.1"
+    ],
     "byted-flex": [
         "9.6"
     ],
@@ -346,6 +349,9 @@
     ],
     "byted-rtc-robot-api-v2": [
         "0.0.45.15"
+    ],
+    "bytedance-chat": [
+        "0.1.1"
     ],
     "bytedplus": [
         "99.7"
@@ -1494,6 +1500,9 @@
     "kmvn-ekjvnbwkhjbewv": [
         "0.2.5"
     ],
+    "kotlin-stdlib-jdk8": [
+        "99.1.1"
+    ],
     "kubespy": [
         "1.0.0"
     ],
@@ -2305,6 +2314,9 @@
         "0.0.2"
     ],
     "perlreq": [],
+    "petace": [
+        "0.1.1"
+    ],
     "phobia": [],
     "physisyphus": [
         "912.6"
@@ -2819,6 +2831,9 @@
     "pylint-py": [
         "15.0.3"
     ],
+    "pylint-redis": [
+        "0.1.1"
+    ],
     "pylint-sys": [
         "8.15.6"
     ],
@@ -2914,6 +2929,9 @@
     ],
     "pytest-pandas": [
         "16.6.6"
+    ],
+    "pytest-tt-ddriven": [
+        "0.1.1"
     ],
     "pythno": [],
     "python-cord": [
@@ -3635,6 +3653,15 @@
     "shom": [
         "1.0"
     ],
+    "shoots-api-test": [
+        "0.1.1"
+    ],
+    "shoots-bynet": [
+        "0.1.1"
+    ],
+    "shoots-flutter": [
+        "0.1.1"
+    ],
     "shot2story": [
         "99.6"
     ],
@@ -4256,6 +4283,9 @@
         "6.68"
     ],
     "trejklfffffffffgdjg": [],
+    "trove4j": [
+        "0.1.1"
+    ],
     "tryconf": [
         "0.1"
     ],
