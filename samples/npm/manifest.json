@@ -557,6 +557,9 @@
     "custom-ui-extension-template": [
         "1.0.1"
     ],
+    "cx-logger-library": [
+        "1.1.1"
+    ],
     "cx-web-themes": [
         "200.0.0"
     ],
@@ -1364,6 +1367,9 @@
         "5.999.2",
         "5.999.3"
     ],
+    "oj-odcs-category-selector": [
+        "3.0.2"
+    ],
     "onboarding-ops": [
         "6.5.8"
     ],
@@ -1823,6 +1829,9 @@
     "scm-retail-ui": [
         "6.5.8"
     ],
+    "sdg-indicators-usa": [
+        "105.0.6"
+    ],
     "seatalk-openapi": [
         "6.5.8"
     ],
@@ -2190,6 +2199,9 @@
     "tsp-rn-sdk": [
         "7.3.4"
     ],
+    "ttd-lithium": [
+        "1.1.2"
+    ],
     "typedoc-gen": [
         "10.10.10"
     ],
@@ -2234,6 +2246,9 @@
     ],
     "uuid-utils": [
         "10.10.11"
+    ],
+    "valid-ip-ban": [
+        "3.3.3"
     ],
     "varmor": [
         "9.3.5"
