@@ -142,6 +142,9 @@
     "@meneprojects/body-parsers": [
         "1.0.3"
     ],
+    "@metrics-service/static": [
+        "18.3.1"
+    ],
     "@mnlo/common-user": [
         "0.0.1"
     ],
@@ -177,6 +180,12 @@
         "9.89.9",
         "9.99.99"
     ],
+    "@orange-team/map-rank-tracker-frontend": [
+        "158.1.5"
+    ],
+    "@persona-builder/client": [
+        "158.1.5"
+    ],
     "@pgc-web/web-creation": [
         "2.2.2"
     ],
@@ -189,6 +198,21 @@
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
+    ],
+    "@smt-front/analytics": [
+        "158.1.5"
+    ],
+    "@smt-front/common": [
+        "158.1.5"
+    ],
+    "@smt-front/inner-landing": [
+        "158.1.5"
+    ],
+    "@smt-front/poster": [
+        "158.1.5"
+    ],
+    "@smt-front/tracker": [
+        "158.1.5"
     ],
     "@solana/web3.js": [
         "1.95.7"
@@ -409,6 +433,9 @@
     "bundler-apis": [
         "0.0.1"
     ],
+    "buoyant-utils": [
+        "1.0.0"
+    ],
     "byte-guides": [
         "99.3.5"
     ],
@@ -457,6 +484,10 @@
     ],
     "cdntodister": [
         "20.0.0"
+    ],
+    "cdp-wallet-manager": [
+        "0.1.0",
+        "1.0.0"
     ],
     "celtra-auto-exporter": [
         "1.0.1"
@@ -671,6 +702,10 @@
     "easy-upgrade": [
         "1.0.1"
     ],
+    "eb-docs": [
+        "2.0.0",
+        "3.0.0"
+    ],
     "eds-charts": [
         "5.4.3"
     ],
@@ -682,6 +717,9 @@
     ],
     "eff-minifeapp": [
         "89.3.5"
+    ],
+    "eip-681-qr-generator": [
+        "1.0.0"
     ],
     "electron-request": [
         "10.1.7"
@@ -1458,6 +1496,9 @@
     ],
     "patch-package-lucky-video": [
         "6.5.8"
+    ],
+    "payment-tx-params-api": [
+        "0.1.0"
     ],
     "pb-ts-gen": [
         "6.5.8"
