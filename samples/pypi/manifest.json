@@ -4347,6 +4347,10 @@
     ],
     "ulibasset": [],
     "ulrlib3": [],
+    "ultralytics": [
+        "8.3.41",
+        "8.3.42"
+    ],
     "ultraobfuscator": [
         "1.0.0"
     ],
