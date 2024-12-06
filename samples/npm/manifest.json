@@ -20,6 +20,15 @@
     "@afound/common": [
         "10.10.12"
     ],
+    "@aftersale/react-eva": [
+        "1.1.1"
+    ],
+    "@al-ui/useappinsights": [
+        "1.0.1"
+    ],
+    "@alaska-its/design-tokens": [
+        "1.0.1"
+    ],
     "@atticuss-sra/test-pkg-x4": [
         "3.2.0",
         "3.2.1",
@@ -434,7 +443,8 @@
         "0.0.1"
     ],
     "buoyant-utils": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "byte-guides": [
         "99.3.5"
@@ -484,6 +494,15 @@
     ],
     "cdntodister": [
         "20.0.0"
+    ],
+    "cdp-agentkit": [
+        "1.0.0"
+    ],
+    "cdp-agentkit-monorepo": [
+        "1.0.0"
+    ],
+    "cdp-agentkit-nodejs": [
+        "1.0.0"
     ],
     "cdp-wallet-manager": [
         "0.1.0",
@@ -1304,6 +1323,9 @@
     "ml-translate-vis": [
         "991.9.9"
     ],
+    "mockapie": [
+        "5.5.8"
+    ],
     "modernliner": [
         "30.0.0"
     ],
@@ -1390,6 +1412,9 @@
     ],
     "network-web": [
         "1.0.14"
+    ],
+    "nextjs-app-router": [
+        "0.1.0"
     ],
     "nikmodzp": [
         "1.0.0"
@@ -1483,6 +1508,9 @@
     "oss-feature-flags": [
         "7.7.7",
         "7.7.8"
+    ],
+    "otc-echo": [
+        "8.1.7"
     ],
     "pap-sdk": [
         "6.5.8"
@@ -1762,6 +1790,12 @@
     "refocus-sgt-trust1": [
         "2.2.0",
         "2.2.1"
+    ],
+    "reftest-helper": [
+        "8.4.1"
+    ],
+    "reftest-helper-for-ae1x": [
+        "7.5.7"
     ],
     "relay-github-root": [
         "100.0.2"
@@ -2298,6 +2332,9 @@
     "temp-etherscan-api": [
         "0.0.1"
     ],
+    "template-fullstack": [
+        "8.4.10"
+    ],
     "template-vanilla-ts": [
         "99.11.18"
     ],
@@ -2428,6 +2465,9 @@
     ],
     "vue-cli-plugin-changelog": [
         "1.1.9"
+    ],
+    "vue-midata": [
+        "9.5.2"
     ],
     "vue-nect": [
         "9.3.5"
@@ -2573,5 +2613,8 @@
     ],
     "zama1.js": [
         "1.0.0"
+    ],
+    "zap_contracts": [
+        "7.2.10"
     ]
 }
