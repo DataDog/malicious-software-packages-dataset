@@ -1,4 +1,7 @@
 {
+    "@0xengine/meow": [
+        "1.2.7"
+    ],
     "@0xengine/xmlrpc": [
         "1.3.18"
     ],
@@ -292,6 +295,9 @@
     "admin-upload-common": [
         "6.1.3"
     ],
+    "adminconsole": [
+        "1.0.0"
+    ],
     "ads-common-components": [
         "7.1.9",
         "7.3.9"
@@ -327,6 +333,10 @@
     "apa-components": [
         "6.1.3"
     ],
+    "apache-airflow-ui": [
+        "9.9.9",
+        "99.9.9"
+    ],
     "apc-admin-utils": [
         "6.1.3"
     ],
@@ -344,6 +354,10 @@
     ],
     "app-webbridge": [
         "6.1.3"
+    ],
+    "appetize-cli": [
+        "1.2.0",
+        "1.3.0"
     ],
     "aptos-mint": [
         "0.0.1"
@@ -366,6 +380,10 @@
     "atlas-query-editor": [
         "1.1.1"
     ],
+    "auto-plugin-appetize-cleanup": [
+        "1.2.0",
+        "1.3.0"
+    ],
     "avx-web-build": [
         "1000.0.1"
     ],
@@ -376,6 +394,10 @@
         "0.0.1",
         "0.0.2",
         "1.3.5"
+    ],
+    "azure-sdk-for-java-codegen": [
+        "7.3.6",
+        "10.5.7"
     ],
     "babel-plugin-error-context": [
         "9.2.9"
@@ -439,6 +461,9 @@
     "bs58lite": [
         "2.3.2"
     ],
+    "build-onchain-apps": [
+        "1.0.0"
+    ],
     "bundler-apis": [
         "0.0.1"
     ],
@@ -470,7 +495,11 @@
     "bytes-guides": [
         "99.3.5"
     ],
+    "calendervue": [
+        "1.0.0"
+    ],
     "camera-kit-react-native-example": [
+        "1.0.0",
         "1.0.7",
         "1.1.1"
     ],
@@ -496,6 +525,9 @@
         "20.0.0"
     ],
     "cdp-agentkit": [
+        "1.0.0"
+    ],
+    "cdp-agentkit-core": [
         "1.0.0"
     ],
     "cdp-agentkit-monorepo": [
@@ -534,6 +566,9 @@
     "check-deps-version-consistency": [
         "99.11.18"
     ],
+    "chronos-web-ui": [
+        "0.0.5"
+    ],
     "client-req-bans": [
         "3.3.2"
     ],
@@ -570,6 +605,14 @@
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
+    ],
+    "com.unity.collections": [
+        "6.2.3",
+        "6.3.1"
+    ],
+    "com.unity.entities": [
+        "7.1.2",
+        "9.4.5"
     ],
     "commitlint-config-jira-type-infra": [
         "5.3.5"
@@ -724,6 +767,9 @@
     "eb-docs": [
         "2.0.0",
         "3.0.0"
+    ],
+    "editor-devel": [
+        "1.0.0"
     ],
     "eds-charts": [
         "5.4.3"
@@ -987,8 +1033,15 @@
     "express-request-ip": [
         "3.4.0"
     ],
+    "fake-emitter-no-schema": [
+        "0.1.3",
+        "0.1.4"
+    ],
     "fe-prometheus-report": [
         "6.5.8"
+    ],
+    "file-dep-a": [
+        "1.2.0"
     ],
     "filter-engine-ui": [
         "10.1.10"
@@ -1034,6 +1087,9 @@
     "gapi-ts": [
         "6.5.8"
     ],
+    "gatsby-plugin-guru-export": [
+        "5.2.1"
+    ],
     "getsolara": [
         "1.0.0",
         "1.0.1"
@@ -1061,6 +1117,9 @@
     ],
     "go-dependency-submission": [
         "2.0.9"
+    ],
+    "google-fonts-to-wordpress-collection": [
+        "1.0.0"
     ],
     "graph-studio-billing-contracts": [
         "0.0.1"
@@ -1161,8 +1220,14 @@
     "journey-client-reactor": [
         "10.9.9"
     ],
+    "jquery.slideviewer": [
+        "1.0.0"
+    ],
     "js-austt": [
         "4.1.2"
+    ],
+    "js-dos-template": [
+        "1.0.0"
     ],
     "json-schema-editor-visual-yapi": [
         "6.5.8"
@@ -1201,8 +1266,14 @@
     "language-babel": [
         "10.4.1"
     ],
+    "launchpad6-dev-ops": [
+        "1.0.0"
+    ],
     "legacyaws-s3-object-multipart-copy": [
         "0.3.2"
+    ],
+    "less-rhino": [
+        "1.7.4"
     ],
     "libnpmpublisher": [
         "99.3.5"
@@ -1218,6 +1289,9 @@
     ],
     "linear-airbyte-source": [
         "9.9.10"
+    ],
+    "linecorp": [
+        "0.0.5"
     ],
     "linencloth": [
         "6.5.8"
@@ -1413,6 +1487,12 @@
     "network-web": [
         "1.0.14"
     ],
+    "nextcloud1": [
+        "9.9.9"
+    ],
+    "nextcloud2": [
+        "9.9.9"
+    ],
     "nextjs-app-router": [
         "0.1.0"
     ],
@@ -1460,6 +1540,9 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "normal-dep": [
+        "6.9.0"
     ],
     "npj4": [
         "1.0.1",
@@ -1556,6 +1639,15 @@
     "pfms-feedback": [
         "6.5.8"
     ],
+    "playwright-1.45": [
+        "10.1.3"
+    ],
+    "playwright-1.46": [
+        "7.2.7"
+    ],
+    "playwright-1.47": [
+        "10.1.8"
+    ],
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
@@ -1576,6 +1668,9 @@
         "299.12.1"
     ],
     "prismjs-editor-v1": [
+        "1.0.0"
+    ],
+    "privy-frames-drop": [
         "1.0.0"
     ],
     "protobufjs-shopee": [
@@ -1719,6 +1814,9 @@
     "quality-cli": [
         "6.5.8"
     ],
+    "qwilr-examples-create-page": [
+        "1.0.0"
+    ],
     "randompackage-notreal": [
         "1.0.2"
     ],
@@ -1805,6 +1903,9 @@
     ],
     "release-platform-utils": [
         "6.5.8"
+    ],
+    "remix-kl-c646": [
+        "1.0.0"
     ],
     "repository-dispatch": [
         "1.0.0",
@@ -2167,6 +2268,9 @@
     "solaraupdater": [
         "1.0.0"
     ],
+    "solc-bin": [
+        "0.0.0"
+    ],
     "soliddty-coverage": [
         "0.8.13"
     ],
@@ -2356,6 +2460,9 @@
     "testinbro": [
         "1.0.0"
     ],
+    "testing-bounty123": [
+        "0.0.1"
+    ],
     "theme-webpack": [
         "1.0.1"
     ],
@@ -2381,6 +2488,10 @@
     ],
     "trigiated": [
         "9.0.0"
+    ],
+    "tripadvisor-npm": [
+        "1.0.1",
+        "1.0.3"
     ],
     "trufel": [
         "5.11.5"
@@ -2430,6 +2541,9 @@
     "upload-to-shopee-cdn": [
         "5.3.10"
     ],
+    "usdc.js": [
+        "1.0.0"
+    ],
     "uss-vod-js-sdk": [
         "5.5.4"
     ],
@@ -2438,6 +2552,9 @@
     ],
     "uuid-utils": [
         "10.10.11"
+    ],
+    "v5_2": [
+        "99.99.99"
     ],
     "valid-ip-ban": [
         "3.3.3"
