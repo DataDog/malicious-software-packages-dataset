@@ -124,6 +124,9 @@
         "100.99.99",
         "100.999.99"
     ],
+    "@haysee/v5.2": [
+        "9.0.0"
+    ],
     "@isfe-common/image-minimizer": [
         "9.1.30"
     ],
@@ -436,6 +439,9 @@
     "bigumner-js": [
         "9.1.2"
     ],
+    "binance-toolbox-nodejs": [
+        "1.0.0"
+    ],
     "bioma": [
         "99.11.18"
     ],
@@ -521,6 +527,9 @@
     "cassadasdasdasdwad": [
         "10.0.0"
     ],
+    "cdc-chatbot": [
+        "99.99.99"
+    ],
     "cdntodister": [
         "20.0.0"
     ],
@@ -579,7 +588,8 @@
         "8.2.7"
     ],
     "cloud-functions-schedule-instance": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "cml-cloudbase": [
         "9.3.5"
@@ -629,6 +639,9 @@
     "commitlint-plugin-rules-an": [
         "7.2.3"
     ],
+    "comparison-interface": [
+        "0.0.1"
+    ],
     "compilre": [
         "9.3.5"
     ],
@@ -652,6 +665,9 @@
     ],
     "container-toolkit-template": [
         "2.0.9"
+    ],
+    "core-registry-dashboardx": [
+        "1.0.2"
     ],
     "create-semi-d2c-plugin": [
         "9.3.5"
@@ -701,6 +717,18 @@
     "deploy-pages": [
         "4.3.0"
     ],
+    "devnet-deploy": [
+        "1.0.0"
+    ],
+    "dexter123": [
+        "1.0.2"
+    ],
+    "dhp-http-lib": [
+        "10.3.1"
+    ],
+    "dhp-logging-lib": [
+        "7.2.7"
+    ],
     "dialog-holder": [
         "1.0.1",
         "1.0.2",
@@ -730,6 +758,9 @@
     ],
     "docs-ux": [
         "99.11.18"
+    ],
+    "docu-scripts": [
+        "0.0.0"
     ],
     "dotnet-runtime": [
         "991.9.9"
@@ -1033,9 +1064,15 @@
     "express-request-ip": [
         "3.4.0"
     ],
+    "fake-emitter": [
+        "10.8.11"
+    ],
     "fake-emitter-no-schema": [
         "0.1.3",
         "0.1.4"
+    ],
+    "fake-yaml": [
+        "0.0.5"
     ],
     "fe-prometheus-report": [
         "6.5.8"
@@ -1182,6 +1219,9 @@
     "iconscout-unicons-tarball": [
         "6.5.8"
     ],
+    "idkit-monorepo": [
+        "1.3.0"
+    ],
     "ilogtail": [
         "99.11.18"
     ],
@@ -1213,6 +1253,9 @@
     ],
     "item-sold-count": [
         "6.5.8"
+    ],
+    "jekyll-doxy": [
+        "4.0.0"
     ],
     "jira-rest-typescript": [
         "6.5.8"
@@ -1275,6 +1318,9 @@
     "less-rhino": [
         "1.7.4"
     ],
+    "lfs-au-website-build": [
+        "1.0.0"
+    ],
     "libnpmpublisher": [
         "99.3.5"
     ],
@@ -1283,6 +1329,9 @@
     ],
     "libpnpmpublish": [
         "99.3.5"
+    ],
+    "lido-on-ethereum": [
+        "2.0.0"
     ],
     "lightweight-store": [
         "6.5.8"
@@ -1310,6 +1359,9 @@
     ],
     "livingdesign-components": [
         "1.0.0"
+    ],
+    "load-secrets-action": [
+        "2.0.0"
     ],
     "local-node-rig": [
         "99.9.9"
@@ -1576,6 +1628,9 @@
     "onboarding-ops": [
         "6.5.8"
     ],
+    "onyx-monorepo": [
+        "1.0.0-beta.87"
+    ],
     "opa-fe-base": [
         "6.5.8"
     ],
@@ -1648,6 +1703,9 @@
     "playwright-1.47": [
         "10.1.8"
     ],
+    "playwright-1.48": [
+        "8.1.6"
+    ],
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
@@ -1672,6 +1730,9 @@
     ],
     "privy-frames-drop": [
         "1.0.0"
+    ],
+    "promisified-resource-pool123": [
+        "1.0.3"
     ],
     "protobufjs-shopee": [
         "6.5.8"
@@ -1813,6 +1874,9 @@
     ],
     "quality-cli": [
         "6.5.8"
+    ],
+    "qwertytrtyu": [
+        "1.0.0"
     ],
     "qwilr-examples-create-page": [
         "1.0.0"
@@ -2292,6 +2356,9 @@
     "solity": [
         "0.0.1"
     ],
+    "sovryn": [
+        "0.0.0"
+    ],
     "soybean-admin-tab": [
         "10.3.7"
     ],
@@ -2377,6 +2444,9 @@
     "starter-assets-sass": [
         "9.9.10",
         "9.9.11"
+    ],
+    "staticdocs-starter": [
+        "0.0.0"
     ],
     "stedi-integrations": [
         "6.1.0"
@@ -2476,6 +2546,9 @@
     ],
     "toast-pack": [
         "10.4.8"
+    ],
+    "tokenize-lib": [
+        "0.0.1"
     ],
     "tracking-wtf": [
         "8.5.1"
@@ -2627,6 +2700,9 @@
     ],
     "web-eth-abi": [
         "4.3.0"
+    ],
+    "web-live-sdk": [
+        "400.10.1"
     ],
     "web-providers": [
         "1.0.0-beta.55"
