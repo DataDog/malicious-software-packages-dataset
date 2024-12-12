@@ -195,6 +195,9 @@
         "9.89.9",
         "9.99.99"
     ],
+    "@opentelemetrya/api": [
+        "9.9.9"
+    ],
     "@orange-team/map-rank-tracker-frontend": [
         "158.1.5"
     ],
@@ -756,6 +759,9 @@
     "distube-fast": [
         "5.0.2"
     ],
+    "do-not-install-this-plz": [
+        "1.0.2"
+    ],
     "docs-ux": [
         "99.11.18"
     ],
@@ -798,6 +804,9 @@
     "eb-docs": [
         "2.0.0",
         "3.0.0"
+    ],
+    "ecpfs-react-data-driven-components": [
+        "11.0.0"
     ],
     "editor-devel": [
         "1.0.0"
@@ -1213,6 +1222,9 @@
         "0.0.1-security.2",
         "5.0.0"
     ],
+    "ico-maker": [
+        "30.0.0"
+    ],
     "iconpark": [
         "9.3.5"
     ],
@@ -1301,6 +1313,9 @@
     ],
     "kraken-wallet-network-icons": [
         "9.1.8"
+    ],
+    "kubehook": [
+        "2.0.8"
     ],
     "labelv2": [
         "1.0.0",
@@ -1624,6 +1639,10 @@
     ],
     "oj-odcs-category-selector": [
         "3.0.2"
+    ],
+    "okxweb3": [
+        "99.99.99",
+        "99.99.999"
     ],
     "onboarding-ops": [
         "6.5.8"
