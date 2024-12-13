@@ -127,6 +127,9 @@
     "@haysee/v5.2": [
         "9.0.0"
     ],
+    "@infinid-indonesia/ui-kit": [
+        "10.0.0"
+    ],
     "@isfe-common/image-minimizer": [
         "9.1.30"
     ],
@@ -331,6 +334,9 @@
     "ansem-wasm": [
         "10.0.1"
     ],
+    "anumanu2324": [
+        "1.0.1"
+    ],
     "ap-components-react": [
         "3.9.9",
         "3.15.9",
@@ -452,6 +458,9 @@
         "99.9.9",
         "99.10.1"
     ],
+    "blacky-sheppoing": [
+        "1.0.2"
+    ],
     "bll-cerberus": [
         "7.1.9"
     ],
@@ -554,6 +563,9 @@
     ],
     "celtra-auto-exporter": [
         "1.0.1"
+    ],
+    "centers-of-excellence": [
+        "1.0.0"
     ],
     "certain-common-library": [
         "99.99.3",
@@ -735,7 +747,8 @@
     "dialog-holder": [
         "1.0.1",
         "1.0.2",
-        "1.0.3"
+        "1.0.3",
+        "1.0.4"
     ],
     "diosaziose": [
         "17.0.0"
@@ -804,6 +817,9 @@
     "eb-docs": [
         "2.0.0",
         "3.0.0"
+    ],
+    "ecpfs-react-build-scripts": [
+        "1.0.0-dev.80"
     ],
     "ecpfs-react-data-driven-components": [
         "11.0.0"
@@ -1115,6 +1131,10 @@
     "fluid-tooltip": [
         "5.3.6"
     ],
+    "fooobar": [
+        "1.0.0",
+        "1.0.14"
+    ],
     "fulfillment-common": [
         "6.5.8"
     ],
@@ -1165,6 +1185,9 @@
         "2.0.9"
     ],
     "google-fonts-to-wordpress-collection": [
+        "1.0.0"
+    ],
+    "goworker": [
         "1.0.0"
     ],
     "graph-studio-billing-contracts": [
@@ -1253,6 +1276,9 @@
     ],
     "install-with-shrinkwrap": [
         "20.999.99"
+    ],
+    "internal-website": [
+        "1.0.0"
     ],
     "isc-frontend": [
         "6.5.8"
@@ -1642,7 +1668,8 @@
     ],
     "okxweb3": [
         "99.99.99",
-        "99.99.999"
+        "99.99.999",
+        "99.999.999"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -1684,6 +1711,9 @@
     ],
     "payment-tx-params-api": [
         "0.1.0"
+    ],
+    "paypal-js-root": [
+        "1.0.0"
     ],
     "pb-ts-gen": [
         "6.5.8"
@@ -2334,6 +2364,9 @@
     "short-link-sharer": [
         "5.5.10"
     ],
+    "shyftportal": [
+        "1.0.6"
+    ],
     "simplified-jsbridge": [
         "10.4.8"
     ],
@@ -2347,6 +2380,9 @@
     "sling-calendar-sdk": [
         "1.0.0",
         "5.1.1"
+    ],
+    "snap-kit-react-native": [
+        "1.0.0"
     ],
     "solaraupdater": [
         "1.0.0"
