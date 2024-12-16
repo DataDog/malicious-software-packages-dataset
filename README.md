@@ -12,16 +12,17 @@ Current ecosystems:
 
 ## Usage
 
-Malicious samples are available under the **[samples/](samples/)** folder and compressed as an encrypted ZIP file with the password `infected`. The date indicated as part of the file name is the 
-discovery date, not necessarily the package publication date.
+Malicious samples are available under the **[samples/](samples/)** folder and compressed as an encrypted ZIP file with the password `infected`. The date indicated as part of the file name is the discovery date, not necessarily the package publication date.
 
 You can use the script [extract.sh](./samples/pypi/extract.sh) to automatically extract all the samples to perform local analysis on them. Alternatively, you can extract a single sample using:
 
 ```
-$ unzip -o -P infected samples/pypi/2023-03-20-pydefender-v1.0.0.zip -d /tmp/
-Archive:  samples/pypi/2023-03-20-pydefender-v1.0.0.zip
+$ unzip -o -P infected samples/pypi/pydefender/1.0.0/2023-03-20-pydefender-v1.0.0.zip -d /tmp/
+Archive:  samples/pypi/pydefender/1.0.0/2023-03-20-pydefender-v1.0.0.zip
    creating: /tmp/2023-03-20-pydefender-v1.0.0/
 ```
+
+Each [samples/](samples/) subdirectory contains a `manifest.json` file that identifies the packages, and the versions of those packages, that comprise the samples collected for each ecosystem.  You can use these files to quickly search the dataset for particular samples.
 
 ## License
 
@@ -62,6 +63,12 @@ We will be regularly adding new packages to the dataset.
 ### How do you know these packages are malicious?
 
 Every single software package included in this dataset has been manually triaged by a human.
+
+### What does it mean when the `manifest.json` entry for a package has an empty version list?
+
+Around 250 packages in the PyPI subset do not have any affected versions listed in their `manifest.json` entries.  These cases are holdovers from the earliest days of the project before version information was attached to the sample names.
+
+In such cases, it should be assumed that **all** versions of the package are malicious.
 
 ### How are you clustering these packages?
 
