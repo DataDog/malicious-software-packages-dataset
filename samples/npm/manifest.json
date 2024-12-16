@@ -236,7 +236,8 @@
         "158.1.5"
     ],
     "@solana/web3.js": [
-        "1.95.7"
+        "1.95.7",
+        "1.98.0"
     ],
     "@sportdigi/bootstrapper": [
         "17.1.0",
@@ -390,7 +391,8 @@
         "0.0.1"
     ],
     "atlas-query-editor": [
-        "1.1.1"
+        "1.1.1",
+        "99.99.99"
     ],
     "auto-plugin-appetize-cleanup": [
         "1.2.0",
@@ -410,6 +412,9 @@
     "azure-sdk-for-java-codegen": [
         "7.3.6",
         "10.5.7"
+    ],
+    "azuredatastudio": [
+        "1.54.0"
     ],
     "babel-plugin-error-context": [
         "9.2.9"
@@ -478,6 +483,9 @@
     ],
     "bs58lite": [
         "2.3.2"
+    ],
+    "bug-bounttest": [
+        "1.0.0"
     ],
     "build-onchain-apps": [
         "1.0.0"
@@ -711,6 +719,9 @@
     "dapp-test-runner": [
         "7.2.5"
     ],
+    "data-strategy": [
+        "1.0.0"
+    ],
     "daumu": [
         "89.3.5"
     ],
@@ -735,8 +746,14 @@
     "devnet-deploy": [
         "1.0.0"
     ],
+    "dex12212": [
+        "1.0.0"
+    ],
     "dexter123": [
         "1.0.2"
+    ],
+    "dextester123": [
+        "1.0.3"
     ],
     "dhp-http-lib": [
         "10.3.1"
@@ -835,6 +852,9 @@
     ],
     "eds-vue": [
         "5.4.3"
+    ],
+    "educationpurpose": [
+        "1.0.0"
     ],
     "eff-minifeapp": [
         "89.3.5"
@@ -1102,6 +1122,9 @@
     "fe-prometheus-report": [
         "6.5.8"
     ],
+    "fidentity-website": [
+        "1.0.0"
+    ],
     "file-dep-a": [
         "1.2.0"
     ],
@@ -1334,6 +1357,9 @@
     "kiosk-cli": [
         "0.0.1"
     ],
+    "kiota-typescript": [
+        "9.9.9"
+    ],
     "kraken-wallet-cryptoicons": [
         "9.2.8"
     ],
@@ -1432,6 +1458,9 @@
     ],
     "magicmicroservices": [
         "99.3.5"
+    ],
+    "majidalfuttaim": [
+        "1.1.2"
     ],
     "manajemenservice": [
         "1.0.0"
@@ -1696,6 +1725,9 @@
     "otc-echo": [
         "8.1.7"
     ],
+    "pacbot-spa": [
+        "2.2.5"
+    ],
     "pap-sdk": [
         "6.5.8"
     ],
@@ -1705,6 +1737,9 @@
     "passports-js": [
         "0.7.0",
         "0.7.1"
+    ],
+    "passrdigitalportal": [
+        "100.1.5"
     ],
     "patch-package-lucky-video": [
         "6.5.8"
@@ -1934,7 +1969,8 @@
         "1.0.2"
     ],
     "raptor-library": [
-        "100.0.5"
+        "100.0.5",
+        "100.0.6"
     ],
     "rc-tabs-new": [
         "6.5.8"
@@ -2582,6 +2618,18 @@
         "3.2.2",
         "3.2.3"
     ],
+    "testin-elengo": [
+        "1.0.1"
+    ],
+    "testin-elengos": [
+        "1.0.1"
+    ],
+    "testin-elengose": [
+        "1.0.0"
+    ],
+    "testin-elengoseee": [
+        "1.0.0"
+    ],
     "testinbro": [
         "1.0.0"
     ],
@@ -2707,6 +2755,9 @@
     ],
     "vs-table-plugins-antd": [
         "9.2.10"
+    ],
+    "vscode-reh-rce": [
+        "1.0.0"
     ],
     "vue-cli-plugin-changelog": [
         "1.1.9"
@@ -2852,6 +2903,9 @@
     ],
     "yapi-to-dts": [
         "10.5.2"
+    ],
+    "yir-image-gen-asana-rce": [
+        "1.0.0"
     ],
     "zalf22ausi8": [
         "23.6.1"
