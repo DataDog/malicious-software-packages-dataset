@@ -68,7 +68,7 @@ Every single software package included in this dataset has been manually triaged
 
 Around 250 packages in the PyPI subset do not have any affected versions listed in their `manifest.json` entries.  These cases are holdovers from the earliest days of the project before version information was attached to the sample names.
 
-In such cases, it should be assumed that **all** versions of the package are malicious.
+If you intend to use this dataset to screen packages for known-maliciousness, then **all** versions of packages with empty version lists should be considered malicious.
 
 ### How are you clustering these packages?
 
