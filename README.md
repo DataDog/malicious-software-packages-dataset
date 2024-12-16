@@ -64,7 +64,7 @@ We will be regularly adding new packages to the dataset.
 
 Every single software package included in this dataset has been manually triaged by a human.
 
-### What does it mean when the `manifest.json` entry for a package has an empty version list?
+### What if the `manifest.json` entry for a package has an empty version list?
 
 Around 250 packages in the PyPI subset do not have any affected versions listed in their `manifest.json` entries.  These cases are holdovers from the earliest days of the project before version information was attached to the sample names.
 
