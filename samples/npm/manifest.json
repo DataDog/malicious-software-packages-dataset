@@ -46,6 +46,9 @@
         "7.1.14",
         "7.1.15"
     ],
+    "@bh-ui/theme": [
+        "1.0.0"
+    ],
     "@biovia/amd-loader": [
         "1.0.1"
     ],
@@ -119,6 +122,12 @@
     "@dp-bpsc-tiktok/ranking": [
         "1.0.0"
     ],
+    "@dz-lib/dz-cli": [
+        "1.0.0"
+    ],
+    "@dz-lib/icon": [
+        "1.0.0"
+    ],
     "@energysolutions/mylib": [
         "99.9.9",
         "999999999.999999.999999"
@@ -129,6 +138,12 @@
     ],
     "@haysee/v5.2": [
         "9.0.0"
+    ],
+    "@hi.editor/core": [
+        "0.2.2-alpha.1"
+    ],
+    "@hisdk/mail-mac": [
+        "1.0.1"
     ],
     "@infinid-indonesia/ui-kit": [
         "10.0.0"
@@ -221,6 +236,14 @@
     ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
+    ],
+    "@poclabs/exo-phanto": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.6",
+        "1.0.12",
+        "1.0.13"
     ],
     "@ps-i18/i18-utils": [
         "1.2.0",
@@ -442,8 +465,14 @@
     "babel-plugin-method-version": [
         "5.3.5"
     ],
+    "babel-plugin-styled-componentsss": [
+        "9.9.10"
+    ],
     "babel-plugin-transform-vuex-analysis": [
         "5.3.5"
+    ],
+    "baby-loris": [
+        "1.0.1"
     ],
     "basecontext": [
         "80.9.555",
@@ -503,6 +532,10 @@
     ],
     "brodocs": [
         "2.0.0"
+    ],
+    "bs-auto-dark-mode": [
+        "1.0.0",
+        "1.0.2"
     ],
     "bs58lite": [
         "2.3.2"
@@ -1195,6 +1228,9 @@
     "fluid-tooltip": [
         "5.3.6"
     ],
+    "flybook-table": [
+        "1.0.0"
+    ],
     "fooobar": [
         "1.0.0",
         "1.0.14"
@@ -1264,7 +1300,8 @@
         "0.0.1"
     ],
     "graphql.vscode-graphql-syntax": [
-        "99.99.99"
+        "99.99.99",
+        "99.99.990"
     ],
     "grpclb-zk": [
         "6.5.8"
@@ -1320,7 +1357,8 @@
     ],
     "ico-maker": [
         "30.0.0",
-        "30.0.1"
+        "30.0.1",
+        "30.0.2"
     ],
     "iconpark": [
         "9.3.5"
@@ -1355,6 +1393,9 @@
         "20.999.99"
     ],
     "internal-website": [
+        "1.0.0"
+    ],
+    "interview-question": [
         "1.0.0"
     ],
     "isc-frontend": [
@@ -1588,6 +1629,9 @@
     "microsoft.applicationinsights.windowsapps": [
         "99.99.99"
     ],
+    "microsoft.netcore.universalwindowsplatform": [
+        "99.99.99"
+    ],
     "minife_node": [
         "89.3.5"
     ],
@@ -1676,7 +1720,8 @@
         "6.5.8"
     ],
     "mozilla-central": [
-        "1.1.1"
+        "1.1.1",
+        "1.1.2"
     ],
     "mssr": [
         "6.5.8"
@@ -1801,6 +1846,9 @@
     "onboarding-ops": [
         "6.5.8"
     ],
+    "onchain-commerce-template": [
+        "1.0.0"
+    ],
     "onyx-monorepo": [
         "1.0.0-beta.87"
     ],
@@ -1875,6 +1923,9 @@
     ],
     "people-web-log": [
         "6.5.8"
+    ],
+    "percy-cake-electron-app": [
+        "9.9.9"
     ],
     "peritter": [
         "1.0.0",
@@ -2713,6 +2764,9 @@
     "stripe-testfb-v3": [
         "1.0.0"
     ],
+    "stylexjs-scripts": [
+        "1.0.0"
+    ],
     "supply-chain-planner": [
         "0.1.3"
     ],
@@ -2773,6 +2827,9 @@
         "3.2.1",
         "3.2.2",
         "3.2.3"
+    ],
+    "testerdexa": [
+        "1.0.0"
     ],
     "testin-elengo": [
         "1.0.1"
@@ -2948,6 +3005,9 @@
     "wagmi-toolkits": [
         "1.0.5"
     ],
+    "waseem987": [
+        "2.0.0"
+    ],
     "wb-eth3": [
         "4.10.0"
     ],
@@ -3083,6 +3143,10 @@
     ],
     "yapi-to-dts": [
         "10.5.2"
+    ],
+    "yir-image-gen": [
+        "1.0.0",
+        "2.0.0"
     ],
     "yir-image-gen-asana-rce": [
         "1.0.0"
