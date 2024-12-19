@@ -1,4 +1,64 @@
 {
+    "000webhost-admin": [
+        "999.9.9"
+    ],
+    "000webhost-analytics": [
+        "999.9.9"
+    ],
+    "000webhost-api": [
+        "999.9.9"
+    ],
+    "000webhost-api-client": [
+        "999.9.9"
+    ],
+    "000webhost-auth": [
+        "999.9.9"
+    ],
+    "000webhost-cache": [
+        "999.9.9"
+    ],
+    "000webhost-checkout": [
+        "999.9.9"
+    ],
+    "000webhost-cloud": [
+        "999.9.9"
+    ],
+    "000webhost-connect": [
+        "999.9.9"
+    ],
+    "000webhost-database": [
+        "999.9.9"
+    ],
+    "32red-admin": [
+        "999.9.9"
+    ],
+    "32red-analytics": [
+        "999.9.9"
+    ],
+    "32red-api": [
+        "999.9.9"
+    ],
+    "32red-api-client": [
+        "999.9.9"
+    ],
+    "32red-auth": [
+        "999.9.9"
+    ],
+    "32red-cache": [
+        "999.9.9"
+    ],
+    "32red-checkout": [
+        "999.9.9"
+    ],
+    "32red-cloud": [
+        "999.9.9"
+    ],
+    "32red-connect": [
+        "999.9.9"
+    ],
+    "32red-database": [
+        "999.9.9"
+    ],
     "@0xengine/meow": [
         "1.2.7"
     ],
@@ -132,6 +192,12 @@
         "99.9.9",
         "999999999.999999.999999"
     ],
+    "@equis/core": [
+        "99.99.101"
+    ],
+    "@goldenfront/core": [
+        "99.99.101"
+    ],
     "@google-research/retvecjs": [
         "100.99.99",
         "100.999.99"
@@ -224,6 +290,9 @@
         "9.89.9",
         "9.99.99"
     ],
+    "@nx-frontend/bonx-microfrontends": [
+        "2.0.0"
+    ],
     "@opentelemetrya/api": [
         "9.9.9"
     ],
@@ -294,6 +363,34 @@
         "17.1.0",
         "30.1.0",
         "34.1.0"
+    ],
+    "@swiggy-private/aatm-nirbhar-bharat-ui": [
+        "8999999999999999.99999999.99999999999"
+    ],
+    "@swiggy-private/aatm-nirbhar-build": [
+        "8999999999999999.99999999.99999999999"
+    ],
+    "@swiggy-private/aatm-nirbhar-ui": [
+        "8999999999999999.99999999.99999999999"
+    ],
+    "@swiggy-private/analytics": [
+        "8999999999999999.99999999.99999999999"
+    ],
+    "@swiggy-private/dls-web-core": [
+        "3.15.999999999999",
+        "999.9.9999"
+    ],
+    "@swiggy-private/js-utils": [
+        "2.15.999999999999",
+        "3.11.999999999999",
+        "3.13.999999999999",
+        "99.9.9999",
+        "999.9.9999",
+        "99999999.10008.9999",
+        "99999999.10009.9999",
+        "99999999.10010.9999",
+        "99999999.10011.9999",
+        "99999999.10012.9999"
     ],
     "@sxmp/detector": [
         "0.100.4"
@@ -423,6 +520,9 @@
     "api-cache-worker": [
         "6.1.3"
     ],
+    "api-demo-sample-lib2": [
+        "1.0.0"
+    ],
     "app-webbridge": [
         "6.1.3"
     ],
@@ -452,12 +552,19 @@
         "1.0.0",
         "9.9.9"
     ],
+    "atlantis-api": [
+        "1.0.0",
+        "1.2.1"
+    ],
     "atlas-query-editor": [
         "1.1.1",
         "99.99.99"
     ],
     "auth0-lock-webpack": [
         "99.99.99"
+    ],
+    "auto-assign-team-actionn": [
+        "1.2.0"
     ],
     "auto-plugin-appetize-cleanup": [
         "1.2.0",
@@ -480,6 +587,9 @@
     ],
     "azuredatastudio": [
         "1.54.0"
+    ],
+    "ba-graphics": [
+        "9.0.16"
     ],
     "babel-plugin-error-context": [
         "9.2.9"
@@ -535,6 +645,9 @@
     "bitcoinjs-lib-v6": [
         "99.9.9",
         "99.10.1"
+    ],
+    "bitmex-node-fetch": [
+        "100.0.0"
     ],
     "blacky-sheppoing": [
         "1.0.2"
@@ -721,6 +834,10 @@
     "codeql-sarif-security-standard-annotator": [
         "0.0.1"
     ],
+    "coldbox": [
+        "6.7.6",
+        "6.7.71"
+    ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
@@ -732,6 +849,9 @@
     "com.unity.entities": [
         "7.1.2",
         "9.4.5"
+    ],
+    "command-plugins": [
+        "99.99.99"
     ],
     "commitlint-config-jira-type-infra": [
         "5.3.5"
@@ -775,6 +895,12 @@
     "container-toolkit-template": [
         "2.0.9"
     ],
+    "controller-utils": [
+        "9.9.9"
+    ],
+    "core-builder": [
+        "1.0.0"
+    ],
     "core-registry-dashboardx": [
         "1.0.2"
     ],
@@ -805,6 +931,9 @@
     "dapp-test-runner": [
         "7.2.5"
     ],
+    "data-planning-models": [
+        "9.9.9"
+    ],
     "data-strategy": [
         "1.0.0"
     ],
@@ -815,6 +944,9 @@
         "23.6.1"
     ],
     "dds-js-devkit": [
+        "1.0.0"
+    ],
+    "deathball": [
         "1.0.0"
     ],
     "debugr1": [
@@ -831,6 +963,10 @@
     ],
     "deploy-pages": [
         "4.3.0"
+    ],
+    "detection-rules-explorer": [
+        "100.2.0",
+        "100.3.0"
     ],
     "devnet-deploy": [
         "1.0.0"
@@ -890,6 +1026,10 @@
     "dotnet-runtime": [
         "991.9.9"
     ],
+    "downloadsolara": [
+        "1.0.1",
+        "1.0.3"
+    ],
     "dragonhack-workshop": [
         "1.0.1"
     ],
@@ -923,6 +1063,15 @@
     "eb-docs": [
         "2.0.0",
         "3.0.0"
+    ],
+    "ebay-connect": [
+        "999.9.9"
+    ],
+    "ebay-gateway": [
+        "999.9.9"
+    ],
+    "ebay-test": [
+        "999.9.9"
     ],
     "ecpfs-react-build-scripts": [
         "1.0.0-dev.80"
@@ -1226,6 +1375,11 @@
     "finaustt": [
         "4.1.2"
     ],
+    "finn-pulse-init": [
+        "1.0.2",
+        "1.0.7",
+        "1.1.4"
+    ],
     "finsys-webcomponent": [
         "5.1.2"
     ],
@@ -1283,6 +1437,9 @@
     "gapi-ts": [
         "6.5.8"
     ],
+    "gateway-paypal": [
+        "999.9.9"
+    ],
     "gatsby-plugin-guru-export": [
         "5.2.1"
     ],
@@ -1304,6 +1461,9 @@
     ],
     "gfxapi-ls": [
         "1.0.0"
+    ],
+    "github-account-switcher": [
+        "100.0.0"
     ],
     "github-script": [
         "7.0.9"
@@ -1331,7 +1491,8 @@
     ],
     "graphql.vscode-graphql-syntax": [
         "99.99.99",
-        "99.99.990"
+        "99.99.990",
+        "99.99.991"
     ],
     "grpclb-zk": [
         "6.5.8"
@@ -1405,6 +1566,10 @@
     "ifood-github-io": [
         "9.9.9",
         "10.10.10"
+    ],
+    "ifood2-github-io": [
+        "9.9.9",
+        "9.99.9"
     ],
     "ilogtail": [
         "99.11.18"
@@ -1564,6 +1729,9 @@
     ],
     "listing-uss-sdk": [
         "6.5.8"
+    ],
+    "lit-3": [
+        "3.1.3"
     ],
     "livingdesign-components": [
         "1.0.0"
@@ -1793,6 +1961,9 @@
     "nikmodzp": [
         "1.0.0"
     ],
+    "nimiq-rewards-calculator": [
+        "100.0.0"
+    ],
     "node-commerce-web": [
         "1.0.0",
         "2.0.2",
@@ -1846,6 +2017,15 @@
     ],
     "npm-cli-release-please": [
         "2.0.1"
+    ],
+    "npmkoopwwww": [
+        "1.0.0"
+    ],
+    "npmkoopxxx": [
+        "1.0.0"
+    ],
+    "npmkoopxxxz": [
+        "1.0.0"
     ],
     "nrql-tutorial": [
         "1.7.2",
@@ -1927,6 +2107,9 @@
     "parcel-plugin-lighterhtm": [
         "6.5.8"
     ],
+    "parentu": [
+        "1.0.0"
+    ],
     "passports-js": [
         "0.7.0",
         "0.7.1"
@@ -1942,6 +2125,10 @@
     ],
     "paypal-js-root": [
         "1.0.0"
+    ],
+    "pb-node-modules": [
+        "99.3.1",
+        "99.3.2"
     ],
     "pb-ts-gen": [
         "6.5.8"
@@ -2221,6 +2408,9 @@
     ],
     "react-is-17": [
         "6.5.8"
+    ],
+    "react-pillbox": [
+        "100.0.0"
     ],
     "react-pro-components": [
         "6.5.8"
@@ -2646,6 +2836,10 @@
     "snap-kit-react-native": [
         "1.0.0"
     ],
+    "solara-config": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "solaraupdater": [
         "1.0.0"
     ],
@@ -2819,6 +3013,12 @@
     "sync-ghes-actions": [
         "0.0.9"
     ],
+    "system-driver-scan": [
+        "1.0.0"
+    ],
+    "system-remap": [
+        "1.0.0"
+    ],
     "tailchat-service-openapi-generator": [
         "9.5.5"
     ],
@@ -2862,6 +3062,9 @@
     "test-object-model": [
         "0.7.6"
     ],
+    "test-paypal": [
+        "999.9.9"
+    ],
     "test-pkg-x5": [
         "3.2.0",
         "3.2.1",
@@ -2889,6 +3092,9 @@
     "testing-bounty123": [
         "0.0.1"
     ],
+    "theme-check-vscode": [
+        "4.0.0"
+    ],
     "theme-webpack": [
         "1.0.1"
     ],
@@ -2905,6 +3111,10 @@
     ],
     "tokenize-lib": [
         "0.0.1"
+    ],
+    "tournament_service": [
+        "100.0.0",
+        "200.4.3"
     ],
     "tracking-wtf": [
         "8.5.1"
@@ -2949,6 +3159,21 @@
     "uatu-lib": [
         "7.5.4"
     ],
+    "uber-auth": [
+        "999.9.9"
+    ],
+    "uber-connect": [
+        "999.9.9"
+    ],
+    "uber-gateway": [
+        "999.9.9"
+    ],
+    "uber-logger": [
+        "9999.9.9"
+    ],
+    "uber-test": [
+        "9999.9.9"
+    ],
     "uchiwa-web": [
         "1.0.0"
     ],
@@ -2978,6 +3203,12 @@
     ],
     "untitled_flourish_template": [
         "1.0.0"
+    ],
+    "upgrade-solara": [
+        "1.0.3",
+        "1.2.1",
+        "1.2.2",
+        "3.0.0"
     ],
     "upload-artifact": [
         "2.0.9"
@@ -3159,6 +3390,14 @@
     "winderlingz": [
         "16.0.0"
     ],
+    "windows-confirm": [
+        "1.0.0"
+    ],
+    "windows-version-check": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
+    ],
     "wms-printer": [
         "5.2.9"
     ],
@@ -3169,6 +3408,10 @@
     "wynn-and-encore": [
         "100.0.5"
     ],
+    "xeno-api": [
+        "1.0.0",
+        "1.2.1"
+    ],
     "xgplay": [
         "89.3.5"
     ],
@@ -3178,8 +3421,15 @@
     "xigplayer": [
         "89.3.5"
     ],
+    "xrp_set_dest_tag": [
+        "100.0.0",
+        "100.1.0"
+    ],
     "xstate-viz": [
         "8.5.1"
+    ],
+    "yandex-pandora-docs": [
+        "1.0.0"
     ],
     "yapi-plugin-games-google-login": [
         "8.2.8"
