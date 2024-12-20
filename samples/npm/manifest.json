@@ -252,11 +252,13 @@
     ],
     "@monkey-tilt/client": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2"
     ],
     "@monkey-tilt/ui": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2"
     ],
     "@mosfe/beam": [
         "2.0.0"
@@ -564,6 +566,9 @@
         "99.99.99"
     ],
     "auto-assign-team-actionn": [
+        "0.0.4",
+        "0.0.7",
+        "0.0.9",
         "1.2.0"
     ],
     "auto-plugin-appetize-cleanup": [
@@ -666,6 +671,9 @@
     ],
     "boostrapsio": [
         "4.0.0"
+    ],
+    "borsh-js": [
+        "1.0.0"
     ],
     "bounty123ay": [
         "1.0.6"
@@ -1120,6 +1128,9 @@
     "ens-austt": [
         "4.1.2"
     ],
+    "epam-cdisc-electron": [
+        "9.9.9"
+    ],
     "erc4337": [
         "0.0.1",
         "0.0.2"
@@ -1413,11 +1424,14 @@
         "1.0.0"
     ],
     "focal-examples": [
-        "9.9.9"
+        "9.9.9",
+        "9.9.13",
+        "9.9.14"
     ],
     "fooobar": [
         "1.0.0",
-        "1.0.14"
+        "1.0.14",
+        "1.0.17"
     ],
     "fulfillment-common": [
         "6.5.8"
@@ -1461,6 +1475,9 @@
     ],
     "gfxapi-ls": [
         "1.0.0"
+    ],
+    "gha-update-image": [
+        "0.0.1"
     ],
     "github-account-switcher": [
         "100.0.0"
@@ -2161,6 +2178,9 @@
     "pfms-feedback": [
         "6.5.8"
     ],
+    "pie-monorepo": [
+        "9.9.9"
+    ],
     "playwright-1.45": [
         "10.1.3"
     ],
@@ -2187,6 +2207,9 @@
     ],
     "polaris-report": [
         "6.5.8"
+    ],
+    "pornhub": [
+        "9.9.9"
     ],
     "powerupdate": [
         "1.0.0"
@@ -2429,6 +2452,9 @@
     ],
     "realtime-translation-package": [
         "6.5.8"
+    ],
+    "redux-form-v5": [
+        "1.0.0"
     ],
     "redux-store-immutable": [
         "6.5.8"
@@ -2958,6 +2984,9 @@
     "sso-map": [
         "10.1.9"
     ],
+    "ssv-sdk": [
+        "1.0.0"
+    ],
     "stale-action": [
         "3.0.0"
     ],
@@ -3429,7 +3458,8 @@
         "8.5.1"
     ],
     "yandex-pandora-docs": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.2"
     ],
     "yapi-plugin-games-google-login": [
         "8.2.8"
