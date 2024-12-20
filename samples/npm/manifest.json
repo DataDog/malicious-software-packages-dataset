@@ -59,6 +59,10 @@
     "32red-database": [
         "999.9.9"
     ],
+    "4m-clean-shopify-app": [
+        "9.0.0",
+        "9.0.1"
+    ],
     "@0xengine/meow": [
         "1.2.7"
     ],
@@ -129,6 +133,15 @@
     ],
     "@bytedanc/mona-max": [
         "9.3.5"
+    ],
+    "@captivateiq/events": [
+        "23.3.9"
+    ],
+    "@captivateiq/handsontable-ciq": [
+        "157.1.5"
+    ],
+    "@captivateiq/random": [
+        "1.0.0"
     ],
     "@cawraytestorg/packagetest2": [
         "9.9.9"
@@ -244,6 +257,9 @@
     "@meneprojects/body-parsers": [
         "1.0.3"
     ],
+    "@metrics-service/mf-client": [
+        "157.1.5"
+    ],
     "@metrics-service/static": [
         "18.3.1"
     ],
@@ -321,6 +337,27 @@
     "@ps-i18/i18-utils": [
         "1.2.0",
         "1.2.1"
+    ],
+    "@rrvis/code-mapper": [
+        "99.99.2"
+    ],
+    "@rrvis/dialog": [
+        "99.99.2"
+    ],
+    "@rrvis/epaas": [
+        "99.99.2"
+    ],
+    "@rrvis/logger": [
+        "99.99.2"
+    ],
+    "@rrvis/ui": [
+        "99.99.2"
+    ],
+    "@rrvis/util": [
+        "99.99.2"
+    ],
+    "@rrvis/vehicle": [
+        "99.99.2"
     ],
     "@saferpay/components": [
         "5.9.2"
@@ -400,9 +437,35 @@
     "@the-df-company/commod": [
         "1.0.0"
     ],
+    "@toloka-tb/core": [
+        "2.5.1"
+    ],
     "@transsion/privacy-policy-dialog": [
         "55.5.5",
         "55.5.6"
+    ],
+    "@typescript_eslinter/eslint": [
+        "1.0.0",
+        "1.0.2",
+        "1.3.0",
+        "1.5.0",
+        "2.0.2",
+        "2.1.0",
+        "2.1.2",
+        "2.1.5",
+        "2.1.8",
+        "2.2.1",
+        "2.2.9"
+    ],
+    "@typescript_eslinter/prettier": [
+        "1.0.1",
+        "1.0.2",
+        "1.1.0",
+        "1.1.1",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3"
     ],
     "@umreg/zxcvbn": [
         "10.10.12"
@@ -426,6 +489,19 @@
     "@volcenjine/veplayer": [
         "89.3.5"
     ],
+    "@wf-ceo/react-test-helpers": [
+        "1.1.1",
+        "67.6.6"
+    ],
+    "@wf-ceo/utilities": [
+        "3.0.55",
+        "67.6.6"
+    ],
+    "@woody-mrs-potato/utils-banking": [
+        "1.0.6",
+        "1.0.7",
+        "1.0.9"
+    ],
     "a11-cloud": [
         "89.3.5"
     ],
@@ -433,6 +509,9 @@
         "89.3.5"
     ],
     "aa-bundler": [
+        "0.0.2"
+    ],
+    "aauto-assign-team-action": [
         "0.0.2"
     ],
     "acces-react": [
@@ -488,6 +567,9 @@
     ],
     "another-query-parser": [
         "8.3.5"
+    ],
+    "anotherexternal": [
+        "1.0.0"
     ],
     "ansem-wasm": [
         "10.0.1"
@@ -546,6 +628,12 @@
     ],
     "arkoselabs": [
         "99.9.9"
+    ],
+    "asdasd-hello-world": [
+        "1.0.0"
+    ],
+    "asdasssd-hello-world": [
+        "1.0.0"
     ],
     "assetmantle": [
         "0.0.1"
@@ -635,6 +723,9 @@
     "bdc-materials": [
         "7.1.9"
     ],
+    "bengececipaketimdebu": [
+        "1.2.7"
+    ],
     "bignum.js": [
         "9.1.2"
     ],
@@ -669,6 +760,13 @@
     "bloxupgrade": [
         "1.0.0"
     ],
+    "blz-internal-pkg_update": [
+        "7.7.11"
+    ],
+    "bnppf-font-icons": [
+        "3.0.7",
+        "3.0.15"
+    ],
     "boostrapsio": [
         "4.0.0"
     ],
@@ -693,6 +791,9 @@
     ],
     "build-onchain-apps": [
         "1.0.0"
+    ],
+    "build-test-utilities": [
+        "99.99.99"
     ],
     "bundler-apis": [
         "0.0.1"
@@ -850,6 +951,12 @@
         "0.4.0",
         "4.0.0"
     ],
+    "com.unity.assetbundlebrowser": [
+        "9.9.10"
+    ],
+    "com.unity.assetgraph": [
+        "9.9.10"
+    ],
     "com.unity.collections": [
         "6.2.3",
         "6.3.1"
@@ -875,6 +982,9 @@
     ],
     "commitlint-plugin-rules-an": [
         "7.2.3"
+    ],
+    "common-icons": [
+        "1.1.0"
     ],
     "comparison-interface": [
         "0.0.1"
@@ -914,6 +1024,9 @@
     ],
     "create-semi-d2c-plugin": [
         "9.3.5"
+    ],
+    "create-shopify-web-app": [
+        "9.0.0"
     ],
     "cs-base-component": [
         "7.2.3"
@@ -960,6 +1073,9 @@
     "debugr1": [
         "3.1.1"
     ],
+    "delegator-core-viem": [
+        "1.0.0"
+    ],
     "demo-resources": [
         "5.5.1"
     ],
@@ -971,6 +1087,9 @@
     ],
     "deploy-pages": [
         "4.3.0"
+    ],
+    "deriv-app-id-action": [
+        "0.0.1"
     ],
     "detection-rules-explorer": [
         "100.2.0",
@@ -1024,6 +1143,9 @@
     ],
     "do-not-install-this-plz": [
         "1.0.2"
+    ],
+    "docker-centos-hello": [
+        "1.0.0"
     ],
     "docs-ux": [
         "99.11.18"
@@ -1087,6 +1209,9 @@
     "ecpfs-react-data-driven-components": [
         "11.0.0"
     ],
+    "editions-dev-workshop": [
+        "5.0.0"
+    ],
     "editor-devel": [
         "1.0.0"
     ],
@@ -1134,6 +1259,9 @@
     "erc4337": [
         "0.0.1",
         "0.0.2"
+    ],
+    "error-stack-parsersasasa": [
+        "1.2.7"
     ],
     "eslint-config-b2b": [
         "9.9.4"
@@ -1349,6 +1477,9 @@
     "evocateur_libpnpmpublishing": [
         "99.3.5"
     ],
+    "example-app-next": [
+        "0.0.8"
+    ],
     "expense-management": [
         "99.9.2"
     ],
@@ -1439,6 +1570,10 @@
     "fulfillment-portal-common": [
         "6.5.8"
     ],
+    "galaktika-components": [
+        "0.1.2",
+        "2.2.2"
+    ],
     "galileo_staking": [
         "0.0.1"
     ],
@@ -1500,6 +1635,9 @@
     "google.kythe": [
         "1.0.0"
     ],
+    "gouraud-lighting": [
+        "1.0.0"
+    ],
     "goworker": [
         "1.0.0"
     ],
@@ -1511,11 +1649,20 @@
         "99.99.990",
         "99.99.991"
     ],
+    "grid-context": [
+        "0.0.9"
+    ],
     "grpclb-zk": [
         "6.5.8"
     ],
     "h5bp-docs": [
         "6.5.4"
+    ],
+    "hackbron": [
+        "1.0.3"
+    ],
+    "hacker_for_pastebin": [
+        "1.0.1"
     ],
     "hardhat-cookie": [
         "3.8.9"
@@ -1683,6 +1830,9 @@
     "kraken-wallet-network-icons": [
         "9.1.8"
     ],
+    "kubeflow-pipelines": [
+        "9.9.9"
+    ],
     "kubehook": [
         "2.0.8"
     ],
@@ -1722,6 +1872,9 @@
     ],
     "lido-on-ethereum": [
         "2.0.0"
+    ],
+    "lightbeam-we": [
+        "1.0.0"
     ],
     "lightweight-store": [
         "6.5.8"
@@ -1797,6 +1950,10 @@
     "mangadex-archive-torrent-processor": [
         "5.4.9"
     ],
+    "maplibre": [
+        "2.4.0",
+        "2.4.1"
+    ],
     "marketing-base": [
         "6.5.8"
     ],
@@ -1811,6 +1968,9 @@
     ],
     "markservice": [
         "6.5.8"
+    ],
+    "matitanium": [
+        "1.0.1"
     ],
     "matlab-proxy": [
         "1.0.0"
@@ -1963,8 +2123,22 @@
     "nerd4node": [
         "8.2.3"
     ],
+    "network-test-poc": [
+        "1.0.0"
+    ],
     "network-web": [
         "1.0.14"
+    ],
+    "newbharatv1": [
+        "1.0.3"
+    ],
+    "newbharatv2": [
+        "1.0.1"
+    ],
+    "newbharatv3": [
+        "1.0.4",
+        "1.0.12",
+        "1.0.15"
     ],
     "nextcloud1": [
         "9.9.9"
@@ -2017,6 +2191,9 @@
     "nodes-polyfill-webpack-plugin": [
         "99.11.18"
     ],
+    "non-existing-dependency": [
+        "1.0.0"
+    ],
     "nordic-dev": [
         "1.0.0",
         "1.0.1",
@@ -2049,6 +2226,9 @@
         "1.7.3",
         "1.7.5"
     ],
+    "nuget.shouldly": [
+        "9.9.10"
+    ],
     "o-share": [
         "10.12.14"
     ],
@@ -2073,6 +2253,9 @@
         "99.99.99",
         "99.99.999",
         "99.999.999"
+    ],
+    "olivergreen": [
+        "2.1.1"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -2371,6 +2554,9 @@
     "pvct-cli": [
         "6.5.8"
     ],
+    "qassam22": [
+        "1.1.1"
+    ],
     "qt-construct": [
         "7.4.9"
     ],
@@ -2441,14 +2627,23 @@
     "react-pro-components-next": [
         "6.5.8"
     ],
+    "react-redux-up": [
+        "99.0.2"
+    ],
     "react-vis-website": [
         "1.1.0"
     ],
     "react-zutils": [
         "1.0.1"
     ],
+    "reactnativecreativekitdemoo": [
+        "0.0.2"
+    ],
     "readium-css": [
         "10.5.1"
+    ],
+    "realtime-from-scratch": [
+        "1.0.0"
     ],
     "realtime-translation-package": [
         "6.5.8"
@@ -2507,6 +2702,9 @@
     ],
     "req-scopes": [
         "3.4.3"
+    ],
+    "reqests": [
+        "2.40.1"
     ],
     "reqstus": [
         "1.2.5"
@@ -3036,6 +3234,9 @@
     "support-conversations": [
         "0.4.6"
     ],
+    "swisscom-scaleio": [
+        "9.0.0"
+    ],
     "symphony-markdown": [
         "1.0.0"
     ],
@@ -3057,11 +3258,26 @@
     "taiwinders": [
         "5.0.0"
     ],
+    "take2-hello-world": [
+        "1.0.0"
+    ],
+    "take3-hello-world": [
+        "1.0.0"
+    ],
+    "take4-hello-world": [
+        "1.0.0"
+    ],
     "tannucolingboys": [
         "99.0.0"
     ],
     "tauri-plugin-autostart-api": [
         "5.3.8"
+    ],
+    "tautoak4-hello-world": [
+        "1.0.0"
+    ],
+    "tautoake4-hello-world": [
+        "1.0.0"
     ],
     "tbi-editor": [
         "6.1.9"
@@ -3100,6 +3316,9 @@
         "3.2.2",
         "3.2.3"
     ],
+    "testedt": [
+        "1.0.0"
+    ],
     "testerdexa": [
         "1.0.0"
     ],
@@ -3112,6 +3331,9 @@
     "testin-elengose": [
         "1.0.0"
     ],
+    "testin-elengosee": [
+        "1.0.0"
+    ],
     "testin-elengoseee": [
         "1.0.0"
     ],
@@ -3120,6 +3342,9 @@
     ],
     "testing-bounty123": [
         "0.0.1"
+    ],
+    "testwaseempoi": [
+        "1.0.0"
     ],
     "theme-check-vscode": [
         "4.0.0"
@@ -3144,6 +3369,9 @@
     "tournament_service": [
         "100.0.0",
         "200.4.3"
+    ],
+    "tracking-protection-experiment": [
+        "1.0.0"
     ],
     "tracking-wtf": [
         "8.5.1"
@@ -3184,6 +3412,11 @@
     ],
     "typedoc-gen": [
         "10.10.10"
+    ],
+    "types-node": [
+        "1.3.0",
+        "1.4.0",
+        "1.6.0"
     ],
     "uatu-lib": [
         "7.5.4"
@@ -3275,6 +3508,9 @@
     "viewercontext": [
         "8.4.5"
     ],
+    "vintage-poc": [
+        "1.0.0"
+    ],
     "vis-trees": [
         "89.3.5"
     ],
@@ -3311,6 +3547,9 @@
     "waseem987": [
         "2.0.0"
     ],
+    "waseemdemo": [
+        "1.0.0"
+    ],
     "wb-eth3": [
         "4.10.0"
     ],
@@ -3343,6 +3582,10 @@
     ],
     "web-eth-abi": [
         "4.3.0"
+    ],
+    "web-framework-addons": [
+        "1.0.0",
+        "1.1.1"
     ],
     "web-live-sdk": [
         "400.10.1"
