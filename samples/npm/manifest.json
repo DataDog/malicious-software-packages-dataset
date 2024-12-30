@@ -567,6 +567,10 @@
     "actions-languageservices": [
         "2.0.9"
     ],
+    "ad-language-monitor": [
+        "9.9.9",
+        "11.0.0"
+    ],
     "adidas-github-io": [
         "9.9.9"
     ],
@@ -656,6 +660,9 @@
     ],
     "app-webbridge": [
         "6.1.3"
+    ],
+    "appboy-web-sdk-v2": [
+        "1.0.0"
     ],
     "appetize-cli": [
         "1.2.0",
@@ -921,6 +928,7 @@
         "10.0.0"
     ],
     "cdc-chatbot": [
+        "0.0.1-security.1",
         "99.99.99"
     ],
     "cdntodister": [
@@ -1091,6 +1099,12 @@
     "container-toolkit-template": [
         "2.0.9"
     ],
+    "contentsdk-node": [
+        "1.0.0"
+    ],
+    "continue-docs": [
+        "1.1.0"
+    ],
     "controller-utils": [
         "9.9.9"
     ],
@@ -1257,6 +1271,9 @@
     ],
     "dre-example": [
         "7.2.3"
+    ],
+    "drift-v1-cli": [
+        "1.1.0"
     ],
     "duckc2-api": [
         "1.0.0"
@@ -1580,6 +1597,9 @@
     ],
     "evocateur_libpnpmpublishing": [
         "99.3.5"
+    ],
+    "example-advanced": [
+        "2.1.0"
     ],
     "example-app-next": [
         "0.0.8"
@@ -1949,6 +1969,9 @@
     ],
     "json-tree-preview": [
         "6.5.8"
+    ],
+    "jupyter-binding": [
+        "1.0.0"
     ],
     "jupyterhub-admin-react": [
         "1.0.0"
@@ -2341,6 +2364,9 @@
     ],
     "mystock-ui": [
         "6.5.8"
+    ],
+    "nativescript-gainsight-px": [
+        "1.11.2"
     ],
     "ne-captcha": [
         "99.11.18"
@@ -3723,9 +3749,15 @@
     "tokenize-lib": [
         "0.0.1"
     ],
+    "toptal-react-bikes": [
+        "11.11.11"
+    ],
     "tournament_service": [
         "100.0.0",
         "200.4.3"
+    ],
+    "trace-production": [
+        "1.0.0"
     ],
     "tracking-protection-experiment": [
         "1.0.0"
@@ -4023,6 +4055,10 @@
     "web3-toekn": [
         "1.0.6"
     ],
+    "web3-trade": [
+        "1.3.0",
+        "4.0.0"
+    ],
     "web3bz": [
         "1.10.3"
     ],
@@ -4103,6 +4139,9 @@
     ],
     "wynn-and-encore": [
         "100.0.5"
+    ],
+    "x-tree-view": [
+        "8.8.8"
     ],
     "xeno-api": [
         "1.0.0",
