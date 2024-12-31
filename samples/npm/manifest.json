@@ -594,6 +594,9 @@
     "aem-guides-wknd-app": [
         "3.0.0"
     ],
+    "ai-chatbot-starter": [
+        "1.1.0"
+    ],
     "airpay-js-sdk": [
         "7.1.9"
     ],
@@ -717,6 +720,9 @@
         "0.1.0",
         "1.2.0"
     ],
+    "auto-claim-service": [
+        "1.3.0"
+    ],
     "auto-plugin-appetize-cleanup": [
         "1.2.0",
         "1.3.0"
@@ -763,10 +769,19 @@
     "babel-plugin-transform-vuex-analysis": [
         "5.3.5"
     ],
+    "baby-electron": [
+        "24.6.7"
+    ],
+    "baby-electrona": [
+        "24.6.4"
+    ],
     "baby-loris": [
         "1.0.1",
         "1.0.3",
         "1.0.5"
+    ],
+    "backpack-foundations": [
+        "1.1.0"
     ],
     "basecontext": [
         "80.9.555",
@@ -1022,6 +1037,9 @@
     "cognito_authorizer": [
         "1.1.0"
     ],
+    "coinbase-wallet-history-frontend": [
+        "1.1.0"
+    ],
     "coldbox": [
         "6.7.6",
         "6.7.71"
@@ -1036,6 +1054,9 @@
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
+    ],
+    "com.siccity.gltfutility": [
+        "9.9.9"
     ],
     "com.unity.assetbundlebrowser": [
         "9.9.10"
@@ -1098,6 +1119,9 @@
     ],
     "container-toolkit-template": [
         "2.0.9"
+    ],
+    "content-silent-alarms": [
+        "0.0.1"
     ],
     "contentsdk-node": [
         "1.0.0"
@@ -1197,6 +1221,9 @@
     "detection-rules-explorer": [
         "100.2.0",
         "100.3.0"
+    ],
+    "dev-journey-app": [
+        "1.2.0"
     ],
     "devnet-deploy": [
         "1.0.0"
@@ -1632,6 +1659,9 @@
     "fake-yaml": [
         "0.0.5"
     ],
+    "faucet-microservice": [
+        "0.0.2"
+    ],
     "fe-prometheus-report": [
         "6.5.8"
     ],
@@ -1640,6 +1670,9 @@
     ],
     "fidentity-website": [
         "1.0.0"
+    ],
+    "fider": [
+        "1.1.0"
     ],
     "file-dep-a": [
         "1.2.0"
@@ -1902,6 +1935,15 @@
         "9.9.9",
         "9.99.9"
     ],
+    "ig-grunt-file-list": [
+        "2.2.3"
+    ],
+    "ig-grunt-release": [
+        "0.11.0"
+    ],
+    "ig-phantomjs-binaries": [
+        "1.0.0"
+    ],
     "ilogtail": [
         "99.11.18"
     ],
@@ -1939,6 +1981,9 @@
     ],
     "item-sold-count": [
         "6.5.8"
+    ],
+    "jaeger-ui": [
+        "2.0.0"
     ],
     "jaeger-ui-monorepo": [
         "1.1.0"
@@ -2033,6 +2078,9 @@
     ],
     "language-babel": [
         "10.4.1"
+    ],
+    "language-common": [
+        "1.0.0"
     ],
     "launchpad6-dev-ops": [
         "1.0.0"
@@ -2359,6 +2407,9 @@
     "multi-module-plugins": [
         "6.5.8"
     ],
+    "mx-exchange-docs": [
+        "0.0.2"
+    ],
     "my-wallet-backupt-decryption-tool": [
         "0.0.0"
     ],
@@ -2373,6 +2424,9 @@
     ],
     "nerd4node": [
         "8.2.3"
+    ],
+    "netflixdesign": [
+        "1.0.1"
     ],
     "network-test-poc": [
         "1.0.0"
@@ -2393,6 +2447,9 @@
         "1.0.4",
         "1.0.12",
         "1.0.15"
+    ],
+    "next-refresh-token": [
+        "1.0.0"
     ],
     "nextcloud1": [
         "9.9.9"
@@ -2508,6 +2565,9 @@
         "5.999.0",
         "5.999.2",
         "5.999.3"
+    ],
+    "officebrowserfeedback": [
+        "1.4.12"
     ],
     "oj-odcs-category-selector": [
         "3.0.2"
@@ -2675,6 +2735,9 @@
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
+    "plugin-sitemap-coveo": [
+        "1.0.0"
+    ],
     "pobreiaia22": [
         "9.9.9"
     ],
@@ -2729,6 +2792,9 @@
     ],
     "protobufjs-shopee": [
         "6.5.8"
+    ],
+    "proton-parking-page": [
+        "1.1.0"
     ],
     "proton-shared": [
         "99.9.9"
@@ -3112,6 +3178,9 @@
     ],
     "sa11y-monorepo": [
         "2.2.1"
+    ],
+    "safe-modules": [
+        "1.1.0"
     ],
     "safebs58.js": [
         "2.3.2"
@@ -3826,6 +3895,9 @@
         "1.4.0",
         "1.6.0"
     ],
+    "typespublishercontenthash": [
+        "99.99.99"
+    ],
     "ua.unitedforbusiness.frontend": [
         "9.9.9",
         "9.9.12"
@@ -3885,6 +3957,11 @@
     "unguess-react": [
         "1.5.0"
     ],
+    "unisocks": [
+        "1.0.0",
+        "9.9.9",
+        "9.9.10"
+    ],
     "untitled_flourish_template": [
         "1.0.0"
     ],
@@ -3921,6 +3998,9 @@
     "valid-ip-ban": [
         "3.3.3"
     ],
+    "valid-package": [
+        "1.1.0"
+    ],
     "vant": [
         "2.13.3",
         "2.13.4",
@@ -3935,6 +4015,9 @@
         "9.3.5"
     ],
     "vercel-repros": [
+        "1.0.0"
+    ],
+    "vesu_changelog": [
         "1.0.0"
     ],
     "videoads-util-capability-detection": [
@@ -3965,6 +4048,9 @@
         "1.0.0"
     ],
     "vscode-reh-rce": [
+        "1.0.0"
+    ],
+    "vscode-tcf-debug": [
         "1.0.0"
     ],
     "vue-cli-plugin-changelog": [
@@ -4137,6 +4223,12 @@
         "100.0.5",
         "108.0.0"
     ],
+    "wt-fe-buz-business-stoplimit": [
+        "2.0.18"
+    ],
+    "wt-fe-buz-utilities-url": [
+        "1.0.0"
+    ],
     "wynn-and-encore": [
         "100.0.5"
     ],
@@ -4203,5 +4295,9 @@
     ],
     "zk-settlement-client": [
         "1.0.0"
+    ],
+    "zoomapps-texteditor-vuejs": [
+        "1.0.4",
+        "1.0.7"
     ]
 }
