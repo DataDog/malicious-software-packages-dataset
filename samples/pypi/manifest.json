@@ -1389,6 +1389,12 @@
     "huggingfaces-hub": [
         "95.6"
     ],
+    "hugginglega": [
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3"
+    ],
     "huluquests": [
         "0.0.3"
     ],
@@ -3153,6 +3159,10 @@
     ],
     "requesxts": [
         "1.0.0"
+    ],
+    "requetses": [
+        "0.1",
+        "0.5"
     ],
     "requfsts": [],
     "requstsss": [

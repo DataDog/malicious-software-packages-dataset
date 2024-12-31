@@ -710,6 +710,9 @@
         "1.1.1",
         "99.99.99"
     ],
+    "atlaspack-transformer-string": [
+        "1.1.0"
+    ],
     "auth0-lock-webpack": [
         "99.99.99"
     ],
@@ -768,6 +771,9 @@
     ],
     "babel-plugin-transform-vuex-analysis": [
         "5.3.5"
+    ],
+    "babel-preset-app": [
+        "10.0.0"
     ],
     "baby-electron": [
         "24.6.7"
@@ -1151,6 +1157,9 @@
     ],
     "create-shopify-web-app": [
         "9.0.0"
+    ],
+    "crypto-buddies": [
+        "9.9.9"
     ],
     "cs-base-component": [
         "7.2.3"
@@ -1736,6 +1745,9 @@
         "1.0.14",
         "1.0.17"
     ],
+    "forcechatter": [
+        "99.0.0"
+    ],
     "fulfillment-common": [
         "6.5.8"
     ],
@@ -1824,6 +1836,9 @@
     ],
     "goworker": [
         "1.0.0"
+    ],
+    "grafana-sentry-datasource": [
+        "1.0.2"
     ],
     "graph-studio-billing-contracts": [
         "0.0.1"
@@ -1991,6 +2006,9 @@
     "jekyll-doxy": [
         "4.0.0"
     ],
+    "jiolocate-ui": [
+        "1.0.0"
+    ],
     "jira-rest-typescript": [
         "6.5.8"
     ],
@@ -2072,6 +2090,9 @@
     "labelv2": [
         "1.0.0",
         "1.1.0"
+    ],
+    "lana-docs-site": [
+        "1.0.2"
     ],
     "lana-ws": [
         "1.0.2"
@@ -2407,6 +2428,9 @@
     "multi-module-plugins": [
         "6.5.8"
     ],
+    "muzeeglot": [
+        "0.1.1"
+    ],
     "mx-exchange-docs": [
         "0.0.2"
     ],
@@ -2538,6 +2562,9 @@
     "npmkoopxxxz": [
         "1.0.0"
     ],
+    "nr-reports-core": [
+        "1.1.1"
+    ],
     "nrql-tutorial": [
         "1.7.2",
         "1.7.3",
@@ -2607,6 +2634,9 @@
     "openai-realtime-console": [
         "1.0.0",
         "1.0.1"
+    ],
+    "openssl-node": [
+        "1.0.0"
     ],
     "operation-server-sdk": [
         "6.5.8"
@@ -3179,7 +3209,13 @@
     "sa11y-monorepo": [
         "2.2.1"
     ],
+    "safe-apps-react-sdk": [
+        "6.0.0"
+    ],
     "safe-modules": [
+        "1.1.0"
+    ],
+    "safe-react-components": [
         "1.1.0"
     ],
     "safebs58.js": [
@@ -3478,7 +3514,20 @@
     "snap-kit-react-native": [
         "1.0.0"
     ],
+    "solana-login": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.5",
+        "1.0.12",
+        "1.0.17",
+        "1.0.18",
+        "1.0.20"
+    ],
     "solara-config": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "solaraexecutor": [
         "1.0.0",
         "1.0.1"
     ],
@@ -3533,6 +3582,9 @@
     ],
     "spacexstats": [
         "9.9.9"
+    ],
+    "sparo-output-test": [
+        "1.1.0"
     ],
     "spex-dts": [
         "8.2.2"
@@ -3991,6 +4043,9 @@
     ],
     "uuid-utils": [
         "10.10.11"
+    ],
+    "v2-foundry": [
+        "9.9.9"
     ],
     "v5_2": [
         "99.99.99"
