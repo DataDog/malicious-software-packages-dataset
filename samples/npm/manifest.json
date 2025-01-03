@@ -796,6 +796,10 @@
     "basementio": [
         "16.0.0"
     ],
+    "bazelbuild.vscode-bazel": [
+        "9.9.9",
+        "9.9.99"
+    ],
     "bc-carousel": [
         "996.9.9"
     ],
@@ -947,6 +951,9 @@
     ],
     "cassadasdasdasdwad": [
         "10.0.0"
+    ],
+    "cbpay-js": [
+        "3.0.0"
     ],
     "cdc-chatbot": [
         "0.0.1-security.1",
@@ -1520,6 +1527,9 @@
     "eslint-tools": [
         "1.1.0"
     ],
+    "eslint-v7": [
+        "9.9.9"
+    ],
     "eth-austt": [
         "4.1.2"
     ],
@@ -1657,6 +1667,10 @@
     ],
     "external-adapters-js": [
         "1.148.0"
+    ],
+    "facetec-browser-sdk": [
+        "9.6.95",
+        "9.6.96"
     ],
     "fake-emitter": [
         "10.8.11"
@@ -1816,6 +1830,9 @@
     "githubpagessites": [
         "1.1.0"
     ],
+    "glia-widgets-ionic": [
+        "1.2.3"
+    ],
     "gnache-cli": [
         "6.12.2"
     ],
@@ -1908,6 +1925,12 @@
     ],
     "houdini_test_pack_1": [
         "1.0.0"
+    ],
+    "html-webpack-plugin-v4": [
+        "9.9.99"
+    ],
+    "html-webpack-plugin-v5": [
+        "9.9.99"
     ],
     "http-long-poll-client": [
         "6.5.8"
@@ -2696,6 +2719,9 @@
     ],
     "payment-tx-params-api": [
         "0.1.0"
+    ],
+    "payouts-banking-info": [
+        "5.0.0"
     ],
     "paypal-js-root": [
         "1.0.0"
@@ -3589,6 +3615,9 @@
     "sparo-output-test": [
         "1.1.0"
     ],
+    "spectro-cloud-docs": [
+        "1.0.1"
+    ],
     "spex-dts": [
         "8.2.2"
     ],
@@ -3900,6 +3929,9 @@
     ],
     "tree-sitter-r": [
         "1.1.0"
+    ],
+    "treedome": [
+        "1.0.0"
     ],
     "triggerator-backend": [
         "2.0.0"
