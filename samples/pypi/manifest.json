@@ -2356,6 +2356,10 @@
     "piano-transcription": [
         "912.6"
     ],
+    "pingdomv3": [
+        "1.0.0",
+        "1.1.0"
+    ],
     "pip-cache-dir": [
         "1.0.0"
     ],
