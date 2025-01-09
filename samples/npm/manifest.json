@@ -341,6 +341,11 @@
     "@orange-team/map-rank-tracker-frontend": [
         "158.1.5"
     ],
+    "@patternfly-v5/patternfly": [
+        "1.0.5",
+        "1.0.6",
+        "5.3.2"
+    ],
     "@persona-builder/client": [
         "158.1.5"
     ],
@@ -606,6 +611,9 @@
         "9.9.9",
         "11.0.0"
     ],
+    "adblock-resources": [
+        "1.1.0"
+    ],
     "addons-pm": [
         "3.0.0"
     ],
@@ -650,6 +658,12 @@
     ],
     "alchemy-asset-transfers-benchmark": [
         "2.0.0"
+    ],
+    "alchemy-web3-webpack-example": [
+        "1.1.0"
+    ],
+    "angular-blockchain-wallet": [
+        "1.0.0"
     ],
     "another-query-parser": [
         "8.3.5"
@@ -1240,6 +1254,15 @@
     "cs-shared-component-tools": [
         "7.2.3"
     ],
+    "cursor-always-local": [
+        "1.0.3"
+    ],
+    "cursor-retrieval": [
+        "1.0.3"
+    ],
+    "cursor-shadow-workspace": [
+        "1.0.3"
+    ],
     "custom-ui-extension-template": [
         "1.0.1"
     ],
@@ -1269,6 +1292,9 @@
     ],
     "daun124wdsa8": [
         "23.6.1"
+    ],
+    "dbx-js-tools": [
+        "3.2.3"
     ],
     "dds-js-devkit": [
         "1.0.0"
@@ -1331,6 +1357,9 @@
         "1.0.3",
         "1.0.4"
     ],
+    "digitalexp-lowcode-runner-app": [
+        "10.0.0"
+    ],
     "diosaziose": [
         "17.0.0"
     ],
@@ -1352,6 +1381,9 @@
     ],
     "distube-fast": [
         "5.0.2"
+    ],
+    "distylai": [
+        "1.2.1"
     ],
     "do-not-install-this-plz": [
         "1.0.2"
@@ -1459,7 +1491,8 @@
     ],
     "electron-builder-13": [
         "13.3.4",
-        "13.7.5"
+        "13.7.5",
+        "13.11.5"
     ],
     "electron-request": [
         "10.1.7"
@@ -1877,6 +1910,9 @@
     "gateway-paypal": [
         "999.9.9"
     ],
+    "gatsby-hampton-theme": [
+        "1.0.0"
+    ],
     "gatsby-plugin-guru-export": [
         "5.2.1"
     ],
@@ -1946,7 +1982,9 @@
         "1.0.0"
     ],
     "grafana-sentry-datasource": [
-        "1.0.2"
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "graph-studio-billing-contracts": [
         "0.0.1"
@@ -2103,6 +2141,9 @@
     ],
     "imports_exports": [
         "1.1.2"
+    ],
+    "innocent-package": [
+        "1.0.3"
     ],
     "install-with-shrinkwrap": [
         "20.999.99"
@@ -2564,7 +2605,8 @@
     ],
     "mozilla-central": [
         "1.1.1",
-        "1.1.2"
+        "1.1.2",
+        "2.0.0"
     ],
     "ms-azuretools.vscode-azureresourcegroups": [
         "99.99.99"
@@ -2848,6 +2890,9 @@
     ],
     "passkeys-integration": [
         "1.4.0"
+    ],
+    "passkeys-resources-website": [
+        "1.0.0"
     ],
     "passports-js": [
         "0.7.0",
