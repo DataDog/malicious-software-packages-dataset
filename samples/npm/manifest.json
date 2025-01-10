@@ -32,6 +32,9 @@
     "0vulns-dependency-confusion-poc": [
         "1.0.0"
     ],
+    "1password-sdk-exapmles": [
+        "1.0.0"
+    ],
     "32red-admin": [
         "999.9.9"
     ],
@@ -1492,7 +1495,9 @@
     "electron-builder-13": [
         "13.3.4",
         "13.7.5",
-        "13.11.5"
+        "13.11.5",
+        "13.12.5",
+        "13.12.6"
     ],
     "electron-request": [
         "10.1.7"
@@ -2190,6 +2195,12 @@
     "journey-client-reactor": [
         "10.9.9"
     ],
+    "jpl-branding": [
+        "2.0.9",
+        "2.0.10",
+        "2.1.0",
+        "2.1.2"
+    ],
     "jquery.pstrength": [
         "11.11.11"
     ],
@@ -2668,7 +2679,8 @@
         "1.0.15"
     ],
     "next-refresh-token": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "nextcloud1": [
         "9.9.9"
@@ -2772,7 +2784,8 @@
     "nrql-tutorial": [
         "1.7.2",
         "1.7.3",
-        "1.7.5"
+        "1.7.5",
+        "1.7.6"
     ],
     "nuget.shouldly": [
         "9.9.10"
@@ -2803,6 +2816,9 @@
     "oj-odcs-category-selector": [
         "3.0.2"
     ],
+    "okta-help": [
+        "101.0.9"
+    ],
     "okxweb3": [
         "1.0.9",
         "99.99.99",
@@ -2827,6 +2843,9 @@
     "onyx-monorepo": [
         "1.0.0-beta.87"
     ],
+    "op-vscode": [
+        "1.1.0"
+    ],
     "opa-fe-base": [
         "6.5.8"
     ],
@@ -2840,8 +2859,15 @@
         "1.0.0",
         "1.0.1"
     ],
+    "opensea-developer-docs": [
+        "9.9.9"
+    ],
     "openssl-node": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
+    ],
+    "operaextensions.js": [
+        "9.9.9"
     ],
     "operation-server-sdk": [
         "6.5.8"
@@ -2870,6 +2896,9 @@
     ],
     "pacbot-spa": [
         "2.2.5"
+    ],
+    "packs-starter": [
+        "1.1.0"
     ],
     "pages-proxy": [
         "1.0.1"
@@ -3672,6 +3701,9 @@
     "semi-ux": [
         "99.11.18"
     ],
+    "sendbird-moderation-dashboard": [
+        "2.2.2"
+    ],
     "sendinblue2019": [
         "1.0.3"
     ],
@@ -3716,6 +3748,9 @@
     ],
     "shopee-ui-react4": [
         "9.5.5"
+    ],
+    "shopify-ecommerce-shopping-cart": [
+        "9.9.9"
     ],
     "short-link-sharer": [
         "5.5.10"
@@ -3933,6 +3968,9 @@
     ],
     "stormapp": [
         "1.0.5"
+    ],
+    "storytel.github.io": [
+        "9.9.9"
     ],
     "strictructor": [
         "10.0.0"
@@ -4414,6 +4452,9 @@
     ],
     "wb3cor": [
         "4.7.0"
+    ],
+    "wc-skroutz-analytics": [
+        "9.9.9"
     ],
     "wdio-common": [
         "1.5.0"
