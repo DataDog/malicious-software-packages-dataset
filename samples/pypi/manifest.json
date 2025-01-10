@@ -2187,6 +2187,9 @@
     "nezur": [
         "0.1"
     ],
+    "nifty-cli": [
+        "100.0.0"
+    ],
     "nnabla-dataset-uploader": [],
     "node-hill": [],
     "noed": [],
