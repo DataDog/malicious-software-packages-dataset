@@ -263,6 +263,9 @@
     "@isimplelab/ng2-charts": [
         "10.12.14"
     ],
+    "@justworkshr/alma": [
+        "99.9.1"
+    ],
     "@linx-ui/admin": [
         "1.0.0"
     ],
@@ -589,6 +592,9 @@
     "acces-react": [
         "99.3.5"
     ],
+    "achalk-next": [
+        "6.1.5"
+    ],
     "acm-nano-logger-fe": [
         "1.0.1"
     ],
@@ -648,6 +654,9 @@
     ],
     "ai-playground": [
         "3.0.0"
+    ],
+    "ai-plugin-template": [
+        "1.0.0"
     ],
     "airpay-js-sdk": [
         "7.1.9"
@@ -1121,6 +1130,9 @@
     "codeql-extractor-iac-action": [
         "6.0.1"
     ],
+    "codeql-query": [
+        "1.0.0"
+    ],
     "codeql-sarif-security-standard-annotator": [
         "0.0.1"
     ],
@@ -1259,6 +1271,18 @@
     ],
     "cs-shared-component-tools": [
         "7.2.3"
+    ],
+    "csbchalk-next": [
+        "6.1.5"
+    ],
+    "cscchokidar-next": [
+        "4.0.14"
+    ],
+    "cschalk": [
+        "6.1.5"
+    ],
+    "cschalk-next": [
+        "6.1.5"
     ],
     "cursor-always-local": [
         "1.0.3"
@@ -1434,6 +1458,9 @@
     "dynamodb-data-mapper-js": [
         "7.0.0"
     ],
+    "dynatrace_config_manager": [
+        "1.0.0"
+    ],
     "e39test": [
         "1.0.0"
     ],
@@ -1510,6 +1537,9 @@
     ],
     "elkeid": [
         "9.3.5"
+    ],
+    "emergency-pull-request-probot-app": [
+        "1.1.0"
     ],
     "emoji-datasource-google-blob": [
         "3.1.2"
@@ -1618,6 +1648,9 @@
     ],
     "eslint-plugin-module-dependencies": [
         "6.5.8"
+    ],
+    "eslint-plugin-paste-internal": [
+        "9.9.10"
     ],
     "eslint-plugin-shopee": [
         "6.5.8"
@@ -1932,6 +1965,10 @@
     "gcp-scanner-visualizer": [
         "1.1.1"
     ],
+    "geotab-sdk": [
+        "9.9.9",
+        "9.9.10"
+    ],
     "getsolara": [
         "1.0.0",
         "1.0.1"
@@ -1966,6 +2003,9 @@
     "githubpagessites": [
         "1.1.0"
     ],
+    "glance-android-core-sdk": [
+        "9.9.9"
+    ],
     "glia-widgets-ionic": [
         "1.2.3"
     ],
@@ -1989,6 +2029,9 @@
     ],
     "goworker": [
         "1.0.0"
+    ],
+    "grabathon-5.0": [
+        "1.1.0"
     ],
     "grafana-sentry-datasource": [
         "1.0.2",
@@ -2127,6 +2170,10 @@
     ],
     "ig-grunt-release": [
         "0.11.0"
+    ],
+    "ig-lighthouse-security-audits": [
+        "1.12.0",
+        "2.3.0"
     ],
     "ig-phantomjs-binaries": [
         "1.0.0"
@@ -2284,6 +2331,9 @@
     "lambda-demo": [
         "1.1.0"
     ],
+    "lambda-sns-dynatrace-sdk": [
+        "1.1.0"
+    ],
     "lana-docs-site": [
         "1.0.2"
     ],
@@ -2305,6 +2355,9 @@
     "left-pad-browser": [
         "99.9.0"
     ],
+    "legacy_vis_analyzer": [
+        "1.1.0"
+    ],
     "legacyaws-s3-object-multipart-copy": [
         "0.3.2"
     ],
@@ -2319,7 +2372,8 @@
         "1.1.0"
     ],
     "lezer-snowsql": [
-        "0.1.0"
+        "0.1.0",
+        "0.1.11"
     ],
     "lfs-au-website-build": [
         "1.0.0"
@@ -2719,6 +2773,9 @@
     "nimiq-rewards-calculator": [
         "100.0.0"
     ],
+    "nimiq-supply-calculator": [
+        "1.0.0"
+    ],
     "nimiq-validators-trustscore": [
         "1.0.0"
     ],
@@ -2991,7 +3048,8 @@
     ],
     "peritter": [
         "1.0.0",
-        "1.1.0"
+        "1.1.0",
+        "2.1.0"
     ],
     "permissionscaling": [
         "1.0.0"
@@ -4188,6 +4246,9 @@
     ],
     "toast-pack": [
         "10.4.8"
+    ],
+    "tokenization-lab": [
+        "1.1.0"
     ],
     "tokenize-lib": [
         "0.0.1"
