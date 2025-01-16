@@ -938,6 +938,9 @@
     "boostrapsio": [
         "4.0.0"
     ],
+    "bootcamp-hackathon": [
+        "1.0.0"
+    ],
     "borsh-js": [
         "1.0.0"
     ],
@@ -1284,6 +1287,9 @@
     "cschalk-next": [
         "6.1.5"
     ],
+    "css-blocks-ember": [
+        "1.0.0"
+    ],
     "cursor-always-local": [
         "1.0.3"
     ],
@@ -1302,6 +1308,9 @@
     "cx-web-themes": [
         "200.0.0"
     ],
+    "cyclotron-svc": [
+        "1.0.0"
+    ],
     "daglavaa2": [
         "0.1.2"
     ],
@@ -1316,6 +1325,9 @@
     ],
     "data-strategy": [
         "1.0.0"
+    ],
+    "datlowe-font": [
+        "99.100.100"
     ],
     "daumu": [
         "89.3.5"
@@ -1820,6 +1832,9 @@
     "external-adapters-js": [
         "1.148.0"
     ],
+    "fabric-shim-docs": [
+        "1.0.0"
+    ],
     "facetec-browser-sdk": [
         "9.6.95",
         "9.6.96",
@@ -2207,6 +2222,9 @@
     "internal-website": [
         "1.0.0"
     ],
+    "interview-code-challenge-full-stack": [
+        "1.0.0"
+    ],
     "interview-question": [
         "1.0.0"
     ],
@@ -2346,6 +2364,9 @@
     "language-common": [
         "1.0.0"
     ],
+    "launchpad-ui": [
+        "1.0.0"
+    ],
     "launchpad6-dev-ops": [
         "1.0.0"
     ],
@@ -2376,6 +2397,9 @@
         "0.1.11"
     ],
     "lfs-au-website-build": [
+        "1.0.0"
+    ],
+    "lib-wallet": [
         "1.0.0"
     ],
     "lib-wallet-store": [
@@ -2486,6 +2510,9 @@
     ],
     "mangadex-archive-torrent-processor": [
         "5.4.9"
+    ],
+    "mapbox-demo-components": [
+        "1.1.0"
     ],
     "maplibre": [
         "2.4.0",
@@ -2598,6 +2625,11 @@
     ],
     "ml-translate-vis": [
         "991.9.9"
+    ],
+    "mlb-site-core": [
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "mockapie": [
         "5.5.8"
@@ -3169,6 +3201,9 @@
     "proton-vpn-browser-extension": [
         "999.99.99"
     ],
+    "pulumi-automation-sdk-ssh-tunnel": [
+        "9.9.9"
+    ],
     "pumptoolforvolumeandcomment": [
         "1.5.1"
     ],
@@ -3482,6 +3517,9 @@
     "request-ip-validator": [
         "3.2.0"
     ],
+    "resources.data.gov": [
+        "1.1.0"
+    ],
     "retail-common": [
         "6.5.8"
     ],
@@ -3527,6 +3565,13 @@
     ],
     "rollup-plugin-hotreload": [
         "6.5.8"
+    ],
+    "romanes-eunt-domus-jd-1337": [
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.18",
+        "1.0.19"
     ],
     "rsd-monorepo": [
         "1.0.1"
@@ -3802,6 +3847,9 @@
     "setup-node": [
         "2.0.9"
     ],
+    "sg_personal_ui": [
+        "100.0.1"
+    ],
     "shader-examples": [
         "9.9.9"
     ],
@@ -3878,6 +3926,9 @@
     ],
     "snap-kit-react-native": [
         "1.0.0"
+    ],
+    "snapon-imageviewer-lw": [
+        "99.9.9"
     ],
     "solana-login": [
         "1.0.0",
@@ -4196,6 +4247,11 @@
     ],
     "testforyt7hb": [
         "1.2.0"
+    ],
+    "testidneel-test-package": [
+        "0.0.11",
+        "0.0.13",
+        "0.0.19"
     ],
     "testin-elengo": [
         "1.0.1"
@@ -4527,6 +4583,10 @@
     ],
     "wagmi-toolkits": [
         "1.0.5"
+    ],
+    "waltz-ng": [
+        "3.0.0",
+        "4.0.0"
     ],
     "waseem987": [
         "2.0.0"
