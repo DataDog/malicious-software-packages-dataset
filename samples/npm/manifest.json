@@ -595,6 +595,9 @@
     "achalk-next": [
         "6.1.5"
     ],
+    "acl-icon-font": [
+        "9999.999.9999"
+    ],
     "acm-nano-logger-fe": [
         "1.0.1"
     ],
@@ -673,6 +676,9 @@
     ],
     "alchemy-web3-webpack-example": [
         "1.1.0"
+    ],
+    "analytics.js-integration-google-tag-manager": [
+        "6.0.0"
     ],
     "angular-blockchain-wallet": [
         "1.0.0"
@@ -1008,6 +1014,36 @@
     ],
     "calendervue": [
         "1.0.0"
+    ],
+    "calypso-analytics": [
+        "999.999.999"
+    ],
+    "calypso-apps-builder": [
+        "999.999.999"
+    ],
+    "calypso-babel-config": [
+        "999.999.999"
+    ],
+    "calypso-build": [
+        "999.999.999"
+    ],
+    "calypso-color-schemes": [
+        "999.999.999"
+    ],
+    "calypso-config": [
+        "999.999.999"
+    ],
+    "calypso-doctor": [
+        "999.999.999"
+    ],
+    "calypso-e2e": [
+        "999.999.999"
+    ],
+    "calypso-eslint-overrides": [
+        "999.999.999"
+    ],
+    "calypso-jest": [
+        "999.999.999"
     ],
     "camera-kit-react-native-example": [
         "1.0.0",
@@ -2373,6 +2409,9 @@
     "layerzero-v2": [
         "1.0.0"
     ],
+    "leafygreen-ui": [
+        "1.0.0"
+    ],
     "left-pad-browser": [
         "99.9.0"
     ],
@@ -2578,6 +2617,9 @@
     "metamask-extension-generate-attributions": [
         "1.0.0",
         "2.0.0"
+    ],
+    "metamask-sdk-e2e": [
+        "1.0.0"
     ],
     "metamodel-editor": [
         "99.9.9",
