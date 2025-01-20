@@ -2933,6 +2933,9 @@
     "pypswcracker": [
         "1.0.0"
     ],
+    "pyqubee": [
+        "12.1.1"
+    ],
     "pyrologin": [],
     "pysanitizer": [
         "1.0.0"
