@@ -2060,11 +2060,23 @@
     "ml-linear-regression-lib": [
         "1.1.3"
     ],
+    "mlc-ai-nightly": [
+        "9.9.9"
+    ],
+    "mlc-ai-nightly-cu123": [
+        "9.9.9"
+    ],
+    "mlc-ai-nightly-rocm62": [
+        "9.9.9"
+    ],
     "mlc-llm-nightly": [
         "99.99.99",
         "99.99.100",
         "99.99.102",
         "99.99.105"
+    ],
+    "mlc-llm-nightly-cu123": [
+        "9.9.9"
     ],
     "mnolith": [
         "912.6"
