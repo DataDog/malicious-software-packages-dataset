@@ -266,6 +266,10 @@
     "@justworkshr/alma": [
         "99.9.1"
     ],
+    "@kamotive/api-file-upload": [
+        "1.0.0",
+        "1.0.3"
+    ],
     "@linx-ui/admin": [
         "1.0.0"
     ],
@@ -295,6 +299,10 @@
     ],
     "@mnlo/common-user": [
         "0.0.1"
+    ],
+    "@moneyguide-devkit/style-provider": [
+        "7.4.4",
+        "7.8.6"
     ],
     "@monkey-tilt/client": [
         "1.0.0",
@@ -329,6 +337,9 @@
     ],
     "@mosfe/sso-sdk": [
         "0.0.6"
+    ],
+    "@mp-food/knapsack": [
+        "1.0.0"
     ],
     "@msidentity/authx": [
         "1.0.0",
@@ -619,6 +630,9 @@
     "actions-languageservices": [
         "2.0.9"
     ],
+    "actiris": [
+        "1.0.0"
+    ],
     "ad-language-monitor": [
         "9.9.9",
         "11.0.0"
@@ -636,6 +650,9 @@
         "6.1.3"
     ],
     "adminconsole": [
+        "1.0.0"
+    ],
+    "admission-server": [
         "1.0.0"
     ],
     "ads-common-components": [
@@ -730,11 +747,16 @@
         "1.0.0"
     ],
     "api-demo-sample-lib3": [
+        "0.0.1-security.1",
         "1.0.0"
     ],
     "api-demo-sample-lib4": [
+        "0.0.1-security.4",
         "1.0.0",
         "1.0.1"
+    ],
+    "api-extractor-lib1-test": [
+        "9.9.9"
     ],
     "app-webbridge": [
         "6.1.3"
@@ -762,7 +784,9 @@
         "1.0.76",
         "1.0.79",
         "1.0.81",
-        "1.0.82"
+        "1.0.82",
+        "1.0.84",
+        "1.0.86"
     ],
     "aries-bifold-root": [
         "1.0.0",
@@ -888,6 +912,10 @@
         "9.9.9",
         "9.9.99"
     ],
+    "bbc-http-client": [
+        "9.9.9",
+        "9.9.10"
+    ],
     "bc-carousel": [
         "996.9.9"
     ],
@@ -1002,6 +1030,7 @@
     ],
     "business-kpi-manager-1.0.0": [
         "3.8.0",
+        "4.0.0",
         "19.19.0",
         "19.21.0"
     ],
@@ -1114,6 +1143,9 @@
     "cbpay-js": [
         "3.0.0"
     ],
+    "cc-component-lib": [
+        "2.0.0"
+    ],
     "cdc-chatbot": [
         "0.0.1-security.1",
         "99.99.99"
@@ -1166,6 +1198,9 @@
     "check-deps-version-consistency": [
         "99.11.18"
     ],
+    "chipped": [
+        "1.1.0"
+    ],
     "chrome-api-utils": [
         "1.1.0"
     ],
@@ -1174,6 +1209,9 @@
     ],
     "circuit-breaking": [
         "3.9.1"
+    ],
+    "classic-theme": [
+        "999.91.1"
     ],
     "cli-docs-site": [
         "1.1.0"
@@ -1426,6 +1464,9 @@
     "dbx-js-tools": [
         "3.2.3"
     ],
+    "dbximgs": [
+        "2.0.0"
+    ],
     "dds-js-devkit": [
         "1.0.0"
     ],
@@ -1468,6 +1509,9 @@
     ],
     "devops-challenge": [
         "99.99.990"
+    ],
+    "devopt": [
+        "9.9.9"
     ],
     "dex12212": [
         "1.0.0"
@@ -1659,6 +1703,10 @@
         "4.1.2"
     ],
     "epam-cdisc-electron": [
+        "9.9.9"
+    ],
+    "equipment-icon-mapper": [
+        "2.13.0",
         "9.9.9"
     ],
     "erc4337": [
@@ -1911,6 +1959,9 @@
     "expense-management": [
         "99.9.2"
     ],
+    "experimenter-docs": [
+        "9.0.0"
+    ],
     "export-pruner": [
         "6.5.8"
     ],
@@ -2071,6 +2122,9 @@
     "gateway-paypal": [
         "999.9.9"
     ],
+    "gatsby-eui-starter": [
+        "2.0.0"
+    ],
     "gatsby-hampton-theme": [
         "1.0.0"
     ],
@@ -2220,6 +2274,9 @@
         "4.4.30",
         "4.4.31"
     ],
+    "hellosign-embed-with-dbx-file": [
+        "1.0.0"
+    ],
     "herthtrhrt": [
         "1.0.2"
     ],
@@ -2319,6 +2376,9 @@
     ],
     "incomesample": [
         "1.0.0"
+    ],
+    "ing-feat-inbox": [
+        "1.0.1"
     ],
     "innocent-package": [
         "1.0.3"
@@ -2424,6 +2484,12 @@
     ],
     "keyring-controller": [
         "9.0.0"
+    ],
+    "keystone-app": [
+        "2.0.0"
+    ],
+    "kibana-release-notes": [
+        "1.0.0"
     ],
     "kiosk-cli": [
         "0.0.1"
@@ -2615,6 +2681,9 @@
     "majidalfuttaim11": [
         "1.1.2"
     ],
+    "malware-testbed": [
+        "1.0.0"
+    ],
     "manajemenservice": [
         "1.0.0"
     ],
@@ -2746,6 +2815,9 @@
     ],
     "mockapie": [
         "5.5.8"
+    ],
+    "model-viewer-render-fidelity-tools": [
+        "99.99.99"
     ],
     "model-viewer-space-opera": [
         "1.1.0"
@@ -3311,6 +3383,9 @@
     "privy-frames-drop": [
         "1.0.0"
     ],
+    "probe-dictionary-mozilla": [
+        "1.0.0"
+    ],
     "probeiaia": [
         "9.9.9"
     ],
@@ -3657,6 +3732,9 @@
     "rich-text-slate-rc": [
         "6.5.8"
     ],
+    "rif-wallet": [
+        "1.0.0"
+    ],
     "rivalsgui": [
         "1.0.0"
     ],
@@ -3725,6 +3803,9 @@
     ],
     "ruby-lsp": [
         "0.8.14"
+    ],
+    "ruby-typeprof": [
+        "1.0.0"
     ],
     "s-page-legacy": [
         "8.1.9"
@@ -4061,6 +4142,9 @@
     "snap-kit-react-native": [
         "1.0.0"
     ],
+    "snapon-imageviewer": [
+        "17.0.0-R"
+    ],
     "snapon-imageviewer-lw": [
         "17.0.0-LW-R",
         "99.9.9"
@@ -4133,6 +4217,10 @@
     ],
     "spacexstats": [
         "9.9.9"
+    ],
+    "spark-ar-libs": [
+        "9.9.9",
+        "10.9.9"
     ],
     "sparo-output-test": [
         "1.1.0"
@@ -4298,6 +4386,9 @@
     "system-remap": [
         "1.0.0"
     ],
+    "tagmyphotosblog": [
+        "1.0.0"
+    ],
     "tailchat-service-openapi-generator": [
         "9.5.5"
     ],
@@ -4389,7 +4480,8 @@
     "testidneel-test-package": [
         "0.0.11",
         "0.0.13",
-        "0.0.19"
+        "0.0.19",
+        "0.0.20"
     ],
     "testin-elengo": [
         "1.0.1"
@@ -4423,6 +4515,9 @@
     ],
     "theme-check-vscode": [
         "4.0.0"
+    ],
+    "theme-tools": [
+        "1.1.0"
     ],
     "theme-webpack": [
         "1.0.1"
@@ -4698,6 +4793,9 @@
     "vs-table-plugins-antd": [
         "9.2.10"
     ],
+    "vscode-bazel-bsp": [
+        "8.0.0"
+    ],
     "vscode-dotnet-sdk": [
         "1.0.0"
     ],
@@ -4721,6 +4819,12 @@
     ],
     "vue3-tiktok": [
         "89.3.5"
+    ],
+    "vuepress-plugin-lego-analytics": [
+        "1.0.1",
+        "3.0.3",
+        "4.0.0",
+        "4.0.1"
     ],
     "wagmi-toolkits": [
         "1.0.5"
@@ -4860,6 +4964,10 @@
     "webpacks-dev-servers": [
         "99.11.18"
     ],
+    "wg-fps-stats": [
+        "5.0.7",
+        "5.0.11"
+    ],
     "whaletail": [
         "1.0.0"
     ],
@@ -4881,6 +4989,9 @@
         "5.2.9"
     ],
     "worker-common": [
+        "99.99.99"
+    ],
+    "workerd-linux-arm64": [
         "99.99.99"
     ],
     "wp-crontrol": [
