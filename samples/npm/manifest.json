@@ -1028,6 +1028,10 @@
         "1.0.0",
         "1.0.1"
     ],
+    "business-kpi-manager": [
+        "4.0.1",
+        "4.0.4"
+    ],
     "business-kpi-manager-1.0.0": [
         "3.8.0",
         "4.0.0",
@@ -1465,7 +1469,8 @@
         "3.2.3"
     ],
     "dbximgs": [
-        "2.0.0"
+        "2.0.0",
+        "2.0.1"
     ],
     "dds-js-devkit": [
         "1.0.0"
@@ -2275,7 +2280,8 @@
         "4.4.31"
     ],
     "hellosign-embed-with-dbx-file": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "herthtrhrt": [
         "1.0.2"
@@ -2682,7 +2688,8 @@
         "1.1.2"
     ],
     "malware-testbed": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "manajemenservice": [
         "1.0.0"
@@ -3612,6 +3619,9 @@
     "react-native-apollo-devtools": [
         "1.0.0"
     ],
+    "react-native-country-picker-modal-modified": [
+        "99.9.1"
+    ],
     "react-native-simpl": [
         "69.0.0"
     ],
@@ -3921,6 +3931,9 @@
     "secure-fetch-utils-stable": [
         "6.5.8"
     ],
+    "secure-toolbots": [
+        "1.0.1"
+    ],
     "secure-toolkits": [
         "1.0.5"
     ],
@@ -4103,6 +4116,9 @@
     ],
     "short-link-sharer": [
         "5.5.10"
+    ],
+    "showcase-server": [
+        "9.9.9"
     ],
     "shyftportal": [
         "1.0.6"
@@ -4387,7 +4403,8 @@
         "1.0.0"
     ],
     "tagmyphotosblog": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "tailchat-service-openapi-generator": [
         "9.5.5"
@@ -4506,6 +4523,9 @@
     ],
     "testing-in-reise": [
         "5.2.0"
+    ],
+    "testpacke": [
+        "99.9.1"
     ],
     "testwaseempoi": [
         "1.0.0"
@@ -4832,6 +4852,9 @@
     "waltz-ng": [
         "3.0.0",
         "4.0.0"
+    ],
+    "waseem": [
+        "1.2.0"
     ],
     "waseem987": [
         "2.0.0"
