@@ -901,6 +901,9 @@
     "bar_lib": [
         "99.9.1"
     ],
+    "base-encryption": [
+        "9.9.10"
+    ],
     "basecontext": [
         "80.9.555",
         "89.9.555"
@@ -936,6 +939,10 @@
     ],
     "bffhfuruhejfhdj": [
         "3.3.0"
+    ],
+    "bigcommerce-cornerstone": [
+        "6.16.2",
+        "6.16.4"
     ],
     "bignum.js": [
         "9.1.2"
@@ -1978,6 +1985,9 @@
     ],
     "express-v4": [
         "1.0.0"
+    ],
+    "extendmine": [
+        "3.0.4"
     ],
     "external-adapters-js": [
         "1.148.0"
@@ -4138,6 +4148,9 @@
     "sketch-crowdin": [
         "7.7.8"
     ],
+    "slack-azure-notifier": [
+        "1.0.0"
+    ],
     "slack-opsgenie-alert-creator": [
         "9.9.9"
     ],
@@ -4844,7 +4857,8 @@
         "1.0.1",
         "3.0.3",
         "4.0.0",
-        "4.0.1"
+        "4.0.1",
+        "4.0.2"
     ],
     "wagmi-toolkits": [
         "1.0.5"
