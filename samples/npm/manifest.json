@@ -768,6 +768,9 @@
         "1.2.0",
         "1.3.0"
     ],
+    "apple.github.io": [
+        "9.9.9"
+    ],
     "appqos-client": [
         "1.1.0"
     ],
@@ -944,6 +947,9 @@
         "6.16.2",
         "6.16.4"
     ],
+    "bigcommerce.github.io": [
+        "9.9.9"
+    ],
     "bignum.js": [
         "9.1.2"
     ],
@@ -1037,7 +1043,8 @@
     ],
     "business-kpi-manager": [
         "4.0.1",
-        "4.0.4"
+        "4.0.4",
+        "4.0.7"
     ],
     "business-kpi-manager-1.0.0": [
         "3.8.0",
@@ -1494,6 +1501,9 @@
     "delegator-core-viem": [
         "1.0.0"
     ],
+    "dell.github.io": [
+        "9.9.12"
+    ],
     "demo-resources": [
         "5.5.1"
     ],
@@ -1926,6 +1936,9 @@
     "ethsg-util": [
         "3.0.1"
     ],
+    "etsy.github.io": [
+        "9.9.9"
+    ],
     "evocataur": [
         "99.3.5"
     ],
@@ -2239,6 +2252,9 @@
     ],
     "grid-context": [
         "0.0.9"
+    ],
+    "growthbook-app": [
+        "9.9.9"
     ],
     "grpclb-zk": [
         "6.5.8"
@@ -2740,6 +2756,9 @@
     ],
     "markservice": [
         "6.5.8"
+    ],
+    "mathworks.github.io": [
+        "9.9.9"
     ],
     "matitanium": [
         "1.0.1"
@@ -4193,7 +4212,8 @@
     ],
     "solaraexecutor": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2"
     ],
     "solaraupdater": [
         "1.0.0"
@@ -4654,6 +4674,9 @@
         "1.1.0",
         "1.1.1"
     ],
+    "twilio.github.io": [
+        "9.9.9"
+    ],
     "tyk-developer-portal": [
         "1.0.0",
         "9.9.9"
@@ -4862,6 +4885,9 @@
     ],
     "wagmi-toolkits": [
         "1.0.5"
+    ],
+    "wallet-history-demo-backend": [
+        "1.1.0"
     ],
     "waltz-ng": [
         "3.0.0",
