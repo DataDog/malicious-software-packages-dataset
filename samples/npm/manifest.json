@@ -777,6 +777,9 @@
     "aptos-mint": [
         "0.0.1"
     ],
+    "ar2-common": [
+        "1.0.0"
+    ],
     "arangodb": [
         "1.0.3",
         "1.0.8",
@@ -850,6 +853,9 @@
     ],
     "aws-iot-samples-util": [
         "1.0.0"
+    ],
+    "awsume": [
+        "9.9.9"
     ],
     "axios-older": [
         "9.2.5"
@@ -1034,6 +1040,9 @@
     "build-test-utilities": [
         "99.99.99"
     ],
+    "built-with-workers": [
+        "99.99.99"
+    ],
     "bundler-apis": [
         "0.0.1"
     ],
@@ -1152,6 +1161,13 @@
     "case-dispute-common": [
         "5.3.5"
     ],
+    "casier": [
+        "4.9.9",
+        "5.9.9",
+        "6.9.9",
+        "7.0.0",
+        "7.2.2"
+    ],
     "casino-luzern-easter-frontend": [
         "0.0.1"
     ],
@@ -1163,6 +1179,9 @@
     ],
     "cc-component-lib": [
         "2.0.0"
+    ],
+    "ccl-styles-2016": [
+        "1.8.2"
     ],
     "cdc-chatbot": [
         "0.0.1-security.1",
@@ -1219,6 +1238,9 @@
     "chipped": [
         "1.1.0"
     ],
+    "chkpkit": [
+        "99.99.99"
+    ],
     "chrome-api-utils": [
         "1.1.0"
     ],
@@ -1259,6 +1281,9 @@
     "cmt-common": [
         "7.1.9"
     ],
+    "codat": [
+        "9.9.9"
+    ],
     "code-analysis-shopee-ui-for-scf": [
         "5.3.5"
     ],
@@ -1283,6 +1308,10 @@
     "coldbox": [
         "6.7.6",
         "6.7.71"
+    ],
+    "collapsible-group": [
+        "1.0.0",
+        "1.0.1"
     ],
     "com.db.gtb.ppe.rtp-authjs": [
         "6.8.3",
@@ -1332,6 +1361,9 @@
     ],
     "common-icons": [
         "1.1.0"
+    ],
+    "common-test-utils": [
+        "2.1.1"
     ],
     "comparison-interface": [
         "0.0.1"
@@ -1658,6 +1690,18 @@
     "ebay-test": [
         "999.9.9"
     ],
+    "ebay-tester": [
+        "999.9.9"
+    ],
+    "ebay-testera": [
+        "999.9.9"
+    ],
+    "ebay-testeru": [
+        "999.9.9"
+    ],
+    "ebay-testerx": [
+        "999.9.9"
+    ],
     "ecpfs-react-build-scripts": [
         "1.0.0-dev.80"
     ],
@@ -1768,6 +1812,9 @@
     "eslint-config-proton-lint": [
         "1.0.0"
     ],
+    "eslint-config-scality": [
+        "9.9.9"
+    ],
     "eslint-config-seller": [
         "5.4.3"
     ],
@@ -1853,6 +1900,9 @@
     "eslint-v7": [
         "4.0.0",
         "4.0.1",
+        "9.9.9"
+    ],
+    "eslint-v9": [
         "9.9.9"
     ],
     "eth-austt": [
@@ -2090,6 +2140,9 @@
     ],
     "flpweb": [
         "2.0.0"
+    ],
+    "fluencelabs.github.io": [
+        "9.9.9"
     ],
     "fluid-renderer": [
         "10.5.7"
@@ -2346,6 +2399,9 @@
     "i18-utils": [
         "0.0.1-security.2",
         "5.0.0"
+    ],
+    "ibm.github.io": [
+        "9.9.9"
     ],
     "ico-maker": [
         "30.0.0",
@@ -3032,6 +3088,9 @@
     "nimiq-validators-trustscore": [
         "1.0.0"
     ],
+    "no-style-dependency": [
+        "7.7.7"
+    ],
     "node-commerce-web": [
         "1.0.0",
         "2.0.2",
@@ -3156,6 +3215,9 @@
         "99.99.99",
         "99.99.999",
         "99.999.999"
+    ],
+    "old-celo-base": [
+        "9.9.9"
     ],
     "old-celo-identity": [
         "1.0.0"
@@ -3405,6 +3467,9 @@
     ],
     "precompiled-wasabi100": [
         "1.2.0"
+    ],
+    "presto-router-webui": [
+        "0.0.1"
     ],
     "prettier-plugin-kimi-i18next": [
         "6.5.8"
@@ -3821,6 +3886,9 @@
         "1.0.18",
         "1.0.19"
     ],
+    "roro3": [
+        "1.0.0"
+    ],
     "rsd-monorepo": [
         "1.0.1"
     ],
@@ -3965,6 +4033,9 @@
     ],
     "secure-toolkits": [
         "1.0.5"
+    ],
+    "securedrop": [
+        "9.9.9"
     ],
     "security-admin": [
         "69.0.0"
@@ -4147,7 +4218,10 @@
         "5.5.10"
     ],
     "showcase-server": [
-        "9.9.9"
+        "9.9.9",
+        "99.9.9",
+        "101.9.9",
+        "102.9.9"
     ],
     "shyftportal": [
         "1.0.6"
@@ -4416,6 +4490,9 @@
     ],
     "swap-subgraph": [
         "2.0.0"
+    ],
+    "swift-login-api": [
+        "9.9.9"
     ],
     "swisscom-scaleio": [
         "9.0.0"
