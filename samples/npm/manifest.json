@@ -96,6 +96,9 @@
     "@add-wallet-exchange/type-api-data": [
         "1.0.0"
     ],
+    "@adsk-forks/jsonpath": [
+        "1.0.0"
+    ],
     "@afound/common": [
         "10.10.12"
     ],
@@ -1363,7 +1366,8 @@
         "1.1.0"
     ],
     "common-test-utils": [
-        "2.1.1"
+        "2.1.1",
+        "9.1.1"
     ],
     "comparison-interface": [
         "0.0.1"
@@ -1426,6 +1430,9 @@
     ],
     "cosmos-hub-docs-site": [
         "2.0.0"
+    ],
+    "crash-handler": [
+        "6.1.7"
     ],
     "create-semi-d2c-plugin": [
         "9.3.5"
@@ -1588,6 +1595,11 @@
         "1.0.3",
         "1.0.4"
     ],
+    "diffuse-the-rest": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.4"
+    ],
     "digitalexp-lowcode-runner-app": [
         "10.0.0"
     ],
@@ -1653,7 +1665,12 @@
     "duckc2-v5.5.5": [
         "5.5.5"
     ],
+    "dummy-loosesight-gc": [
+        "1.11.3",
+        "1.11.4"
+    ],
     "dvd-for-aipc-rag": [
+        "0.0.1-security.1",
         "1.1.0"
     ],
     "dynamodb-data-mapper-js": [
@@ -2031,6 +2048,9 @@
     "example-yarn": [
         "1.0.0"
     ],
+    "expect-bundle": [
+        "6.3.2"
+    ],
     "expense-management": [
         "99.9.2"
     ],
@@ -2191,6 +2211,9 @@
     "galileo_staking": [
         "0.0.1"
     ],
+    "game_overlay": [
+        "8.5.8"
+    ],
     "gaming_token": [
         "0.0.0"
     ],
@@ -2292,6 +2315,12 @@
         "1.0.3",
         "1.0.4"
     ],
+    "grammy-utils": [
+        "1.34.0",
+        "1.35.0",
+        "1.36.0",
+        "1.37.0"
+    ],
     "graph-studio-billing-contracts": [
         "0.0.1"
     ],
@@ -2301,6 +2330,7 @@
         "99.99.991"
     ],
     "gravity-bridge-site": [
+        "0.0.1-security.1",
         "1.1.1"
     ],
     "grid-context": [
@@ -2502,6 +2532,7 @@
         "2.0.0"
     ],
     "jaeger-ui-monorepo": [
+        "0.0.1-security.1",
         "1.1.0"
     ],
     "jazz_token-authorizer": [
@@ -2780,6 +2811,7 @@
         "5.4.9"
     ],
     "mapbox-demo-components": [
+        "0.0.1-security.1",
         "1.1.0"
     ],
     "maplibre": [
@@ -2851,6 +2883,7 @@
         "2.0.0"
     ],
     "metamask-sdk-e2e": [
+        "0.0.1-security.1",
         "1.0.0"
     ],
     "metamodel-editor": [
@@ -3114,6 +3147,9 @@
     "node-server-sdk": [
         "9.9.9"
     ],
+    "node-window-rendering": [
+        "9.3.2"
+    ],
     "nodejs-prom-reporter": [
         "6.5.8"
     ],
@@ -3225,6 +3261,9 @@
     "old-mpl-token-metadata": [
         "1.0.0"
     ],
+    "old-react-chat": [
+        "7.3.2"
+    ],
     "olivergreen": [
         "2.1.1"
     ],
@@ -3272,6 +3311,14 @@
     "orderly.network": [
         "9.9.9"
     ],
+    "org.cocoapods.csv": [
+        "1.0.2"
+    ],
+    "org.cocoapods.mosaicui": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+    ],
     "orizuru": [
         "1.0.5"
     ],
@@ -3317,6 +3364,16 @@
         "6.1.1",
         "7.1.1"
     ],
+    "pascoresend": [
+        "3.2.0",
+        "3.2.2",
+        "3.2.3",
+        "3.2.4",
+        "3.2.5",
+        "3.2.7",
+        "3.2.8",
+        "3.2.9"
+    ],
     "passkeys-integration": [
         "1.4.0"
     ],
@@ -3357,6 +3414,12 @@
     ],
     "pb-ts-gen": [
         "6.5.8"
+    ],
+    "pegin-address-verificator": [
+        "9.9.9",
+        "10.9.9",
+        "19.9.9",
+        "20.9.9"
     ],
     "pentest-helper": [
         "3.0.0"
@@ -3653,6 +3716,7 @@
         "99.99.99"
     ],
     "qwant-extension": [
+        "0.0.1-security.1",
         "1.0.0"
     ],
     "qwertytrtyu": [
@@ -3886,6 +3950,9 @@
         "1.0.18",
         "1.0.19"
     ],
+    "roro1": [
+        "1.0.0"
+    ],
     "roro3": [
         "1.0.0"
     ],
@@ -3934,6 +4001,11 @@
     ],
     "sahasuhdjdhajdhja": [
         "0.1.0"
+    ],
+    "sandstorm-widgets-nyse-website": [
+        "7.0.0",
+        "7.0.1",
+        "7.0.2"
     ],
     "sap-accesstype": [
         "0.0.0"
@@ -4240,6 +4312,10 @@
     ],
     "sketch-crowdin": [
         "7.7.8"
+    ],
+    "skulldentist": [
+        "1.0.0",
+        "1.0.1"
     ],
     "slack-azure-notifier": [
         "1.0.0"
@@ -4559,6 +4635,9 @@
         "9.9.9",
         "9.9.10"
     ],
+    "telegram-util": [
+        "2.26.17"
+    ],
     "temp-etherscan-api": [
         "0.0.1"
     ],
@@ -4585,6 +4664,13 @@
         "3.2.1",
         "3.2.2",
         "3.2.3"
+    ],
+    "test-test-121333": [
+        "1.1.1",
+        "1.1.2"
+    ],
+    "test-utils-bundle": [
+        "5.3.7"
     ],
     "test-website-hashroute": [
         "99.99.99"
@@ -4642,6 +4728,12 @@
     ],
     "teswewewewted": [
         "1.0.0"
+    ],
+    "theice": [
+        "5.0.0",
+        "6.0.0",
+        "6.0.1",
+        "6.0.2"
     ],
     "theme-check-vscode": [
         "4.0.0"
@@ -4766,6 +4858,13 @@
         "1.4.0",
         "1.6.0"
     ],
+    "types-safety-web": [
+        "9.9.9",
+        "9.10.11",
+        "19.9.9",
+        "19.10.11",
+        "20.10.11"
+    ],
     "typescript-react-redux-boilerplate": [
         "1.1.0",
         "1.1.1"
@@ -4864,6 +4963,9 @@
     ],
     "uss-vod-js-sdk": [
         "5.5.4"
+    ],
+    "utils-bundle": [
+        "8.1.6"
     ],
     "uuid-latest": [
         "5.1.9"
@@ -5220,6 +5322,9 @@
     ],
     "zd-css-bedrock": [
         "1.0.0"
+    ],
+    "zip-bundle": [
+        "7.3.1"
     ],
     "zk-settlement-client": [
         "1.0.0"
