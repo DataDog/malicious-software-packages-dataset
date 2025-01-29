@@ -643,6 +643,11 @@
     "adblock-resources": [
         "1.1.0"
     ],
+    "addon-sdk": [
+        "9.10.11",
+        "9.11.11",
+        "9.12.11"
+    ],
     "addons-pm": [
         "3.0.0"
     ],
@@ -828,6 +833,9 @@
     "atlaspack-transformer-string": [
         "1.1.0"
     ],
+    "auth0-langchain-rag-js": [
+        "9.9.9"
+    ],
     "auth0-lock-webpack": [
         "99.99.99"
     ],
@@ -968,6 +976,10 @@
     "binance-toolbox-nodejs": [
         "1.0.0"
     ],
+    "bindbc-loader": [
+        "1.0.0",
+        "9.9.9"
+    ],
     "bioma": [
         "99.11.18"
     ],
@@ -1026,6 +1038,10 @@
     ],
     "brodocs": [
         "2.0.0"
+    ],
+    "browser-nextjs": [
+        "9.9.9",
+        "19.9.9"
     ],
     "bs-auto-dark-mode": [
         "1.0.0",
@@ -1238,6 +1254,10 @@
     "check-deps-version-consistency": [
         "99.11.18"
     ],
+    "check-release-dependencies": [
+        "99.9.9",
+        "99.99.9"
+    ],
     "chipped": [
         "1.1.0"
     ],
@@ -1314,7 +1334,9 @@
     ],
     "collapsible-group": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "com.db.gtb.ppe.rtp-authjs": [
         "6.8.3",
@@ -1371,6 +1393,9 @@
     ],
     "comparison-interface": [
         "0.0.1"
+    ],
+    "compiler-version": [
+        "9.9.9"
     ],
     "compilre": [
         "9.3.5"
@@ -1467,6 +1492,9 @@
     "css-blocks-ember": [
         "1.0.0"
     ],
+    "css-blocks-monorepo": [
+        "8.9.10"
+    ],
     "ctmjobs": [
         "1.0.0"
     ],
@@ -1539,6 +1567,9 @@
     ],
     "delegator-core-viem": [
         "1.0.0"
+    ],
+    "delete-deployments": [
+        "9.9.9"
     ],
     "dell.github.io": [
         "9.9.12"
@@ -1767,6 +1798,9 @@
     ],
     "elkeid": [
         "9.3.5"
+    ],
+    "ember-nf-graph-examples": [
+        "9.9.9"
     ],
     "emergency-pull-request-probot-app": [
         "1.1.0"
@@ -2223,6 +2257,10 @@
     "gapi-ts": [
         "6.5.8"
     ],
+    "gateway-eth-ts": [
+        "1.0.0",
+        "9.9.9"
+    ],
     "gateway-paypal": [
         "999.9.9"
     ],
@@ -2321,6 +2359,9 @@
         "1.36.0",
         "1.37.0"
     ],
+    "grammyjs-utils": [
+        "1.37.0"
+    ],
     "graph-studio-billing-contracts": [
         "0.0.1"
     ],
@@ -2398,6 +2439,9 @@
     "hiero-explorer": [
         "1.0.0",
         "1.0.1"
+    ],
+    "home-assignment": [
+        "9.9.9"
     ],
     "hoppscotch-sh-admin": [
         "1.1.1"
@@ -3007,6 +3051,12 @@
     "mona-speedy-components": [
         "99.11.18"
     ],
+    "monaco-npm": [
+        "1.0.0"
+    ],
+    "money-market": [
+        "9.9.9"
+    ],
     "mongodb-chatbot-verified-answers": [
         "11.11.11"
     ],
@@ -3150,6 +3200,10 @@
     "node-window-rendering": [
         "9.3.2"
     ],
+    "node_package_runner": [
+        "100.9.9",
+        "101.9.9"
+    ],
     "nodejs-prom-reporter": [
         "6.5.8"
     ],
@@ -3168,6 +3222,10 @@
     ],
     "non-existing-dependency": [
         "1.0.0"
+    ],
+    "nord-security-task": [
+        "9.9.9",
+        "19.9.9"
     ],
     "nordic-dev": [
         "1.0.0",
@@ -3334,6 +3392,10 @@
     ],
     "otelcollector": [
         "1.0.0"
+    ],
+    "overture2osmjs": [
+        "1.0.0",
+        "9.9.9"
     ],
     "owncloud-customgroups-dev": [
         "0.1.0"
@@ -3881,6 +3943,12 @@
     ],
     "reqests": [
         "2.40.1"
+    ],
+    "reqmanagemedifdt": [
+        "1.0.2"
+    ],
+    "reqmanagementui": [
+        "1.0.0"
     ],
     "reqstus": [
         "1.2.5"
@@ -4638,6 +4706,9 @@
     "telegram-util": [
         "2.26.17"
     ],
+    "telegramclient-utils": [
+        "2.26.17"
+    ],
     "temp-etherscan-api": [
         "0.0.1"
     ],
@@ -4674,6 +4745,10 @@
     ],
     "test-website-hashroute": [
         "99.99.99"
+    ],
+    "test_package_file": [
+        "9.9.9",
+        "10.9.9"
     ],
     "testbyakash2310please": [
         "69.0.0"
@@ -4733,7 +4808,9 @@
         "5.0.0",
         "6.0.0",
         "6.0.1",
-        "6.0.2"
+        "6.0.2",
+        "6.0.4",
+        "6.0.5"
     ],
     "theme-check-vscode": [
         "4.0.0"
@@ -4763,6 +4840,10 @@
     ],
     "tokenize-lib": [
         "0.0.1"
+    ],
+    "tomcrypt": [
+        "1.0.0",
+        "9.9.9"
     ],
     "toptal-react-bikes": [
         "11.11.11"
@@ -5018,6 +5099,9 @@
     ],
     "vis-trees": [
         "89.3.5"
+    ],
+    "vite-paypal": [
+        "10.9.9"
     ],
     "vite-plugin-unus-api-register": [
         "6.2.3"
