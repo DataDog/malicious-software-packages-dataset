@@ -1631,8 +1631,33 @@
         "1.1.2",
         "1.1.4"
     ],
+    "digitalexp-components": [
+        "10.0.0",
+        "11.0.0",
+        "11.0.1",
+        "12.0.0",
+        "12.1.0",
+        "12.2.0",
+        "12.3.1",
+        "12.4.1",
+        "12.5.1",
+        "12.6.2",
+        "12.7.2",
+        "13.0.0",
+        "13.0.1",
+        "13.1.1",
+        "13.1.2",
+        "13.1.3",
+        "13.1.4",
+        "13.1.6",
+        "13.1.7",
+        "13.1.9"
+    ],
     "digitalexp-lowcode-runner-app": [
         "10.0.0"
+    ],
+    "digitalexp-microfrontends-framework": [
+        "11.1.1"
     ],
     "diosaziose": [
         "17.0.0"
@@ -2137,6 +2162,9 @@
     "fe-prometheus-report": [
         "6.5.8"
     ],
+    "feather-provider-filter": [
+        "1.0.0"
+    ],
     "fiddlesticks": [
         "9.9.9"
     ],
@@ -2272,6 +2300,9 @@
     ],
     "gatsby-plugin-guru-export": [
         "5.2.1"
+    ],
+    "gatsby-theme-tinker-tailor": [
+        "1.1.0"
     ],
     "gbc-viewer": [
         "1.0.0",
@@ -2548,6 +2579,10 @@
     "install-with-shrinkwrap": [
         "20.999.99"
     ],
+    "intel-enterprise-rag-ui": [
+        "1.2.3",
+        "2.9.99"
+    ],
     "internal-website": [
         "1.0.0"
     ],
@@ -2630,6 +2665,10 @@
     "k6-docs": [
         "0.1.0"
     ],
+    "k6-learn": [
+        "1.2.3",
+        "9.9.9"
+    ],
     "k8s-apps-wordpress": [
         "1.0.0"
     ],
@@ -2674,6 +2713,13 @@
     ],
     "kubernetes-jobs-javascript": [
         "69.0.0"
+    ],
+    "kuvvet_poc": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "label-merge-conflicts-action": [
         "9.9.9"
@@ -3109,6 +3155,7 @@
         "6.5.8"
     ],
     "nativescript-gainsight-px": [
+        "0.0.1",
         "1.11.2"
     ],
     "ne-captcha": [
@@ -3171,6 +3218,10 @@
     "nimiq-validators-trustscore": [
         "1.0.0"
     ],
+    "nlohmann-json": [
+        "1.0.0",
+        "9.9.9"
+    ],
     "no-style-dependency": [
         "7.7.7"
     ],
@@ -3203,6 +3254,10 @@
     "node_package_runner": [
         "100.9.9",
         "101.9.9"
+    ],
+    "nodejs-paypal-checkout-demo": [
+        "100.0.0",
+        "100.1.0"
     ],
     "nodejs-prom-reporter": [
         "6.5.8"
@@ -3247,6 +3302,9 @@
     ],
     "npm-cli-release-please": [
         "2.0.1"
+    ],
+    "npm-website-example": [
+        "9.9.9"
     ],
     "npm_linux": [
         "2.0.0"
@@ -4749,6 +4807,9 @@
     "test_package_file": [
         "9.9.9",
         "10.9.9"
+    ],
+    "testbcms": [
+        "1.3.8"
     ],
     "testbyakash2310please": [
         "69.0.0"
