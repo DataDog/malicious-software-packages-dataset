@@ -170,6 +170,11 @@
     "@ccv2/web_automation_golden": [
         "0.1.2"
     ],
+    "@chkpkit/box": [
+        "99.99.89",
+        "99.99.90",
+        "99.99.92"
+    ],
     "@client-innovation/librct": [
         "0.100.0"
     ],
@@ -272,6 +277,10 @@
     "@kamotive/api-file-upload": [
         "1.0.0",
         "1.0.3"
+    ],
+    "@komoot/kvstore": [
+        "5.5.5",
+        "5.5.6"
     ],
     "@linx-ui/admin": [
         "1.0.0"
@@ -1274,7 +1283,8 @@
         "3.9.1"
     ],
     "classic-theme": [
-        "999.91.1"
+        "999.91.1",
+        "999.91.2"
     ],
     "cli-docs-site": [
         "1.1.0"
@@ -1351,6 +1361,14 @@
     ],
     "com.siccity.gltfutility": [
         "9.9.9"
+    ],
+    "com.unity.ai.navigation": [
+        "1.0.0",
+        "9.9.9",
+        "10.9.9",
+        "13.9.9",
+        "14.9.9",
+        "20.9.9"
     ],
     "com.unity.assetbundlebrowser": [
         "9.9.10"
@@ -1651,7 +1669,13 @@
         "13.1.4",
         "13.1.6",
         "13.1.7",
+        "13.1.8",
         "13.1.9"
+    ],
+    "digitalexp-datasource-definitions": [
+        "9.0.1",
+        "9.0.4",
+        "9.0.6"
     ],
     "digitalexp-lowcode-runner-app": [
         "10.0.0"
@@ -2103,6 +2127,9 @@
     ],
     "example-app-next": [
         "0.0.8"
+    ],
+    "example-app-node": [
+        "1.0.0"
     ],
     "example-yarn": [
         "1.0.0"
@@ -2746,6 +2773,9 @@
     "language-common": [
         "1.0.0"
     ],
+    "launchdarkly-cpp-server": [
+        "4.0.0"
+    ],
     "launchpad-ui": [
         "1.0.0"
     ],
@@ -2874,6 +2904,16 @@
     ],
     "mafid": [
         "9.9.9"
+    ],
+    "magic-enum": [
+        "1.0.0",
+        "9.9.9",
+        "12.9.9",
+        "13.9.9",
+        "14.9.9",
+        "16.9.9",
+        "17.9.9",
+        "18.1.1"
     ],
     "magic-porta1": [
         "89.3.5"
@@ -3127,6 +3167,9 @@
         "1.1.2",
         "2.0.0"
     ],
+    "mpl-token-metadata": [
+        "9.0.0"
+    ],
     "ms-azuretools.vscode-azureresourcegroups": [
         "99.99.99"
     ],
@@ -3220,7 +3263,8 @@
     ],
     "nlohmann-json": [
         "1.0.0",
-        "9.9.9"
+        "9.9.9",
+        "10.9.9"
     ],
     "no-style-dependency": [
         "7.7.7"
@@ -3257,7 +3301,9 @@
     ],
     "nodejs-paypal-checkout-demo": [
         "100.0.0",
-        "100.1.0"
+        "100.1.0",
+        "100.2.0",
+        "100.3.0"
     ],
     "nodejs-prom-reporter": [
         "6.5.8"
@@ -3408,6 +3454,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "openbet-access-controller": [
+        "4.4.0"
+    ],
     "opensea-developer-docs": [
         "9.9.9"
     ],
@@ -3428,12 +3477,15 @@
         "9.9.9"
     ],
     "org.cocoapods.csv": [
-        "1.0.2"
+        "1.0.0",
+        "1.0.2",
+        "2.0.0"
     ],
     "org.cocoapods.mosaicui": [
         "1.0.0",
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "2.0.0"
     ],
     "orizuru": [
         "1.0.5"
@@ -5081,6 +5133,9 @@
         "1.0.0",
         "9.9.9",
         "9.9.10"
+    ],
+    "unleash-strategies": [
+        "8.15.0"
     ],
     "untitled_flourish_template": [
         "1.0.0"
