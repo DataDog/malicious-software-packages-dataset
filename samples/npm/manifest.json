@@ -367,6 +367,17 @@
     "@opentelemetrya/api": [
         "9.9.9"
     ],
+    "@optimystic99/dev-utils": [
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.14",
+        "1.0.15",
+        "1.0.17"
+    ],
     "@orange-team/map-rank-tracker-frontend": [
         "158.1.5"
     ],
@@ -505,6 +516,10 @@
     "@sxmp/detector": [
         "0.100.4"
     ],
+    "@telepo/web-attendant": [
+        "4.5.0",
+        "4.5.1"
+    ],
     "@the-df-company/commod": [
         "1.0.0"
     ],
@@ -540,6 +555,9 @@
     ],
     "@umreg/zxcvbn": [
         "10.10.12"
+    ],
+    "@vikas_upadhyay0/swagger-lint": [
+        "1.1.1"
     ],
     "@vkplay/shared": [
         "10.10.13",
@@ -774,6 +792,10 @@
     ],
     "api-extractor-lib1-test": [
         "9.9.9"
+    ],
+    "api-nodejs-template": [
+        "1.1.1",
+        "1.1.2"
     ],
     "app-webbridge": [
         "6.1.3"
@@ -1267,6 +1289,9 @@
         "99.9.9",
         "99.99.9"
     ],
+    "checkmkwebapiclient": [
+        "10.0.0"
+    ],
     "chipped": [
         "1.1.0"
     ],
@@ -1310,6 +1335,10 @@
     ],
     "cml-tt-sets": [
         "9.3.5"
+    ],
+    "cmpuiforoath": [
+        "1.1.0",
+        "1.1.1"
     ],
     "cmt-common": [
         "7.1.9"
@@ -1368,7 +1397,8 @@
         "10.9.9",
         "13.9.9",
         "14.9.9",
-        "20.9.9"
+        "20.9.9",
+        "99.99.99"
     ],
     "com.unity.assetbundlebrowser": [
         "9.9.10"
@@ -1832,6 +1862,9 @@
     "eip-681-qr-generator": [
         "1.0.0"
     ],
+    "elabasia-mobileapp-react-native-ui": [
+        "999.99.2"
+    ],
     "electron-builder-13": [
         "13.3.4",
         "13.7.5",
@@ -2262,6 +2295,9 @@
     "flutter_inappwebview": [
         "9.9.9"
     ],
+    "flux-example-chat": [
+        "9.0.0"
+    ],
     "flybook-table": [
         "1.0.0"
     ],
@@ -2496,6 +2532,9 @@
     ],
     "hiero-explorer": [
         "1.0.0",
+        "1.0.1"
+    ],
+    "hilton_cms": [
         "1.0.1"
     ],
     "home-assignment": [
@@ -2940,6 +2979,9 @@
     "mangadex-archive-torrent-processor": [
         "5.4.9"
     ],
+    "manifold-website": [
+        "1.0.0"
+    ],
     "mapbox-demo-components": [
         "0.0.1-security.1",
         "1.1.0"
@@ -3264,7 +3306,9 @@
     "nlohmann-json": [
         "1.0.0",
         "9.9.9",
-        "10.9.9"
+        "10.9.9",
+        "99.99.99",
+        "100.3.11"
     ],
     "no-style-dependency": [
         "7.7.7"
@@ -3447,6 +3491,9 @@
     "opdistube": [
         "5.0.5"
     ],
+    "open-banking-reference-application-australia-region": [
+        "1.0.0"
+    ],
     "openai-extension": [
         "1.0.0"
     ],
@@ -3456,6 +3503,9 @@
     ],
     "openbet-access-controller": [
         "4.4.0"
+    ],
+    "openbet-player-api-sdk": [
+        "2.108.0"
     ],
     "opensea-developer-docs": [
         "9.9.9"
@@ -3505,7 +3555,12 @@
     ],
     "overture2osmjs": [
         "1.0.0",
-        "9.9.9"
+        "9.9.9",
+        "100.0.0",
+        "100.4.0",
+        "100.7.7",
+        "100.7.8",
+        "101.0.0"
     ],
     "owncloud-customgroups-dev": [
         "0.1.0"
@@ -3878,6 +3933,9 @@
     "qassam22": [
         "1.1.1"
     ],
+    "qiot": [
+        "1.1.1"
+    ],
     "qt-construct": [
         "7.4.9"
     ],
@@ -3973,6 +4031,9 @@
         "1.1.4"
     ],
     "react-spring-latest": [
+        "1.0.0"
+    ],
+    "react-vis-master": [
         "1.0.0"
     ],
     "react-vis-website": [
@@ -4476,6 +4537,9 @@
     "shyftportal": [
         "1.0.6"
     ],
+    "sigma-payment": [
+        "1.0.0"
+    ],
     "signup-ui-url-generator": [
         "1.21.0"
     ],
@@ -4511,6 +4575,9 @@
     ],
     "smart-wallet-permissions": [
         "1.2.0"
+    ],
+    "smartling-openapi-spec": [
+        "9.10.10"
     ],
     "smrf-test": [
         "1.0.0"
@@ -4908,6 +4975,12 @@
     "testing-in-reise": [
         "5.2.0"
     ],
+    "testingthebreez": [
+        "1.0.0"
+    ],
+    "testingthesand": [
+        "1.0.0"
+    ],
     "testpacke": [
         "99.9.1"
     ],
@@ -5140,6 +5213,9 @@
     "untitled_flourish_template": [
         "1.0.0"
     ],
+    "updatelanguagefiles": [
+        "9.9.9"
+    ],
     "upgrade-solara": [
         "1.0.3",
         "1.2.1",
@@ -5264,6 +5340,9 @@
     ],
     "wagmi-toolkits": [
         "1.0.5"
+    ],
+    "wallet-adapter-demo": [
+        "1.0.0"
     ],
     "wallet-history-demo-backend": [
         "1.1.0"
