@@ -376,7 +376,8 @@
         "1.0.12",
         "1.0.14",
         "1.0.15",
-        "1.0.17"
+        "1.0.17",
+        "1.0.18"
     ],
     "@orange-team/map-rank-tracker-frontend": [
         "158.1.5"
@@ -795,7 +796,9 @@
     ],
     "api-nodejs-template": [
         "1.1.1",
-        "1.1.2"
+        "1.1.2",
+        "1.1.3",
+        "2.1.3"
     ],
     "app-webbridge": [
         "6.1.3"
@@ -976,6 +979,9 @@
     "bc-nuxt-vue-starter": [
         "1.0.1"
     ],
+    "bc-scroll-link": [
+        "0.4.1"
+    ],
     "bce-service-bos-transport": [
         "9.9.4"
     ],
@@ -1030,11 +1036,17 @@
     "blockscan-api": [
         "1.3.1"
     ],
+    "bloomr-ts": [
+        "9.9.10"
+    ],
     "bloxbootstrap": [
         "1.0.0"
     ],
     "bloxupgrade": [
         "1.0.0"
+    ],
+    "blynk-ide": [
+        "9.9.9"
     ],
     "blz-internal-pkg_update": [
         "1.0.0",
@@ -1101,15 +1113,17 @@
         "1.0.1"
     ],
     "business-kpi-manager": [
+        "0.0.1-security.1",
         "4.0.1",
         "4.0.4",
         "4.0.7"
     ],
     "business-kpi-manager-1.0.0": [
-        "3.8.0",
-        "4.0.0",
+        "0.0.1-security.1",
         "19.19.0",
-        "19.21.0"
+        "19.21.0",
+        "3.8.0",
+        "4.0.0"
     ],
     "byte-guides": [
         "99.3.5"
@@ -1779,8 +1793,15 @@
         "1.11.3",
         "1.11.4"
     ],
+    "dummy-loosesight-gd": [
+        "1.11.2"
+    ],
     "dvd-for-aipc-rag": [
         "0.0.1-security.1",
+        "1.1.0"
+    ],
+    "dw-api-mock": [
+        "1.0.0",
         "1.1.0"
     ],
     "dynamodb-data-mapper-js": [
@@ -1883,6 +1904,10 @@
     ],
     "ember-nf-graph-examples": [
         "9.9.9"
+    ],
+    "embroider": [
+        "99.9.2",
+        "99.9.3"
     ],
     "emergency-pull-request-probot-app": [
         "1.1.0"
@@ -2295,6 +2320,11 @@
     "flutter_inappwebview": [
         "9.9.9"
     ],
+    "flux-common-plugin": [
+        "99.9.0",
+        "99.9.1",
+        "99.9.3"
+    ],
     "flux-example-chat": [
         "9.0.0"
     ],
@@ -2316,6 +2346,9 @@
     ],
     "forcechatter": [
         "99.0.0"
+    ],
+    "foxy-node-google-pay-decrypt": [
+        "0.0.1"
     ],
     "frontend-testing-redefined": [
         "4.0.0"
@@ -2454,7 +2487,8 @@
         "1.37.0"
     ],
     "grammyjs-utils": [
-        "1.37.0"
+        "1.37.0",
+        "1.39.0"
     ],
     "graph-studio-billing-contracts": [
         "0.0.1"
@@ -2543,6 +2577,9 @@
     "hoppscotch-sh-admin": [
         "1.1.1"
     ],
+    "hotmart": [
+        "0.0.1"
+    ],
     "houdini_test_pack_1": [
         "1.0.0"
     ],
@@ -2560,6 +2597,11 @@
     ],
     "http-long-poll-server": [
         "6.5.8"
+    ],
+    "https-agen-chii": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "hubot-hangouts": [
         "6.5.8"
@@ -3241,6 +3283,7 @@
     ],
     "nativescript-gainsight-px": [
         "0.0.1",
+        "0.0.2",
         "1.11.2"
     ],
     "ne-captcha": [
@@ -3449,6 +3492,9 @@
     "oj-odcs-category-selector": [
         "3.0.2"
     ],
+    "okt-scripts": [
+        "0.0.1"
+    ],
     "okta-help": [
         "101.0.9"
     ],
@@ -3508,6 +3554,9 @@
         "2.108.0"
     ],
     "opensea-developer-docs": [
+        "9.9.9"
+    ],
+    "opensource.razorpay.dev": [
         "9.9.9"
     ],
     "openssl-node": [
@@ -3736,6 +3785,11 @@
     ],
     "pornhub": [
         "9.9.9"
+    ],
+    "postcss-optimizer": [
+        "3.2.2",
+        "3.2.4",
+        "3.2.5"
     ],
     "powerupdate": [
         "1.0.0"
@@ -4240,6 +4294,18 @@
     ],
     "sahasuhdjdhajdhja": [
         "0.1.0"
+    ],
+    "sample-nodejs-vsk-with-adm": [
+        "99.9.1",
+        "99.9.2",
+        "99.10.2",
+        "99.99.10",
+        "99.99.21",
+        "99.100.10",
+        "100.0.0",
+        "101.0.0",
+        "101.1.0",
+        "101.1.1"
     ],
     "sandstorm-widgets-nyse-website": [
         "7.0.0",
@@ -4827,6 +4893,15 @@
     "sync-ghes-actions": [
         "0.0.9"
     ],
+    "sysaid-components-lib": [
+        "1.1.195"
+    ],
+    "sysaid-infra-analytics": [
+        "0.0.31"
+    ],
+    "sysaid-query-data": [
+        "1.1.95"
+    ],
     "system-driver-scan": [
         "1.0.0"
     ],
@@ -4881,10 +4956,13 @@
         "9.9.10"
     ],
     "telegram-util": [
-        "2.26.17"
+        "2.26.17",
+        "2.27.18"
     ],
     "telegramclient-utils": [
-        "2.26.17"
+        "2.26.17",
+        "2.27.17",
+        "2.27.19"
     ],
     "temp-etherscan-api": [
         "0.0.1"
@@ -5010,6 +5088,9 @@
     "themes-nunjucks-service": [
         "1.2.3"
     ],
+    "tidebot": [
+        "1.0.0"
+    ],
     "tiktok_embed_v2": [
         "1.0.14",
         "4.0.1",
@@ -5094,6 +5175,9 @@
     "tsanjint": [
         "1.0.1"
     ],
+    "tsign-uix": [
+        "17.1.0"
+    ],
     "tsp-rn-sdk": [
         "7.3.4"
     ],
@@ -5102,6 +5186,12 @@
     ],
     "turbiniactl-status": [
         "1.0.2"
+    ],
+    "turbolinks_jwt_test2": [
+        "5.0.0",
+        "8.3.0",
+        "8.4.0",
+        "99.99.99"
     ],
     "twewewewest6": [
         "1.0.0"
@@ -5277,7 +5367,16 @@
     "vesu_changelog": [
         "1.0.0"
     ],
+    "victory-native-xl-monorepo": [
+        "10.0.2",
+        "10.0.3",
+        "10.0.4"
+    ],
     "videoads-util-capability-detection": [
+        "1.0.3"
+    ],
+    "vidio-kmm": [
+        "1.0.1",
         "1.0.3"
     ],
     "viewercontext": [
@@ -5521,6 +5620,9 @@
     "wpdesigndev.wp.agoda.com": [
         "100.0.5",
         "108.0.0"
+    ],
+    "wrap-it-mq": [
+        "1.0.1"
     ],
     "wt-fe-buz-business-stoplimit": [
         "2.0.18"
