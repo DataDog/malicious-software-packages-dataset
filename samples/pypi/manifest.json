@@ -647,6 +647,12 @@
     "deeprce": [
         "0.0.1"
     ],
+    "deepseeek": [
+        "0.0.8"
+    ],
+    "deepseekai": [
+        "0.0.8"
+    ],
     "deepsolid": [
         "99.6"
     ],

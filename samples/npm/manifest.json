@@ -377,7 +377,9 @@
         "1.0.14",
         "1.0.15",
         "1.0.17",
-        "1.0.18"
+        "1.0.18",
+        "1.0.21",
+        "1.0.22"
     ],
     "@orange-team/map-rank-tracker-frontend": [
         "158.1.5"
@@ -530,6 +532,9 @@
     "@transsion/privacy-policy-dialog": [
         "55.5.5",
         "55.5.6"
+    ],
+    "@tsign/tsign-ui-doesnt-exisit": [
+        "19.18.1337"
     ],
     "@typescript_eslinter/eslint": [
         "1.0.0",
@@ -851,6 +856,9 @@
     ],
     "assetmantle": [
         "0.0.1"
+    ],
+    "assisted-chat": [
+        "1.0.0"
     ],
     "asymmetric-key-generator": [
         "1.0.0",
@@ -1856,6 +1864,9 @@
     "ecpfs-react-data-driven-components": [
         "11.0.0"
     ],
+    "editions-dev-2k-variants": [
+        "0.0.1"
+    ],
     "editions-dev-workshop": [
         "5.0.0"
     ],
@@ -2248,7 +2259,8 @@
         "6.5.8"
     ],
     "feather-provider-filter": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "fiddlesticks": [
         "9.9.9"
@@ -2407,6 +2419,9 @@
     "gcp-scanner-visualizer": [
         "1.1.1"
     ],
+    "genesys-richmedia": [
+        "1.0.0"
+    ],
     "geotab-sdk": [
         "9.9.9",
         "9.9.10"
@@ -2513,6 +2528,9 @@
     ],
     "guests": [
         "5.0.0"
+    ],
+    "gutenberg-kit": [
+        "1.0.0"
     ],
     "h5bp-docs": [
         "6.5.4"
@@ -3436,6 +3454,9 @@
     "npm-cli-release-please": [
         "2.0.1"
     ],
+    "npm-manifest": [
+        "19.9.9"
+    ],
     "npm-website-example": [
         "9.9.9"
     ],
@@ -3622,6 +3643,9 @@
     ],
     "packs-starter": [
         "1.1.0"
+    ],
+    "pages-e2e": [
+        "99.99.99"
     ],
     "pages-proxy": [
         "1.0.1"
@@ -3817,6 +3841,9 @@
     ],
     "prettier-plugin-kimi-i18next": [
         "6.5.8"
+    ],
+    "prettyphoto": [
+        "1.0.0"
     ],
     "pring-payment-demo-backend": [
         "299.2.1",
@@ -5121,6 +5148,9 @@
     ],
     "trace-production": [
         "1.0.0"
+    ],
+    "traceviz-client-core": [
+        "19.9.9"
     ],
     "tracking-protection-experiment": [
         "1.0.0"
