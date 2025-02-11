@@ -4441,11 +4441,17 @@
     "urlllib": [
         "0.1"
     ],
+    "usar-agent": [
+        "0.1.0"
+    ],
     "useragentclient": [
         "1.0"
     ],
     "usss": [
         "94.6"
+    ],
+    "usvr-agent": [
+        "0.1.0"
     ],
     "utilhttp": [
         "2.3.5"
