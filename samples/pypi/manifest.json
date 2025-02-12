@@ -1155,6 +1155,10 @@
     "evannlegoat": [
         "1.0.4"
     ],
+    "example-vizsla-tutorial": [
+        "0.1.0",
+        "0.1.1"
+    ],
     "ezauto": [
         "0.0.1"
     ],
@@ -1305,6 +1309,9 @@
     ],
     "good-regex": [
         "1.0.0"
+    ],
+    "googleapis-googleapis-grpc-python": [
+        "1.9.3"
     ],
     "gr-mg": [
         "99.6"
