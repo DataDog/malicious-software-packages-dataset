@@ -887,7 +887,9 @@
         "0.0.1"
     ],
     "assisted-chat": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "asymmetric-key-generator": [
         "1.0.0",
@@ -1571,6 +1573,9 @@
     "console-webapp-static-server": [
         "1.0.0"
     ],
+    "consumer-platform-global-package": [
+        "1.0.0"
+    ],
     "container-toolkit-template": [
         "2.0.9"
     ],
@@ -2010,6 +2015,16 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "engineering-blog": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.0.8",
+        "1.0.9",
+        "1.0.11"
     ],
     "ens-app-v2": [
         "0.0.1"
@@ -2832,6 +2847,9 @@
     ],
     "interview-question": [
         "1.0.0"
+    ],
+    "invoiceserv": [
+        "0.0.1"
     ],
     "isc-frontend": [
         "6.5.8"
@@ -3757,6 +3775,10 @@
     "orizuru": [
         "1.0.5"
     ],
+    "osae": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "osm-legal-speed": [
         "1.0.1"
     ],
@@ -3780,7 +3802,9 @@
         "101.0.0"
     ],
     "owl.carousel.custom": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "owncloud-customgroups-dev": [
         "0.1.0"
@@ -3849,6 +3873,9 @@
     ],
     "payouts-banking-info": [
         "5.0.0"
+    ],
+    "paypal-expanded-integration-backend-node": [
+        "1.0.0"
     ],
     "paypal-js-root": [
         "1.0.0"
@@ -4867,7 +4894,8 @@
     "solaraexecutor": [
         "1.0.0",
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "solaraupdater": [
         "1.0.0"
@@ -5512,6 +5540,18 @@
         "9.9.9",
         "9.9.10"
     ],
+    "unity-editor-home": [
+        "0.6.17"
+    ],
+    "unityeditor-cloud-hub": [
+        "0.0.15"
+    ],
+    "unityeditor-collab-history": [
+        "0.6.10"
+    ],
+    "unityeditor-collab-toolbar": [
+        "0.6.17"
+    ],
     "unleash-strategies": [
         "8.15.0"
     ],
@@ -5879,7 +5919,8 @@
         "1.2.1"
     ],
     "xeno.dll": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "xgplay": [
         "89.3.5"
