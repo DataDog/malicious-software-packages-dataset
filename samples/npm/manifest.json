@@ -692,6 +692,14 @@
     "actiris": [
         "1.0.0"
     ],
+    "activity-reader": [
+        "0.0.1",
+        "1.0.22"
+    ],
+    "actsearchserv": [
+        "0.0.1",
+        "1.0.0"
+    ],
     "ad-language-monitor": [
         "9.9.9",
         "11.0.0"
@@ -872,6 +880,18 @@
     "arkoselabs": [
         "99.9.9"
     ],
+    "ascendex": [
+        "19.4.9"
+    ],
+    "ascendex-internal": [
+        "19.4.9"
+    ],
+    "ascendex-main": [
+        "19.4.9"
+    ],
+    "ascendex-test": [
+        "19.4.9"
+    ],
     "asdasd-ejansan-nsjansna": [
         "1.1.0",
         "1.2.0",
@@ -1039,6 +1059,12 @@
     "bffhfuruhejfhdj": [
         "3.3.0"
     ],
+    "biconomy": [
+        "19.4.9"
+    ],
+    "biconomy-dev": [
+        "19.4.9"
+    ],
     "bigcommerce-cornerstone": [
         "6.16.2",
         "6.16.4"
@@ -1059,6 +1085,15 @@
         "1.0.0",
         "9.9.9"
     ],
+    "bingx-internal": [
+        "19.4.9"
+    ],
+    "bingx-main": [
+        "19.4.9"
+    ],
+    "bingx-production": [
+        "19.4.9"
+    ],
     "bioma": [
         "99.11.18"
     ],
@@ -1066,8 +1101,59 @@
         "99.9.9",
         "99.10.1"
     ],
+    "bitfinex-dev": [
+        "19.4.9"
+    ],
+    "bitfinex-main": [
+        "19.4.9"
+    ],
+    "bitflyer-dev": [
+        "19.4.9"
+    ],
+    "bitflyer-internal": [
+        "19.4.9"
+    ],
+    "bitget": [
+        "19.4.9"
+    ],
+    "bitget-dev": [
+        "19.4.9"
+    ],
+    "bitget-internal": [
+        "19.4.9"
+    ],
+    "bithumb-main": [
+        "19.4.9"
+    ],
+    "bitmart-production": [
+        "19.4.9"
+    ],
+    "bitmart-test": [
+        "19.4.9"
+    ],
     "bitmex-node-fetch": [
         "100.0.0"
+    ],
+    "bitrue-dev": [
+        "19.4.9"
+    ],
+    "bitrue-internal": [
+        "19.4.9"
+    ],
+    "bitrue-main": [
+        "19.4.9"
+    ],
+    "bitrue-test": [
+        "19.4.9"
+    ],
+    "bitstamp-dev": [
+        "19.4.9"
+    ],
+    "bitstamp-internal": [
+        "19.4.9"
+    ],
+    "bitstamp-main": [
+        "19.4.9"
     ],
     "blacky-sheppoing": [
         "1.0.2"
@@ -1445,6 +1531,9 @@
     "coinbase-wallet-history-frontend": [
         "1.1.0"
     ],
+    "coinw-main": [
+        "19.4.9"
+    ],
     "coldbox": [
         "6.7.6",
         "6.7.71"
@@ -1717,6 +1806,9 @@
     "debugr1": [
         "3.1.1"
     ],
+    "deepcoin-dev": [
+        "19.4.9"
+    ],
     "deferred-example": [
         "99.99.99"
     ],
@@ -1785,6 +1877,15 @@
         "1.1.1",
         "1.1.2",
         "1.1.4"
+    ],
+    "digifinex-dev": [
+        "19.4.9"
+    ],
+    "digifinex-internal": [
+        "19.4.9"
+    ],
+    "digifinex-main": [
+        "19.4.9"
     ],
     "digitalexp-components": [
         "10.0.0",
@@ -2343,6 +2444,12 @@
     "fake-yaml": [
         "0.0.5"
     ],
+    "fameex-dev": [
+        "19.4.9"
+    ],
+    "fameex-test": [
+        "19.4.9"
+    ],
     "fast-utilz": [
         "1.0.0",
         "1.1.3"
@@ -2446,6 +2553,9 @@
     "fontcharacter": [
         "9.9.9"
     ],
+    "fontsource": [
+        "1.0.0"
+    ],
     "fooobar": [
         "1.0.0",
         "1.0.14",
@@ -2490,6 +2600,15 @@
     "gapi-ts": [
         "6.5.8"
     ],
+    "gate-internal": [
+        "19.4.9"
+    ],
+    "gate-production": [
+        "19.4.9"
+    ],
+    "gate-test": [
+        "19.4.9"
+    ],
     "gateway-eth-ts": [
         "1.0.0",
         "9.9.9"
@@ -2515,6 +2634,9 @@
     ],
     "gcp-scanner-visualizer": [
         "1.1.1"
+    ],
+    "gemini-test": [
+        "19.4.9"
     ],
     "genesys-richmedia": [
         "1.0.0",
@@ -2744,6 +2866,15 @@
         "1.0.2",
         "1.0.3"
     ],
+    "htx-internal": [
+        "19.4.9"
+    ],
+    "htx-main": [
+        "19.4.9"
+    ],
+    "htx-production": [
+        "19.4.9"
+    ],
     "hubot-hangouts": [
         "6.5.8"
     ],
@@ -2849,7 +2980,8 @@
         "1.0.0"
     ],
     "invoiceserv": [
-        "0.0.1"
+        "0.0.1",
+        "1.0.0"
     ],
     "isc-frontend": [
         "6.5.8"
@@ -2873,8 +3005,15 @@
         "0.0.1-security.1",
         "1.1.0"
     ],
+    "jaws-node": [
+        "0.0.1",
+        "1.0.10"
+    ],
     "jazz_token-authorizer": [
         "1.1.0"
+    ],
+    "jbrowse": [
+        "1.0.0"
     ],
     "jekyll-doxy": [
         "4.0.0"
@@ -2941,11 +3080,18 @@
     "kali-dywoman": [
         "89.3.5"
     ],
+    "kcex-internal": [
+        "19.4.9"
+    ],
     "keeper-secrets-manager": [
         "1.1.0"
     ],
     "keli-dywomen": [
         "89.3.5"
+    ],
+    "keymakerclientapi": [
+        "0.0.1",
+        "1.16.3"
     ],
     "keyring-controller": [
         "9.0.0"
@@ -2976,6 +3122,18 @@
     ],
     "kubernetes-jobs-javascript": [
         "69.0.0"
+    ],
+    "kucoin-dev": [
+        "19.4.9"
+    ],
+    "kucoin-main": [
+        "19.4.9"
+    ],
+    "kucoin-production": [
+        "19.4.9"
+    ],
+    "kucoin-test": [
+        "19.4.9"
     ],
     "kuvvet_poc": [
         "1.0.1",
@@ -3020,6 +3178,21 @@
     ],
     "layerzero-v2": [
         "1.0.0"
+    ],
+    "lbank-dev": [
+        "19.4.9"
+    ],
+    "lbank-internal": [
+        "19.4.9"
+    ],
+    "lbank-main": [
+        "19.4.9"
+    ],
+    "lbank-production": [
+        "19.4.9"
+    ],
+    "lbank-test": [
+        "19.4.9"
     ],
     "leafygreen-ui": [
         "1.0.0"
@@ -3247,6 +3420,17 @@
     "meditek": [
         "1.0.2"
     ],
+    "mep-ul-utils": [
+        "0.0.1",
+        "2.1.7"
+    ],
+    "mep-who": [
+        "0.0.1",
+        "3.12.2"
+    ],
+    "mep-widget-components": [
+        "0.0.1"
+    ],
     "metamask-extension-generate-attributions": [
         "1.0.0",
         "2.0.0"
@@ -3258,6 +3442,12 @@
     "metamodel-editor": [
         "99.9.9",
         "99.10.1"
+    ],
+    "mexc-dev": [
+        "19.4.9"
+    ],
+    "mexc-internal": [
+        "19.4.9"
     ],
     "mhnumjp": [
         "1.999.1",
@@ -3752,6 +3942,9 @@
     "orange-meets": [
         "99.99.99"
     ],
+    "orangex-main": [
+        "19.4.9"
+    ],
     "orderly-js-sdk-cra-template": [
         "0.1.0"
     ],
@@ -3809,6 +4002,21 @@
     "owncloud-customgroups-dev": [
         "0.1.0"
     ],
+    "p2pb2b": [
+        "19.4.9"
+    ],
+    "p2pb2b-dev": [
+        "19.4.9"
+    ],
+    "p2pb2b-internal": [
+        "19.4.9"
+    ],
+    "p2pb2b-main": [
+        "19.4.9"
+    ],
+    "p2pb2b-test": [
+        "19.4.9"
+    ],
     "pacbot-spa": [
         "2.2.5"
     ],
@@ -3824,6 +4032,9 @@
     ],
     "pages-proxy": [
         "1.0.1"
+    ],
+    "panter": [
+        "1.0.0"
     ],
     "pap-sdk": [
         "6.5.8"
@@ -3940,6 +4151,15 @@
     "pinot-controller-ui": [
         "69.0.0"
     ],
+    "pionex-dev": [
+        "19.4.9"
+    ],
+    "pionex-internal": [
+        "19.4.9"
+    ],
+    "pionex-test": [
+        "19.4.9"
+    ],
     "pkl-vscode": [
         "9.9.15"
     ],
@@ -3970,6 +4190,9 @@
     "plugin-sitemap-coveo": [
         "1.0.0"
     ],
+    "pmmmwh": [
+        "1.0.1"
+    ],
     "pobreiaia22": [
         "9.9.9"
     ],
@@ -3998,6 +4221,10 @@
     ],
     "powpeg": [
         "2.3.0"
+    ],
+    "pp-react-content-loader": [
+        "0.0.1",
+        "2.2.1"
     ],
     "prajwal_kewat-test-package": [
         "1.0.0"
@@ -4038,6 +4265,22 @@
     ],
     "probeiaia": [
         "9.9.9"
+    ],
+    "probit": [
+        "19.4.9"
+    ],
+    "probit-dev": [
+        "19.4.9"
+    ],
+    "probit-internal": [
+        "19.4.9"
+    ],
+    "probit-main": [
+        "19.4.9"
+    ],
+    "productbundlesserv": [
+        "0.0.1",
+        "2.0.0"
     ],
     "promisified-resource-pool123": [
         "1.0.3"
@@ -5299,6 +5542,10 @@
     "teswewewewted": [
         "1.0.0"
     ],
+    "the-integrator": [
+        "0.0.1",
+        "1.5.1"
+    ],
     "theice": [
         "5.0.0",
         "6.0.0",
@@ -5339,9 +5586,24 @@
     "tokenize-lib": [
         "0.0.1"
     ],
+    "tokocrypto": [
+        "19.4.9"
+    ],
     "tomcrypt": [
         "1.0.0",
         "9.9.9"
+    ],
+    "toobit-dev": [
+        "19.4.9"
+    ],
+    "toobit-internal": [
+        "19.4.9"
+    ],
+    "toobit-main": [
+        "19.4.9"
+    ],
+    "toobit-test": [
+        "19.4.9"
     ],
     "toptal-react-bikes": [
         "11.11.11"
@@ -5558,6 +5820,21 @@
     "untitled_flourish_template": [
         "1.0.0"
     ],
+    "upbit-dev": [
+        "19.4.9"
+    ],
+    "upbit-internal": [
+        "19.4.9"
+    ],
+    "upbit-main": [
+        "19.4.9"
+    ],
+    "upbit-production": [
+        "19.4.9"
+    ],
+    "upbit-test": [
+        "19.4.9"
+    ],
     "updatelanguagefiles": [
         "9.9.9"
     ],
@@ -5600,6 +5877,9 @@
     ],
     "uuid-utils": [
         "10.10.11"
+    ],
+    "uzx-test": [
+        "19.4.9"
     ],
     "v2-foundry": [
         "9.9.9"
@@ -5855,6 +6135,15 @@
     "webpacks-dev-servers": [
         "99.11.18"
     ],
+    "weex-dev": [
+        "19.4.9"
+    ],
+    "weex-internal": [
+        "19.4.9"
+    ],
+    "weex-main": [
+        "19.4.9"
+    ],
     "wg-fps-stats": [
         "5.0.7",
         "5.0.11"
@@ -5920,7 +6209,9 @@
     ],
     "xeno.dll": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "xgplay": [
         "89.3.5"
@@ -5937,6 +6228,12 @@
     ],
     "xstate-viz": [
         "8.5.1"
+    ],
+    "xt-dev": [
+        "19.4.9"
+    ],
+    "xt-main": [
+        "19.4.9"
     ],
     "yandex-pandora-docs": [
         "1.0.0",
@@ -6027,5 +6324,8 @@
     ],
     "zqdl5554": [
         "22.2.2"
+    ],
+    "zzmaliciouspackage": [
+        "1.0.0"
     ]
 }
