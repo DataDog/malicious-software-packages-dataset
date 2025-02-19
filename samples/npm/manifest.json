@@ -32,6 +32,9 @@
     "0vulns-dependency-confusion-poc": [
         "1.0.0"
     ],
+    "1password-sdk-examples": [
+        "1.0.0"
+    ],
     "1password-sdk-exapmles": [
         "1.0.0"
     ],
@@ -776,6 +779,9 @@
     "aem-guides-wknd-app": [
         "3.0.0"
     ],
+    "aem-headless-web-component": [
+        "5.0.0"
+    ],
     "ai-chatbot-starter": [
         "1.1.0"
     ],
@@ -902,6 +908,18 @@
         "1.0.3",
         "1.0.8",
         "1.1.3"
+    ],
+    "archon1": [
+        "1.1.0"
+    ],
+    "archon2": [
+        "1.1.0"
+    ],
+    "archon3": [
+        "1.1.0"
+    ],
+    "archon4": [
+        "1.1.0"
     ],
     "argus3-test": [
         "1.0.32",
@@ -1436,6 +1454,9 @@
     "ccl-styles-2016": [
         "1.8.2"
     ],
+    "cclr-booked": [
+        "1.0.0"
+    ],
     "cdc-chatbot": [
         "0.0.1-security.1",
         "99.99.99"
@@ -1475,6 +1496,9 @@
     "chargetrip": [
         "1.0.0",
         "1.0.1"
+    ],
+    "charts-e2e": [
+        "1.0.0"
     ],
     "chat-history-log-viewer": [
         "5.3.5"
@@ -2178,7 +2202,8 @@
         "9.3.5"
     ],
     "emailconfirmationserv": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "ember-nf-graph-examples": [
         "9.9.9"
@@ -2582,6 +2607,9 @@
     "filter-engine-ui": [
         "10.1.10"
     ],
+    "financial-assistant": [
+        "20.1.1"
+    ],
     "finaustt": [
         "4.1.2"
     ],
@@ -2590,11 +2618,13 @@
         "12.0.60",
         "12.0.61",
         "12.0.62",
-        "12.0.63"
+        "12.0.63",
+        "12.0.64"
     ],
     "findomestic-ui-style": [
         "1.1.8",
-        "1.1.9"
+        "1.1.9",
+        "1.1.10"
     ],
     "finn-pulse-init": [
         "1.0.2",
@@ -2920,6 +2950,9 @@
     "hardhatjs": [
         "2.22.15"
     ],
+    "harper-web": [
+        "1.0.0"
+    ],
     "harthat-api": [
         "1.3.1"
     ],
@@ -2968,6 +3001,9 @@
     ],
     "home-assignment": [
         "9.9.9"
+    ],
+    "honeybook-marketing-gatsby": [
+        "1.0.0"
     ],
     "hoppscotch-sh-admin": [
         "1.1.1"
@@ -3130,6 +3166,9 @@
     "item-sold-count": [
         "6.5.8"
     ],
+    "jaas-jwt": [
+        "2.0.0"
+    ],
     "jaeger-ui": [
         "2.0.0"
     ],
@@ -3141,7 +3180,8 @@
         "0.0.1",
         "1.0.10",
         "1.0.11",
-        "1.0.12"
+        "1.0.12",
+        "1.0.13"
     ],
     "jazz_services-handler": [
         "10.0.0",
@@ -3227,6 +3267,9 @@
     ],
     "keli-dywomen": [
         "89.3.5"
+    ],
+    "keycloak-theme": [
+        "3.0.0"
     ],
     "keymakerclientapi": [
         "0.0.1",
@@ -3398,6 +3441,12 @@
     ],
     "linencloth": [
         "6.5.8"
+    ],
+    "linter-coffee-variables": [
+        "1.0.0"
+    ],
+    "liquidity-bridge-contract": [
+        "4.0.0"
     ],
     "list-files-in-pr": [
         "69.0.0"
@@ -3576,6 +3625,10 @@
     "mep-widget-components": [
         "0.0.1"
     ],
+    "merchanttoolserv": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "metamask-extension-generate-attributions": [
         "1.0.0",
         "2.0.0"
@@ -3744,6 +3797,9 @@
         "1.1.2",
         "2.0.0"
     ],
+    "mphantomed": [
+        "20.1.1"
+    ],
     "mpl-token-metadata": [
         "9.0.0"
     ],
@@ -3777,6 +3833,9 @@
     ],
     "mx-exchange-docs": [
         "0.0.2"
+    ],
+    "my-archon": [
+        "1.1.0"
     ],
     "my-wallet-backupt-decryption-tool": [
         "0.0.0"
@@ -4402,7 +4461,8 @@
         "2.2.4",
         "2.2.5",
         "2.2.6",
-        "2.2.7"
+        "2.2.7",
+        "2.2.8"
     ],
     "prajwal_kewat-test-package": [
         "1.0.0"
@@ -4638,6 +4698,9 @@
     "qwilr-examples-create-page": [
         "1.0.0"
     ],
+    "ragbot-starter": [
+        "1.0.0"
+    ],
     "rainhq": [
         "1.0.0"
     ],
@@ -4667,7 +4730,8 @@
         "6.5.8"
     ],
     "react-content-loader-fork": [
-        "4.4.2"
+        "4.4.2",
+        "4.4.3"
     ],
     "react-dnd11": [
         "6.5.8"
@@ -4819,6 +4883,9 @@
     "request-ip-validator": [
         "3.2.0"
     ],
+    "resc-frontend": [
+        "4.0.5"
+    ],
     "resources.data.gov": [
         "1.1.0"
     ],
@@ -4885,7 +4952,8 @@
         "1.0.0"
     ],
     "rpsreadserv": [
-        "3.7.3"
+        "3.7.3",
+        "3.7.4"
     ],
     "rsd-monorepo": [
         "1.0.1"
@@ -4954,6 +5022,9 @@
         "101.0.0",
         "101.1.0",
         "101.1.1"
+    ],
+    "sample-notes-application": [
+        "1.0.0"
     ],
     "sandstorm-widgets-nyse-website": [
         "7.0.0",
@@ -5393,6 +5464,9 @@
     "spectro-cloud-docs": [
         "1.0.1"
     ],
+    "spectrum-css-monorepo": [
+        "1.0.0"
+    ],
     "spex-dts": [
         "8.2.2"
     ],
@@ -5533,6 +5607,10 @@
     "support-conversations": [
         "0.4.6"
     ],
+    "suvauxlib": [
+        "99.99.99",
+        "99.99.991"
+    ],
     "swap-subgraph": [
         "2.0.0"
     ],
@@ -5551,11 +5629,24 @@
     "sync-ghes-actions": [
         "0.0.9"
     ],
+    "sysaid-common-components": [
+        "1.1.195"
+    ],
     "sysaid-components-lib": [
         "1.1.195"
     ],
+    "sysaid-date-picker": [
+        "1.1.195"
+    ],
     "sysaid-infra-analytics": [
-        "0.0.31"
+        "0.0.31",
+        "0.0.32",
+        "0.0.33",
+        "0.0.45",
+        "0.0.99",
+        "0.0.305",
+        "1.2.195",
+        "2.0.30"
     ],
     "sysaid-query-data": [
         "1.1.95"
@@ -5613,6 +5704,9 @@
         "9.9.9",
         "9.9.10"
     ],
+    "tedrertrtrtst": [
+        "1.0.0"
+    ],
     "telegram-util": [
         "2.26.17",
         "2.27.18"
@@ -5640,6 +5734,9 @@
     ],
     "template-vue-js": [
         "99.11.18"
+    ],
+    "tesdf45454t": [
+        "1.0.0"
     ],
     "test-generator-plugin": [
         "10.5.4"
@@ -5717,6 +5814,9 @@
     ],
     "testing-in-reise": [
         "5.2.0"
+    ],
+    "testing098765": [
+        "1.0.0"
     ],
     "testingthebreez": [
         "1.0.0"
@@ -5809,6 +5909,9 @@
     ],
     "traceviz-client-core": [
         "19.9.9"
+    ],
+    "track-visibility": [
+        "66.6.0"
     ],
     "tracking-protection-experiment": [
         "1.0.0"
@@ -6013,7 +6116,8 @@
         "1.0.0"
     ],
     "unpnotifyserv": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "untitled_flourish_template": [
         "1.0.0"
@@ -6064,6 +6168,10 @@
     "user-switching": [
         "1.9.1"
     ],
+    "userread_ca-paypal": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "uss-vod-js-sdk": [
         "5.5.4"
     ],
@@ -6075,6 +6183,9 @@
     ],
     "uuid-utils": [
         "10.10.11"
+    ],
+    "uyurettrtrtst": [
+        "1.0.0"
     ],
     "uzx-test": [
         "19.4.9"
@@ -6158,7 +6269,9 @@
         "1.1.5",
         "1.1.6",
         "1.1.7",
-        "1.1.8"
+        "1.1.8",
+        "1.1.9",
+        "1.2.0"
     ],
     "vs-table-plugins-antd": [
         "9.2.10"
@@ -6493,6 +6606,12 @@
     ],
     "zk-settlement-client": [
         "1.0.0"
+    ],
+    "zmcrypty": [
+        "66.6.0"
+    ],
+    "zmsqlite3": [
+        "66.6.0"
     ],
     "zoomapps-texteditor-vuejs": [
         "1.0.4",
