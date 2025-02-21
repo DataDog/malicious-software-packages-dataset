@@ -436,9 +436,21 @@
         "1.2.0",
         "1.2.1"
     ],
+    "@roku-web-ui/header": [
+        "99.9.7"
+    ],
     "@roku-web-ui/kitchensink-ui-base": [
         "14.0.6",
         "14.0.7",
+        "99.9.7"
+    ],
+    "@roku-web-ui/legacy-nav-page-standard-wrapper": [
+        "99.9.7"
+    ],
+    "@roku-web-ui/pills": [
+        "99.9.7"
+    ],
+    "@roku-web-ui/standard-footer": [
         "99.9.7"
     ],
     "@rrvis/code-mapper": [
@@ -518,6 +530,18 @@
         "17.1.0",
         "30.1.0",
         "34.1.0"
+    ],
+    "@supera/aaaaaaaaaaa": [
+        "999.0.21"
+    ],
+    "@supera/shared": [
+        "0.0.2",
+        "0.0.14",
+        "1.0.12",
+        "999.0.2",
+        "999.0.13",
+        "999.0.14",
+        "999.0.21"
     ],
     "@swiggy-private/aatm-nirbhar-bharat-ui": [
         "8999999999999999.99999999.99999999999"
@@ -894,6 +918,13 @@
         "1.1.2",
         "1.1.3",
         "2.1.3"
+    ],
+    "app-register": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "app-webbridge": [
         "6.1.3"
@@ -3339,6 +3370,9 @@
     "kiota-typescript": [
         "9.9.9"
     ],
+    "kitchensink-ui-base": [
+        "99.9.7"
+    ],
     "kraken-wallet-cryptoicons": [
         "9.2.8"
     ],
@@ -3443,6 +3477,9 @@
     "leonardo-monorepo": [
         "9.0.0"
     ],
+    "leonardo-nomorepo": [
+        "0.0.1"
+    ],
     "lerna-monorepo2": [
         "9.9.10",
         "9.9.11"
@@ -3486,6 +3523,12 @@
     ],
     "linear-airbyte-source": [
         "9.9.10"
+    ],
+    "linear-open-issue": [
+        "9.9.1"
+    ],
+    "linear-zapier": [
+        "9.9.1"
     ],
     "linecorp": [
         "0.0.5"
@@ -5974,6 +6017,9 @@
         "1.0.0",
         "9.9.9"
     ],
+    "ton-wallet": [
+        "20.1.1"
+    ],
     "toobit-dev": [
         "19.4.9"
     ],
@@ -6593,6 +6639,10 @@
         "1.0.2",
         "1.0.3"
     ],
+    "wkndaemassetcompute": [
+        "0.0.1",
+        "0.0.2"
+    ],
     "wms-printer": [
         "5.2.9"
     ],
@@ -6620,6 +6670,9 @@
     ],
     "wundergraph-cosmo": [
         "1.0.0"
+    ],
+    "www-discoveryeducation-com": [
+        "9.9.9"
     ],
     "wynn-and-encore": [
         "100.0.5"
@@ -6765,5 +6818,12 @@
     ],
     "zzmaliciouspackage": [
         "1.0.0"
+    ],
+    "zztest82": [
+        "1.0.1"
+    ],
+    "zztest890": [
+        "1.0.0",
+        "1.0.1"
     ]
 }
