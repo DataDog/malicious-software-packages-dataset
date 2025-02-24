@@ -198,7 +198,6 @@
         "89.3.5"
     ],
     "@douinfe/semi-adimation": [
-        "0.0.1-security.4",
         "9.3.5"
     ],
     "@douinfe/semi-animation-react": [
@@ -267,11 +266,9 @@
         "10.0.0"
     ],
     "@isfe-common/image-minimizer": [
-        "0.0.1-security.1",
         "9.1.30"
     ],
     "@isfe-common/testing-constants": [
-        "0.0.1-security.1",
         "9.2.9"
     ],
     "@isfe-common/testing-utils": [
@@ -469,7 +466,6 @@
         "99.99.3"
     ],
     "@rrvis/epaas": [
-        "0.0.1-security.0",
         "99.99.2",
         "99.99.3"
     ],
@@ -478,17 +474,14 @@
         "99.99.3"
     ],
     "@rrvis/ui": [
-        "0.0.1-security.0",
         "99.99.2",
         "99.99.3"
     ],
     "@rrvis/util": [
-        "0.0.1-security.0",
         "99.99.2",
         "99.99.3"
     ],
     "@rrvis/vehicle": [
-        "0.0.1-security.0",
         "99.99.2",
         "99.99.3"
     ],
@@ -682,7 +675,6 @@
         "89.3.5"
     ],
     "@volcenjine/veplayer": [
-        "0.0.1-security.1",
         "89.3.5"
     ],
     "@webbdays/tailcall": [
@@ -917,12 +909,9 @@
         "1.0.0"
     ],
     "api-demo-sample-lib3": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.0.0"
     ],
     "api-demo-sample-lib4": [
-        "0.0.1-security.4",
         "1.0.0",
         "1.0.1"
     ],
@@ -930,8 +919,6 @@
         "9.9.9"
     ],
     "api-nodejs-template": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.0.1",
         "1.1.1",
         "1.1.2",
@@ -1326,7 +1313,6 @@
         "4.0.0"
     ],
     "bootcamp-hackathon": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "borsh-js": [
@@ -1382,19 +1368,15 @@
         "1.0.1"
     ],
     "business-kpi-manager": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "4.0.1",
         "4.0.4",
         "4.0.7"
     ],
     "business-kpi-manager-1.0.0": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
-        "19.19.0",
-        "19.21.0",
         "3.8.0",
-        "4.0.0"
+        "4.0.0",
+        "19.19.0",
+        "19.21.0"
     ],
     "buzzblocks": [
         "7.0.0"
@@ -1436,7 +1418,6 @@
         "1.0.0"
     ],
     "calling-integration-sdk-demo-react-ts": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "calypso-analytics": [
@@ -1535,7 +1516,6 @@
         "1.0.0"
     ],
     "cdc-chatbot": [
-        "0.0.1-security.1",
         "99.99.99"
     ],
     "cdntodister": [
@@ -1597,7 +1577,6 @@
         "10.0.0"
     ],
     "chipped": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "chkpkit": [
@@ -1625,7 +1604,6 @@
         "999.91.2"
     ],
     "cli-docs-site": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "client-req-bans": [
@@ -1684,7 +1662,6 @@
         "6.0.1"
     ],
     "codeql-query": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "codeql-sarif-security-standard-annotator": [
@@ -1846,7 +1823,6 @@
         "9.9.9"
     ],
     "controlplane": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "conversations-embed": [
@@ -1900,7 +1876,6 @@
         "6.1.5"
     ],
     "css-blocks-ember": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "css-blocks-monorepo": [
@@ -1910,7 +1885,6 @@
         "1.0.0"
     ],
     "cumulus-dashboard": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "cursor-always-local": [
@@ -2162,8 +2136,6 @@
         "1.11.2"
     ],
     "dvd-for-aipc-rag": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.1.0"
     ],
     "dw-api-mock": [
@@ -2230,9 +2202,7 @@
         "11.0.0"
     ],
     "editions-dev-2k-variants": [
-        "0.0.1",
-        "0.0.1-security.1",
-        "0.0.1-security.2"
+        "0.0.1"
     ],
     "editions-dev-workshop": [
         "5.0.0"
@@ -2307,7 +2277,6 @@
         "99.9.3"
     ],
     "emergency-pull-request-probot-app": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "emoji-datasource-google-blob": [
@@ -2319,17 +2288,15 @@
         "1.0.3"
     ],
     "engineering-blog": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.0.0",
-        "1.0.11",
-        "1.0.12",
         "1.0.2",
         "1.0.3",
         "1.0.4",
         "1.0.6",
         "1.0.8",
-        "1.0.9"
+        "1.0.9",
+        "1.0.11",
+        "1.0.12"
     ],
     "ens-app-v2": [
         "0.0.1"
@@ -2601,7 +2568,6 @@
         "1.0.0"
     ],
     "example-yarn": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "exclusivemaximum": [
@@ -2641,7 +2607,6 @@
         "1.148.0"
     ],
     "fabric-shim-docs": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "facetec-browser-sdk": [
@@ -2752,7 +2717,6 @@
         "1.1.0"
     ],
     "firefoxcolor": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "flame-monorepo": [
@@ -2910,7 +2874,6 @@
         "1.1.0"
     ],
     "gcp-scanner-visualizer": [
-        "0.0.1-security.0",
         "1.1.1"
     ],
     "gemini-test": [
@@ -2962,7 +2925,6 @@
         "6.0.1"
     ],
     "githubpagessites": [
-        "0.0.1-security.2",
         "1.1.0"
     ],
     "glance-android-core-sdk": [
@@ -2996,7 +2958,6 @@
         "1.0.0"
     ],
     "grabathon-5.0": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "grafana-sentry-datasource": [
@@ -3027,8 +2988,6 @@
         "99.99.991"
     ],
     "gravity-bridge-site": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.1.1"
     ],
     "grid-context": [
@@ -3131,7 +3090,6 @@
         "1.0.0"
     ],
     "hoppscotch-sh-admin": [
-        "0.0.1-security.2",
         "1.1.1"
     ],
     "hotmart": [
@@ -3176,7 +3134,6 @@
         "1.0.0"
     ],
     "i18-utils": [
-        "0.0.1-security.2",
         "5.0.0"
     ],
     "ibm.github.io": [
@@ -3242,7 +3199,6 @@
         "1.1.2"
     ],
     "incomesample": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "ing-feat-inbox": [
@@ -3275,7 +3231,6 @@
         "1.0.0"
     ],
     "interview-code-challenge-full-stack": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "interview-question": [
@@ -3307,8 +3262,6 @@
         "2.0.0"
     ],
     "jaeger-ui-monorepo": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.1.0"
     ],
     "jaws-node": [
@@ -3495,7 +3448,6 @@
         "4.0.0"
     ],
     "launchpad-ui": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "launchpad6-dev-ops": [
@@ -3520,7 +3472,6 @@
         "19.4.9"
     ],
     "leafygreen-ui": [
-        "0.0.1-security.2",
         "1.0.0"
     ],
     "left-pad-browser": [
@@ -3703,8 +3654,6 @@
         "1.0.0"
     ],
     "mapbox-demo-components": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.1.0"
     ],
     "maplibre": [
@@ -3793,8 +3742,6 @@
         "2.0.0"
     ],
     "metamask-sdk-e2e": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.0.0"
     ],
     "metamodel-editor": [
@@ -3862,7 +3809,6 @@
         "99.99.99"
     ],
     "model-viewer-space-opera": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "modernliner": [
@@ -4387,7 +4333,6 @@
         "8.1.7"
     ],
     "otelcollector": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "overture2osmjs": [
@@ -4433,7 +4378,6 @@
         "2.2.5"
     ],
     "package-maintenance": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "packs-starter": [
@@ -4490,7 +4434,6 @@
         "6.5.8"
     ],
     "payment-integration-template": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "payment-tx-params-api": [
@@ -4880,8 +4823,6 @@
         "99.99.99"
     ],
     "qwant-extension": [
-        "0.0.1-security.1",
-        "0.0.1-security.2",
         "1.0.0"
     ],
     "qwertytrtyu": [
@@ -4950,7 +4891,6 @@
         "69.0.0"
     ],
     "react-native-apollo-devtools": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "react-native-country-picker-modal-modified": [
@@ -5090,7 +5030,6 @@
         "4.0.6"
     ],
     "resources.data.gov": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "retail-common": [
@@ -5100,7 +5039,6 @@
         "6.5.8"
     ],
     "rif-wallet": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "rivalsgui": [
@@ -5183,7 +5121,6 @@
         "0.8.14"
     ],
     "ruby-typeprof": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "rust-analyzer": [
@@ -5544,7 +5481,6 @@
         "1.0.2"
     ],
     "sippo-vroidsdk-test2": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "sketch-crowdin": [
@@ -5891,7 +5827,6 @@
         "1.0.0"
     ],
     "talk-desktop": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "tannucolingboys": [
@@ -6079,7 +6014,6 @@
         "4.0.0"
     ],
     "theme-tools": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "theme-webpack": [
@@ -6103,7 +6037,6 @@
         "10.4.8"
     ],
     "tokenization-lab": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "tokenize-lib": [
@@ -6176,7 +6109,6 @@
         "1.0.0"
     ],
     "trigger-gitlab-pipeline": [
-        "0.0.1-security.0",
         "1.1.0"
     ],
     "triggerator-backend": [
@@ -6211,7 +6143,6 @@
         "1.0.1"
     ],
     "tsign-uix": [
-        "0.0.1-security.0",
         "17.1.0"
     ],
     "tsp-rn-sdk": [
@@ -6239,7 +6170,6 @@
         "1.0.0"
     ],
     "twilio-voice-react-native-reference-server": [
-        "0.0.1-security.0",
         "1.1.0",
         "1.1.1"
     ],
@@ -6571,7 +6501,6 @@
         "1.0.0"
     ],
     "wallet-history-demo-backend": [
-        "0.0.1-security.2",
         "1.1.0"
     ],
     "waltz-ng": [
@@ -6729,7 +6658,6 @@
         "5.0.11"
     ],
     "whaletail": [
-        "0.0.1-security.0",
         "1.0.0"
     ],
     "widgets-mainappointments": [
