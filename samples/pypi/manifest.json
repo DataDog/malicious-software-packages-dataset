@@ -3769,8 +3769,14 @@
         "5.1.1"
     ],
     "simplyjson": [],
+    "singtok": [
+        "0.0.4"
+    ],
     "sintaxisoyyo": [
         "0.8"
+    ],
+    "sintok": [
+        "0.0.2"
     ],
     "sjc": [
         "9.6"
@@ -4002,6 +4008,9 @@
     ],
     "tiketoken": [
         "99.7"
+    ],
+    "tiksing": [
+        "0.0.2"
     ],
     "tiktok-phone-cheker": [
         "2.42"
