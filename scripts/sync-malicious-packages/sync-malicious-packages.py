@@ -62,7 +62,7 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
 
     package_name = item["package_name"].removeprefix("npm|")
     package_version = item["package_version"]
-    if package_name != item["package_name"] and package_version == NPM_SECURITY_VERSION:
+    if package_name != item["package_name"] and package_version.startswith(NPM_SECURITY_VERSION):
       continue
 
     # Sanitize the package name and version for use in a file or directory name
