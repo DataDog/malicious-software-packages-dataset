@@ -451,6 +451,12 @@
     "@roku-web-ui/legacy-nav-page-standard-wrapper": [
         "99.9.7"
     ],
+    "@roku-web-ui/legacy-styleguide": [
+        "99.9.7"
+    ],
+    "@roku-web-ui/modal": [
+        "99.9.7"
+    ],
     "@roku-web-ui/pills": [
         "99.9.7"
     ],
@@ -658,6 +664,12 @@
     "@vikas_upadhyay0/swagger-lint": [
         "1.1.1"
     ],
+    "@visma-spcs-registry/react-common-components": [
+        "4.2.5",
+        "4.2.6",
+        "4.2.7",
+        "4.2.8"
+    ],
     "@vkplay/shared": [
         "10.10.13",
         "10.10.15"
@@ -853,6 +865,9 @@
     "alchemy-web3-webpack-example": [
         "1.1.0"
     ],
+    "amagi-kanban": [
+        "0.2.0"
+    ],
     "amazon-codewhisperer-jupyterlab-ext": [
         "1.0.11"
     ],
@@ -1043,6 +1058,9 @@
     "atlaspack-transformer-string": [
         "1.1.0"
     ],
+    "atm-event-app": [
+        "1.0.0"
+    ],
     "auth0-langchain-rag-js": [
         "9.9.9"
     ],
@@ -1148,6 +1166,10 @@
         "1.0.0",
         "20.0.0"
     ],
+    "bastion-react-app": [
+        "1.0.0",
+        "9.9.9"
+    ],
     "bazelbuild.vscode-bazel": [
         "9.9.9",
         "9.9.99"
@@ -1182,6 +1204,9 @@
     ],
     "bffhfuruhejfhdj": [
         "3.3.0"
+    ],
+    "bg-todomvc": [
+        "1.1.0"
     ],
     "biconomy": [
         "19.4.9"
@@ -1547,8 +1572,14 @@
         "99.99.3",
         "99.99.4"
     ],
+    "cf-middleware-set-header": [
+        "99.99.99"
+    ],
     "chameleon-sdk-android": [
         "9.3.5"
+    ],
+    "champion-trader": [
+        "1.0.0"
     ],
     "chargetrip": [
         "1.0.0",
@@ -1619,6 +1650,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "cloudflare-vite-tutorial": [
+        "99.99.99"
+    ],
     "cloudinary-ct-run-sub": [
         "1.1.0"
     ],
@@ -1685,6 +1719,9 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "com.adobe.cq.core.wcm.components.content": [
+        "3.0.0"
     ],
     "com.db.gtb.ppe.rtp-authjs": [
         "6.8.3",
@@ -2219,6 +2256,9 @@
     "eds-vue": [
         "5.4.3"
     ],
+    "edubrite": [
+        "1.1.0"
+    ],
     "educationpurpose": [
         "1.0.0"
     ],
@@ -2310,6 +2350,9 @@
     "equipment-icon-mapper": [
         "2.13.0",
         "9.9.9"
+    ],
+    "erc20-faucet": [
+        "99.99.1"
     ],
     "erc4337": [
         "0.0.1",
@@ -2743,6 +2786,9 @@
     ],
     "flow-for-vscode": [
         "3.0.1"
+    ],
+    "flow-inflation-client": [
+        "1.0.0"
     ],
     "flpweb": [
         "2.0.0"
@@ -3631,6 +3677,9 @@
     "magicmicroservices": [
         "99.3.5"
     ],
+    "mailu": [
+        "1.0.0"
+    ],
     "main-branch-check": [
         "1.0.2"
     ],
@@ -3781,6 +3830,10 @@
     ],
     "minikit-monorepo": [
         "1.4.0"
+    ],
+    "miniprogram-project": [
+        "99.1.1",
+        "99.99.1"
     ],
     "mintapp": [
         "9.9.9"
@@ -3950,7 +4003,13 @@
     ],
     "myconfusedfunctionpoctestpackage": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
     ],
     "mygcpconfusedfunctionpocmaliciouspackage": [
         "1.0.1",
@@ -4120,6 +4179,9 @@
     ],
     "nodes-polyfill-webpack-plugin": [
         "99.11.18"
+    ],
+    "nodes-tree-visualizer-server": [
+        "1.0.0"
     ],
     "non-existing-dependency": [
         "1.0.0"
@@ -4949,6 +5011,9 @@
     "realtime-translation-package": [
         "6.5.8"
     ],
+    "realtimeboard": [
+        "1.0.0"
+    ],
     "redmond": [
         "99.9.10"
     ],
@@ -5594,6 +5659,10 @@
     "soybean-admin-tab": [
         "10.3.7"
     ],
+    "spacelift-webhook-receiver": [
+        "1.0.0",
+        "1.1.0"
+    ],
     "spacexstats": [
         "9.9.9"
     ],
@@ -5997,6 +6066,9 @@
     "teswewewewted": [
         "1.0.0"
     ],
+    "tfjs-backend-webgl": [
+        "2.8.6"
+    ],
     "the-integrator": [
         "0.0.1",
         "1.5.1",
@@ -6086,6 +6158,14 @@
     "tracking-wtf": [
         "8.5.1"
     ],
+    "transaction-generator": [
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.1.0",
+        "1.1.2"
+    ],
     "transify-helper-cli": [
         "10.4.2"
     ],
@@ -6167,7 +6247,8 @@
         "1.0.0"
     ],
     "twilio-realtime": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "twilio-voice-react-native-reference-server": [
         "1.1.0",
@@ -6516,6 +6597,9 @@
     "waseemdemo": [
         "1.0.0"
     ],
+    "wasm-test-adapter": [
+        "1.0.0"
+    ],
     "wb-eth3": [
         "4.10.0"
     ],
@@ -6539,6 +6623,18 @@
     ],
     "wdio-common": [
         "1.5.0"
+    ],
+    "wdpr-ra-hybrid-cli": [
+        "999.999.999"
+    ],
+    "wdpr-ra-hybrid-content-router": [
+        "11.999.999"
+    ],
+    "wdpr-ra-node-mpropz": [
+        "999.9999.9999"
+    ],
+    "wdpr-test-package": [
+        "999.999.999"
     ],
     "web-actions-v4": [
         "1.0.0"
@@ -6773,6 +6869,9 @@
     ],
     "yoga-repo": [
         "1.0.0"
+    ],
+    "yxt-factor": [
+        "10.10.10"
     ],
     "zalf22ausi8": [
         "23.6.1"
