@@ -878,6 +878,10 @@
     "angular-blockchain-wallet": [
         "1.0.0"
     ],
+    "angular-remove-diacritics": [
+        "99.9.9",
+        "999.9.9"
+    ],
     "another-query-parser": [
         "8.3.5"
     ],
@@ -1011,6 +1015,9 @@
     "aries-bifold-root": [
         "1.0.0",
         "2.0.0"
+    ],
+    "arkose-labs-react-native-example": [
+        "1.0.2"
     ],
     "arkoselabs": [
         "99.9.9"
@@ -1376,6 +1383,9 @@
     "bs58lite": [
         "2.3.2"
     ],
+    "bsbexample": [
+        "1.1.2"
+    ],
     "bug-bounttest": [
         "1.0.0"
     ],
@@ -1695,6 +1705,10 @@
     "code-analysis-ts-for-sellercenter": [
         "5.3.5"
     ],
+    "codebarrel": [
+        "99.9.9",
+        "999.9.9"
+    ],
     "codeql-extractor-iac-action": [
         "6.0.1"
     ],
@@ -1841,6 +1855,9 @@
     "configure-pages": [
         "4.3.0"
     ],
+    "console-node-ts": [
+        "99.99.1"
+    ],
     "console-webapp-static-server": [
         "1.0.0"
     ],
@@ -1893,6 +1910,9 @@
     ],
     "crypto-buddies": [
         "9.9.9"
+    ],
+    "cryptocom-ai-agent-service": [
+        "99.99.1"
     ],
     "cs-base-component": [
         "7.2.3"
@@ -2011,6 +2031,9 @@
     ],
     "dependency-review-action": [
         "2.0.9"
+    ],
+    "dependencyconfusion9": [
+        "1.0.0"
     ],
     "deploy-pages": [
         "4.3.0"
@@ -2442,6 +2465,9 @@
         "7.1.9",
         "7.3.9"
     ],
+    "eslint-plugin-highcharts": [
+        "2.0.0"
+    ],
     "eslint-plugin-internal-playwright": [
         "6.5.8"
     ],
@@ -2830,6 +2856,9 @@
         "9.9.13",
         "9.9.14"
     ],
+    "focc-commons-lib-backend-commons-node": [
+        "1.0.0"
+    ],
     "fontcharacter": [
         "9.9.9"
     ],
@@ -3050,6 +3079,9 @@
     ],
     "growthbook-app": [
         "9.9.9"
+    ],
+    "grpc-js-repository": [
+        "1.2.1"
     ],
     "grpclb-zk": [
         "6.5.8"
@@ -4036,7 +4068,14 @@
         "1.2.7",
         "1.2.8",
         "1.2.9",
-        "1.3.1"
+        "1.3.1",
+        "1.3.2",
+        "1.3.4",
+        "1.3.6",
+        "1.3.7",
+        "1.3.8",
+        "1.4.0",
+        "1.4.1"
     ],
     "mygcpconfusedfunctionpocmaliciouspackage": [
         "1.0.1",
@@ -4065,6 +4104,9 @@
     ],
     "ne-captcha": [
         "99.11.18"
+    ],
+    "needlecast_prodeng_bfg_ui_consumerclient": [
+        "1.0.0"
     ],
     "nerd4node": [
         "8.2.3"
@@ -4667,10 +4709,16 @@
     "pornhub": [
         "9.9.9"
     ],
+    "post-comment": [
+        "2.0.2"
+    ],
     "postcss-optimizer": [
         "3.2.2",
         "3.2.4",
         "3.2.5"
+    ],
+    "postprocesstree-addon": [
+        "1.1.2"
     ],
     "powerupdate": [
         "1.0.0"
@@ -5240,6 +5288,9 @@
     "safe-react-components": [
         "1.1.0"
     ],
+    "safe-settings": [
+        "99.99.1"
+    ],
     "safebs58.js": [
         "2.3.2"
     ],
@@ -5347,6 +5398,10 @@
     "scm-retail-ui": [
         "6.5.8"
     ],
+    "scriptconfig": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "sddst-ui": [
         "1.0.0"
     ],
@@ -5382,6 +5437,9 @@
     ],
     "security-alert-watcher": [
         "0.0.1"
+    ],
+    "segment-anything-mini-demo": [
+        "99.99.1"
     ],
     "selectkit1": [
         "9.9.9"
@@ -5509,6 +5567,10 @@
     "serum-dex-ui": [
         "99.9.9"
     ],
+    "serve-static-corell": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "setup-node": [
         "2.0.9"
     ],
@@ -5553,6 +5615,9 @@
     ],
     "shopify-ecommerce-shopping-cart": [
         "9.9.9"
+    ],
+    "shopmacher-mollie-application": [
+        "2.1.2"
     ],
     "short-link-sharer": [
         "5.5.10"
@@ -5601,6 +5666,9 @@
     "sling-calendar-sdk": [
         "1.0.0",
         "5.1.1"
+    ],
+    "small-ct": [
+        "2.0.82"
     ],
     "smart-wallet-permissions": [
         "1.2.0"
@@ -5708,6 +5776,9 @@
     ],
     "spectro-cloud-docs": [
         "1.0.1"
+    ],
+    "spectrocoin": [
+        "99.99.1"
     ],
     "spectrum-css-monorepo": [
         "1.0.0"
@@ -5818,6 +5889,9 @@
     ],
     "stormapp": [
         "1.0.5"
+    ],
+    "stormapptest213": [
+        "1.0.0"
     ],
     "storyblok-rich-text-astro-renderer-workspace": [
         "99.99.1",
@@ -5945,6 +6019,9 @@
     ],
     "tbi-editor": [
         "6.1.9"
+    ],
+    "team-labeler-action": [
+        "1.2.1"
     ],
     "team-plain": [
         "1.0.1"
@@ -6544,6 +6621,9 @@
     "vis-trees": [
         "89.3.5"
     ],
+    "visitor-targeting": [
+        "1.0.0"
+    ],
     "vite-paypal": [
         "10.9.9"
     ],
@@ -6883,6 +6963,9 @@
     ],
     "xt-main": [
         "19.4.9"
+    ],
+    "yaml-update-action": [
+        "2.14.3"
     ],
     "yandex-pandora-docs": [
         "1.0.0",
