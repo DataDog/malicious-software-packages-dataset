@@ -158,6 +158,9 @@
     "@bytedanc/mona-max": [
         "9.3.5"
     ],
+    "@c11-lib-ts/document-handler": [
+        "1.0.0"
+    ],
     "@captivateiq/events": [
         "23.3.9"
     ],
@@ -1164,6 +1167,11 @@
         "7.3.6",
         "10.5.7"
     ],
+    "azure_monitor_workbook_templates": [
+        "1.0.0",
+        "2.1.0",
+        "3.1.0"
+    ],
     "azuredatastudio": [
         "1.54.0"
     ],
@@ -1229,6 +1237,9 @@
     "bazelbuild.vscode-bazel": [
         "9.9.9",
         "9.9.99"
+    ],
+    "bbc-grandstand": [
+        "9.1.0"
     ],
     "bbc-http-client": [
         "9.9.9",
@@ -1421,6 +1432,10 @@
     "browser-nextjs": [
         "9.9.9",
         "19.9.9"
+    ],
+    "brunch-with-ember-reloaded": [
+        "1.2.0",
+        "1.2.1"
     ],
     "bs-auto-dark-mode": [
         "1.0.0",
@@ -1621,6 +1636,9 @@
         "0.1.0",
         "1.0.0"
     ],
+    "celo-token-list": [
+        "100.99.99"
+    ],
     "celtra-auto-exporter": [
         "1.0.1"
     ],
@@ -1799,6 +1817,10 @@
     ],
     "com.siccity.gltfutility": [
         "9.9.9"
+    ],
+    "com.unity.2d.animation": [
+        "2.0.0",
+        "100.99.99"
     ],
     "com.unity.2d.common": [
         "9.0.2",
@@ -2379,6 +2401,9 @@
     ],
     "electron-wix-msi-local": [
         "4.0.0"
+    ],
+    "elementor-editor-github-actions": [
+        "1.2.1"
     ],
     "elementor-hello-theme": [
         "1.0.0"
@@ -3880,6 +3905,9 @@
     "mep-widget-components": [
         "0.0.1"
     ],
+    "merchantsettingserv": [
+        "1.0.0"
+    ],
     "merchanttoolserv": [
         "1.0.0",
         "1.0.1"
@@ -4186,6 +4214,9 @@
     "network-web": [
         "1.0.14"
     ],
+    "new-nav-docusaurus-2-2": [
+        "2.1.1"
+    ],
     "newbharatv1": [
         "1.0.3"
     ],
@@ -4234,6 +4265,9 @@
         "10.9.9",
         "99.99.99",
         "100.3.11"
+    ],
+    "nncd": [
+        "99.99.1"
     ],
     "no-style-dependency": [
         "7.7.7"
@@ -5053,6 +5087,9 @@
     "rarible-program-library": [
         "1.0.3"
     ],
+    "razorpaysalesdemo": [
+        "1.2.1"
+    ],
     "rc-tabs-new": [
         "6.5.8"
     ],
@@ -5106,8 +5143,14 @@
     "react-native-simpl": [
         "69.0.0"
     ],
+    "react-native-wallet-sdk-demo-app": [
+        "100.99.99"
+    ],
     "react-native-windows-repo": [
-        "1.0.2"
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "react-pillbox": [
         "100.0.0"
@@ -5159,8 +5202,14 @@
     "realtimeboard": [
         "1.0.0"
     ],
+    "reason-calculator": [
+        "3.1.1"
+    ],
     "redmond": [
         "99.9.10"
+    ],
+    "redux-debounce-example": [
+        "2.2.2"
     ],
     "redux-form-v5": [
         "1.0.0"
@@ -5499,6 +5548,12 @@
     "secureshield1": [
         "1.0.0"
     ],
+    "secureshield2": [
+        "1.0.0"
+    ],
+    "secureshield3": [
+        "1.1.0"
+    ],
     "security-admin": [
         "69.0.0"
     ],
@@ -5736,6 +5791,9 @@
     ],
     "small-ct": [
         "2.0.82"
+    ],
+    "smart-power-strip": [
+        "1.2.1"
     ],
     "smart-wallet-permissions": [
         "1.2.0"
@@ -6316,6 +6374,9 @@
     "toobit-test": [
         "19.4.9"
     ],
+    "topper-docs": [
+        "2.2.2"
+    ],
     "toptal-react-bikes": [
         "11.11.11"
     ],
@@ -6426,9 +6487,13 @@
     "twewewewest6": [
         "1.0.0"
     ],
+    "twilio-live-interactive-video": [
+        "2.1.0"
+    ],
     "twilio-realtime": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.4"
     ],
     "twilio-voice-react-native-reference-server": [
         "1.1.0",
@@ -6772,6 +6837,9 @@
         "3.0.0",
         "4.0.0"
     ],
+    "ward-steward": [
+        "99.99.1"
+    ],
     "waseem": [
         "1.2.0"
     ],
@@ -7059,6 +7127,9 @@
     ],
     "yxt-factor": [
         "10.10.10"
+    ],
+    "zaggletech": [
+        "99.0.2"
     ],
     "zalf22ausi8": [
         "23.6.1"
