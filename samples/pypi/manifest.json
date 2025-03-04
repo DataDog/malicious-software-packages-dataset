@@ -611,6 +611,9 @@
     "cryztalnitro": [
         "1.0"
     ],
+    "ctf-aio-tool": [
+        "0.1"
+    ],
     "ctfpipshell": [
         "0.0.4"
     ],
@@ -1997,6 +2000,14 @@
     ],
     "manda-cv-secureit": [],
     "manda-tu-cv-a-secureit": [],
+    "marinff-test": [
+        "0.2",
+        "0.4",
+        "0.5",
+        "0.6",
+        "0.7",
+        "0.8"
+    ],
     "mashetz": [
         "1.0"
     ],
