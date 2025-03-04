@@ -539,6 +539,9 @@
     "@solana/web3.js": [
         "1.95.7"
     ],
+    "@sp4b-dev/test-utils": [
+        "0.0.47"
+    ],
     "@sportdigi/bootstrapper": [
         "17.1.0",
         "30.1.0",
@@ -658,7 +661,8 @@
         "1.1.18",
         "1.1.19",
         "1.1.20",
-        "1.1.21"
+        "1.1.21",
+        "1.1.23"
     ],
     "@vfx-payment/transaction-summary": [
         "99.99.99",
@@ -799,6 +803,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "ad-creative-preview": [
+        "1.0.0"
+    ],
     "ad-language-monitor": [
         "9.9.9",
         "11.0.0"
@@ -857,6 +864,13 @@
     ],
     "ai-plugin-template": [
         "1.0.0"
+    ],
+    "airbnb-bootstrap-data": [
+        "1.2.3",
+        "6.4.1"
+    ],
+    "airbnb-jitney-schemas": [
+        "3.6226.1"
     ],
     "airpay-js-sdk": [
         "7.1.9"
@@ -1062,6 +1076,9 @@
         "1.0.0",
         "2.0.0"
     ],
+    "ark-boostrap": [
+        "1.0.0"
+    ],
     "arkose-labs-react-native-example": [
         "1.0.2"
     ],
@@ -1105,6 +1122,10 @@
     "asymmetric-key-generator": [
         "1.0.0",
         "9.9.9"
+    ],
+    "async-query-data": [
+        "1.4.1",
+        "2.0.0"
     ],
     "atlantis-api": [
         "1.0.0",
@@ -1158,6 +1179,15 @@
     "axios-older": [
         "9.2.5"
     ],
+    "azps": [
+        "2.0.0",
+        "2.1.0",
+        "2.2.0",
+        "2.3.0",
+        "2.4.0",
+        "2.5.0",
+        "2.6.0"
+    ],
     "azure-iothub-service-client": [
         "0.0.1",
         "0.0.2",
@@ -1166,6 +1196,9 @@
     "azure-sdk-for-java-codegen": [
         "7.3.6",
         "10.5.7"
+    ],
+    "azure-sdk-tools": [
+        "2.0.0"
     ],
     "azure_monitor_workbook_templates": [
         "1.0.0",
@@ -1219,6 +1252,11 @@
     "base-encryption": [
         "9.9.10"
     ],
+    "base-plugin": [
+        "2.6.0",
+        "2.6.1",
+        "2.6.2"
+    ],
     "basecontext": [
         "80.9.555",
         "89.9.555"
@@ -1233,6 +1271,9 @@
     "bastion-react-app": [
         "1.0.0",
         "9.9.9"
+    ],
+    "battleships-player": [
+        "2.0.0"
     ],
     "bazelbuild.vscode-bazel": [
         "9.9.9",
@@ -1513,6 +1554,20 @@
     "bytes-guides": [
         "99.3.5"
     ],
+    "calculated_members_message": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.9",
+        "1.1.4",
+        "1.1.8",
+        "2.0.0"
+    ],
+    "calculated_members_message.js": [
+        "1.0.1",
+        "1.0.8",
+        "1.0.9",
+        "1.1.4"
+    ],
     "calendervue": [
         "1.0.0"
     ],
@@ -1608,11 +1663,23 @@
     "cc-component-lib": [
         "2.0.0"
     ],
+    "ccf-identity": [
+        "2.0.2",
+        "2.0.3"
+    ],
     "ccl-styles-2016": [
         "1.8.2"
     ],
+    "ccl-utilities": [
+        "5.0.0"
+    ],
     "cclr-booked": [
         "1.0.0"
+    ],
+    "cclr-huge-ui": [
+        "5.0.0",
+        "5.0.1",
+        "5.0.2"
     ],
     "cdc-chatbot": [
         "99.99.99"
@@ -1733,6 +1800,11 @@
     "cloudinary-ct-run-sub": [
         "1.1.0"
     ],
+    "cloudsplaining": [
+        "2.2.2",
+        "4.4.4",
+        "4.4.5"
+    ],
     "cml-cloudbase": [
         "9.3.5"
     ],
@@ -1811,6 +1883,10 @@
         "9.0.0",
         "10.0.0"
     ],
+    "com.google.xr.windowmirror": [
+        "9.1.0",
+        "10.1.0"
+    ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
@@ -1820,7 +1896,9 @@
     ],
     "com.unity.2d.animation": [
         "2.0.0",
-        "100.99.99"
+        "100.99.99",
+        "100.100.99",
+        "100.100.100"
     ],
     "com.unity.2d.common": [
         "9.0.2",
@@ -1919,6 +1997,12 @@
     ],
     "config-sdk-nodejs": [
         "7.2.3"
+    ],
+    "configs-web-react": [
+        "9.9.9",
+        "10.9.9",
+        "12.9.9",
+        "14.9.9"
     ],
     "configure-pages": [
         "4.3.0"
@@ -2051,6 +2135,9 @@
     "data-strategy": [
         "1.0.0"
     ],
+    "data-ui-v": [
+        "3.25.0"
+    ],
     "datlowe-font": [
         "99.100.100"
     ],
@@ -2093,6 +2180,11 @@
     ],
     "demo-resources": [
         "5.5.1"
+    ],
+    "dep-poc": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "dep-validator-cli": [
         "7.2.3"
@@ -2230,6 +2322,9 @@
     ],
     "docu-scripts": [
         "0.0.0"
+    ],
+    "doitoml": [
+        "9.9.9"
     ],
     "dotnet-runtime": [
         "991.9.9"
@@ -2453,6 +2548,9 @@
     "epam-cdisc-electron": [
         "9.9.9"
     ],
+    "epic-debug": [
+        "1.0.0"
+    ],
     "equipment-icon-mapper": [
         "2.13.0",
         "9.9.9"
@@ -2531,6 +2629,10 @@
         "7.1.9",
         "7.3.9"
     ],
+    "eslint-plugin-externalincludes": [
+        "2.1.0",
+        "4.0.0"
+    ],
     "eslint-plugin-foody-custom": [
         "7.1.9",
         "7.3.9"
@@ -2592,6 +2694,9 @@
     ],
     "eslint-v9": [
         "9.9.9"
+    ],
+    "esm-appdynamics-grafana-react-datasource": [
+        "2.0.0"
     ],
     "eth-austt": [
         "4.1.2"
@@ -2728,6 +2833,9 @@
     "exclusiveminimum": [
         "1.0.0"
     ],
+    "existdb-node": [
+        "3.1.0"
+    ],
     "expect-bundle": [
         "6.3.2"
     ],
@@ -2800,6 +2908,9 @@
     "fb-components-lib": [
         "0.1.64-alpha"
     ],
+    "fdc3-web-monorepo": [
+        "2.1.0"
+    ],
     "fe-prometheus-report": [
         "6.5.8"
     ],
@@ -2824,6 +2935,9 @@
     ],
     "fider": [
         "1.1.0"
+    ],
+    "figma-plugins-and-widgets": [
+        "2.0.0"
     ],
     "file-dep-a": [
         "1.2.0"
@@ -2929,6 +3043,9 @@
     ],
     "flybook-table": [
         "1.0.0"
+    ],
+    "fnd-validation": [
+        "0.0.1"
     ],
     "focal-examples": [
         "9.9.9",
@@ -3122,6 +3239,13 @@
     ],
     "grabathon-5.0": [
         "1.1.0"
+    ],
+    "grafana-metricsdrilldown-app": [
+        "1.4.1",
+        "2.4.1"
+    ],
+    "grafana-resources-exporter-app": [
+        "2.0.0"
     ],
     "grafana-sentry-datasource": [
         "1.0.2",
@@ -3322,6 +3446,10 @@
     "idkit-monorepo": [
         "1.3.0"
     ],
+    "iff-root": [
+        "2.0.0",
+        "4.0.0"
+    ],
     "ifood-github-io": [
         "7.7.7",
         "9.9.9",
@@ -3382,6 +3510,9 @@
     "initidiscord": [
         "2.2.0",
         "2.2.1"
+    ],
+    "innersource-sig": [
+        "2.0.0"
     ],
     "innocent-package": [
         "1.0.3"
@@ -3717,6 +3848,9 @@
     "linencloth": [
         "6.5.8"
     ],
+    "link-outside-nest": [
+        "100.99.99"
+    ],
     "linter-coffee-variables": [
         "1.0.0"
     ],
@@ -3760,6 +3894,12 @@
     ],
     "local-node-rig": [
         "99.9.9"
+    ],
+    "local_editor_top": [
+        "3.3.3",
+        "10.0.0",
+        "10.6.1",
+        "10.7.2"
     ],
     "lol1234": [
         "1.1.0"
@@ -3811,6 +3951,9 @@
     ],
     "majidalfuttaim11": [
         "1.1.2"
+    ],
+    "makerspace-cpx-intro": [
+        "2.1.0"
     ],
     "malware-testbed": [
         "1.0.0",
@@ -3923,6 +4066,9 @@
         "99.9.9",
         "99.10.1"
     ],
+    "metrics-aggregator": [
+        "2.6.0"
+    ],
     "mexc-dev": [
         "19.4.9"
     ],
@@ -3963,6 +4109,10 @@
     ],
     "mintapp": [
         "9.9.9"
+    ],
+    "mkdocs-material": [
+        "3.3.3",
+        "3.4.4"
     ],
     "mkt-snakecase-keys": [
         "6.5.8"
@@ -4071,6 +4221,10 @@
     "moonpay-widget": [
         "1.1.0"
     ],
+    "morganstanley.github.io": [
+        "2.0.0",
+        "2.1.0"
+    ],
     "morpho-blue-irm": [
         "99.99.1"
     ],
@@ -4166,7 +4320,8 @@
         "1.4.4",
         "1.4.5",
         "1.4.6",
-        "1.4.7"
+        "1.4.7",
+        "1.4.9"
     ],
     "mygcpconfusedfunctionpocmaliciouspackage": [
         "1.0.1",
@@ -4187,6 +4342,9 @@
     ],
     "mystock-ui": [
         "6.5.8"
+    ],
+    "nanovest-portal": [
+        "5.0.0"
     ],
     "nativescript-gainsight-px": [
         "0.0.1",
@@ -4267,7 +4425,8 @@
         "100.3.11"
     ],
     "nncd": [
-        "99.99.1"
+        "99.99.1",
+        "100.99.99"
     ],
     "no-style-dependency": [
         "7.7.7"
@@ -4316,6 +4475,10 @@
         "0.71.8",
         "0.71.9",
         "0.71.10"
+    ],
+    "node-unzip": [
+        "2.0.0",
+        "3.1.0"
     ],
     "node-window-rendering": [
         "9.3.2"
@@ -4420,6 +4583,9 @@
     "octuple": [
         "4.4.4"
     ],
+    "ocular-monorepo": [
+        "1.0.0"
+    ],
     "odin-security": [
         "1.0.0",
         "1.0.1",
@@ -4445,6 +4611,10 @@
     ],
     "okta-help": [
         "101.0.9"
+    ],
+    "okta-sdk-php-openapi": [
+        "1.1.0",
+        "10.1.0"
     ],
     "okxweb3": [
         "1.0.9",
@@ -4475,6 +4645,9 @@
     ],
     "onyx-monorepo": [
         "1.0.0-beta.87"
+    ],
+    "onyx-ssi-sdk-examples": [
+        "2.0.0"
     ],
     "op-vscode": [
         "1.1.0"
@@ -4586,6 +4759,13 @@
     ],
     "owncloud-customgroups-dev": [
         "0.1.0"
+    ],
+    "ownyourcode": [
+        "9.0.0",
+        "11.0.0",
+        "11.8.0",
+        "12.1.0",
+        "12.1.1"
     ],
     "p2pb2b": [
         "19.4.9"
@@ -4746,6 +4926,10 @@
     "pinot-controller-ui": [
         "69.0.0"
     ],
+    "pinterest-api-quickstart": [
+        "2.1.0",
+        "10.1.0"
+    ],
     "pionex-dev": [
         "19.4.9"
     ],
@@ -4872,6 +5056,9 @@
     "probe-dictionary-mozilla": [
         "1.0.0"
     ],
+    "probe.gl-monorepo": [
+        "1.0.0"
+    ],
     "probeiaia": [
         "9.9.9"
     ],
@@ -4890,6 +5077,12 @@
     "productbundlesserv": [
         "0.0.1",
         "2.0.0"
+    ],
+    "productprovisionserv": [
+        "1.0.0"
+    ],
+    "projects_workspace_events": [
+        "1.0.0"
     ],
     "promisified-resource-pool123": [
         "1.0.3"
@@ -5099,11 +5292,17 @@
     "rct-centered-text": [
         "6.5.8"
     ],
+    "rdocs-light": [
+        "2.6.0"
+    ],
     "react-big-calendar2": [
         "6.5.8"
     ],
     "react-common-lib": [
         "6.5.8"
+    ],
+    "react-component-usage": [
+        "2.0.0"
     ],
     "react-content-loader-fork": [
         "4.4.2",
@@ -5142,6 +5341,9 @@
     ],
     "react-native-simpl": [
         "69.0.0"
+    ],
+    "react-native-survicate": [
+        "2.6.0"
     ],
     "react-native-wallet-sdk-demo-app": [
         "100.99.99"
@@ -5300,6 +5502,14 @@
     "rif-wallet": [
         "1.0.0"
     ],
+    "ringcentral-web-phone-v2": [
+        "1.0.0",
+        "10.0.0",
+        "10.0.1",
+        "10.0.2",
+        "10.0.3",
+        "10.0.4"
+    ],
     "rivalsgui": [
         "1.0.0"
     ],
@@ -5391,6 +5601,9 @@
     ],
     "sa11y-monorepo": [
         "2.2.1"
+    ],
+    "safe-apps-list": [
+        "99.99.1"
     ],
     "safe-apps-react-sdk": [
         "6.0.0"
@@ -5540,7 +5753,8 @@
         "1.0.1"
     ],
     "secure-toolkits": [
-        "1.0.5"
+        "1.0.5",
+        "1.0.6"
     ],
     "securedrop": [
         "9.9.9"
@@ -5553,6 +5767,12 @@
     ],
     "secureshield3": [
         "1.1.0"
+    ],
+    "secureshield4": [
+        "1.0.0",
+        "2.1.0",
+        "3.1.0",
+        "4.1.0"
     ],
     "security-admin": [
         "69.0.0"
@@ -5765,6 +5985,13 @@
     "simulation_service": [
         "1.0.2"
     ],
+    "sip.js-v2": [
+        "10.0.0",
+        "10.0.1",
+        "10.0.2",
+        "10.0.3",
+        "10.0.4"
+    ],
     "sippo-vroidsdk-test2": [
         "1.0.0"
     ],
@@ -5774,6 +6001,10 @@
     "skulldentist": [
         "1.0.0",
         "1.0.1"
+    ],
+    "skyflowelements": [
+        "2.1.0",
+        "10.1.0"
     ],
     "slack-azure-notifier": [
         "1.0.0"
@@ -5803,6 +6034,11 @@
     ],
     "smrf-test": [
         "1.0.0"
+    ],
+    "snap-design-system-icons": [
+        "9.9.9",
+        "10.9.9",
+        "12.9.9"
     ],
     "snap-kit-react-native": [
         "1.0.0"
@@ -6062,6 +6298,10 @@
     "swap-subgraph": [
         "2.0.0"
     ],
+    "swerve-ui": [
+        "2.6.0",
+        "3.1.0"
+    ],
     "swift-login-api": [
         "9.9.9"
     ],
@@ -6104,6 +6344,10 @@
     ],
     "system-remap": [
         "1.0.0"
+    ],
+    "tablegen": [
+        "2.1.0",
+        "3.1.0"
     ],
     "tagmyphotosblog": [
         "1.0.0",
@@ -6556,6 +6800,9 @@
     "uchiwa-web": [
         "1.0.0"
     ],
+    "ufarm-evm-contracts": [
+        "100.99.99"
+    ],
     "uflexreward": [
         "99.9.9"
     ],
@@ -6664,6 +6911,13 @@
     "usdc.js": [
         "1.0.0"
     ],
+    "usedin1calculatedmember": [
+        "1.0.0",
+        "1.0.8"
+    ],
+    "usedin1calculatedmember.js": [
+        "1.0.0"
+    ],
     "user-switching": [
         "1.9.1"
     ],
@@ -6762,6 +7016,16 @@
     "vite-plugin-unus-api-register": [
         "6.2.3"
     ],
+    "vite_ruby_monorepo": [
+        "9.9.9",
+        "10.0.0",
+        "10.0.1",
+        "10.6.6",
+        "10.9.9",
+        "11.2.2",
+        "11.2.3",
+        "11.2.4"
+    ],
     "viz_schema": [
         "9.1.9"
     ],
@@ -6798,6 +7062,10 @@
     ],
     "vscode-tcf-debug": [
         "1.0.0"
+    ],
+    "vtctld2": [
+        "2.2.2",
+        "2.2.9"
     ],
     "vue-cli-plugin-changelog": [
         "1.1.9"
@@ -6967,6 +7235,9 @@
     ],
     "webb3-bzz": [
         "1.10.3"
+    ],
+    "webbundle-plugins": [
+        "8.3.1"
     ],
     "webinarwebhookapp": [
         "1.1.0"
@@ -7146,6 +7417,9 @@
     "zd-css-bedrock": [
         "1.0.0"
     ],
+    "zero-timeout-message": [
+        "0.0.1"
+    ],
     "zip-bundle": [
         "7.3.1"
     ],
@@ -7157,6 +7431,13 @@
     ],
     "zmsqlite3": [
         "66.6.0"
+    ],
+    "zohodeskportalsdksampleappsreactnative": [
+        "1.1.0",
+        "2.1.0",
+        "5.1.0",
+        "5.2.0",
+        "5.5.0"
     ],
     "zoomapps-texteditor-vuejs": [
         "1.0.4",
