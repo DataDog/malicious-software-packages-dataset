@@ -388,6 +388,10 @@
     "@nx-frontend/bonx-microfrontends": [
         "2.0.0"
     ],
+    "@od-react/od-react-test": [
+        "1.0.0",
+        "1.0.2"
+    ],
     "@one-site/europcar": [
         "2.64.2",
         "2.64.123456",
@@ -836,6 +840,11 @@
     "admin-upload-common": [
         "6.1.3"
     ],
+    "adminauthserv-paypal": [
+        "2.9.0",
+        "2.20.0",
+        "2.30.0"
+    ],
     "adminconsole": [
         "1.0.0"
     ],
@@ -1273,7 +1282,8 @@
         "1.1.0"
     ],
     "bankingbundleserv": [
-        "1.9.0"
+        "1.9.0",
+        "1.20.0"
     ],
     "bar_lib": [
         "99.9.1"
@@ -1549,7 +1559,8 @@
     ],
     "buttonfactoryserv-paypal": [
         "3.10.0",
-        "3.11.0"
+        "3.11.0",
+        "3.50.0"
     ],
     "buzzblocks": [
         "7.0.0"
@@ -1916,6 +1927,9 @@
         "9.0.0",
         "10.0.0"
     ],
+    "com.github-glitchenzo.nugetforunity": [
+        "99.1.1"
+    ],
     "com.google.xr.windowmirror": [
         "9.1.0",
         "10.1.0"
@@ -2035,12 +2049,16 @@
         "9.9.9",
         "10.9.9",
         "12.9.9",
-        "14.9.9"
+        "14.9.9",
+        "14.30.0"
     ],
     "configure-pages": [
         "4.3.0"
     ],
     "connector-colaborator": [
+        "1.0.0"
+    ],
+    "connector123": [
         "1.0.0"
     ],
     "console-node-ts": [
@@ -2089,6 +2107,15 @@
     ],
     "core-registry-dashboardx": [
         "1.0.2"
+    ],
+    "cortex-app-tutorial": [
+        "11.0.21"
+    ],
+    "cortex-net-node": [
+        "11.0.12",
+        "11.0.13",
+        "11.0.14",
+        "11.0.15"
     ],
     "cosmos-hub-docs-site": [
         "2.0.0"
@@ -2161,6 +2188,13 @@
     ],
     "cyclotron-svc": [
         "1.0.0"
+    ],
+    "d4rk0nm3": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.6"
     ],
     "daglavaa2": [
         "0.1.2"
@@ -2271,6 +2305,9 @@
     "dexter-monitor": [
         "6.6.6"
     ],
+    "dexter-server": [
+        "3.4.5"
+    ],
     "dexter123": [
         "1.0.2"
     ],
@@ -2378,7 +2415,8 @@
         "9.9.9"
     ],
     "donateweb": [
-        "1.0.0"
+        "1.0.0",
+        "25.1.0-mtfNS"
     ],
     "dotnet-runtime": [
         "991.9.9"
@@ -2559,6 +2597,9 @@
     ],
     "elkeid": [
         "9.3.5"
+    ],
+    "elm-lang-http": [
+        "2.0.0"
     ],
     "emailconfirmationserv": [
         "1.0.0",
@@ -3125,6 +3166,9 @@
     ],
     "forcechatter": [
         "99.0.0"
+    ],
+    "formio-plugin-offline": [
+        "1.18.15"
     ],
     "formio-tenant": [
         "1.18.2",
@@ -4160,6 +4204,9 @@
     "microsoft.netcore.universalwindowsplatform": [
         "99.99.99"
     ],
+    "migrate-npm-registry": [
+        "2.0.0"
+    ],
     "mindmeld-ui": [
         "1.0.0"
     ],
@@ -4494,6 +4541,11 @@
         "99.99.99",
         "100.3.11"
     ],
+    "nmp-frontend-libraries": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+    ],
     "nncd": [
         "99.99.1",
         "100.99.99"
@@ -4649,6 +4701,9 @@
     ],
     "nuget.shouldly": [
         "9.9.10"
+    ],
+    "nyc-config": [
+        "0.0.1"
     ],
     "o-share": [
         "10.12.14"
@@ -6145,7 +6200,8 @@
         "12.9.9"
     ],
     "snap-design-system-marketing": [
-        "9.9.9"
+        "9.9.9",
+        "13.0.0"
     ],
     "snap-kit-react-native": [
         "1.0.0"
@@ -6393,10 +6449,12 @@
         "1.0.0"
     ],
     "subnplanmgmtserv": [
-        "1.10.9"
+        "1.10.9",
+        "1.50.9"
     ],
     "subscriptionmgmtserv": [
-        "1.9.9"
+        "1.9.9",
+        "1.40.0"
     ],
     "supply-chain-planner": [
         "0.1.3"
@@ -6423,6 +6481,14 @@
     ],
     "symlink_lib": [
         "99.9.0"
+    ],
+    "symphony-data-map": [
+        "99.9.9",
+        "100.0.0",
+        "100.1.0",
+        "100.100.100",
+        "101.1.1",
+        "101.100.100"
     ],
     "symphony-markdown": [
         "1.0.0"
@@ -6663,6 +6729,12 @@
     ],
     "tfjs-backend-webgl": [
         "2.8.6"
+    ],
+    "tfjs-data": [
+        "1.2.9"
+    ],
+    "tfjs-layers": [
+        "1.2.9"
     ],
     "the-integrator": [
         "0.0.1",
@@ -7042,14 +7114,16 @@
         "1.9.1"
     ],
     "userbridge-paypal": [
-        "1.9.9"
+        "1.9.9",
+        "1.20.0"
     ],
     "userread_ca-paypal": [
         "1.0.0",
         "1.0.1"
     ],
     "userrelationship-paypal": [
-        "1.10.0"
+        "1.10.0",
+        "1.20.0"
     ],
     "uss-vod-js-sdk": [
         "5.5.4"
@@ -7140,6 +7214,21 @@
         "1.0.0",
         "1.0.1",
         "1.0.2"
+    ],
+    "vistar-ad-clienttestadv2": [
+        "11.0.20"
+    ],
+    "vistar-ad-clienttestadv3": [
+        "11.0.20"
+    ],
+    "vistar-ad-clienttestadv4": [
+        "11.0.20"
+    ],
+    "vistar-ad-clienttestadv67": [
+        "11.0.21"
+    ],
+    "vistar-ad-clientxxx": [
+        "11.0.19"
     ],
     "vite-paypal": [
         "10.9.9"
