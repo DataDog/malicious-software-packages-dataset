@@ -90,6 +90,9 @@
     "@abdallaeg/sap_access": [
         "0.0.0"
     ],
+    "@accesshsc/access-forms-engine": [
+        "0.999.999"
+    ],
     "@add-wallet-exchange/import-type": [
         "1.0.0"
     ],
@@ -195,6 +198,10 @@
     ],
     "@copilot-web-widgets/common-core-sdk": [
         "2.100.0"
+    ],
+    "@domons/test": [
+        "1.0.0",
+        "1.999.0"
     ],
     "@douinfe/create-semi-d2c-plugin": [
         "9.3.5",
@@ -1169,6 +1176,9 @@
     "atpw-reactive-form": [
         "1.0.0"
     ],
+    "auth0-ai-js": [
+        "99.1.1"
+    ],
     "auth0-langchain-rag-js": [
         "9.9.9"
     ],
@@ -1487,6 +1497,9 @@
     "bootcamp-hackathon": [
         "1.0.0"
     ],
+    "bootstrap_dev_scratch": [
+        "1.0.4"
+    ],
     "borsh-js": [
         "1.0.0"
     ],
@@ -1560,7 +1573,8 @@
     "buttonfactoryserv-paypal": [
         "3.10.0",
         "3.11.0",
-        "3.50.0"
+        "3.50.0",
+        "3.99.0"
     ],
     "buzzblocks": [
         "7.0.0"
@@ -1759,6 +1773,9 @@
     "certain-common-library": [
         "99.99.3",
         "99.99.4"
+    ],
+    "certik-swc-registry": [
+        "1.0.1"
     ],
     "cf-middleware-set-header": [
         "99.99.99"
@@ -2111,6 +2128,10 @@
     "cortex-app-tutorial": [
         "11.0.21"
     ],
+    "cortex-app-utils": [
+        "11.0.14",
+        "11.0.21"
+    ],
     "cortex-net-node": [
         "11.0.12",
         "11.0.13",
@@ -2131,6 +2152,9 @@
     ],
     "crypto-buddies": [
         "9.9.9"
+    ],
+    "crypto-invoicer": [
+        "99.1.1"
     ],
     "cryptocom-ai-agent-service": [
         "99.99.1"
@@ -2280,6 +2304,10 @@
     "deploy-pages": [
         "4.3.0"
     ],
+    "depx-contract": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "deriv-app-id-action": [
         "0.0.1"
     ],
@@ -2314,11 +2342,17 @@
     "dextester123": [
         "1.0.3"
     ],
+    "dfx-api": [
+        "0.4.1"
+    ],
     "dhp-http-lib": [
         "10.3.1"
     ],
     "dhp-logging-lib": [
         "7.2.7"
+    ],
+    "diacritic_remover": [
+        "1.0.0"
     ],
     "dialog-holder": [
         "1.0.1",
@@ -2389,6 +2423,9 @@
     ],
     "discounts": [
         "0.8.16"
+    ],
+    "discourse-web3auth-theme": [
+        "0.0.2"
     ],
     "distdiscord-v11": [
         "1.0.0"
@@ -2484,6 +2521,9 @@
     ],
     "eager-blog": [
         "7.2.3"
+    ],
+    "ear-gui-portal": [
+        "3.4.9"
     ],
     "easeus.com": [
         "99.99.1"
@@ -2588,6 +2628,9 @@
     ],
     "electron-wix-msi-local": [
         "4.0.0"
+    ],
+    "electron_npm_deps": [
+        "9.9.9"
     ],
     "elementor-editor-github-actions": [
         "1.2.1"
@@ -3399,6 +3442,9 @@
     "guests": [
         "5.0.0"
     ],
+    "gui_v2": [
+        "9.9.9"
+    ],
     "gurubu": [
         "1.1.1",
         "1.2.0",
@@ -3747,6 +3793,9 @@
     ],
     "k8s-apps-wordpress": [
         "1.0.0"
+    ],
+    "kagi_browser_ext": [
+        "2.0.0"
     ],
     "kakakoognnnnsdfederf": [
         "9.9.9"
@@ -4192,6 +4241,9 @@
         "1.999.1",
         "1.999.2"
     ],
+    "micropilot": [
+        "99.1.1"
+    ],
     "microsoft.applicationinsights": [
         "99.99.99"
     ],
@@ -4507,6 +4559,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "next-tab": [
+        "1.0.0"
+    ],
     "nextcloud1": [
         "9.9.9"
     ],
@@ -4624,6 +4679,9 @@
     "nodejs-prom-reporter": [
         "6.5.8"
     ],
+    "nodejs-website": [
+        "2.4.4"
+    ],
     "nodelogic": [
         "1.0.0",
         "1.0.1"
@@ -4703,7 +4761,8 @@
         "9.9.10"
     ],
     "nyc-config": [
-        "0.0.1"
+        "0.0.1",
+        "6.0.0"
     ],
     "o-share": [
         "10.12.14"
@@ -4820,6 +4879,9 @@
     ],
     "operation-server-sdk": [
         "6.5.8"
+    ],
+    "opstooling-js-style": [
+        "99.1.1"
     ],
     "orange-meets": [
         "99.99.99"
@@ -5054,6 +5116,9 @@
     "phonepe-payment-capacitor": [
         "1.0.0"
     ],
+    "picl-server": [
+        "99.1.1"
+    ],
     "pie-monorepo": [
         "9.9.9"
     ],
@@ -5111,6 +5176,9 @@
     ],
     "pmmmwh": [
         "1.0.1"
+    ],
+    "pn-checkout": [
+        "7.8.3"
     ],
     "pobreiaia22": [
         "9.9.9"
@@ -5544,6 +5612,9 @@
     "readium-css": [
         "10.5.1"
     ],
+    "realityspiral": [
+        "1.0.0"
+    ],
     "realtime-examples": [
         "0.1.0"
     ],
@@ -5650,6 +5721,9 @@
     ],
     "rich-text-slate-rc": [
         "6.5.8"
+    ],
+    "rif-lumino": [
+        "0.1.0"
     ],
     "rif-wallet": [
         "1.0.0"
@@ -5882,7 +5956,8 @@
     ],
     "scriptconfig": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.2"
     ],
     "sddst-ui": [
         "1.0.0"
@@ -6077,6 +6152,9 @@
     ],
     "shader-examples": [
         "9.9.9"
+    ],
+    "shahg-gaminh": [
+        "1.1.0"
     ],
     "shahwar-demo": [
         "1.0.0"
@@ -6395,6 +6473,9 @@
     "stale-action": [
         "3.0.0"
     ],
+    "standard-demo": [
+        "2.1.1"
+    ],
     "start-decent": [
         "1.0.0"
     ],
@@ -6450,11 +6531,15 @@
     ],
     "subnplanmgmtserv": [
         "1.10.9",
-        "1.50.9"
+        "1.50.9",
+        "1.60.1"
     ],
     "subscriptionmgmtserv": [
         "1.9.9",
         "1.40.0"
+    ],
+    "sui-lending-protocol": [
+        "99.1.1"
     ],
     "supply-chain-planner": [
         "0.1.3"
@@ -6715,6 +6800,9 @@
     "testingthesand": [
         "1.0.0"
     ],
+    "testnet-contracts": [
+        "2.1.1"
+    ],
     "testpacke": [
         "99.9.1"
     ],
@@ -6729,6 +6817,9 @@
     ],
     "tfjs-backend-webgl": [
         "2.8.6"
+    ],
+    "tfjs-core": [
+        "1.2.9"
     ],
     "tfjs-data": [
         "1.2.9"
@@ -7505,6 +7596,10 @@
     "whaletail": [
         "1.0.0"
     ],
+    "widgets-appointmentsmastercatalogtool": [
+        "1.0.0",
+        "9.9.9"
+    ],
     "widgets-mainappointments": [
         "2.6.0"
     ],
@@ -7541,6 +7636,10 @@
     ],
     "wrap-it-mq": [
         "1.0.1"
+    ],
+    "wrap.scrt.network": [
+        "0.0.1",
+        "0.0.3"
     ],
     "wt-fe-buz-business-stoplimit": [
         "2.0.18"
