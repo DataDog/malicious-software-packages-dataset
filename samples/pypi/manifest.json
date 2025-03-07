@@ -3718,6 +3718,9 @@
     "service-affinity-scheduling": [
         "99.6"
     ],
+    "set-utils": [
+        "1.1.0"
+    ],
     "setdotwork": [
         "0.6",
         "0.7"
