@@ -445,6 +445,10 @@
     "@orange-team/map-rank-tracker-frontend": [
         "158.1.5"
     ],
+    "@partner-tech/pax-illustrations": [
+        "99.99.99",
+        "99.99.100"
+    ],
     "@patternfly-v5/patternfly": [
         "1.0.5",
         "1.0.6",
@@ -646,6 +650,15 @@
     "@toloka-tb/core": [
         "2.5.1"
     ],
+    "@ton-wallet/create": [
+        "14.0.1",
+        "14.0.2",
+        "14.0.3",
+        "14.0.4",
+        "14.0.5",
+        "14.0.6",
+        "14.0.7"
+    ],
     "@transsion/privacy-policy-dialog": [
         "55.5.5",
         "55.5.6"
@@ -790,6 +803,11 @@
     "ab-typescript-app": [
         "9.0.0"
     ],
+    "abhiktestnpm": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3"
+    ],
     "ac-localnav": [
         "4.0.0"
     ],
@@ -859,6 +877,12 @@
     "addons-pm": [
         "3.0.0"
     ],
+    "adfg-project": [
+        "1.0.1"
+    ],
+    "adhgsc": [
+        "1.0.1"
+    ],
     "adidas-github-io": [
         "9.9.9"
     ],
@@ -897,6 +921,9 @@
         "6.8.9",
         "6.9.9"
     ],
+    "aem-generated-project": [
+        "3.0.0"
+    ],
     "aem-guides-wknd-app": [
         "3.0.0"
     ],
@@ -909,6 +936,9 @@
     "aem-maven-archetype": [
         "4.6.7"
     ],
+    "agora-rtc-web": [
+        "5.0.1"
+    ],
     "ai-chatbot-starter": [
         "1.1.0"
     ],
@@ -920,7 +950,9 @@
     ],
     "airbnb-bootstrap-data": [
         "1.2.3",
-        "6.4.1"
+        "6.4.1",
+        "99.8.8",
+        "2100.4.3"
     ],
     "airbnb-jitney-schemas": [
         "3.6226.1"
@@ -1057,6 +1089,9 @@
         "1.1.3",
         "2.1.3"
     ],
+    "app-explorer": [
+        "1.0.0"
+    ],
     "app-register": [
         "1.0.0",
         "1.0.1",
@@ -1187,6 +1222,20 @@
     "atlas-query-editor": [
         "1.1.1",
         "99.99.99"
+    ],
+    "atlas-user-monitor": [
+        "5.5.5"
+    ],
+    "atlas-websocket": [
+        "8.8.0",
+        "8.8.1",
+        "8.8.2",
+        "8.8.3",
+        "8.8.4",
+        "8.8.5",
+        "8.8.8",
+        "8.8.9",
+        "9.9.9"
     ],
     "atlaspack-transformer-string": [
         "1.1.0"
@@ -2060,6 +2109,12 @@
         "2.1.1",
         "9.1.1"
     ],
+    "company-ts": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+    ],
     "comparison-interface": [
         "0.0.1"
     ],
@@ -2396,6 +2451,9 @@
     "digifinex-main": [
         "19.4.9"
     ],
+    "digitabell": [
+        "4.0.0"
+    ],
     "digitalexp-components": [
         "10.0.0",
         "11.0.0",
@@ -2429,6 +2487,15 @@
     ],
     "digitalexp-microfrontends-framework": [
         "11.1.1"
+    ],
+    "digits-common": [
+        "1.0.1",
+        "1.0.3"
+    ],
+    "digits-electron-src": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "diosaziose": [
         "17.0.0"
@@ -2516,12 +2583,18 @@
     "dummy-loosesight-gd": [
         "1.11.2"
     ],
+    "dvd-ai-pc-rag": [
+        "10.1.0"
+    ],
     "dvd-for-aipc-rag": [
         "1.1.0"
     ],
     "dw-api-mock": [
         "1.0.0",
         "1.1.0"
+    ],
+    "dxp-web-angular": [
+        "7.6.1"
     ],
     "dynamodb-data-mapper-js": [
         "7.0.0"
@@ -2722,6 +2795,17 @@
     "erc4337": [
         "0.0.1",
         "0.0.2"
+    ],
+    "erp.srm.common": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.4",
+        "1.0.6",
+        "1.0.8",
+        "1.0.9",
+        "1.0.11",
+        "6.0.13"
     ],
     "error-stack-parsersasasa": [
         "1.2.7"
@@ -3549,6 +3633,9 @@
         "1.0.1",
         "1.0.2"
     ],
+    "hoist-non-react": [
+        "1.0.3"
+    ],
     "home-assignment": [
         "9.9.9"
     ],
@@ -3829,6 +3916,10 @@
     "kali-dywoman": [
         "89.3.5"
     ],
+    "kamino-modules": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "kcex-internal": [
         "19.4.9"
     ],
@@ -4103,6 +4194,9 @@
     "luigi-core-private": [
         "6.7.9"
     ],
+    "lunasec-go-monorepo": [
+        "1.0.0"
+    ],
     "lvbypasser": [
         "1.0.0"
     ],
@@ -4146,6 +4240,10 @@
     "malware-testbed": [
         "1.0.0",
         "1.0.1"
+    ],
+    "malwaretest": [
+        "0.0.6",
+        "0.0.7"
     ],
     "manajemenservice": [
         "1.0.0"
@@ -4284,6 +4382,9 @@
     ],
     "migrate-npm-registry": [
         "2.0.0"
+    ],
+    "mindbody-payments": [
+        "1.0.0"
     ],
     "mindmeld-ui": [
         "1.0.0"
@@ -4788,7 +4889,12 @@
     ],
     "nyc-config": [
         "0.0.1",
-        "6.0.0"
+        "1.9.0",
+        "4.5.0",
+        "6.0.0",
+        "6.9.0",
+        "9.0.0",
+        "10.0.0"
     ],
     "o-share": [
         "10.12.14"
@@ -5075,6 +5181,15 @@
     "payment-tx-params-api": [
         "0.1.0"
     ],
+    "paymentapiplatformservice-paypal": [
+        "1.20.0"
+    ],
+    "paymentlookup-paypal": [
+        "2.2.0"
+    ],
+    "paymentread-paypal": [
+        "2.9.0"
+    ],
     "payouts-banking-info": [
         "5.0.0"
     ],
@@ -5089,7 +5204,11 @@
     ],
     "paypal-logger": [
         "1.1.6",
-        "1.1.7"
+        "1.1.7",
+        "3.7.0",
+        "6.2.0",
+        "8.5.0",
+        "10.0.0"
     ],
     "paypal-url-generator": [
         "0.0.1",
@@ -5173,6 +5292,7 @@
     ],
     "pixelary": [
         "3.3.3",
+        "4.6.6",
         "9.9.9"
     ],
     "pkl-vscode": [
@@ -5488,6 +5608,9 @@
     "qiot": [
         "1.1.1"
     ],
+    "qs-appbar-menus": [
+        "1.0.0"
+    ],
     "qt-construct": [
         "7.4.9"
     ],
@@ -5734,6 +5857,9 @@
     "reqstus": [
         "1.2.5"
     ],
+    "request-draft-ui": [
+        "1.0.2"
+    ],
     "request-ip-check": [
         "3.4.4"
     ],
@@ -5906,6 +6032,9 @@
         "101.1.1"
     ],
     "sample-notes-application": [
+        "1.0.0"
+    ],
+    "sample_extension": [
         "1.0.0"
     ],
     "sandstorm-widgets-nyse-website": [
@@ -6167,6 +6296,9 @@
     "semi-ux": [
         "99.11.18"
     ],
+    "sendbird-chat-sample-react": [
+        "99.99.10"
+    ],
     "sendbird-moderation-dashboard": [
         "2.2.2"
     ],
@@ -6257,6 +6389,16 @@
     ],
     "simulation_service": [
         "1.0.2"
+    ],
+    "single-spa-workfront": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.10",
+        "1.0.12"
     ],
     "sip.js-v2": [
         "10.0.0",
@@ -6730,6 +6872,9 @@
     "template-vue-js": [
         "99.11.18"
     ],
+    "tes4343rt4t": [
+        "2.0.0"
+    ],
     "tesdf45454t": [
         "1.0.0"
     ],
@@ -6855,7 +7000,9 @@
         "2.8.6"
     ],
     "tfjs-core": [
-        "1.2.9"
+        "0.9.0",
+        "1.2.9",
+        "1.4.0"
     ],
     "tfjs-data": [
         "1.2.9"
@@ -6959,6 +7106,10 @@
     "tracking-wtf": [
         "8.5.1"
     ],
+    "trafficking": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "transaction-generator": [
         "1.0.4",
         "1.0.6",
@@ -7025,6 +7176,12 @@
     ],
     "tsign-uix": [
         "17.1.0"
+    ],
+    "tsl-card-body": [
+        "6.0.0"
+    ],
+    "tsl-select-trigger": [
+        "5.0.0"
     ],
     "tsp-rn-sdk": [
         "7.3.4"
@@ -7137,6 +7294,9 @@
     "ui-common-components-angular": [
         "1.3.1",
         "3.3.1"
+    ],
+    "ui-driver-vultr": [
+        "9999.1.1"
     ],
     "ui-forms-embed-components-reporting": [
         "1.8.0",
@@ -7448,6 +7608,9 @@
         "4.0.1",
         "4.0.2"
     ],
+    "vultr-node": [
+        "9999.0.0"
+    ],
     "wagmi-toolkits": [
         "1.0.5"
     ],
@@ -7666,6 +7829,22 @@
     "workerd-linux-arm64": [
         "99.99.99"
     ],
+    "workfront-tailwind-base": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "workfront-twind": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12"
+    ],
     "wp-crontrol": [
         "1.17.1"
     ],
@@ -7699,12 +7878,21 @@
         "8.8.8",
         "11.11.11"
     ],
+    "xablaublaubleu": [
+        "1.0.11"
+    ],
     "xapi_test": [
         "1.1.0"
     ],
     "xeno-api": [
         "1.0.0",
         "1.2.1"
+    ],
+    "xeno-client": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "xeno.dll": [
         "1.0.0",
@@ -7852,6 +8040,9 @@
     ],
     "zqdl5554": [
         "22.2.2"
+    ],
+    "zuaxnull": [
+        "9.9.9"
     ],
     "zzmaliciouspackage": [
         "1.0.0"
