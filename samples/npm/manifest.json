@@ -447,7 +447,14 @@
     ],
     "@partner-tech/pax-illustrations": [
         "99.99.99",
-        "99.99.100"
+        "99.99.100",
+        "99.99.101",
+        "99.99.102",
+        "99.99.103",
+        "99.99.104",
+        "99.99.105",
+        "99.99.106",
+        "99.99.109"
     ],
     "@patternfly-v5/patternfly": [
         "1.0.5",
@@ -883,8 +890,14 @@
     "adhgsc": [
         "1.0.1"
     ],
+    "adhxsc": [
+        "1.0.1"
+    ],
     "adidas-github-io": [
         "9.9.9"
+    ],
+    "adjksc": [
+        "1.0.1"
     ],
     "adl-commons-lib-node-pp-parameter-store": [
         "1.0.0"
@@ -1235,7 +1248,11 @@
         "8.8.5",
         "8.8.8",
         "8.8.9",
-        "9.9.9"
+        "9.9.9",
+        "11.9.10",
+        "12.9.10",
+        "14.9.10",
+        "15.9.11"
     ],
     "atlaspack-transformer-string": [
         "1.1.0"
@@ -2352,6 +2369,9 @@
     "deferred-example": [
         "99.99.99"
     ],
+    "defi-handbook": [
+        "99.1.1"
+    ],
     "delegator-core-viem": [
         "1.0.0"
     ],
@@ -2654,6 +2674,9 @@
     ],
     "ebay-testerx": [
         "999.9.9"
+    ],
+    "ebtc-zap-router": [
+        "1.0.1"
     ],
     "ecpfs-react-build-scripts": [
         "1.0.0-dev.80"
@@ -4029,6 +4052,10 @@
     "layerzero-v2": [
         "1.0.0"
     ],
+    "layouts-lib": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "lbank-dev": [
         "19.4.9"
     ],
@@ -4105,6 +4132,9 @@
     ],
     "lightweight-store": [
         "6.5.8"
+    ],
+    "limit-order-validation": [
+        "19.1.1"
     ],
     "linear-airbyte-source": [
         "9.9.10"
@@ -5174,6 +5204,12 @@
     ],
     "patch-package-lucky-video": [
         "6.5.8"
+    ],
+    "patternfly-4": [
+        "4.0.0"
+    ],
+    "patternfly-build": [
+        "4.0.0"
     ],
     "payment-integration-template": [
         "1.1.0"
@@ -6315,6 +6351,9 @@
     "setup-node": [
         "2.0.9"
     ],
+    "sfdc-timeline-chart": [
+        "43.0.1"
+    ],
     "sg_personal_ui": [
         "100.0.1"
     ],
@@ -7035,6 +7074,9 @@
     "themes-nunjucks-service": [
         "1.2.3"
     ],
+    "threshold-usd": [
+        "19.1.1"
+    ],
     "tidebot": [
         "1.0.0"
     ],
@@ -7639,6 +7681,9 @@
     "wasm-test-adapter": [
         "1.0.0"
     ],
+    "wave-charts-sdk": [
+        "43.0.1"
+    ],
     "wb-eth3": [
         "4.10.0"
     ],
@@ -7892,7 +7937,8 @@
         "1.0.2",
         "1.0.3",
         "1.0.4",
-        "1.0.5"
+        "1.0.5",
+        "1.0.6"
     ],
     "xeno.dll": [
         "1.0.0",
