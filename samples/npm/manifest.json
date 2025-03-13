@@ -783,6 +783,12 @@
         "1.0.2",
         "1.0.6"
     ],
+    "@wingon-wireless/crocodile-constants": [
+        "11.9.0",
+        "11.9.1",
+        "11.9.2",
+        "11.9.3"
+    ],
     "@woody-mrs-potato/utils-banking": [
         "1.0.6",
         "1.0.7",
@@ -853,6 +859,9 @@
     ],
     "actions-languageservices": [
         "2.0.9"
+    ],
+    "actions-project-version-check": [
+        "99.1.1"
     ],
     "actiris": [
         "1.0.0"
@@ -1189,6 +1198,9 @@
         "99.9.12",
         "99.9.13"
     ],
+    "array-empty-validator": [
+        "1.0.0"
+    ],
     "ascendex": [
         "19.4.9"
     ],
@@ -1252,7 +1264,21 @@
         "11.9.10",
         "12.9.10",
         "14.9.10",
-        "15.9.11"
+        "15.9.11",
+        "16.9.11",
+        "17.9.11",
+        "18.9.11",
+        "20.9.11",
+        "22.9.11",
+        "23.9.11",
+        "24.9.11",
+        "25.9.11",
+        "27.9.11",
+        "28.9.11",
+        "30.9.11",
+        "31.9.11",
+        "32.9.11",
+        "33.9.9"
     ],
     "atlaspack-transformer-string": [
         "1.1.0"
@@ -1262,6 +1288,10 @@
     ],
     "atpw-reactive-form": [
         "1.0.0"
+    ],
+    "auth-validator": [
+        "1.0.0",
+        "1.0.1"
     ],
     "auth0-ai-js": [
         "99.1.1"
@@ -1802,6 +1832,10 @@
     "cassadasdasdasdwad": [
         "10.0.0"
     ],
+    "cb4good": [
+        "2.0.1",
+        "2.0.2"
+    ],
     "cbpay-js": [
         "3.0.0"
     ],
@@ -2297,6 +2331,12 @@
     ],
     "custom-ui-extension-template": [
         "1.0.1"
+    ],
+    "customer-identity-mfe": [
+        "8.0.2"
+    ],
+    "customer-identity-mfe-dev": [
+        "8.0.2"
     ],
     "cx-logger-library": [
         "1.1.1"
@@ -3056,6 +3096,9 @@
     "etsy.github.io": [
         "9.9.9"
     ],
+    "event-handle-package": [
+        "1.0.0"
+    ],
     "evocataur": [
         "99.3.5"
     ],
@@ -3595,6 +3638,9 @@
     "hacker_for_pastebin": [
         "1.0.1"
     ],
+    "hahahahahahahahahahah": [
+        "9.9.9"
+    ],
     "hardhat-configs": [
         "1.0.2"
     ],
@@ -3827,6 +3873,9 @@
     ],
     "invoiceserv": [
         "0.0.1",
+        "1.0.0"
+    ],
+    "is-buffer-validator": [
         "1.0.0"
     ],
     "isc-frontend": [
@@ -4273,7 +4322,8 @@
     ],
     "malwaretest": [
         "0.0.6",
-        "0.0.7"
+        "0.0.7",
+        "0.0.10"
     ],
     "manajemenservice": [
         "1.0.0"
@@ -4603,6 +4653,9 @@
     "mx-exchange-docs": [
         "0.0.2"
     ],
+    "my-amazing-app": [
+        "19.1.1"
+    ],
     "my-archon": [
         "1.1.0"
     ],
@@ -4931,6 +4984,15 @@
     ],
     "oauth2-jwt-bearer": [
         "1.0.0"
+    ],
+    "oauth2-paypal": [
+        "0.4.0",
+        "2.0.0",
+        "5.0.0",
+        "6.3.0",
+        "9.9.0",
+        "10.0.0",
+        "699.0.0"
     ],
     "octuple": [
         "4.4.4"
@@ -5728,6 +5790,9 @@
     "react-domain-components": [
         "6.5.8"
     ],
+    "react-event-dependency": [
+        "1.0.1"
+    ],
     "react-fatigue-dev": [
         "5.2.7"
     ],
@@ -6158,7 +6223,8 @@
         "1.0.1",
         "1.0.2",
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "1.0.5"
     ],
     "sddst-ui": [
         "1.0.0"
@@ -7044,7 +7110,12 @@
         "1.4.0"
     ],
     "tfjs-data": [
-        "1.2.9"
+        "1.2.9",
+        "1.9.0",
+        "3.6.0",
+        "6.0.0",
+        "8.5.0",
+        "99.0.0"
     ],
     "tfjs-layers": [
         "1.2.9"
@@ -7993,6 +8064,9 @@
     ],
     "yoga-repo": [
         "1.0.0"
+    ],
+    "yoojae-validator": [
+        "1.5.3"
     ],
     "yxt-factor": [
         "10.10.10"
