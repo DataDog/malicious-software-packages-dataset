@@ -193,6 +193,12 @@
     "@common-pattern/components": [
         "8.2.9"
     ],
+    "@contraktor-tech/poc_confusion": [
+        "99.9.5",
+        "99.9.6",
+        "99.9.7",
+        "99.9.9"
+    ],
     "@copilot-web-widgets/ai-writer": [
         "60.0.0"
     ],
@@ -1227,6 +1233,9 @@
     "asdasssd-hello-world": [
         "1.0.0"
     ],
+    "assert_cmd": [
+        "0.10.1"
+    ],
     "assetmantle": [
         "0.0.1"
     ],
@@ -1684,6 +1693,9 @@
     "build-test-utilities": [
         "99.99.99"
     ],
+    "build-toolchain": [
+        "1.88.5"
+    ],
     "built-with-workers": [
         "99.99.99"
     ],
@@ -1828,11 +1840,18 @@
     "careers-job-detail": [
         "7.1.9"
     ],
+    "cargo-cyclonedx": [
+        "0.3.10",
+        "2.0.0"
+    ],
     "cargo-hub-ui-api": [
         "123.0.1"
     ],
     "cargo-hub-ui-api-internal": [
         "420.6.10"
+    ],
+    "cargo_metadata": [
+        "0.18.2"
     ],
     "case-dispute-common": [
         "5.3.5"
@@ -2045,6 +2064,10 @@
     "code-analysis-ts-for-sellercenter": [
         "5.3.5"
     ],
+    "code-nasa-gov": [
+        "9.9.9",
+        "10.0.0"
+    ],
     "codebarrel": [
         "99.9.9",
         "999.9.9"
@@ -2189,6 +2212,9 @@
     ],
     "comparison-interface": [
         "0.0.1"
+    ],
+    "compassrnsampleapp": [
+        "9.9.9"
     ],
     "compiler-version": [
         "9.9.9"
@@ -2488,6 +2514,9 @@
     "devopt": [
         "9.9.9"
     ],
+    "devpod": [
+        "9.9.0"
+    ],
     "dex12212": [
         "1.0.0"
     ],
@@ -2607,6 +2636,7 @@
         "5.0.2"
     ],
     "distylai": [
+        "0.0.0",
         "1.2.1"
     ],
     "do-not-install-this-plz": [
@@ -2956,6 +2986,9 @@
     ],
     "eslint-plugin-add-display-name": [
         "7.1.9"
+    ],
+    "eslint-plugin-cdp-project": [
+        "1.1.1"
     ],
     "eslint-plugin-classification-import": [
         "7.1.9"
@@ -3921,6 +3954,9 @@
         "0.0.1",
         "1.0.0"
     ],
+    "ionicaiosampleapp": [
+        "1.0.0"
+    ],
     "is-buffer-validator": [
         "1.0.0"
     ],
@@ -4025,6 +4061,10 @@
     "k8s-apps-wordpress": [
         "1.0.0"
     ],
+    "k8s-deploy-action": [
+        "1.1.0",
+        "6.0.0"
+    ],
     "kagi_browser_ext": [
         "2.0.0"
     ],
@@ -4046,6 +4086,9 @@
     ],
     "keli-dywomen": [
         "89.3.5"
+    ],
+    "keradsdsdsdsddsdaaqw": [
+        "8.0.2"
     ],
     "keycloak-theme": [
         "3.0.0"
@@ -4302,8 +4345,19 @@
         "10.6.1",
         "10.7.2"
     ],
+    "login-paypal": [
+        "7.0.3",
+        "7.0.6",
+        "7.0.7",
+        "7.0.8",
+        "7.0.9",
+        "8.0.2"
+    ],
     "lol1234": [
         "1.1.0"
+    ],
+    "lookerbot": [
+        "9.9.9"
     ],
     "ls-upload-cmpt": [
         "6.5.8"
@@ -4326,6 +4380,9 @@
         "1.0.0"
     ],
     "mafid": [
+        "9.9.9"
+    ],
+    "mafid-prod-fe": [
         "9.9.9"
     ],
     "magic-enum": [
@@ -4414,6 +4471,15 @@
     "markservice": [
         "6.5.8"
     ],
+    "materialxtest": [
+        "1.0.0"
+    ],
+    "mathjax-v2": [
+        "1.0.1"
+    ],
+    "mathjax-v3": [
+        "1.0.1"
+    ],
     "mathworks.github.io": [
         "9.9.9"
     ],
@@ -4466,6 +4532,9 @@
     "merchanttoolserv": [
         "1.0.0",
         "1.0.1"
+    ],
+    "messaging-components": [
+        "1.1.0"
     ],
     "metamask-extension-generate-attributions": [
         "1.0.0",
@@ -4551,6 +4620,9 @@
         "1.0.3",
         "1.0.4",
         "1.0.5"
+    ],
+    "mm-react-gpt": [
+        "1.0.4"
     ],
     "mockapie": [
         "5.5.8"
@@ -4877,6 +4949,10 @@
     ],
     "node-elm-stdio": [
         "7.4.6"
+    ],
+    "node-facebook-messenger-api": [
+        "4.1.0",
+        "4.1.1"
     ],
     "node-polyfill-webpack-plugins": [
         "99.11.18"
@@ -5360,6 +5436,13 @@
         "8.5.0",
         "10.0.0"
     ],
+    "paypal-product-picker": [
+        "1.6.0",
+        "3.6.0",
+        "5.8.0",
+        "8.2.0",
+        "10.0.0"
+    ],
     "paypal-url-generator": [
         "0.0.1",
         "1.1.1"
@@ -5548,6 +5631,9 @@
     ],
     "prettier-plugin-kimi-i18next": [
         "6.5.8"
+    ],
+    "prettier-prod": [
+        "9.0.1"
     ],
     "prettyphoto": [
         "1.0.0"
@@ -5937,6 +6023,9 @@
     "realtime-from-scratch": [
         "1.0.0"
     ],
+    "realtime-solar-system": [
+        "9.9.9"
+    ],
     "realtime-translation-package": [
         "6.5.8"
     ],
@@ -6136,6 +6225,9 @@
     ],
     "rtn-centered-text": [
         "6.5.8"
+    ],
+    "ruba-clearpass-api": [
+        "1.0.0"
     ],
     "ruby-lsp": [
         "0.8.14"
@@ -6731,6 +6823,10 @@
     "sparo-output-test": [
         "1.1.0"
     ],
+    "specialist-pwm": [
+        "1.0.2",
+        "1.0.3"
+    ],
     "spectro-cloud-docs": [
         "1.0.1"
     ],
@@ -6786,6 +6882,11 @@
         "0.0.7",
         "0.0.8"
     ],
+    "spot-the-station-app": [
+        "2.0.0",
+        "2.1.1",
+        "2.1.2"
+    ],
     "squirreldisk-tauri": [
         "0.0.3"
     ],
@@ -6830,6 +6931,9 @@
     ],
     "standard-demo": [
         "2.1.1"
+    ],
+    "starrocks": [
+        "1.0.0"
     ],
     "start-decent": [
         "1.0.0"
@@ -6929,6 +7033,9 @@
         "100.100.100",
         "101.1.1",
         "101.100.100"
+    ],
+    "symphony-duplicates": [
+        "1.1.1"
     ],
     "symphony-markdown": [
         "1.0.0"
@@ -7227,6 +7334,9 @@
     ],
     "themes-nunjucks-service": [
         "1.2.3"
+    ],
+    "thiserror": [
+        "0.10.1"
     ],
     "threshold-usd": [
         "19.1.1"
@@ -8002,6 +8112,10 @@
     ],
     "whaletail": [
         "1.0.0"
+    ],
+    "whatsapp-sdk-docs": [
+        "1.0.0",
+        "9.9.0"
     ],
     "widgets-appointmentsmastercatalogtool": [
         "1.0.0",
