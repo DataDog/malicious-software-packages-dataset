@@ -997,6 +997,14 @@
         "99.8.8",
         "2100.4.3"
     ],
+    "airbnb-i18n": [
+        "2.5.0",
+        "4.7.0",
+        "6.6.4",
+        "7.9.10",
+        "8.7.0",
+        "10.2.0"
+    ],
     "airbnb-jitney-schemas": [
         "3.6226.1"
     ],
@@ -2194,6 +2202,9 @@
     ],
     "com.unity.sentis": [
         "2.1.0"
+    ],
+    "com.unity.testtools.codecoverage": [
+        "99.0.0"
     ],
     "com.unity.visualscripting": [
         "1.8.0"
@@ -4840,6 +4851,9 @@
     "my-archon": [
         "1.1.0"
     ],
+    "my-local-b-off": [
+        "1.0.0"
+    ],
     "my-local-c": [
         "0.23.43"
     ],
@@ -6095,6 +6109,9 @@
     "readium-css": [
         "10.5.1"
     ],
+    "real-world1": [
+        "99.0.0"
+    ],
     "realityspiral": [
         "1.0.0"
     ],
@@ -7128,7 +7145,8 @@
         "101.100.100"
     ],
     "symphony-duplicates": [
-        "1.1.1"
+        "1.1.1",
+        "1.1.2"
     ],
     "symphony-markdown": [
         "1.0.0"
@@ -7373,6 +7391,10 @@
     "tfjs-backend-cpu": [
         "2.8.6"
     ],
+    "tfjs-backend-wasm": [
+        "5.22.0",
+        "9.6.0"
+    ],
     "tfjs-backend-webgl": [
         "2.8.6"
     ],
@@ -7519,7 +7541,8 @@
     ],
     "transactions-generator": [
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "transify-helper-cli": [
         "10.4.2"
