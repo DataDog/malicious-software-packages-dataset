@@ -842,7 +842,11 @@
         "1.0.1",
         "1.0.3"
     ],
+    "ac-async-helpers": [
+        "1.0.0"
+    ],
     "ac-localnav": [
+        "3.1.1",
         "4.0.0"
     ],
     "acces-react": [
@@ -1087,6 +1091,9 @@
     "ansem-wasm": [
         "10.0.1"
     ],
+    "antlir2-docs": [
+        "9.9.9"
+    ],
     "anumanu2324": [
         "1.0.1"
     ],
@@ -1141,7 +1148,8 @@
         "2.1.3"
     ],
     "app-explorer": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "app-register": [
         "1.0.0",
@@ -2499,6 +2507,9 @@
     "deepcoin-dev": [
         "19.4.9"
     ],
+    "default-shared-store": [
+        "1.0.0"
+    ],
     "deferred-example": [
         "99.99.99"
     ],
@@ -2950,6 +2961,9 @@
         "9.9.9"
     ],
     "epic-debug": [
+        "1.0.0"
+    ],
+    "epic-react-store": [
         "1.0.0"
     ],
     "equipment-icon-mapper": [
@@ -4263,7 +4277,8 @@
     ],
     "layouts-lib": [
         "1.0.0",
-        "1.0.1"
+        "1.0.1",
+        "1.0.3"
     ],
     "lbank-dev": [
         "19.4.9"
@@ -4646,6 +4661,9 @@
     "microsoft.netcore.universalwindowsplatform": [
         "99.99.99"
     ],
+    "midle-contracts": [
+        "1.0.1"
+    ],
     "migrate-npm-registry": [
         "2.0.0"
     ],
@@ -5007,7 +5025,8 @@
     "nmp-frontend-libraries": [
         "1.0.0",
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "2.0.0"
     ],
     "nnc-editor": [
         "1.0.0"
@@ -6029,6 +6048,9 @@
     "react-fatigue-dev": [
         "5.2.7"
     ],
+    "react-fiber-debugger": [
+        "9.9.9"
+    ],
     "react-fixtures": [
         "3.4.2"
     ],
@@ -6393,7 +6415,8 @@
         "1.0.0"
     ],
     "sample_extension": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "sandstorm-widgets-nyse-website": [
         "7.0.0",
@@ -6898,6 +6921,9 @@
     "solidity-ibc": [
         "1.0.0"
     ],
+    "solidity-ibc-eureka": [
+        "1.0.0"
+    ],
     "soliditycoverag": [
         "0.8.13"
     ],
@@ -7063,6 +7089,9 @@
     ],
     "stormapp": [
         "1.0.5"
+    ],
+    "stormapp765": [
+        "4.4.5"
     ],
     "stormapptest213": [
         "1.0.0"
@@ -7578,6 +7607,9 @@
     "tripadvisor-npm": [
         "1.0.1",
         "1.0.3"
+    ],
+    "trrx": [
+        "0.0.1"
     ],
     "truecaller-profile-validation": [
         "1.0.0"
@@ -8378,6 +8410,9 @@
     ],
     "yb2bacceleratorstorefront-web": [
         "1.0.0"
+    ],
+    "yellowcard-styling-config": [
+        "9999.1.1"
     ],
     "yir-image-gen": [
         "1.0.0",
