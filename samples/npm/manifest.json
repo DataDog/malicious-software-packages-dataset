@@ -1208,6 +1208,9 @@
         "1.0.8",
         "1.1.3"
     ],
+    "architecture-viewer": [
+        "1.0.1"
+    ],
     "archon1": [
         "1.1.0"
     ],
@@ -1299,6 +1302,10 @@
     "async-query-data": [
         "1.4.1",
         "2.0.0"
+    ],
+    "at-authorize-paypal": [
+        "1.0.0",
+        "6.1.1"
     ],
     "at-validation-paypal": [
         "19.0.2"
@@ -1409,6 +1416,9 @@
     ],
     "awsume": [
         "9.9.9"
+    ],
+    "awx-sme": [
+        "10.0.0"
     ],
     "axios-older": [
         "9.2.5"
@@ -2023,6 +2033,9 @@
     "chat-history-log-viewer": [
         "5.3.5"
     ],
+    "chatbot-dashboard": [
+        "100.9.9"
+    ],
     "check-dependency-ver-consistency": [
         "99.11.18"
     ],
@@ -2234,6 +2247,10 @@
     ],
     "com.unity.learn.iet-framework": [
         "3.1.3"
+    ],
+    "com.unity.performance.profile-analyzer": [
+        "99.0.0",
+        "99.99.0"
     ],
     "com.unity.render-pipelines.high-definition": [
         "16.0.2"
@@ -3902,6 +3919,18 @@
     "html-webpack-plugin-v5": [
         "9.9.99"
     ],
+    "htps-curl": [
+        "0.0.1",
+        "0.0.2",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "2.0.0",
+        "3.0.0",
+        "5.0.0",
+        "5.0.1",
+        "10.0.0"
+    ],
     "hts-open-dex-react-ui": [
         "1.0.0"
     ],
@@ -4918,6 +4947,9 @@
     "my-local-c": [
         "0.23.43"
     ],
+    "my-signature": [
+        "5.3.22"
+    ],
     "my-wallet-backupt-decryption-tool": [
         "0.0.0"
     ],
@@ -4985,6 +5017,9 @@
         "99.9.9",
         "100.9.9",
         "101.9.9"
+    ],
+    "n11-web-client": [
+        "100.9.9"
     ],
     "nanovest-portal": [
         "5.0.0"
@@ -5244,6 +5279,9 @@
     ],
     "nuget.shouldly": [
         "9.9.10"
+    ],
+    "nusign": [
+        "9.9.9"
     ],
     "nyc-config": [
         "0.0.1",
@@ -6756,7 +6794,8 @@
         "2.0.9"
     ],
     "sfdc-timeline-chart": [
-        "43.0.1"
+        "43.0.1",
+        "43.0.5"
     ],
     "sg_personal_ui": [
         "100.0.1"
@@ -8114,6 +8153,9 @@
     "vue-search-ui-demo": [
         "1.0.0"
     ],
+    "vue-sectest": [
+        "0.0.1"
+    ],
     "vue2-tiktok": [
         "89.3.5"
     ],
@@ -8126,6 +8168,9 @@
         "4.0.0",
         "4.0.1",
         "4.0.2"
+    ],
+    "vulnerable-dependency": [
+        "10.0.0"
     ],
     "vultr-node": [
         "9999.0.0"
@@ -8160,7 +8205,8 @@
     ],
     "wave-charts-sdk": [
         "43.0.1",
-        "43.0.2"
+        "43.0.2",
+        "43.0.3"
     ],
     "wb-eth3": [
         "4.10.0"
@@ -8376,6 +8422,11 @@
     "wp-crontrol": [
         "1.17.1"
     ],
+    "wp-log": [
+        "1.0.0",
+        "10.11.9",
+        "11.11.9"
+    ],
     "wpdesigndev.wp.agoda.com": [
         "100.0.5",
         "108.0.0"
@@ -8510,6 +8561,11 @@
     ],
     "zero-timeout-message": [
         "0.0.1"
+    ],
+    "zhilian-js-sdk": [
+        "12.0.9",
+        "12.0.10",
+        "12.0.11"
     ],
     "zip-bundle": [
         "7.3.1"
