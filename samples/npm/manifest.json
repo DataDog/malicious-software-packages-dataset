@@ -855,6 +855,9 @@
     "acces-react": [
         "99.3.5"
     ],
+    "accessible-textbook-demo": [
+        "99.1.1"
+    ],
     "achalk-next": [
         "6.1.5"
     ],
@@ -1708,6 +1711,9 @@
     ],
     "borsh-js": [
         "1.0.0"
+    ],
+    "boss-ui-ats": [
+        "0.0.1"
     ],
     "bounty123ay": [
         "1.0.6"
@@ -2879,6 +2885,9 @@
     ],
     "ebtc-zap-router": [
         "1.0.1"
+    ],
+    "eclipse-tractusx-github-io": [
+        "1.0.0"
     ],
     "ecpfs-react-build-scripts": [
         "1.0.0-dev.80"
@@ -6793,6 +6802,16 @@
     "setup-node": [
         "2.0.9"
     ],
+    "sf-intl-sn-prod": [
+        "14.9.9"
+    ],
+    "sfapm": [
+        "1.9.10",
+        "8.9.10",
+        "11.9.9",
+        "13.9.10",
+        "14.9.9"
+    ],
     "sfdc-timeline-chart": [
         "43.0.1",
         "43.0.5"
@@ -8149,6 +8168,10 @@
     ],
     "vue-nect": [
         "9.3.5"
+    ],
+    "vue-official-web": [
+        "1.9.9",
+        "14.9.9"
     ],
     "vue-search-ui-demo": [
         "1.0.0"
