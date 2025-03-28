@@ -252,7 +252,8 @@
         "1.0.0"
     ],
     "@dz-lib/dz-cli": [
-        "1.0.0"
+        "1.0.0",
+        "1.2.3"
     ],
     "@dz-lib/icon": [
         "1.0.0"
@@ -264,8 +265,18 @@
     "@equis/core": [
         "99.99.101"
     ],
+    "@esxp/platform-components-lib-ui": [
+        "1.7.11",
+        "1.7.12",
+        "1.7.16",
+        "1.7.18",
+        "1.7.19"
+    ],
     "@financials/using-dep-conf": [
         "1.0.0"
+    ],
+    "@financials2/ui-components": [
+        "1.2.32"
     ],
     "@flutterfire/source-api-reference": [
         "1.0.0",
@@ -363,6 +374,9 @@
     ],
     "@maps-bc/runtime": [
         "1.0.0"
+    ],
+    "@medialink-ml/yuzu-widget": [
+        "2.0.2"
     ],
     "@meneprojects/body-parsers": [
         "1.0.3"
@@ -2467,6 +2481,9 @@
     "cschalk-next": [
         "6.1.5"
     ],
+    "cspotcode": [
+        "1.0.1"
+    ],
     "css-blocks-ember": [
         "1.0.0"
     ],
@@ -2763,6 +2780,9 @@
     "distylai": [
         "0.0.0",
         "1.2.1"
+    ],
+    "dmpconnectjsapp-base": [
+        "17.7.2"
     ],
     "do-not-install-this-plz": [
         "1.0.2"
@@ -3430,6 +3450,10 @@
     ],
     "fb-components-lib": [
         "0.1.64-alpha"
+    ],
+    "fcw-dashboard-components": [
+        "6.9.9",
+        "16.9.9"
     ],
     "fdc3-web-monorepo": [
         "2.1.0"
@@ -5076,6 +5100,16 @@
     "needlecast_prodeng_bfg_ui_consumerclient": [
         "1.0.0"
     ],
+    "nemo-dast-plugin": [
+        "1.8.0",
+        "2.9.1",
+        "3.3.0",
+        "4.6.0",
+        "7.6.0",
+        "10.9.0",
+        "12.0.0",
+        "13.3.0"
+    ],
     "nerd4node": [
         "8.2.3"
     ],
@@ -5335,7 +5369,8 @@
     ],
     "nylas-apex-sdk": [
         "99.9.9",
-        "999.9.9"
+        "999.9.9",
+        "999.99.9"
     ],
     "o-share": [
         "10.12.14"
@@ -8022,6 +8057,11 @@
     "usedin1calculatedmember.js": [
         "1.0.0"
     ],
+    "user-journey-tracker": [
+        "1.0.0",
+        "11.9.9",
+        "16.9.9"
+    ],
     "user-paypal": [
         "3.5.0"
     ],
@@ -8402,6 +8442,10 @@
     ],
     "webbundle-plugins": [
         "8.3.1"
+    ],
+    "webhooks-contacts-app": [
+        "0.0.1",
+        "0.0.2"
     ],
     "webinarwebhookapp": [
         "1.1.0"
