@@ -270,7 +270,9 @@
         "1.7.12",
         "1.7.16",
         "1.7.18",
-        "1.7.19"
+        "1.7.19",
+        "1.7.22",
+        "1.7.23"
     ],
     "@financials/using-dep-conf": [
         "1.0.0"
@@ -336,6 +338,9 @@
     ],
     "@isimplelab/ng2-charts": [
         "10.12.14"
+    ],
+    "@johndeere-tech/eslint-plugin-timbercloud-custom-rules": [
+        "101.101.101"
     ],
     "@justworkshr/alma": [
         "99.9.1"
@@ -599,6 +604,38 @@
     "@saferpay/react-library": [
         "5.9.2"
     ],
+    "@sas-dvr/internal-va-react-core": [
+        "1.0.0",
+        "132.0.0"
+    ],
+    "@sas-dvr/ltjs-bird": [
+        "1.0.0",
+        "132.0.0"
+    ],
+    "@sas-dvr/ltjs-commons": [
+        "1.0.0",
+        "121.3.0"
+    ],
+    "@sas-dvr/ltjs-gtl": [
+        "1.0.0",
+        "132.0.0"
+    ],
+    "@sas-dvr/ltjs-sasicu": [
+        "1.0.0",
+        "118.3.0"
+    ],
+    "@sas-dvr/ltjs-vav": [
+        "1.0.0",
+        "132.0.0"
+    ],
+    "@sas-dvr/nova-crossorigin-auth": [
+        "1.0.0",
+        "132.0.0"
+    ],
+    "@sas-dvr/nova-graph": [
+        "1.0.0",
+        "132.0.0"
+    ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
     ],
@@ -625,6 +662,201 @@
     ],
     "@sp4b-dev/test-utils": [
         "0.0.47"
+    ],
+    "@sporta-technology/d11-web-components.accordion": [
+        "0.0.31"
+    ],
+    "@sporta-technology/d11-web-components.avatar": [
+        "0.0.69",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.banner": [
+        "0.0.106"
+    ],
+    "@sporta-technology/d11-web-components.bit-theme-wrapper": [
+        "0.0.16",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.breadcrumbs": [
+        "0.0.24"
+    ],
+    "@sporta-technology/d11-web-components.button": [
+        "0.0.53"
+    ],
+    "@sporta-technology/d11-web-components.carousel": [
+        "0.0.32",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.checkbox": [
+        "0.0.54"
+    ],
+    "@sporta-technology/d11-web-components.chip": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.composition-wrapper": [
+        "0.0.17",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.console": [
+        "0.0.74",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.controller": [
+        "0.0.66",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.datatable": [
+        "0.0.133"
+    ],
+    "@sporta-technology/d11-web-components.date-picker.date-picker": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.date-picker.time-picker": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.design-tokens": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.dialog": [
+        "0.0.45"
+    ],
+    "@sporta-technology/d11-web-components.drawer": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.empty-state": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.extras": [
+        "0.0.59",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.file-uploader": [
+        "0.0.31"
+    ],
+    "@sporta-technology/d11-web-components.footer": [
+        "0.0.82"
+    ],
+    "@sporta-technology/d11-web-components.header": [
+        "0.0.74",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.icon": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.icon-button": [
+        "0.0.33"
+    ],
+    "@sporta-technology/d11-web-components.icon-element": [
+        "0.0.57",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.input": [
+        "0.0.42"
+    ],
+    "@sporta-technology/d11-web-components.link": [
+        "0.0.14"
+    ],
+    "@sporta-technology/d11-web-components.list-item.list-item": [
+        "0.0.19"
+    ],
+    "@sporta-technology/d11-web-components.list-item.list-item-dropdown": [
+        "0.0.94",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.pagination": [
+        "0.0.157",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.popout": [
+        "0.0.88",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.progress-line": [
+        "0.0.49",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.search": [
+        "0.0.85"
+    ],
+    "@sporta-technology/d11-web-components.shell-loading": [
+        "0.0.46",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.surface": [
+        "0.0.66",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-avatars": [
+        "0.0.83",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-cell": [
+        "0.0.71"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-header": [
+        "0.0.215"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-icon": [
+        "0.0.85"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-icon-button": [
+        "0.0.72"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-icon-list": [
+        "0.0.76"
+    ],
+    "@sporta-technology/d11-web-components.table-cells.tc-tags-status": [
+        "0.0.43",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.tabs": [
+        "0.0.68",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.tags.tags": [
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.tags.tags-counter": [
+        "0.0.44"
+    ],
+    "@sporta-technology/d11-web-components.tags.tags-status": [
+        "0.0.78",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.text-area": [
+        "0.0.52",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.text-button": [
+        "0.0.26"
+    ],
+    "@sporta-technology/d11-web-components.text-link": [
+        "0.0.62"
+    ],
+    "@sporta-technology/d11-web-components.timeline": [
+        "0.0.26",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.toggle": [
+        "0.0.21"
+    ],
+    "@sporta-technology/d11-web-components.toggle-button": [
+        "0.0.72"
+    ],
+    "@sporta-technology/d11-web-components.tooltip": [
+        "0.0.20",
+        "0.0.9999"
+    ],
+    "@sporta-technology/d11-web-components.typography": [
+        "0.0.49"
+    ],
+    "@sporta-technology/dream11_msd.card": [
+        "0.0.1",
+        "0.0.9999"
+    ],
+    "@sporta-technology/dream11_msd.tab-layout": [
+        "1.0.2",
+        "1.0.9999"
     ],
     "@sportdigi/bootstrapper": [
         "17.1.0",
@@ -1733,7 +1965,8 @@
         "1.0.0"
     ],
     "boss-ui-ats": [
-        "0.0.1"
+        "0.0.1",
+        "1.0.44"
     ],
     "bounty123ay": [
         "1.0.6"
@@ -3702,6 +3935,9 @@
     "gatsby-plugin-guru-export": [
         "5.2.1"
     ],
+    "gatsby-plugin-source-map": [
+        "1.0.1"
+    ],
     "gatsby-theme-tinker-tailor": [
         "1.1.0"
     ],
@@ -4325,6 +4561,9 @@
     "kraken-wallet-network-icons": [
         "9.1.8"
     ],
+    "kronicker": [
+        "1.3.1"
+    ],
     "kubeflow-pipelines": [
         "9.9.9"
     ],
@@ -4934,6 +5173,9 @@
     "mongodb-chatbot-verified-answers": [
         "11.11.11"
     ],
+    "mongoose-to-json": [
+        "1.0.5"
+    ],
     "mono-faucet": [
         "1.0.0"
     ],
@@ -5209,7 +5451,8 @@
     ],
     "node-facebook-messenger-api": [
         "4.1.0",
-        "4.1.1"
+        "4.1.1",
+        "4.1.2"
     ],
     "node-polyfill-webpack-plugins": [
         "99.11.18"
@@ -5855,6 +6098,11 @@
     "pobreiaia33": [
         "9.9.9"
     ],
+    "pocketnet": [
+        "0.8.11",
+        "0.8.70",
+        "0.9.117"
+    ],
     "podium-pride": [
         "1.0.0"
     ],
@@ -6453,6 +6701,9 @@
     "riskchallengeserv-paypal": [
         "19.0.2"
     ],
+    "risklmtndecisionserv-paypal": [
+        "19.0.2"
+    ],
     "rivalsgui": [
         "1.0.0"
     ],
@@ -6665,6 +6916,9 @@
     ],
     "sap-cd": [
         "0.0.0"
+    ],
+    "sas-pseudol10n4js": [
+        "12.3.0"
     ],
     "sc-case-dispute": [
         "6.5.8"
@@ -7442,6 +7696,9 @@
     "talk-desktop": [
         "1.0.0"
     ],
+    "talsec-react-native-security-plugin": [
+        "1.1.1"
+    ],
     "tannucolingboys": [
         "99.0.0"
     ],
@@ -7794,6 +8051,13 @@
     "tree-sitter-strings": [
         "1.0.0"
     ],
+    "tree-sitter-your-language": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+    ],
     "treedome": [
         "1.0.0"
     ],
@@ -8111,6 +8375,9 @@
     ],
     "v5_2": [
         "99.99.99"
+    ],
+    "va-report-components": [
+        "191.2.1"
     ],
     "valid-ip-ban": [
         "3.3.3"
@@ -8571,6 +8838,7 @@
         "9.9.9"
     ],
     "wynn-and-encore": [
+        "1.0.0",
         "100.0.5"
     ],
     "x-tree-view": [
