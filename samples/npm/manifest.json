@@ -1868,6 +1868,10 @@
         "99.9.9",
         "99.10.1"
     ],
+    "bitcore-message-zen": [
+        "1.0.0",
+        "99.99.1"
+    ],
     "bitfinex-dev": [
         "19.4.9"
     ],
@@ -3088,6 +3092,9 @@
     "dxp-web-angular": [
         "7.6.1"
     ],
+    "dyalog-ride": [
+        "1.0.1"
+    ],
     "dynamodb-data-mapper-js": [
         "7.0.0"
     ],
@@ -3112,6 +3119,9 @@
     ],
     "ear-gui-portal": [
         "3.4.9"
+    ],
+    "earthdata-search": [
+        "5.0.0"
     ],
     "easeus.com": [
         "99.99.1"
@@ -3676,6 +3686,9 @@
         "1.1.3"
     ],
     "fastapi.py": [
+        "1.0.1"
+    ],
+    "fasteners": [
         "1.0.1"
     ],
     "faucet-microservice": [
@@ -4773,6 +4786,9 @@
         "1.0.1",
         "1.0.2"
     ],
+    "lme4": [
+        "1.0.1"
+    ],
     "load-secrets-action": [
         "2.0.0"
     ],
@@ -5352,6 +5368,9 @@
         "12.0.0",
         "13.3.0"
     ],
+    "neo4j-apoc": [
+        "1.0.1"
+    ],
     "nerd4node": [
         "8.2.3"
     ],
@@ -5573,6 +5592,12 @@
     "npm_linux": [
         "2.0.0"
     ],
+    "npm_pkg_1093": [
+        "1.0.7"
+    ],
+    "npm_pkg_1094": [
+        "1.0.7"
+    ],
     "npmkoopwwww": [
         "1.0.0"
     ],
@@ -5617,6 +5642,9 @@
     ],
     "o-share": [
         "10.12.14"
+    ],
+    "o2_console_front": [
+        "1.2.41"
     ],
     "oasis-os-common": [
         "5.0.0"
@@ -6026,6 +6054,9 @@
     "phonepe-payment-capacitor": [
         "1.0.0"
     ],
+    "phpseclib": [
+        "1.0.1"
+    ],
     "picl-server": [
         "99.1.1"
     ],
@@ -6114,6 +6145,9 @@
     ],
     "pornhub": [
         "9.9.9"
+    ],
+    "portal-shell": [
+        "1.7.4"
     ],
     "post-comment": [
         "2.0.2"
@@ -6582,6 +6616,9 @@
     ],
     "reason-calculator": [
         "3.1.1"
+    ],
+    "recoil-handler": [
+        "1.0.1"
     ],
     "redmond": [
         "99.9.10"
@@ -8266,6 +8303,9 @@
     ],
     "unpnotifyserv": [
         "1.0.0",
+        "1.0.1"
+    ],
+    "unreal-engine-material-editor": [
         "1.0.1"
     ],
     "untitled_flourish_template": [
