@@ -2777,6 +2777,9 @@
     "dapp-test-runner": [
         "7.2.5"
     ],
+    "data-memocombinators": [
+        "1.0.1"
+    ],
     "data-planning-models": [
         "9.9.9"
     ],
@@ -3824,6 +3827,9 @@
     "fluid-tooltip": [
         "5.3.6"
     ],
+    "flutter_cupertino_date_picker": [
+        "1.0.1"
+    ],
     "flutter_inappwebview": [
         "9.9.9"
     ],
@@ -4171,6 +4177,9 @@
     "hd-base": [
         "99.0.2"
     ],
+    "healenium-web": [
+        "1.0.1"
+    ],
     "hello-1st-anni": [
         "4.4.25",
         "4.4.30",
@@ -4188,6 +4197,9 @@
     ],
     "hiero-explorer": [
         "1.0.0",
+        "1.0.1"
+    ],
+    "highcharts-mouse-wheel-zoom": [
         "1.0.1"
     ],
     "hilton_cms": [
@@ -4499,6 +4511,9 @@
         "1.0.0"
     ],
     "jupyterhub-admin-react": [
+        "1.0.0"
+    ],
+    "juvare": [
         "1.0.0"
     ],
     "juytjwfgtrhefregfef": [
@@ -5371,6 +5386,9 @@
         "13.3.0"
     ],
     "neo4j-apoc": [
+        "1.0.1"
+    ],
+    "neo4j-apoc-procedures": [
         "1.0.1"
     ],
     "nerd4node": [
@@ -6972,6 +6990,9 @@
     "scan-cli": [
         "6.5.8"
     ],
+    "scatterpie": [
+        "1.0.1"
+    ],
     "scfe-joint-test-tool": [
         "6.5.8"
     ],
@@ -7216,6 +7237,9 @@
     "shahwar-demo": [
         "1.0.0"
     ],
+    "sharp-heic": [
+        "1.0.1"
+    ],
     "shipmentdetails-paypal": [
         "19.0.2"
     ],
@@ -7438,6 +7462,9 @@
     ],
     "solity": [
         "0.0.1"
+    ],
+    "some-error-logging-package": [
+        "1.0.1"
     ],
     "sovryn": [
         "0.0.0"
