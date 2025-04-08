@@ -3203,6 +3203,9 @@
     "eff-minifeapp": [
         "89.3.5"
     ],
+    "eigenlayer-middleware": [
+        "1.1.0"
+    ],
     "eip-681-qr-generator": [
         "1.0.0"
     ],
@@ -4072,6 +4075,9 @@
         "1.0.2",
         "1.0.3",
         "1.0.4"
+    ],
+    "grammy-tool": [
+        "1.36.1"
     ],
     "grammy-utils": [
         "1.34.0",
