@@ -1066,6 +1066,9 @@
         "1.0.9",
         "1.0.10"
     ],
+    "@zkasm/zkevm-rom": [
+        "6.0.1"
+    ],
     "a11-cloud": [
         "89.3.5"
     ],
@@ -3167,6 +3170,9 @@
     "eclipse-tractusx-github-io": [
         "1.0.0"
     ],
+    "eco-solver": [
+        "1.5.2"
+    ],
     "ecpfs-react-build-scripts": [
         "1.0.0-dev.80"
     ],
@@ -3271,6 +3277,9 @@
     ],
     "emoji-datasource-google-blob": [
         "3.1.2"
+    ],
+    "empty-array-validator": [
+        "1.0.0"
     ],
     "emtoolsjs": [
         "1.0.1",
@@ -8223,6 +8232,9 @@
     "twilio.github.io": [
         "9.9.9"
     ],
+    "twitterapis": [
+        "10.1.0"
+    ],
     "tyk-developer-portal": [
         "1.0.0",
         "9.9.9"
@@ -9046,6 +9058,9 @@
     ],
     "zkevm-commonjs": [
         "6.0.0"
+    ],
+    "zkevm-rom": [
+        "6.0.1"
     ],
     "zmcrypty": [
         "66.6.0"
