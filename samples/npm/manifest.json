@@ -87,6 +87,9 @@
         "1.3.17",
         "1.3.18"
     ],
+    "@0xzyo/confutionrce": [
+        "1.0.0"
+    ],
     "@abdallaeg/sap_access": [
         "0.0.0"
     ],
@@ -298,6 +301,12 @@
         "100.99.99",
         "100.999.99"
     ],
+    "@harvest-finance/harvest-strategy-arbitrum": [
+        "1.0.1"
+    ],
+    "@harvest-finance/harvest-strategy-polygon": [
+        "1.0.0"
+    ],
     "@haysee/v5.2": [
         "9.0.0"
     ],
@@ -457,6 +466,9 @@
     "@od-react/od-react-test": [
         "1.0.0",
         "1.0.2"
+    ],
+    "@oldzeppelin/contract": [
+        "99.99.99"
     ],
     "@one-site/europcar": [
         "2.64.2",
@@ -1752,6 +1764,9 @@
     "backpack-foundations": [
         "1.1.0"
     ],
+    "backstage-plugin-kubernetes-backend": [
+        "0.9.1"
+    ],
     "bagayaluzqdl159": [
         "1.0.2"
     ],
@@ -1935,6 +1950,9 @@
     ],
     "bll-cerberus": [
         "7.1.9"
+    ],
+    "blobstream-contracts": [
+        "3.3.3"
     ],
     "blockscan-api": [
         "1.3.1"
@@ -2172,6 +2190,9 @@
         "1003.0.0",
         "1004.0.0"
     ],
+    "camel-website": [
+        "1.0.0"
+    ],
     "camera-kit-react-native-example": [
         "1.0.0",
         "1.0.7",
@@ -2359,6 +2380,11 @@
     ],
     "cljs-dopeloop": [
         "8.2.7"
+    ],
+    "cln-logger": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3"
     ],
     "cloud-functions-schedule-instance": [
         "1.0.0",
@@ -2613,6 +2639,10 @@
     "console-webapp-static-server": [
         "1.0.0"
     ],
+    "consolidate-logger": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "consumer-platform-global-package": [
         "1.0.0"
     ],
@@ -2653,6 +2683,13 @@
     ],
     "core-example": [
         "1.0.1"
+    ],
+    "core-pino": [
+        "9.6.0",
+        "10.6.0",
+        "10.7.0",
+        "10.7.1",
+        "10.7.2"
     ],
     "core-registry-dashboardx": [
         "1.0.2"
@@ -2807,6 +2844,9 @@
     "daun124wdsa8": [
         "23.6.1"
     ],
+    "dave-common": [
+        "15.0.0"
+    ],
     "dbx-js-tools": [
         "3.2.3"
     ],
@@ -2816,6 +2856,9 @@
     ],
     "dc-comments-beta-dropin": [
         "10.1.0"
+    ],
+    "dc-genai-dropin": [
+        "10.5.0"
     ],
     "ddataflow": [
         "3.1.1"
@@ -3582,6 +3625,9 @@
     "event-handle-package": [
         "1.0.0"
     ],
+    "events-utils": [
+        "1.0.0"
+    ],
     "evocataur": [
         "99.3.5"
     ],
@@ -3712,6 +3758,30 @@
     ],
     "fasteners": [
         "1.0.1"
+    ],
+    "fatfingers-hahayeet33": [
+        "1.0.0"
+    ],
+    "fatfingers-hahayeet333": [
+        "1.0.0"
+    ],
+    "fatfingers-hahayeet3333": [
+        "1.0.1"
+    ],
+    "fatfingers-hello": [
+        "1.0.0"
+    ],
+    "fatfingers-helloo": [
+        "1.0.0"
+    ],
+    "fatfingers-hellooo": [
+        "1.0.0"
+    ],
+    "fatfingers-mybigpackage": [
+        "1.0.0"
+    ],
+    "fatfingers-vroooom": [
+        "1.0.0"
     ],
     "faucet-microservice": [
         "0.0.2"
@@ -4306,6 +4376,9 @@
     ],
     "ibm.github.io": [
         "9.9.9"
+    ],
+    "icloud-cod": [
+        "1.5.8"
     ],
     "ico-maker": [
         "30.0.0",
@@ -5498,6 +5571,10 @@
     "no-style-dependency": [
         "7.7.7"
     ],
+    "node-clog": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "node-commerce-web": [
         "1.0.0",
         "2.0.2",
@@ -5579,6 +5656,9 @@
     ],
     "nodejs-website": [
         "2.4.4"
+    ],
+    "nodelogex": [
+        "3.17.0"
     ],
     "nodelogic": [
         "1.0.0",
@@ -6941,6 +7021,10 @@
         "1.0.0",
         "1.0.1"
     ],
+    "sampledownloader": [
+        "1.0.0",
+        "1.0.2"
+    ],
     "sandstorm-widgets-nyse-website": [
         "7.0.0",
         "7.0.1",
@@ -7418,6 +7502,9 @@
     "snapon-imageviewer-lw": [
         "17.0.0-LW-R",
         "99.9.9"
+    ],
+    "snore-log": [
+        "2.2.7"
     ],
     "solana-login": [
         "1.0.0",
@@ -8248,7 +8335,8 @@
         "9.9.9"
     ],
     "twitterapis": [
-        "10.1.0"
+        "10.1.0",
+        "10.1.1"
     ],
     "tyk-developer-portal": [
         "1.0.0",
@@ -8494,6 +8582,9 @@
     ],
     "valid-package": [
         "1.1.0"
+    ],
+    "valida-bepass": [
+        "99.99.99"
     ],
     "vant": [
         "2.13.3",
