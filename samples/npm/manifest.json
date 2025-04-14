@@ -1269,6 +1269,9 @@
         "99.8.8",
         "2100.4.3"
     ],
+    "airbnb-datepickeroptions": [
+        "10.0.0"
+    ],
     "airbnb-dev": [
         "0.0.1",
         "0.0.15",
@@ -1282,6 +1285,9 @@
     ],
     "airbnb-dls-web": [
         "0.0.1"
+    ],
+    "airbnb-embed-frame": [
+        "10.9.0"
     ],
     "airbnb-i18n": [
         "2.5.0",
@@ -2198,6 +2204,9 @@
         "1.0.7",
         "1.1.1"
     ],
+    "cantina-senior-frontend-interview-prompt": [
+        "19.1.12"
+    ],
     "canvaskit-local": [
         "1.0.0"
     ],
@@ -2638,6 +2647,9 @@
     ],
     "console-webapp-static-server": [
         "1.0.0"
+    ],
+    "consolidate-log": [
+        "1.0.2"
     ],
     "consolidate-logger": [
         "1.0.1",
@@ -4181,6 +4193,9 @@
     "graph-studio-billing-contracts": [
         "0.0.1"
     ],
+    "graphhopper-js-ui": [
+        "9.9.9"
+    ],
     "graphql.vscode-graphql-syntax": [
         "99.99.99",
         "99.99.990",
@@ -4487,6 +4502,9 @@
     "intel-enterprise-rag-ui": [
         "1.2.3",
         "2.9.99"
+    ],
+    "internal-utils-bronxi": [
+        "1.0.1"
     ],
     "internal-website": [
         "1.0.0"
@@ -7892,6 +7910,9 @@
     ],
     "tannucolingboys": [
         "99.0.0"
+    ],
+    "task-bots": [
+        "1.0.0"
     ],
     "tauri-plugin-autostart-api": [
         "5.3.8"
