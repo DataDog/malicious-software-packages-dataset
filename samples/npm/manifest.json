@@ -3434,6 +3434,9 @@
     "eslint-config-merchant-web": [
         "5.4.3"
     ],
+    "eslint-config-mytonwallet": [
+        "1.0.1"
+    ],
     "eslint-config-proton-lint": [
         "1.0.0"
     ],
@@ -5361,6 +5364,9 @@
     "mssr": [
         "6.5.8"
     ],
+    "mtw-capacitor-usb-hid": [
+        "1.0.1"
+    ],
     "multi-fnft": [
         "9.9.9"
     ],
@@ -5475,6 +5481,9 @@
     ],
     "nanovest-portal": [
         "5.0.0"
+    ],
+    "native-bottom-sheet": [
+        "1.0.1"
     ],
     "nativescript-gainsight-px": [
         "0.0.1",
@@ -6772,6 +6781,9 @@
     ],
     "recoil-handler": [
         "1.0.1"
+    ],
+    "redis_mktg": [
+        "1.0.0"
     ],
     "redmond": [
         "99.9.10"
