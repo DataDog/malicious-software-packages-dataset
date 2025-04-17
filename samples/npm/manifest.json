@@ -2399,6 +2399,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "cloud-pipeline-run": [
+        "1.0.0"
+    ],
     "cloudflare-vite-tutorial": [
         "99.99.99"
     ],
@@ -4388,6 +4391,9 @@
         "1.0.4",
         "1.0.5",
         "1.0.6"
+    ],
+    "hypernova-simple-example": [
+        "1.0.0"
     ],
     "i18-utils": [
         "5.0.0"
