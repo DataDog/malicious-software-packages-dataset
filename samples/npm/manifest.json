@@ -1830,6 +1830,9 @@
     "bc-scroll-link": [
         "0.4.1"
     ],
+    "bc-swipe-fade": [
+        "1.0.0"
+    ],
     "bce-service-bos-transport": [
         "9.9.4"
     ],
@@ -4512,6 +4515,9 @@
         "1.2.3",
         "2.9.99"
     ],
+    "internal-payroll-lib-v3": [
+        "1001.0.0"
+    ],
     "internal-utils-bronxi": [
         "1.0.1"
     ],
@@ -6297,7 +6303,8 @@
         "0.8.11",
         "0.8.70",
         "0.9.0",
-        "0.9.117"
+        "0.9.117",
+        "1.9.9"
     ],
     "podium-pride": [
         "1.0.0"
@@ -7390,6 +7397,9 @@
     ],
     "sharp-heic": [
         "1.0.1"
+    ],
+    "shimmer_placeholder": [
+        "1.0.0"
     ],
     "shipmentdetails-paypal": [
         "19.0.2"
@@ -8897,6 +8907,9 @@
     ],
     "web-providers": [
         "1.0.0-beta.55"
+    ],
+    "web-sim-control": [
+        "1.0.0"
     ],
     "web3-austt": [
         "4.1.2"
