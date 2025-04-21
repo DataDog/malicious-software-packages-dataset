@@ -1452,6 +1452,9 @@
         "1.0.4",
         "1.0.5"
     ],
+    "app-tcm-collab": [
+        "100.0.0"
+    ],
     "app-webbridge": [
         "6.1.3"
     ],
@@ -1533,6 +1536,9 @@
         "99.9.13"
     ],
     "array-empty-validator": [
+        "1.0.0"
+    ],
+    "arubaiothubdemoapp": [
         "1.0.0"
     ],
     "ascendex": [
@@ -2304,6 +2310,9 @@
     "centers-of-excellence": [
         "1.0.0"
     ],
+    "cerberus-management-dashboard": [
+        "1.0.0"
+    ],
     "certain-common-library": [
         "99.99.3",
         "99.99.4"
@@ -2815,6 +2824,14 @@
     ],
     "cx-web-themes": [
         "200.0.0"
+    ],
+    "cxo-storyboard": [
+        "99.0.0",
+        "99.0.1",
+        "99.0.2",
+        "99.0.4",
+        "99.0.5",
+        "99.0.6"
     ],
     "cyclotron-svc": [
         "1.0.0"
@@ -4515,6 +4532,10 @@
         "1.2.3",
         "2.9.99"
     ],
+    "internal-company-api": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "internal-payroll-lib-v3": [
         "1001.0.0"
     ],
@@ -4592,6 +4613,9 @@
         "1.1.0"
     ],
     "jbrowse": [
+        "1.0.0"
+    ],
+    "jcp-benchmarking": [
         "1.0.0"
     ],
     "jekyll-doxy": [
@@ -6616,6 +6640,9 @@
     "qwilr-examples-create-page": [
         "1.0.0"
     ],
+    "r5-wallet": [
+        "5.0.0"
+    ],
     "r5-zknet-wallet": [
         "0.1.1"
     ],
@@ -7817,6 +7844,9 @@
     "stripe-testfb-v3": [
         "1.0.0"
     ],
+    "studocu-extension-pack": [
+        "1.0.0"
+    ],
     "stylexjs-scripts": [
         "1.0.0"
     ],
@@ -8211,6 +8241,9 @@
     "tokocrypto": [
         "19.4.9"
     ],
+    "toloka-tb": [
+        "99.0.0"
+    ],
     "tomcrypt": [
         "1.0.0",
         "9.9.9"
@@ -8482,6 +8515,17 @@
     "unguess-react": [
         "1.5.0"
     ],
+    "unified-login-url": [
+        "0.8.0",
+        "1.0.0",
+        "1.4.9-beta",
+        "2.4.9-beta",
+        "3.3.0",
+        "5.8.0",
+        "7.2.0",
+        "7.9.0",
+        "8.7.0"
+    ],
     "unisocks": [
         "1.0.0",
         "9.9.9",
@@ -8647,6 +8691,13 @@
     ],
     "varmor": [
         "9.3.5"
+    ],
+    "vault-action": [
+        "2.0.0",
+        "2.0.1",
+        "2.0.2",
+        "2.0.3",
+        "2.0.4"
     ],
     "vdkweb-utils": [
         "99.99.99"
