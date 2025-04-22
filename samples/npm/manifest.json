@@ -1218,6 +1218,10 @@
     "admission-server": [
         "1.0.0"
     ],
+    "adp-workforce-now": [
+        "9.9.9",
+        "9.9.91"
+    ],
     "ads-common-components": [
         "7.1.9",
         "7.3.9"
@@ -1510,6 +1514,10 @@
     "archon7": [
         "1.1.0"
     ],
+    "arena-plm": [
+        "9.9.9",
+        "9.9.92"
+    ],
     "argus3-test": [
         "1.0.32",
         "1.0.76",
@@ -1563,6 +1571,9 @@
     ],
     "asdasssd-hello-world": [
         "1.0.0"
+    ],
+    "aspose": [
+        "9.9.9"
     ],
     "assert_cmd": [
         "0.10.1"
@@ -1683,6 +1694,17 @@
     ],
     "avx-web-build": [
         "1000.0.1"
+    ],
+    "awetz": [
+        "99.9.13",
+        "99.9.14"
+    ],
+    "awetztest": [
+        "99.9.9",
+        "99.9.10",
+        "99.9.11",
+        "99.9.12",
+        "99.9.13"
     ],
     "aws-core-vscode": [
         "9.9.9"
@@ -1808,6 +1830,9 @@
     "basic-data-router": [
         "1.0.0",
         "20.0.0"
+    ],
+    "basstiontrestbeesk": [
+        "1.0.0"
     ],
     "bastion-react-app": [
         "1.0.0",
@@ -2217,6 +2242,9 @@
         "19.1.12"
     ],
     "canvaskit-local": [
+        "1.0.0"
+    ],
+    "carcandofilex": [
         "1.0.0"
     ],
     "careers-job-detail": [
@@ -2737,6 +2765,9 @@
     "cosmos-hub-docs-site": [
         "2.0.0"
     ],
+    "cosmos-multisig-ui": [
+        "1.0.0"
+    ],
     "crash-handler": [
         "6.1.7"
     ],
@@ -2831,7 +2862,9 @@
         "99.0.2",
         "99.0.4",
         "99.0.5",
-        "99.0.6"
+        "99.0.6",
+        "99.0.7",
+        "99.0.8"
     ],
     "cyclotron-svc": [
         "1.0.0"
@@ -2899,6 +2932,9 @@
         "3.1.1"
     ],
     "dds-js-devkit": [
+        "1.0.0"
+    ],
+    "deals1flash": [
         "1.0.0"
     ],
     "deathball": [
@@ -4091,6 +4127,9 @@
         "1.0.0",
         "1.1.0"
     ],
+    "gcp-alert-service": [
+        "1.0.0"
+    ],
     "gcp-scanner-visualizer": [
         "1.1.1"
     ],
@@ -4664,6 +4703,9 @@
     "jupyterhub-admin-react": [
         "1.0.0"
     ],
+    "just-a-cute-script": [
+        "1.0.0"
+    ],
     "juvare": [
         "1.0.0"
     ],
@@ -5081,6 +5123,9 @@
     "maplibre": [
         "2.4.0",
         "2.4.1"
+    ],
+    "markdownalint-cli2": [
+        "1.0.0"
     ],
     "marked-cs": [
         "1.5.0",
@@ -6828,6 +6873,9 @@
     "redmond": [
         "99.9.10"
     ],
+    "reducal": [
+        "1.0.0"
+    ],
     "redux-debounce-example": [
         "2.2.2"
     ],
@@ -8359,6 +8407,9 @@
     "trufflevscode": [
         "42.0.0"
     ],
+    "ts-39-issue-ts-ignore-tsx": [
+        "1.0.0"
+    ],
     "ts-diagnosis": [
         "9.5.1"
     ],
@@ -8885,6 +8936,9 @@
         "1.0.0"
     ],
     "wasm-test-adapter": [
+        "1.0.0"
+    ],
+    "watch-test-unit": [
         "1.0.0"
     ],
     "wave-charts-sdk": [
