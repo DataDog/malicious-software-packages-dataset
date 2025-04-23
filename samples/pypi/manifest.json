@@ -3921,6 +3921,9 @@
     "stripepy": [
         "1.0"
     ],
+    "subdomainer": [
+        "1.0.0"
+    ],
     "support-dev": [
         "7.8"
     ],
