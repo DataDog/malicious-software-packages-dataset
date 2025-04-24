@@ -352,6 +352,10 @@
     "@johndeere-tech/eslint-plugin-timbercloud-custom-rules": [
         "101.101.101"
     ],
+    "@joshcyber123/frontend-logger": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "@justworkshr/alma": [
         "99.9.1"
     ],
@@ -2887,6 +2891,9 @@
         "200.0.0"
     ],
     "cxo-storyboard": [
+        "10.0.0",
+        "10.0.2",
+        "10.0.3",
         "99.0.0",
         "99.0.1",
         "99.0.2",
@@ -5250,6 +5257,9 @@
         "4.3.0",
         "4.3.1"
     ],
+    "mcrodoasp.net": [
+        "1.0.0"
+    ],
     "mdap-cli": [
         "6.5.8"
     ],
@@ -6862,6 +6872,9 @@
     "react-native-country-picker-modal-modified": [
         "99.9.1"
     ],
+    "react-native-scrollpageviewtest": [
+        "1.5.7"
+    ],
     "react-native-simpl": [
         "69.0.0"
     ],
@@ -8018,6 +8031,9 @@
         "1.9.9",
         "1.40.0"
     ],
+    "substrate-faucet": [
+        "99.0.0"
+    ],
     "sui-lending-protocol": [
         "99.1.1"
     ],
@@ -8207,6 +8223,11 @@
     ],
     "test-hahahaha-rce3": [
         "9.9.9"
+    ],
+    "test-kaks3c": [
+        "10.0.1",
+        "10.0.3",
+        "10.0.4"
     ],
     "test-object-model": [
         "0.7.6"
