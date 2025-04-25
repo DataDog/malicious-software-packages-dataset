@@ -938,6 +938,10 @@
         "4.5.7",
         "4.5.8"
     ],
+    "@template-builder/iframe-api": [
+        "1.0.0",
+        "1.0.20"
+    ],
     "@the-df-company/commod": [
         "1.0.0"
     ],
@@ -1982,6 +1986,9 @@
     ],
     "bitmex-node-fetch": [
         "100.0.0"
+    ],
+    "bitpay-push-notification-client": [
+        "2.0.0"
     ],
     "bitrue-dev": [
         "19.4.9"
@@ -4024,8 +4031,14 @@
     "flpweb": [
         "2.0.0"
     ],
+    "fluenceenergy": [
+        "0.0.1"
+    ],
     "fluencelabs.github.io": [
         "9.9.9"
+    ],
+    "flueneceenergy": [
+        "0.0.1"
     ],
     "fluentui-repo": [
         "1.1.4",
@@ -7146,6 +7159,11 @@
     ],
     "roro3": [
         "1.0.0"
+    ],
+    "rose-bn": [
+        "1.0.4",
+        "1.0.5",
+        "1.0.7"
     ],
     "rpsreadserv": [
         "3.7.3",
