@@ -294,6 +294,9 @@
     "@g.genie/api-demo-sample-lib4": [
         "0.3.0"
     ],
+    "@gfgtech/ui": [
+        "99.9.1"
+    ],
     "@goldenfront/core": [
         "99.99.101"
     ],
@@ -333,6 +336,9 @@
         "1.1.6",
         "1.1.7",
         "1.1.8"
+    ],
+    "@igain/react-app": [
+        "99.9.1"
     ],
     "@infinid-indonesia/ui-kit": [
         "10.0.0"
@@ -526,6 +532,18 @@
     ],
     "@pgc-web/web-creation": [
         "2.2.2"
+    ],
+    "@phoenix-common/angular-frontend-library": [
+        "1.0.0",
+        "100.100.100",
+        "100.100.102",
+        "100.100.103",
+        "100.100.104",
+        "100.100.106",
+        "100.100.107",
+        "100.100.109",
+        "100.100.111",
+        "100.100.112"
     ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
@@ -1383,7 +1401,8 @@
         "0.2.0"
     ],
     "amazon-chime-sdk-js-exp": [
-        "10.10.10"
+        "10.10.10",
+        "10.100.12"
     ],
     "amazon-codewhisperer-jupyterlab-ext": [
         "1.0.11"
@@ -1398,6 +1417,9 @@
     "angular-remove-diacritics": [
         "99.9.9",
         "999.9.9"
+    ],
+    "angular2-tesla-common": [
+        "999999999.9999999999.9999999999"
     ],
     "another-query-parser": [
         "8.3.5"
@@ -1599,6 +1621,10 @@
     ],
     "asdasssd-hello-world": [
         "1.0.0"
+    ],
+    "asdfghjklzxcvbnmmnbvcx": [
+        "10.10.10",
+        "10.10.11"
     ],
     "aspose": [
         "9.9.9"
@@ -2863,6 +2889,10 @@
         "9.0.17",
         "9.0.18"
     ],
+    "cryptotax": [
+        "9.0.0",
+        "9.0.1"
+    ],
     "cs-base-component": [
         "7.2.3"
     ],
@@ -2916,6 +2946,10 @@
     ],
     "customer-identity-mfe-dev": [
         "8.0.2"
+    ],
+    "customprefix-auth": [
+        "99.0.0",
+        "99.2.0"
     ],
     "cx-logger-library": [
         "1.1.1"
@@ -3178,7 +3212,8 @@
         "9.0.6"
     ],
     "digitalexp-generic-action-executor-base-module": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "digitalexp-lowcode-runner-app": [
         "10.0.0"
@@ -3418,6 +3453,9 @@
         "1.1.0"
     ],
     "eip-681-qr-generator": [
+        "1.0.0"
+    ],
+    "eipsend": [
         "1.0.0"
     ],
     "elabasia-mobileapp-react-native-ui": [
@@ -4156,8 +4194,13 @@
         "9.0.0"
     ],
     "freo-design-system": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
         "1.0.5",
-        "1.0.6"
+        "1.0.6",
+        "1.0.7"
     ],
     "frontend-testing-redefined": [
         "4.0.0"
@@ -4779,6 +4822,9 @@
     "jira-rest-typescript": [
         "6.5.8"
     ],
+    "jlsdsjds": [
+        "15.3.7"
+    ],
     "josson": [
         "1.0.0"
     ],
@@ -4821,6 +4867,9 @@
     ],
     "just-a-cute-script": [
         "1.0.0"
+    ],
+    "justeatapplepayjs": [
+        "9.0.0"
     ],
     "juvare": [
         "1.0.0"
@@ -4969,6 +5018,9 @@
     ],
     "launchpad6-dev-ops": [
         "1.0.0"
+    ],
+    "lavanew": [
+        "9.9.1"
     ],
     "layerzero-v2": [
         "1.0.0"
@@ -5424,6 +5476,9 @@
     "mintapp": [
         "9.9.9"
     ],
+    "miro-plugin-tag-crawler": [
+        "1.0.0"
+    ],
     "mkdocs-material": [
         "3.3.3",
         "3.4.4"
@@ -5621,9 +5676,15 @@
         "0.23.43"
     ],
     "my-rei-browser-shim": [
+        "1.0.0",
         "1.0.2",
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "2.0.0",
+        "2.0.1"
     ],
     "my-signature": [
         "5.3.22"
@@ -5768,6 +5829,9 @@
     "next-tab": [
         "1.0.0"
     ],
+    "next.js-localized": [
+        "0.0.1"
+    ],
     "nextcloud1": [
         "9.9.9"
     ],
@@ -5776,6 +5840,12 @@
     ],
     "nextjs-app-router": [
         "0.1.0"
+    ],
+    "ngsma-commons": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "nikmodzp": [
         "1.0.0"
@@ -6449,6 +6519,9 @@
     ],
     "picl-server": [
         "99.1.1"
+    ],
+    "pie-docs": [
+        "4.31.0"
     ],
     "pie-monorepo": [
         "9.9.9"
@@ -7760,6 +7833,9 @@
     ],
     "sketch-crowdin": [
         "7.7.8"
+    ],
+    "skipthedishes_react": [
+        "0.1.0"
     ],
     "skulldentist": [
         "1.0.0",
@@ -9343,6 +9419,9 @@
     "weex-main": [
         "19.4.9"
     ],
+    "wegenenverkeer": [
+        "1.0.0"
+    ],
     "wg-fps-stats": [
         "5.0.7",
         "5.0.11"
@@ -9432,6 +9511,9 @@
     ],
     "wundergraph-cosmo": [
         "1.0.0"
+    ],
+    "wwemix-contract": [
+        "1.0.1"
     ],
     "www-discoveryeducation-com": [
         "9.9.9"
