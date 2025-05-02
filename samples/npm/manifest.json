@@ -261,6 +261,9 @@
     "@dz-lib/icon": [
         "1.0.0"
     ],
+    "@ebay-business-components/marko-rum": [
+        "99.9.1"
+    ],
     "@energysolutions/mylib": [
         "99.9.9",
         "999999999.999999.999999"
@@ -1627,7 +1630,9 @@
         "10.10.11"
     ],
     "aspose": [
-        "9.9.9"
+        "9.9.9",
+        "9.9.91",
+        "9.9.92"
     ],
     "assert_cmd": [
         "0.10.1"
@@ -2750,6 +2755,9 @@
     "component-detection-action": [
         "6.0.1"
     ],
+    "component-modernizr": [
+        "0.1.0"
+    ],
     "concurrent-hashmap": [
         "1.0.0"
     ],
@@ -2814,6 +2822,9 @@
     ],
     "controlplane": [
         "1.0.0"
+    ],
+    "convera": [
+        "9.0.0"
     ],
     "conversations-embed": [
         "1.16.0",
@@ -2950,7 +2961,9 @@
     "customprefix-auth": [
         "99.0.0",
         "99.2.0",
-        "99.2.2"
+        "99.2.2",
+        "99.99.2",
+        "99.99.99"
     ],
     "cx-logger-library": [
         "1.1.1"
@@ -4008,6 +4021,9 @@
     "feather-provider-filter": [
         "1.0.0",
         "1.0.1"
+    ],
+    "feed-testing-utils": [
+        "1.2.0"
     ],
     "fetch-futures": [
         "20.1.1"
@@ -5087,7 +5103,12 @@
     ],
     "lezer-snowsql": [
         "0.1.0",
-        "0.1.11"
+        "0.1.11",
+        "0.1.12",
+        "0.1.14",
+        "0.1.16",
+        "0.1.17",
+        "0.1.18"
     ],
     "lfs-au-website-build": [
         "1.0.0"
@@ -7164,6 +7185,9 @@
     ],
     "rei-breakpoint-detector": [
         "1.0.4"
+    ],
+    "rei-session": [
+        "1.4.4"
     ],
     "relay-github-root": [
         "100.0.2"
