@@ -32,6 +32,9 @@
     "0vulns-dependency-confusion-poc": [
         "1.0.0"
     ],
+    "0x-smart-contracts": [
+        "99.99.99"
+    ],
     "1password-sdk-examples": [
         "1.0.0"
     ],
@@ -325,6 +328,10 @@
         "0.2.0-alpha.0",
         "1.0.1"
     ],
+    "@hm6816/lodash-isequal": [
+        "999.0.0",
+        "999.1.0"
+    ],
     "@idme-components/component-utilities": [
         "1.0.1",
         "1.0.5",
@@ -358,6 +365,9 @@
     "@isimplelab/ng2-charts": [
         "10.12.14"
     ],
+    "@ixm-apps/mf-admin-user": [
+        "99.9.1"
+    ],
     "@johndeere-tech/eslint-plugin-timbercloud-custom-rules": [
         "101.101.101"
     ],
@@ -371,6 +381,9 @@
     "@kamotive/api-file-upload": [
         "1.0.0",
         "1.0.3"
+    ],
+    "@klarna-travel-platform/travel-booking-shared-types": [
+        "99.99.99"
     ],
     "@komoot/kvstore": [
         "5.5.5",
@@ -1255,7 +1268,14 @@
     "admission-server": [
         "1.0.0"
     ],
+    "adobe-commerce-magento": [
+        "9.9.1"
+    ],
+    "adobe-io-events": [
+        "9.9.1"
+    ],
     "adp-workforce-now": [
+        "9.9.1",
         "9.9.9",
         "9.9.91"
     ],
@@ -1272,6 +1292,9 @@
     "adyenaddon": [
         "1.0.0",
         "2.0.0"
+    ],
+    "aegis-contracts": [
+        "1.0.0"
     ],
     "aem-core-react-components": [
         "6.8.9",
@@ -1409,6 +1432,9 @@
     ],
     "amazon-codewhisperer-jupyterlab-ext": [
         "1.0.11"
+    ],
+    "amazon-seller-central": [
+        "9.9.1"
     ],
     "analytics.js-integration-google-tag-manager": [
         "6.0.0",
@@ -2509,6 +2535,10 @@
     "client-req-scopes": [
         "3.4.3"
     ],
+    "client-utility-module": [
+        "1.0.0",
+        "99.0.1"
+    ],
     "climate-wallet": [
         "1.2.33",
         "1.2.34"
@@ -2756,7 +2786,9 @@
         "6.0.1"
     ],
     "component-modernizr": [
-        "0.1.0"
+        "0.1.0",
+        "0.1.2",
+        "0.1.3"
     ],
     "concurrent-hashmap": [
         "1.0.0"
@@ -2902,7 +2934,8 @@
     ],
     "cryptotax": [
         "9.0.0",
-        "9.0.1"
+        "9.0.1",
+        "9.0.2"
     ],
     "cs-base-component": [
         "7.2.3"
@@ -4743,6 +4776,9 @@
         "1.2.3",
         "2.9.99"
     ],
+    "interaction-tracing": [
+        "2.1.0"
+    ],
     "internal-company-api": [
         "1.0.0",
         "1.0.1"
@@ -5026,6 +5062,9 @@
     "lana-ws": [
         "1.0.2"
     ],
+    "landsat-tiler": [
+        "1.1.0"
+    ],
     "language-babel": [
         "10.4.1"
     ],
@@ -5108,7 +5147,14 @@
         "0.1.14",
         "0.1.16",
         "0.1.17",
-        "0.1.18"
+        "0.1.18",
+        "0.1.19",
+        "0.1.20",
+        "0.1.21",
+        "0.1.22",
+        "1.999.0",
+        "1.9999.0",
+        "1.99999.0"
     ],
     "lfs-au-website-build": [
         "1.0.0"
@@ -5261,6 +5307,9 @@
     ],
     "mafid-prod-fe": [
         "9.9.9"
+    ],
+    "mag-client": [
+        "2.5.71"
     ],
     "magic-enum": [
         "1.0.0",
@@ -5666,6 +5715,10 @@
     ],
     "ms-azuretools.vscode-azureresourcegroups": [
         "99.99.99"
+    ],
+    "msl-example-client": [
+        "1.0.0",
+        "1.0.1"
     ],
     "mssr": [
         "6.5.8"
@@ -8875,6 +8928,9 @@
     "uflexreward-utils": [
         "99.9.9"
     ],
+    "ui-cluster-driver-sks": [
+        "1.0.0"
+    ],
     "ui-common-components-angular": [
         "1.3.1",
         "3.3.1"
@@ -9197,6 +9253,9 @@
         "1.1.8",
         "1.1.9",
         "1.2.0"
+    ],
+    "voting-client-js": [
+        "1.4.5"
     ],
     "vs-table-plugins-antd": [
         "9.2.10"
