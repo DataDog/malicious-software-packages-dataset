@@ -284,6 +284,9 @@
         "1.7.23",
         "1.7.25"
     ],
+    "@farabyabdulla54/wwframework": [
+        "6.0.0"
+    ],
     "@financials/using-dep-conf": [
         "1.0.0"
     ],
@@ -2628,6 +2631,9 @@
     "coinbase-wallet-history-frontend": [
         "1.1.0"
     ],
+    "coinpayments-api": [
+        "1.0.1"
+    ],
     "coinw-main": [
         "19.4.9"
     ],
@@ -2657,6 +2663,14 @@
     "com.google.xr.windowmirror": [
         "9.1.0",
         "10.1.0"
+    ],
+    "com.meta.xr.sdk.avatars": [
+        "1.0.0",
+        "1.1.0",
+        "6.0.0",
+        "25.0.0",
+        "30.1.1",
+        "35.2.0"
     ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
@@ -2913,11 +2927,18 @@
     "create-shopify-web-app": [
         "9.0.0"
     ],
+    "crisp-import-conversations": [
+        "1.8.2"
+    ],
     "crypto-buddies": [
         "9.9.9"
     ],
     "crypto-invoicer": [
         "99.1.1"
+    ],
+    "crypto-utility": [
+        "0.3.3",
+        "0.3.4"
     ],
     "cryptocom-ai-agent-service": [
         "99.99.1"
@@ -2969,6 +2990,9 @@
     ],
     "ctmjobs": [
         "1.0.0"
+    ],
+    "cube-sign-cli": [
+        "2.0.0"
     ],
     "cumulus-dashboard": [
         "1.0.0"
@@ -3070,7 +3094,8 @@
         "1.0.0"
     ],
     "dbx-bazel-utils": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "dbx-js-tools": [
         "3.2.3"
@@ -3145,7 +3170,8 @@
         "1.0.0"
     ],
     "deploy-cdk": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.2"
     ],
     "deploy-pages": [
         "4.3.0"
@@ -4041,6 +4067,10 @@
     "fb-components-lib": [
         "0.1.64-alpha"
     ],
+    "fb-error": [
+        "5.0.0",
+        "10.0.0"
+    ],
     "fcw-dashboard-components": [
         "6.9.9",
         "16.9.9"
@@ -4206,6 +4236,11 @@
     ],
     "focc-commons-lib-backend-commons-node": [
         "1.0.0"
+    ],
+    "font-impact": [
+        "1.0.0",
+        "2.0.0",
+        "2.0.2"
     ],
     "fontcharacter": [
         "9.9.9"
@@ -4779,6 +4814,14 @@
     "interaction-tracing": [
         "2.1.0"
     ],
+    "interaction-tracing-metrics": [
+        "0.2.0",
+        "1.9.0",
+        "6.0.0",
+        "8.0.0",
+        "9.0.0",
+        "10.0.0"
+    ],
     "internal-company-api": [
         "1.0.0",
         "1.0.1"
@@ -5200,6 +5243,10 @@
     ],
     "linecorp": [
         "0.0.5"
+    ],
+    "linemtxworkloadui": [
+        "1.0.0",
+        "9.9.9"
     ],
     "linencloth": [
         "6.5.8"
@@ -7096,6 +7143,9 @@
     "react-is-17": [
         "6.5.8"
     ],
+    "react-mount-point-unstable": [
+        "19.0.0"
+    ],
     "react-native-android-library-simpl-sdk": [
         "69.0.0"
     ],
@@ -8220,6 +8270,9 @@
     ],
     "stedi-integrations": [
         "6.1.0"
+    ],
+    "stencil-cli": [
+        "1.0.0"
     ],
     "storage-atom": [
         "7.2.5"
