@@ -193,6 +193,9 @@
     "@ccv2/web_automation_golden": [
         "0.1.2"
     ],
+    "@chat-components/common": [
+        "0.0.2"
+    ],
     "@chkpkit/box": [
         "99.99.89",
         "99.99.90",
@@ -1386,6 +1389,9 @@
         "1.2.0",
         "1.2.5"
     ],
+    "albatross-test2-module": [
+        "1.1.1"
+    ],
     "alchemy-asset-transfers-benchmark": [
         "2.0.0"
     ],
@@ -2187,6 +2193,9 @@
     ],
     "bug-bounttest": [
         "1.0.0"
+    ],
+    "bui-react-10": [
+        "11.2.0"
     ],
     "build-onchain-apps": [
         "1.0.0"
@@ -4008,7 +4017,8 @@
     "fake-linter-no-schema": [
         "99.2.0",
         "99.2.1",
-        "99.2.2"
+        "99.2.2",
+        "99.99.99"
     ],
     "fake-yaml": [
         "0.0.5"
