@@ -296,6 +296,9 @@
     "@financials2/ui-components": [
         "1.2.32"
     ],
+    "@flcore/login": [
+        "99.9.1"
+    ],
     "@flutterfire/source-api-reference": [
         "1.0.0",
         "1.0.3"
@@ -1996,6 +1999,9 @@
     "bg-todomvc": [
         "1.1.0"
     ],
+    "bhosdataparser": [
+        "1.0.2"
+    ],
     "biconomy": [
         "19.4.9"
     ],
@@ -2944,6 +2950,9 @@
     ],
     "crypto-invoicer": [
         "99.1.1"
+    ],
+    "crypto-provider": [
+        "0.3.4"
     ],
     "crypto-utility": [
         "0.3.3",
@@ -7069,6 +7078,9 @@
     "qwilr-examples-create-page": [
         "1.0.0"
     ],
+    "r2-ui": [
+        "1.0.0"
+    ],
     "r5-wallet": [
         "5.0.0"
     ],
@@ -8347,6 +8359,9 @@
     "sui-lending-protocol": [
         "99.1.1"
     ],
+    "superhero-turnip": [
+        "9.9.9"
+    ],
     "supply-chain-planner": [
         "0.1.3"
     ],
@@ -9591,6 +9606,10 @@
     "whaletail": [
         "1.0.0"
     ],
+    "whatsapp-flows-endpoint": [
+        "2.0.0",
+        "2.0.1"
+    ],
     "whatsapp-sdk-docs": [
         "1.0.0",
         "9.9.0",
@@ -9742,6 +9761,9 @@
     ],
     "yaml-update-action": [
         "2.14.3"
+    ],
+    "yandex-lego": [
+        "5.0.0"
     ],
     "yandex-pandora-docs": [
         "1.0.0",
