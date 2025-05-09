@@ -120,6 +120,9 @@
     "@aftersale/react-eva": [
         "1.1.1"
     ],
+    "@ai-document-translation/ui-core": [
+        "99.9.1"
+    ],
     "@al-ui/useappinsights": [
         "1.0.1"
     ],
@@ -667,6 +670,10 @@
     "@saferpay/react-library": [
         "5.9.2"
     ],
+    "@sage-org/fabric-ui-root-config": [
+        "99.9.0",
+        "99.9.1"
+    ],
     "@sas-dvr/internal-va-react-core": [
         "1.0.0",
         "132.0.0"
@@ -1179,6 +1186,9 @@
     "accessible-textbook-demo": [
         "99.1.1"
     ],
+    "ace-tools": [
+        "1.0.1"
+    ],
     "achalk-next": [
         "6.1.5"
     ],
@@ -1276,6 +1286,10 @@
     ],
     "admission-server": [
         "1.0.0"
+    ],
+    "adobe-appmeasurement": [
+        "99.9.0",
+        "99.9.1"
     ],
     "adobe-commerce-magento": [
         "9.9.1"
@@ -2159,6 +2173,9 @@
     ],
     "bqtop": [
         "1.0.0"
+    ],
+    "braze-cordova-sdk": [
+        "14.0.0"
     ],
     "braze-web-sdk": [
         "3.0.0"
@@ -4367,6 +4384,9 @@
     "gatsby-hampton-theme": [
         "1.0.0"
     ],
+    "gatsby-mars-pet-parent-journey--server": [
+        "1.0.0"
+    ],
     "gatsby-plugin-guru-export": [
         "5.2.1"
     ],
@@ -4553,6 +4573,10 @@
     ],
     "gutenberg-kit": [
         "1.0.0"
+    ],
+    "gx-npm-messenger-util": [
+        "99.9.0",
+        "99.9.1"
     ],
     "h5bp-docs": [
         "6.5.4"
@@ -5026,6 +5050,10 @@
     "kamino-modules": [
         "1.0.1",
         "1.0.2"
+    ],
+    "karansinghshergill": [
+        "1.0.2",
+        "1.0.3"
     ],
     "kcex-internal": [
         "19.4.9"
@@ -6381,6 +6409,9 @@
     ],
     "opensource.razorpay.dev": [
         "9.9.9"
+    ],
+    "opensource.ripple.com": [
+        "1.0.1"
     ],
     "openssl-node": [
         "1.0.0",
