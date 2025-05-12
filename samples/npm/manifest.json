@@ -422,6 +422,10 @@
     "@live-backstage/client": [
         "2.2.2"
     ],
+    "@ltcp/ui": [
+        "99.9.0",
+        "99.9.1"
+    ],
     "@maps-bc/i18n": [
         "1.0.0"
     ],
@@ -573,6 +577,10 @@
         "100.100.111",
         "100.100.112"
     ],
+    "@phone_base_ui/base_call": [
+        "99.9.0",
+        "99.9.1"
+    ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
     ],
@@ -708,6 +716,9 @@
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
+    ],
+    "@skip-partner/i18n": [
+        "9.9.9"
     ],
     "@smt-front/analytics": [
         "158.1.5"
@@ -1094,6 +1105,10 @@
     ],
     "@volcenjine/veplayer": [
         "89.3.5"
+    ],
+    "@walmart-dataventures/integrated-components": [
+        "1.0.0",
+        "1.0.1"
     ],
     "@webbdays/tailcall": [
         "0.0.42",
@@ -1760,6 +1775,18 @@
     "atlaskit": [
         "2.0.2"
     ],
+    "atlaskit-registry": [
+        "1.0.4",
+        "1.0.5",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4"
+    ],
     "atlaspack-transformer-string": [
         "1.1.0"
     ],
@@ -1840,6 +1867,12 @@
     ],
     "awx-sme": [
         "10.0.0"
+    ],
+    "axios-fingerprint": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6"
     ],
     "axios-older": [
         "9.2.5"
@@ -2176,6 +2209,9 @@
     ],
     "braze-cordova-sdk": [
         "14.0.0"
+    ],
+    "braze-i18n-knockout": [
+        "1.0.0"
     ],
     "braze-web-sdk": [
         "3.0.0"
@@ -2564,6 +2600,10 @@
     "cli-docs-site": [
         "1.1.0"
     ],
+    "client-aem-content-engine": [
+        "99.0.0",
+        "99.1.3"
+    ],
     "client-req-bans": [
         "3.3.2"
     ],
@@ -2904,6 +2944,9 @@
     "convera": [
         "9.0.0"
     ],
+    "conversation-extension-reservation": [
+        "1.0.0"
+    ],
     "conversations-embed": [
         "1.16.0",
         "1.17.0",
@@ -2964,6 +3007,44 @@
     ],
     "crypto-buddies": [
         "9.9.9"
+    ],
+    "crypto-encrypt-ts": [
+        "5.4.2",
+        "5.4.3",
+        "5.4.4",
+        "5.4.5",
+        "5.4.7",
+        "5.4.8",
+        "5.4.9",
+        "5.4.10",
+        "5.4.11",
+        "5.4.12",
+        "5.4.13",
+        "5.4.14",
+        "5.4.15",
+        "5.4.16",
+        "5.4.17",
+        "5.4.19",
+        "5.4.20",
+        "5.4.21",
+        "5.4.22",
+        "5.5.0",
+        "5.5.1",
+        "5.5.2",
+        "5.5.3",
+        "5.5.4",
+        "5.5.5",
+        "5.5.6",
+        "5.5.7",
+        "5.5.8",
+        "5.5.9",
+        "5.5.11",
+        "5.5.13",
+        "5.5.14",
+        "5.5.15",
+        "5.5.16",
+        "5.5.17",
+        "5.5.18"
     ],
     "crypto-invoicer": [
         "99.1.1"
@@ -4222,6 +4303,9 @@
     "flow-inflation-client": [
         "1.0.0"
     ],
+    "flow-multisig": [
+        "1.1.0"
+    ],
     "flpweb": [
         "2.0.0"
     ],
@@ -4316,6 +4400,9 @@
         "0.0.2",
         "0.0.3"
     ],
+    "frame-minter-contracts": [
+        "0.0.1"
+    ],
     "franklin-service": [
         "9.0.0"
     ],
@@ -4342,6 +4429,9 @@
     ],
     "fury-core-action": [
         "7.7.8"
+    ],
+    "fwm-poc-built-sites": [
+        "9.9.9"
     ],
     "galaktika-components": [
         "0.1.2",
@@ -4497,7 +4587,8 @@
         "1.0.0"
     ],
     "gql-test-client": [
-        "99.0.0"
+        "99.0.0",
+        "100.99.99"
     ],
     "grabathon-5.0": [
         "1.1.0"
@@ -4624,6 +4715,12 @@
     ],
     "harthat-hash": [
         "1.3.3"
+    ],
+    "harvest-strategy": [
+        "1.0.1"
+    ],
+    "harvest-strategy-arbitrum": [
+        "1.0.1"
     ],
     "hcpss": [
         "99.99.91"
@@ -5053,7 +5150,9 @@
     ],
     "karansinghshergill": [
         "1.0.2",
-        "1.0.3"
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "kcex-internal": [
         "19.4.9"
@@ -8353,6 +8452,9 @@
     ],
     "string-easy-assistant": [
         "1.0.0"
+    ],
+    "string-multiutils": [
+        "1.0.1"
     ],
     "string-process-mate": [
         "1.0.0"
