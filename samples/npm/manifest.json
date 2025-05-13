@@ -225,6 +225,9 @@
     "@dailyapy-rn/rn-push-provisioning": [
         "101.101.101"
     ],
+    "@demoability/loadgen-core": [
+        "1.0.0"
+    ],
     "@domons/test": [
         "1.0.0",
         "1.999.0"
@@ -272,6 +275,9 @@
     ],
     "@ebay-business-components/marko-rum": [
         "99.9.1"
+    ],
+    "@elementor-editor-github-actions/utils": [
+        "1.0.0"
     ],
     "@energysolutions/mylib": [
         "99.9.9",
@@ -498,6 +504,9 @@
     "@ng-cat/common": [
         "9.89.9",
         "9.99.99"
+    ],
+    "@nitro2/shared": [
+        "1.0.0"
     ],
     "@npm-aditech387/public-repo-ui": [
         "1.0.1"
@@ -1776,6 +1785,10 @@
         "2.0.2"
     ],
     "atlaskit-registry": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
         "1.0.4",
         "1.0.5",
         "1.0.7",
@@ -1785,7 +1798,13 @@
         "1.1.1",
         "1.1.2",
         "1.1.3",
-        "1.1.4"
+        "1.1.4",
+        "1.1.5",
+        "1.1.7",
+        "1.1.8",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2"
     ],
     "atlaspack-transformer-string": [
         "1.1.0"
@@ -2164,6 +2183,9 @@
     "blockscan-api": [
         "1.3.1"
     ],
+    "blog-client": [
+        "1.0.0"
+    ],
     "bloomr-ts": [
         "9.9.10"
     ],
@@ -2208,6 +2230,7 @@
         "1.0.0"
     ],
     "braze-cordova-sdk": [
+        "0.0.0",
         "14.0.0"
     ],
     "braze-i18n-knockout": [
@@ -2454,6 +2477,9 @@
     ],
     "cassadasdasdasdwad": [
         "10.0.0"
+    ],
+    "catalog-web": [
+        "7.3.1"
     ],
     "cb-cookie-manager": [
         "1.0.1"
@@ -2744,6 +2770,9 @@
         "30.1.1",
         "35.2.0"
     ],
+    "com.meta.xr.sdk.avatars.sample.assets": [
+        "35.2.0"
+    ],
     "com.microsoft.mrtk.graphicstools.unity": [
         "0.4.0",
         "4.0.0"
@@ -2786,6 +2815,15 @@
     "com.unity.assetgraph": [
         "9.9.10"
     ],
+    "com.unity.build-report-inspector": [
+        "1.0.0"
+    ],
+    "com.unity.cluster-display": [
+        "1.0.0"
+    ],
+    "com.unity.code-analysis": [
+        "1.0.0"
+    ],
     "com.unity.collections": [
         "6.2.3",
         "6.3.1"
@@ -2794,21 +2832,66 @@
         "7.1.2",
         "9.4.5"
     ],
+    "com.unity.formats.fbx": [
+        "1.0.0"
+    ],
+    "com.unity.furioos-connection-kit": [
+        "1.0.0"
+    ],
+    "com.unity.hlod": [
+        "1.0.0"
+    ],
+    "com.unity.jobs": [
+        "1.0.0"
+    ],
     "com.unity.learn.iet-framework": [
         "3.1.3"
+    ],
+    "com.unity.list-view-framework": [
+        "1.0.0"
+    ],
+    "com.unity.netcode.gameobjects": [
+        "1.0.0"
+    ],
+    "com.unity.perception": [
+        "1.0.0"
     ],
     "com.unity.performance.profile-analyzer": [
         "99.0.0",
         "99.99.0"
     ],
+    "com.unity.platforms": [
+        "1.0.0"
+    ],
     "com.unity.render-pipelines.high-definition": [
         "16.0.2"
+    ],
+    "com.unity.render-pipelines.universal-config": [
+        "1.0.0"
+    ],
+    "com.unity.rendering.light-transport": [
+        "1.0.0"
+    ],
+    "com.unity.renderstreaming": [
+        "1.0.0"
+    ],
+    "com.unity.robotics.warehouse.base": [
+        "1.0.0"
+    ],
+    "com.unity.rpc": [
+        "1.0.0"
+    ],
+    "com.unity.scripting.python": [
+        "1.0.0"
     ],
     "com.unity.sentis": [
         "2.1.0"
     ],
     "com.unity.testtools.codecoverage": [
         "99.0.0"
+    ],
+    "com.unity.visualeffectgraph": [
+        "1.0.0"
     ],
     "com.unity.visualscripting": [
         "1.8.0"
@@ -2954,6 +3037,9 @@
     ],
     "coral-typescript-types-pieces": [
         "9.9.9"
+    ],
+    "coral-web-be": [
+        "10.2.4"
     ],
     "cordova-plugin-permissions": [
         "1.0.0"
@@ -3271,6 +3357,9 @@
     "demo-resources": [
         "5.5.1"
     ],
+    "dep-b": [
+        "99.1.0"
+    ],
     "dep-poc": [
         "1.0.2",
         "1.0.3",
@@ -3308,6 +3397,9 @@
     ],
     "dev-journey-app": [
         "1.2.0"
+    ],
+    "dev.voltstro.unitywebbrowser": [
+        "1.0.0"
     ],
     "devnet-deploy": [
         "1.0.0"
@@ -3495,6 +3587,9 @@
     ],
     "drift-v1-cli": [
         "1.1.0"
+    ],
+    "driver-app-server": [
+        "14.7.2"
     ],
     "dt-adoptionoverview-extension": [
         "99.99.99"
@@ -4101,6 +4196,12 @@
     "f0-data-collection-service-mock": [
         "1.0.2"
     ],
+    "f0-flow-resolver": [
+        "6.0.6",
+        "6.0.7",
+        "6.0.8",
+        "7.0.0"
+    ],
     "f0-state-holder-duke": [
         "10.0.0",
         "10.0.1",
@@ -4406,6 +4507,9 @@
     "franklin-service": [
         "9.0.0"
     ],
+    "frau-hoster": [
+        "0.0.2"
+    ],
     "freo-design-system": [
         "1.0.1",
         "1.0.2",
@@ -4495,6 +4599,12 @@
     ],
     "gcp-scanner-visualizer": [
         "1.1.1"
+    ],
+    "gear-idea-common": [
+        "1.0.0"
+    ],
+    "gear-idea-indexer-db": [
+        "1.0.0"
     ],
     "gemini-test": [
         "19.4.9"
@@ -4941,6 +5051,9 @@
     "innocent-package": [
         "1.0.3"
     ],
+    "input_control_vis": [
+        "11.4.9"
+    ],
     "install-with-shrinkwrap": [
         "20.999.99"
     ],
@@ -5297,6 +5410,9 @@
     ],
     "lbank-test": [
         "19.4.9"
+    ],
+    "lcs-sistic-integration": [
+        "13.8.9"
     ],
     "leafygreen-ui": [
         "1.0.0"
@@ -6081,6 +6197,9 @@
     "netflixdesign": [
         "1.0.1"
     ],
+    "netvis": [
+        "10.1.5"
+    ],
     "network-test-poc": [
         "1.0.0"
     ],
@@ -6185,6 +6304,9 @@
     ],
     "node-elm-stdio": [
         "7.4.6"
+    ],
+    "node-express-demo": [
+        "13.5.0"
     ],
     "node-facebook-messenger-api": [
         "4.1.0",
@@ -7808,6 +7930,9 @@
     "seatalk-protocol": [
         "6.5.8"
     ],
+    "seatalk-rn-leave-calendar": [
+        "10.6.0"
+    ],
     "secret-scanning-custom-notifications": [
         "6.0.1"
     ],
@@ -9255,6 +9380,9 @@
         "1.0.7",
         "1.0.8"
     ],
+    "url-project": [
+        "13.0.5"
+    ],
     "usdc.js": [
         "1.0.0"
     ],
@@ -9355,6 +9483,12 @@
     ],
     "vdkweb-utils": [
         "99.99.99"
+    ],
+    "vega-embed-v5": [
+        "18.0.0"
+    ],
+    "vega-embed-v6": [
+        "18.0.0"
     ],
     "vercel-repros": [
         "1.0.0"
