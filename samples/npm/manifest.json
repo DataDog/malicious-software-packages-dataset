@@ -1037,6 +1037,10 @@
         "55.5.5",
         "55.5.6"
     ],
+    "@tribal-worldwide-london/fa-api-service": [
+        "5.0.0",
+        "99.0.0"
+    ],
     "@tsign/tsign-ui-doesnt-exisit": [
         "19.18.1337"
     ],
@@ -1496,6 +1500,9 @@
     "analytics.js-integration-google-tag-manager": [
         "6.0.0",
         "10.0.1"
+    ],
+    "andes-landings": [
+        "6.0.0"
     ],
     "angular-blockchain-wallet": [
         "1.0.0"
@@ -2004,6 +2011,9 @@
     "bagayaluzqdl159": [
         "1.0.2"
     ],
+    "bandwith-sdk": [
+        "6.0.0"
+    ],
     "bankingbundleserv": [
         "1.9.0",
         "1.20.0",
@@ -2081,6 +2091,9 @@
     ],
     "bengececipaketimdebu": [
         "1.2.7"
+    ],
+    "berga": [
+        "2.0.0"
     ],
     "besec": [
         "1.0.0"
@@ -2257,6 +2270,9 @@
     ],
     "bqtop": [
         "1.0.0"
+    ],
+    "br2s-ui-common-utils-02": [
+        "3.0.1"
     ],
     "braze-cordova-sdk": [
         "0.0.0",
@@ -2974,6 +2990,9 @@
     "compassrnsampleapp": [
         "9.9.9"
     ],
+    "compensation-calculator": [
+        "2.0.0"
+    ],
     "compiler-version": [
         "9.9.9"
     ],
@@ -3100,6 +3119,9 @@
     ],
     "core_plugin_route_timeouts": [
         "10.3.2"
+    ],
+    "coreapi-export-template": [
+        "1.0.0"
     ],
     "cortex-app-tutorial": [
         "11.0.21"
@@ -4271,7 +4293,8 @@
         "7.0.4",
         "7.0.5",
         "7.0.6",
-        "7.0.7"
+        "7.0.7",
+        "7.0.8"
     ],
     "f0-state-holder-duke": [
         "10.0.0",
@@ -4440,6 +4463,9 @@
     ],
     "firefox-ios": [
         "1.1.0"
+    ],
+    "firefox-screenshots": [
+        "1.0.0"
     ],
     "firefoxcolor": [
         "1.0.0"
@@ -5062,6 +5088,15 @@
     "id-assert-authz-grant-client": [
         "1.0.0"
     ],
+    "ideals-theming": [
+        "1.0.0"
+    ],
+    "ideals-utils": [
+        "1.0.2"
+    ],
+    "ideals-views": [
+        "1.0.0"
+    ],
     "identity-web": [
         "100.0.0",
         "100.0.2"
@@ -5282,6 +5317,9 @@
     ],
     "jira-rest-typescript": [
         "6.5.8"
+    ],
+    "jitsi-meet-sdk": [
+        "1.0.1"
     ],
     "jlsdsjds": [
         "15.3.7"
@@ -5945,6 +5983,9 @@
     ],
     "midle-contracts": [
         "1.0.1"
+    ],
+    "migrate-lol-account": [
+        "10.4.5"
     ],
     "migrate-npm-registry": [
         "2.0.0"
@@ -6879,6 +6920,9 @@
     "package-maintenance": [
         "1.1.0"
     ],
+    "packer-docs": [
+        "9.9.9"
+    ],
     "packs-starter": [
         "1.1.0"
     ],
@@ -7144,6 +7188,9 @@
     ],
     "podium-pride": [
         "1.0.0"
+    ],
+    "pog-ui-landings-library": [
+        "6.0.0"
     ],
     "pokedex-vue3": [
         "1.0.0"
@@ -7432,6 +7479,9 @@
         "1.1.1"
     ],
     "qlkube-docs": [
+        "2.0.0",
+        "2.0.1",
+        "2.0.2",
         "3.0.0"
     ],
     "qs-appbar-menus": [
@@ -8682,6 +8732,9 @@
         "9.9.10",
         "9.9.11"
     ],
+    "statewars": [
+        "14.4.2"
+    ],
     "staticdocs-starter": [
         "0.0.0"
     ],
@@ -8788,6 +8841,9 @@
     ],
     "symlink_lib": [
         "99.9.0"
+    ],
+    "symphony-binary-confusion-matrix": [
+        "99.1.0"
     ],
     "symphony-data-map": [
         "99.9.9",
@@ -9119,6 +9175,10 @@
     ],
     "themes-nunjucks-service": [
         "1.2.3"
+    ],
+    "this-is-test-module": [
+        "99.0.2",
+        "99.0.4"
     ],
     "thiserror": [
         "0.10.1"
@@ -10354,11 +10414,19 @@
     "zqdllqdz15975321": [
         "1.0.1"
     ],
+    "zr-react-custom-widget": [
+        "1.0.0"
+    ],
     "zuaxnull": [
         "9.9.9"
     ],
     "zzmaliciouspackage": [
         "1.0.0"
+    ],
+    "zzr-react-custom-widget": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "zztest82": [
         "1.0.1",
