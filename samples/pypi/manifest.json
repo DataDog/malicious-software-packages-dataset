@@ -2193,6 +2193,9 @@
         "912.6"
     ],
     "mxnet-cuxxx": [],
+    "myownpyfiglet": [
+        "0.0.1"
+    ],
     "myshellcode": [
         "0.1.0"
     ],
@@ -3290,6 +3293,10 @@
         "0.1.0"
     ],
     "rfquests": [],
+    "rich-figlet": [
+        "0.0.1",
+        "0.0.2"
+    ],
     "ripe-atlas-dyndns": [],
     "rl-vm-scheduling": [
         "93.6"
