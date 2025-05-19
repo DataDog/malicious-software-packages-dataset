@@ -93,6 +93,9 @@
     "@0xzyo/confutionrce": [
         "1.0.0"
     ],
+    "@abb-ux/commonux-web-components": [
+        "5.0.0"
+    ],
     "@abdallaeg/sap_access": [
         "0.0.0"
     ],
@@ -221,6 +224,9 @@
     ],
     "@copilot-web-widgets/common-core-sdk": [
         "2.100.0"
+    ],
+    "@cyb3rsh4ykh/neondatabase": [
+        "6.0.0"
     ],
     "@dailyapy-rn/rn-push-provisioning": [
         "101.101.101"
@@ -520,6 +526,12 @@
     "@od-react/od-react-test": [
         "1.0.0",
         "1.0.2"
+    ],
+    "@okdev/boiler_plate": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "@oldzeppelin/contract": [
         "99.99.99"
@@ -1125,6 +1137,7 @@
     "@walmart-dataventures/integrated-components": [
         "1.0.0",
         "1.0.1",
+        "1.3.5",
         "2.0.1"
     ],
     "@webbdays/tailcall": [
@@ -2216,6 +2229,10 @@
     "blacky-sheppoing": [
         "1.0.2"
     ],
+    "blahblahblah-definitely-not-a-real-package-name": [
+        "99.1.0",
+        "99.1.1"
+    ],
     "bll-cerberus": [
         "7.1.9"
     ],
@@ -2991,7 +3008,8 @@
         "9.9.9"
     ],
     "compensation-calculator": [
-        "2.0.0"
+        "2.0.0",
+        "2.0.1"
     ],
     "compiler-version": [
         "9.9.9"
@@ -3121,7 +3139,9 @@
         "10.3.2"
     ],
     "coreapi-export-template": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "cortex-app-tutorial": [
         "11.0.21"
@@ -3473,6 +3493,9 @@
     "dev.voltstro.unitywebbrowser": [
         "1.0.0"
     ],
+    "developer-bridge": [
+        "2.0.2"
+    ],
     "devnet-deploy": [
         "1.0.0"
     ],
@@ -3638,6 +3661,9 @@
     ],
     "doitoml": [
         "9.9.9"
+    ],
+    "dojo_10": [
+        "2.1.2"
     ],
     "donateweb": [
         "1.0.0",
@@ -4036,6 +4062,12 @@
     "eslint-plugin-highcharts": [
         "2.0.0"
     ],
+    "eslint-plugin-i18n-strings": [
+        "100.0.0",
+        "100.0.1",
+        "100.1.1",
+        "100.1.3"
+    ],
     "eslint-plugin-internal-playwright": [
         "6.5.8"
     ],
@@ -4190,6 +4222,19 @@
     "events-utils": [
         "1.0.0"
     ],
+    "evo-web": [
+        "100.0.0",
+        "100.0.1",
+        "100.0.2",
+        "100.0.3",
+        "100.0.5",
+        "100.0.6",
+        "100.0.7",
+        "100.0.9",
+        "100.0.10",
+        "100.0.11",
+        "100.0.12"
+    ],
     "evocataur": [
         "99.3.5"
     ],
@@ -4294,7 +4339,12 @@
         "7.0.5",
         "7.0.6",
         "7.0.7",
-        "7.0.8"
+        "7.0.8",
+        "7.0.9",
+        "7.0.10",
+        "7.0.11",
+        "7.0.12",
+        "7.0.13"
     ],
     "f0-state-holder-duke": [
         "10.0.0",
@@ -4465,7 +4515,9 @@
         "1.1.0"
     ],
     "firefox-screenshots": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "firefoxcolor": [
         "1.0.0"
@@ -5053,6 +5105,9 @@
     "hubot-hangouts": [
         "6.5.8"
     ],
+    "human-protocol": [
+        "1.99.99"
+    ],
     "hwidrefresh": [
         "1.0.0"
     ],
@@ -5092,6 +5147,7 @@
         "1.0.0"
     ],
     "ideals-utils": [
+        "1.0.0",
         "1.0.2"
     ],
     "ideals-views": [
@@ -5250,6 +5306,13 @@
         "1.0.0"
     ],
     "ionicaiosampleapp": [
+        "1.0.0"
+    ],
+    "ip-checker-bg": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "ip-logger-bg": [
         "1.0.0"
     ],
     "is-buffer-validator": [
@@ -5714,6 +5777,9 @@
     "logdna-agent": [
         "1.0.0"
     ],
+    "logging-plugin": [
+        "100.1.0"
+    ],
     "login-paypal": [
         "7.0.3",
         "7.0.6",
@@ -5754,6 +5820,9 @@
         "1.0.0"
     ],
     "lvbypasser": [
+        "1.0.0"
+    ],
+    "madddterialxtest": [
         "1.0.0"
     ],
     "mafid": [
@@ -5962,6 +6031,10 @@
     "mexc-internal": [
         "19.4.9"
     ],
+    "mfe-react-bridge": [
+        "99.0.0",
+        "99.0.1"
+    ],
     "mhnumjp": [
         "1.999.1",
         "1.999.2"
@@ -6145,6 +6218,9 @@
     "monorepo-release-cli": [
         "6.5.8"
     ],
+    "moonpay-sign": [
+        "0.2.0"
+    ],
     "moonpay-widget": [
         "1.1.0"
     ],
@@ -6208,6 +6284,18 @@
         "4.2.3",
         "4.2.5",
         "4.2.6"
+    ],
+    "muto-kaiju-log": [
+        "1.0.0"
+    ],
+    "muto-kaiju-npm": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3"
+    ],
+    "muto-kaiju-npm-native": [
+        "1.0.2",
+        "1.0.17332301461847"
     ],
     "muzeeglot": [
         "0.1.1"
@@ -6482,6 +6570,9 @@
     "node-request-ip": [
         "3.4.3"
     ],
+    "node-scoped-http-client": [
+        "2.0.0"
+    ],
     "node-server-sdk": [
         "9.9.9"
     ],
@@ -6579,6 +6670,23 @@
     ],
     "notification-center-admin": [
         "5.0.1"
+    ],
+    "novacredit-global": [
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.3.0",
+        "1.3.1",
+        "1.3.5",
+        "1.3.6",
+        "1.3.7"
+    ],
+    "novacredit-global2": [
+        "1.0.0",
+        "1.1.1",
+        "1.1.2"
     ],
     "npj4": [
         "1.0.1",
@@ -7198,6 +7306,10 @@
     "polaris-report": [
         "6.5.8"
     ],
+    "pootle": [
+        "9.9.9",
+        "9.9.10"
+    ],
     "pornhub": [
         "9.9.9"
     ],
@@ -7669,6 +7781,14 @@
     "react-zutils": [
         "1.0.1"
     ],
+    "react_code_format": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+    ],
     "reactnativecreativekitdemoo": [
         "0.0.2"
     ],
@@ -7755,6 +7875,9 @@
     ],
     "release-platform-utils": [
         "6.5.8"
+    ],
+    "reload-nucleus-views-on-compile": [
+        "10.10.10"
     ],
     "remix-kl-c646": [
         "1.0.0"
@@ -8328,6 +8451,9 @@
         "43.0.1",
         "43.0.5"
     ],
+    "sforce": [
+        "1.1.2"
+    ],
     "sg_personal_ui": [
         "100.0.1"
     ],
@@ -8664,6 +8790,9 @@
     ],
     "spinal-service-ticket": [
         "9.2.9"
+    ],
+    "spingroup": [
+        "6.0.0"
     ],
     "spirvls": [
         "0.0.7",
@@ -9589,6 +9718,13 @@
         "1.0.7",
         "1.0.8"
     ],
+    "urcheckin": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.7"
+    ],
     "url-project": [
         "13.0.5"
     ],
@@ -10189,6 +10325,9 @@
     ],
     "wt-fe-buz-utilities-url": [
         "1.0.0"
+    ],
+    "wtp-next": [
+        "9.9.9"
     ],
     "wundergraph-cosmo": [
         "1.0.0"
