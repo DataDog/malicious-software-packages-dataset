@@ -94,13 +94,17 @@
         "1.0.0"
     ],
     "@abb-ux/commonux-web-components": [
-        "5.0.0"
+        "5.0.0",
+        "100.0.0"
     ],
     "@abdallaeg/sap_access": [
         "0.0.0"
     ],
     "@accesshsc/access-forms-engine": [
         "0.999.999"
+    ],
+    "@act-platform/app-sdk": [
+        "99.9.1"
     ],
     "@add-wallet-exchange/import-type": [
         "1.0.0"
@@ -232,7 +236,8 @@
         "101.101.101"
     ],
     "@demoability/loadgen-core": [
-        "1.0.0"
+        "1.0.0",
+        "1.3.30"
     ],
     "@domons/test": [
         "1.0.0",
@@ -1847,7 +1852,8 @@
         "1.2.0",
         "1.2.1",
         "1.2.2",
-        "1.2.4"
+        "1.2.4",
+        "99.0.2"
     ],
     "atlaspack-transformer-string": [
         "1.1.0"
@@ -2507,6 +2513,9 @@
     ],
     "carcandofilex": [
         "1.0.0"
+    ],
+    "cardbuild": [
+        "99.0.2"
     ],
     "careers-job-detail": [
         "7.1.9"
@@ -3170,6 +3179,9 @@
     ],
     "create-shopify-web-app": [
         "9.0.0"
+    ],
+    "creditkarma-us": [
+        "99.0.2"
     ],
     "crisp-import-conversations": [
         "1.8.2"
@@ -4031,6 +4043,11 @@
     "eslint-config-video-supply": [
         "5.4.3"
     ],
+    "eslint-format": [
+        "1.0.6",
+        "1.0.7",
+        "1.0.8"
+    ],
     "eslint-formatter-richhtml": [
         "5.4.3"
     ],
@@ -4277,8 +4294,24 @@
     "example-app-node": [
         "1.0.0"
     ],
+    "example-arc-server": [
+        "100.0.1",
+        "100.0.2"
+    ],
+    "example-arc-server-request-local": [
+        "100.0.1",
+        "100.0.2"
+    ],
+    "example-marko-webpack": [
+        "100.0.1",
+        "100.0.2"
+    ],
     "example-yarn": [
         "1.0.0"
+    ],
+    "examples-formic": [
+        "100.0.1",
+        "100.0.2"
     ],
     "exclusivemaximum": [
         "1.0.0"
@@ -4319,6 +4352,12 @@
     "express-v4": [
         "1.0.0"
     ],
+    "expressjs-session": [
+        "2.0.0",
+        "3.0.0",
+        "4.0.0",
+        "4.4.0"
+    ],
     "extendmine": [
         "3.0.4"
     ],
@@ -4344,7 +4383,8 @@
         "7.0.10",
         "7.0.11",
         "7.0.12",
-        "7.0.13"
+        "7.0.13",
+        "7.0.14"
     ],
     "f0-state-holder-duke": [
         "10.0.0",
@@ -4691,6 +4731,9 @@
         "9.9.10",
         "9.9.11",
         "9.10.0"
+    ],
+    "fxa-shared-110n": [
+        "1.0.0"
     ],
     "galaktika-components": [
         "0.1.2",
@@ -5543,6 +5586,9 @@
     "kucoin-test": [
         "19.4.9"
     ],
+    "kucoin-universal-sdk-example": [
+        "2.0.2"
+    ],
     "kuvvet_poc": [
         "1.0.1",
         "1.0.2",
@@ -6230,6 +6276,11 @@
     ],
     "morpho-blue-irm": [
         "99.99.1"
+    ],
+    "morrrisjs": [
+        "20.0.0",
+        "31.0.0",
+        "32.0.0"
     ],
     "move-binary-format-wasm": [
         "1.1.0",
@@ -7092,6 +7143,9 @@
     ],
     "patternfly-build": [
         "4.0.0"
+    ],
+    "payment-gateway-internal": [
+        "99.0.2"
     ],
     "payment-integration-template": [
         "1.1.0"
@@ -9738,6 +9792,9 @@
     "usedin1calculatedmember.js": [
         "1.0.0"
     ],
+    "user-auth-prod": [
+        "99.0.2"
+    ],
     "user-journey-tracker": [
         "1.0.0",
         "11.9.9",
@@ -9966,6 +10023,10 @@
     ],
     "vscode-dotnet-sdk": [
         "1.0.0"
+    ],
+    "vscode-oja": [
+        "100.0.2",
+        "100.0.3"
     ],
     "vscode-ps1": [
         "9.9.9"
