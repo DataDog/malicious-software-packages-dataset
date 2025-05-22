@@ -105,7 +105,8 @@
         "0.999.999"
     ],
     "@act-platform/app-sdk": [
-        "99.9.1"
+        "99.9.1",
+        "99.9.2"
     ],
     "@add-wallet-exchange/import-type": [
         "1.0.0"
@@ -611,6 +612,12 @@
         "99.9.0",
         "99.9.1"
     ],
+    "@pixui-dev/pxw": [
+        "0.1.16",
+        "0.1.18",
+        "0.1.19",
+        "0.1.20"
+    ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
     ],
@@ -689,6 +696,13 @@
     ],
     "@rspack/core": [
         "1.1.7"
+    ],
+    "@safecorp/one-ui": [
+        "6.23.1",
+        "6.24.0",
+        "6.24.3",
+        "6.24.5",
+        "6.24.6"
     ],
     "@saferpay/components": [
         "5.9.2"
@@ -2686,6 +2700,9 @@
     "chkpkit": [
         "99.99.99"
     ],
+    "choosetreasure": [
+        "14.8.4"
+    ],
     "chrome-api-utils": [
         "1.1.0"
     ],
@@ -3165,6 +3182,9 @@
     ],
     "core-registry-dashboardx": [
         "1.0.2"
+    ],
+    "core_plugin_b": [
+        "11.4.8"
     ],
     "core_plugin_route_timeouts": [
         "10.3.2"
@@ -4072,7 +4092,13 @@
     "eslint-format": [
         "1.0.6",
         "1.0.7",
-        "1.0.8"
+        "1.0.8",
+        "1.0.9",
+        "1.1.0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4"
     ],
     "eslint-formatter-richhtml": [
         "5.4.3"
@@ -4171,6 +4197,9 @@
     ],
     "esm-appdynamics-grafana-react-datasource": [
         "2.0.0"
+    ],
+    "estatement-fe": [
+        "14.9.8"
     ],
     "eth-austt": [
         "4.1.2"
@@ -4768,6 +4797,9 @@
     "fxa-shared-110n": [
         "1.0.0"
     ],
+    "gacha-box": [
+        "13.0.0"
+    ],
     "galaktika-components": [
         "0.1.2",
         "2.2.2"
@@ -5012,6 +5044,9 @@
     ],
     "gui_v2": [
         "9.9.9"
+    ],
+    "gunbazaar": [
+        "11.1.3"
     ],
     "gurubu": [
         "1.1.1",
@@ -5638,6 +5673,9 @@
         "1.0.4",
         "1.0.5"
     ],
+    "kyutai-client": [
+        "13.6.9"
+    ],
     "label-merge-conflicts-action": [
         "9.9.9"
     ],
@@ -5887,8 +5925,14 @@
     "lol-project-2017": [
         "12.1.2"
     ],
+    "lol-rp-raffle": [
+        "12.2.2"
+    ],
     "lol1234": [
         "1.1.0"
+    ],
+    "lolnews": [
+        "14.2.7"
     ],
     "lookerbot": [
         "9.9.9"
@@ -6184,6 +6228,9 @@
     ],
     "miro-plugin-tag-crawler": [
         "1.0.0"
+    ],
+    "mix-hub-web": [
+        "11.5.6"
     ],
     "mkdocs-material": [
         "3.3.3",
@@ -7065,6 +7112,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "osd_tp_custom_visualizations": [
+        "12.2.3"
+    ],
     "osm-legal-speed": [
         "1.0.1"
     ],
@@ -7295,6 +7345,9 @@
     ],
     "percy-cake-electron-app": [
         "9.9.9"
+    ],
+    "performance-appraisal": [
+        "13.1.3"
     ],
     "peritter": [
         "1.0.0",
@@ -8129,6 +8182,9 @@
         "1.0.4",
         "1.0.5",
         "1.0.7"
+    ],
+    "routing-config": [
+        "10.9.2"
     ],
     "rpsreadserv": [
         "3.7.3",
@@ -9402,6 +9458,9 @@
         "5.22.0",
         "7.5.0",
         "9.2.0"
+    ],
+    "tgi-fe": [
+        "10.6.1"
     ],
     "the-integrator": [
         "0.0.1",
