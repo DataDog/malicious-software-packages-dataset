@@ -451,6 +451,10 @@
     "@maps-bc/runtime": [
         "1.0.0"
     ],
+    "@mc-donate/donateweb": [
+        "40.0.0",
+        "40.0.1"
+    ],
     "@medialink-ml/yuzu-widget": [
         "2.0.2"
     ],
@@ -700,6 +704,7 @@
     "@safecorp/one-ui": [
         "6.23.1",
         "6.24.0",
+        "6.24.2",
         "6.24.3",
         "6.24.5",
         "6.24.6"
@@ -1486,6 +1491,9 @@
     "alchemy-web3-webpack-example": [
         "1.1.0"
     ],
+    "all-star-2019": [
+        "14.8.3"
+    ],
     "all.en.js": [
         "1.0.0",
         "1.0.3",
@@ -1807,6 +1815,10 @@
     "atlantis-api": [
         "1.0.0",
         "1.2.1"
+    ],
+    "atlas-global-npm": [
+        "9.9.99",
+        "9.10.0"
     ],
     "atlas-query-editor": [
         "1.1.1",
@@ -2833,6 +2845,9 @@
     "codeql-sarif-security-standard-annotator": [
         "0.0.1"
     ],
+    "codeword": [
+        "12.9.7"
+    ],
     "codm-onlinematch": [
         "15.2.6"
     ],
@@ -3223,6 +3238,9 @@
     "create-shopify-web-app": [
         "9.0.0"
     ],
+    "credit-risk": [
+        "15.5.0"
+    ],
     "creditkarma-us": [
         "99.0.2"
     ],
@@ -3411,6 +3429,9 @@
     ],
     "data-planning-models": [
         "9.9.9"
+    ],
+    "data-portal-dwh-apps-fe": [
+        "11.8.8"
     ],
     "data-strategy": [
         "1.0.0"
@@ -5031,6 +5052,7 @@
         "9.9.9"
     ],
     "grpc-js-repository": [
+        "0.0.0-alpha1",
         "1.2.1"
     ],
     "grpclb-zk": [
@@ -6098,6 +6120,9 @@
         "4.3.0",
         "4.3.1"
     ],
+    "mbm-dgacha": [
+        "15.3.0"
+    ],
     "mcrodoasp.net": [
         "1.0.0"
     ],
@@ -6559,6 +6584,9 @@
         "0.0.1",
         "0.0.2",
         "1.11.2"
+    ],
+    "nb-tsconfig": [
+        "10.0.0"
     ],
     "ne-captcha": [
         "99.11.18"
@@ -7545,6 +7573,9 @@
     "prettyphoto": [
         "1.0.0"
     ],
+    "primereact-sass-theme": [
+        "100.0.0"
+    ],
     "pring-payment-demo-backend": [
         "299.2.1",
         "299.12.1"
@@ -7793,6 +7824,9 @@
     "r5-zknet-wallet": [
         "0.1.1"
     ],
+    "raffle-node": [
+        "11.3.0"
+    ],
     "ragbot-starter": [
         "1.0.0"
     ],
@@ -8018,6 +8052,9 @@
     "refocus-sgt-trust1": [
         "2.2.0",
         "2.2.1"
+    ],
+    "refreshrewards": [
+        "13.3.0"
     ],
     "reftest-helper": [
         "8.4.1"
@@ -8601,6 +8638,11 @@
     "service-catalog-copilot": [
         "100.100.1337"
     ],
+    "service-config-provider": [
+        "0.1.0",
+        "1.3.0",
+        "2.0.0"
+    ],
     "servicecore-response-handler": [
         "2.3.0",
         "2.5.0",
@@ -8895,6 +8937,9 @@
     "some-error-logging-package": [
         "1.0.1"
     ],
+    "some-private-package": [
+        "99.0.0"
+    ],
     "sovryn": [
         "0.0.0"
     ],
@@ -8984,6 +9029,9 @@
     ],
     "sprocket-webapp-poc": [
         "99.99.99"
+    ],
+    "sps": [
+        "10.8.5"
     ],
     "squirreldisk-tauri": [
         "0.0.3"
@@ -9295,6 +9343,9 @@
     ],
     "template-vue-js": [
         "99.11.18"
+    ],
+    "tenslots": [
+        "11.3.7"
     ],
     "tes4343rt4t": [
         "2.0.0"
@@ -9740,6 +9791,10 @@
     "typespublishercontenthash": [
         "99.99.99"
     ],
+    "ua-aio-h5-client": [
+        "9.9.9",
+        "9.9.10"
+    ],
     "ua.unitedforbusiness.frontend": [
         "9.9.9",
         "9.9.12"
@@ -10065,6 +10120,9 @@
     ],
     "vis-trees": [
         "89.3.5"
+    ],
+    "vishal-plugin-flipper": [
+        "1.0.0"
     ],
     "visitor-targeting": [
         "1.0.0",
@@ -10517,6 +10575,9 @@
     "wrap.scrt.network": [
         "0.0.1",
         "0.0.3"
+    ],
+    "wsticket": [
+        "15.9.9"
     ],
     "wt-fe-buz-business-stoplimit": [
         "2.0.18"
