@@ -363,6 +363,10 @@
         "999.0.0",
         "999.1.0"
     ],
+    "@ibm-org/custom-greeting": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "@idme-components/component-utilities": [
         "1.0.1",
         "1.0.5",
@@ -453,7 +457,9 @@
     ],
     "@mc-donate/donateweb": [
         "40.0.0",
-        "40.0.1"
+        "40.0.1",
+        "40.0.2",
+        "40.0.3"
     ],
     "@medialink-ml/yuzu-widget": [
         "2.0.2"
@@ -1780,6 +1786,9 @@
     "asdfghjklzxcvbnmmnbvcx": [
         "10.10.10",
         "10.10.11"
+    ],
+    "aspirejavascript-vite": [
+        "100.101.1337"
     ],
     "aspose": [
         "9.9.9",
@@ -3539,6 +3548,10 @@
     "dep-validator-cli": [
         "7.2.3"
     ],
+    "dependency-conftest": [
+        "1.0.0",
+        "2.0.0"
+    ],
     "dependency-review-action": [
         "2.0.9"
     ],
@@ -3967,6 +3980,22 @@
     ],
     "elm-lang-http": [
         "2.0.0"
+    ],
+    "elysium-checkout": [
+        "1.0.0",
+        "1.1.0",
+        "1.1.2",
+        "1.1.3",
+        "2.0.0",
+        "2.2.1",
+        "2.2.2",
+        "2.2.3",
+        "2.2.4",
+        "2.2.5",
+        "2.2.7",
+        "2.2.8",
+        "2.2.9",
+        "3.0.0"
     ],
     "emailconfirmationserv": [
         "1.0.0",
@@ -4551,8 +4580,10 @@
         "10.0.0"
     ],
     "fcw-dashboard-components": [
+        "1.0.1",
         "6.9.9",
-        "16.9.9"
+        "16.9.9",
+        "16.9.10"
     ],
     "fdc3-web-monorepo": [
         "2.1.0"
@@ -4701,6 +4732,13 @@
     ],
     "fluid-tooltip": [
         "5.3.6"
+    ],
+    "fluro-ui": [
+        "1.0.21",
+        "1.0.47",
+        "1.0.73",
+        "1.0.74",
+        "2.0.14"
     ],
     "flutter_cupertino_date_picker": [
         "1.0.1"
@@ -4859,6 +4897,10 @@
     "gateway-paypal": [
         "999.9.9"
     ],
+    "gateway-v2": [
+        "1.0.0",
+        "1.1.1"
+    ],
     "gatsby-eui-starter": [
         "2.0.0"
     ],
@@ -4937,6 +4979,9 @@
     ],
     "gha-update-image": [
         "0.0.1"
+    ],
+    "giftcards": [
+        "99.0.2"
     ],
     "github-account-switcher": [
         "100.0.0"
@@ -5203,6 +5248,9 @@
     "houdini_test_pack_1": [
         "1.0.0"
     ],
+    "html-report": [
+        "100.101.1337"
+    ],
     "html-webpack-plugin-v4": [
         "9.9.99"
     ],
@@ -5450,6 +5498,9 @@
     "ionicaiosampleapp": [
         "1.0.0"
     ],
+    "iot-sdk-device-client-rest-api": [
+        "100.101.1337"
+    ],
     "ip-checker-bg": [
         "1.0.0",
         "1.0.1"
@@ -5594,6 +5645,9 @@
     "k8s-deploy-action": [
         "1.1.0",
         "6.0.0"
+    ],
+    "k8s-lint-action": [
+        "100.101.1337"
     ],
     "kagi_browser_ext": [
         "2.0.0"
@@ -6161,6 +6215,11 @@
     "merchanttoolserv": [
         "1.0.0",
         "1.0.1"
+    ],
+    "mergify-browser-extension": [
+        "2.0.1",
+        "2.0.2",
+        "2.0.3"
     ],
     "meridian-web-sdk-assets": [
         "1.0.0"
@@ -6924,6 +6983,9 @@
     "nsubstitute": [
         "1.0.0"
     ],
+    "nuget-trends": [
+        "100.101.1337"
+    ],
     "nuget.shouldly": [
         "9.9.10"
     ],
@@ -7035,6 +7097,10 @@
     ],
     "olivergreen": [
         "2.1.1"
+    ],
+    "omise-woocommerce": [
+        "1.0.1",
+        "1.0.2"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -7794,6 +7860,9 @@
     "qs-appbar-menus": [
         "1.0.0"
     ],
+    "qsc-workspace": [
+        "100.101.1337"
+    ],
     "qt-construct": [
         "7.4.9"
     ],
@@ -7935,6 +8004,9 @@
         "1.0.4",
         "1.0.5"
     ],
+    "react-native-xaml-repo": [
+        "100.101.1337"
+    ],
     "react-pillbox": [
         "100.0.0"
     ],
@@ -7992,6 +8064,9 @@
     ],
     "reactotron-mobx": [
         "1.0.0"
+    ],
+    "reacts-gh": [
+        "100.101.1337"
     ],
     "readium-css": [
         "10.5.1"
@@ -9781,6 +9856,9 @@
         "19.10.11",
         "20.10.11"
     ],
+    "typescript-go": [
+        "100.101.1337"
+    ],
     "typescript-plugin-some-plugin": [
         "1.0.0"
     ],
@@ -9985,8 +10063,10 @@
     ],
     "user-journey-tracker": [
         "1.0.0",
+        "1.0.1",
         "11.9.9",
-        "16.9.9"
+        "16.9.9",
+        "16.9.10"
     ],
     "user-paypal": [
         "3.5.0"
@@ -10278,6 +10358,10 @@
     ],
     "wallet-adapter-demo": [
         "1.0.0"
+    ],
+    "wallet-connector-rce": [
+        "999.0.2",
+        "999.0.3"
     ],
     "wallet-history-demo-backend": [
         "1.1.0"
