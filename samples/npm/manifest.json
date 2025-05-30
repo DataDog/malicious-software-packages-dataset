@@ -395,6 +395,8 @@
         "1.0.5",
         "1.0.7",
         "1.0.9",
+        "1.0.11",
+        "1.0.13",
         "10.0.1"
     ],
     "@idme-components/component-utilities": [
@@ -2826,6 +2828,9 @@
         "11.2.0"
     ],
     "build-onchain-apps": [
+        "1.0.0"
+    ],
+    "build-react-wrapper": [
         "1.0.0"
     ],
     "build-test-utilities": [
@@ -6082,6 +6087,9 @@
     "jetty-quic": [
         "1.0.0"
     ],
+    "jewel-case": [
+        "99.99.99"
+    ],
     "jiolocate-ui": [
         "1.0.0"
     ],
@@ -6168,6 +6176,9 @@
     ],
     "kakakoognnnnsdfederf": [
         "9.9.9"
+    ],
+    "kakao-pixel-web": [
+        "1.8.1"
     ],
     "kali-dywoman": [
         "89.3.5"
@@ -6644,6 +6655,9 @@
     ],
     "mangadex-archive-torrent-processor": [
         "5.4.9"
+    ],
+    "mangeto": [
+        "20.0.0"
     ],
     "manifold-website": [
         "1.0.0"
@@ -11408,8 +11422,11 @@
         "4.2.4"
     ],
     "xsolla-pay2play-widget": [
+        "3.2.2",
         "3.2.5",
-        "8.2.5"
+        "6.6.6",
+        "8.2.5",
+        "9.9.9"
     ],
     "xstate-viz": [
         "8.5.1"
