@@ -208,6 +208,11 @@
     "@chat-components/common": [
         "0.0.2"
     ],
+    "@chatbot-builder/core": [
+        "10.1.1",
+        "10.1.2",
+        "10.1.3"
+    ],
     "@chkpkit/box": [
         "99.99.89",
         "99.99.90",
@@ -340,6 +345,9 @@
         "1.999.2"
     ],
     "@fms-common-biz/basic-react": [
+        "99.9.0"
+    ],
+    "@fronteg/react": [
         "99.9.0"
     ],
     "@g.genie/api-demo-sample-lib4": [
@@ -484,6 +492,11 @@
         "99.9.0",
         "99.9.1"
     ],
+    "@majidalfuttaim/maf-ui": [
+        "9.9.9",
+        "9.9.10",
+        "9.9.11"
+    ],
     "@maps-bc/i18n": [
         "1.0.0"
     ],
@@ -564,6 +577,9 @@
     "@mp-food/knapsack": [
         "1.0.0"
     ],
+    "@mpsemea/fspay-smartpay-logging-web-sdk": [
+        "10.0.0"
+    ],
     "@msidentity/authx": [
         "1.0.0",
         "1.0.1"
@@ -643,6 +659,10 @@
         "1.0.5",
         "1.0.6",
         "5.3.2"
+    ],
+    "@pentestleg/core": [
+        "10.1.1",
+        "10.1.2"
     ],
     "@persona-builder/client": [
         "158.1.5"
@@ -813,6 +833,26 @@
     "@sas-dvr/nova-graph": [
         "1.0.0",
         "132.0.0"
+    ],
+    "@seo-frontend-components/blog-schema": [
+        "1.999.0",
+        "1.999.1",
+        "1.999.2"
+    ],
+    "@seo-frontend-components/card-blog-carousel": [
+        "1.999.0",
+        "1.999.1",
+        "1.999.2"
+    ],
+    "@seo-frontend-components/card-blog-carousel-mobile": [
+        "1.999.0",
+        "1.999.1",
+        "1.999.2"
+    ],
+    "@seo-frontend-components/card-blog-entry": [
+        "1.999.0",
+        "1.999.1",
+        "1.999.2"
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
@@ -1161,6 +1201,9 @@
     "@umreg/zxcvbn": [
         "10.10.12"
     ],
+    "@unkn0wnartist/h1-poc-test": [
+        "1.0.1"
+    ],
     "@usaa-grp-ent-conv-platform/usaa": [
         "1.1.2",
         "1.1.3",
@@ -1262,6 +1305,9 @@
         "1.0.7",
         "1.0.9",
         "1.0.10"
+    ],
+    "@worksmobile/wmeet-sdk": [
+        "99.9.0"
     ],
     "@zkasm/zkevm-rom": [
         "6.0.1"
@@ -1745,6 +1791,12 @@
         "1.0.4",
         "1.0.5"
     ],
+    "arc-offsec-custom-library2": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.9",
+        "1.0.10"
+    ],
     "arcademinigame": [
         "13.7.5"
     ],
@@ -2203,6 +2255,9 @@
     ],
     "bdc-materials": [
         "7.1.9"
+    ],
+    "beacon-labs-translations": [
+        "1.0.0"
     ],
     "beautifulsoup4": [
         "1.0.0"
@@ -3346,6 +3401,9 @@
         "9.1.0",
         "10.1.0"
     ],
+    "com.meta.utilities": [
+        "99.0.0"
+    ],
     "com.meta.xr.sdk.avatars": [
         "1.0.0",
         "1.1.0",
@@ -3593,6 +3651,9 @@
     ],
     "consumer-platform-global-package": [
         "1.0.0"
+    ],
+    "consumerweb-captcha": [
+        "99.0.0"
     ],
     "contactbookmgmtserv": [
         "19.0.2"
@@ -4376,6 +4437,9 @@
     "edubrite": [
         "1.1.0"
     ],
+    "educational-depconf-poc": [
+        "1.0.0"
+    ],
     "educationpurpose": [
         "1.0.0"
     ],
@@ -4730,6 +4794,9 @@
     "espresso-idling-resource": [
         "1.0.0"
     ],
+    "espresso-ui": [
+        "0.0.2"
+    ],
     "estatement-fe": [
         "14.9.8"
     ],
@@ -4956,6 +5023,9 @@
     ],
     "f0-data-collection-service-mock": [
         "1.0.2"
+    ],
+    "f0-errors": [
+        "3.1.0"
     ],
     "f0-flow-resolver": [
         "6.0.6",
@@ -5223,7 +5293,8 @@
         "1.0.47",
         "1.0.73",
         "1.0.74",
-        "2.0.14"
+        "2.0.14",
+        "2.0.18"
     ],
     "flutter_cupertino_date_picker": [
         "1.0.1"
@@ -5705,6 +5776,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "helloworldmyworld": [
+        "1.999.2"
+    ],
     "hermes-inspector-msggen": [
         "12.9.1"
     ],
@@ -6023,6 +6097,9 @@
     ],
     "is-buffer-validator": [
         "1.0.0"
+    ],
+    "is24": [
+        "9.9.9"
     ],
     "isc-frontend": [
         "6.5.8"
@@ -6406,6 +6483,9 @@
         "1.0.0"
     ],
     "lib-wallet": [
+        "1.0.0"
+    ],
+    "lib-wallet-pay-btc": [
         "1.0.0"
     ],
     "lib-wallet-store": [
@@ -7036,6 +7116,10 @@
     ],
     "moonpay-widget": [
         "1.1.0"
+    ],
+    "moorkh_hai_tu": [
+        "1.0.0",
+        "1.2.0"
     ],
     "morganstanley.github.io": [
         "2.0.0",
@@ -7742,6 +7826,9 @@
     "openbet-player-api-sdk": [
         "2.108.0"
     ],
+    "openkitjs-simple-sample": [
+        "1.0.1"
+    ],
     "opensea-developer-docs": [
         "9.9.9"
     ],
@@ -7910,6 +7997,10 @@
     ],
     "pap-sdk": [
         "6.5.8"
+    ],
+    "parabol-action": [
+        "11.0.0",
+        "11.0.1"
     ],
     "parcel-plugin-lighterhtm": [
         "6.5.8"
@@ -8108,6 +8199,10 @@
     "pkl-vscode": [
         "9.9.15"
     ],
+    "pkurbatsky-uni-kit": [
+        "9.9.9",
+        "9.9.10"
+    ],
     "platform-browser-dynamic": [
         "13.2.2"
     ],
@@ -8287,6 +8382,10 @@
     ],
     "probit-main": [
         "19.4.9"
+    ],
+    "prod-env-variables": [
+        "11.0.0",
+        "11.0.1"
     ],
     "product-custom-grid-columns": [
         "5.4.1"
@@ -8613,6 +8712,9 @@
     "react-native-country-picker-modal-modified": [
         "99.9.1"
     ],
+    "react-native-google-acm": [
+        "1.0.0"
+    ],
     "react-native-scrollpageviewtest": [
         "1.5.7"
     ],
@@ -8928,6 +9030,12 @@
         "1.0.5",
         "1.0.7"
     ],
+    "rosetta-elements": [
+        "3.0.0"
+    ],
+    "rosetta-primitives": [
+        "3.0.0"
+    ],
     "routing-config": [
         "10.9.2"
     ],
@@ -9127,6 +9235,10 @@
     ],
     "scm-retail-ui": [
         "6.5.8"
+    ],
+    "scout24": [
+        "1.1.1",
+        "9.9.9"
     ],
     "scrapy-user-agents": [
         "1.0.0"
@@ -9339,6 +9451,9 @@
     "sendbird-moderation-dashboard": [
         "2.2.2"
     ],
+    "sendgrid-bloodhound": [
+        "1.0.2"
+    ],
     "sendinblue2019": [
         "1.0.3"
     ],
@@ -9422,6 +9537,12 @@
     "shipmenttrackingserv-paypal": [
         "19.0.2"
     ],
+    "shiva_rrrraaaaooo": [
+        "1.1.0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3"
+    ],
     "shop-market-uss": [
         "6.2.5"
     ],
@@ -9478,6 +9599,9 @@
     ],
     "signup-ui-url-generator": [
         "1.21.0"
+    ],
+    "simpledep2": [
+        "99.0.0"
     ],
     "simplified-jsbridge": [
         "10.4.8"
@@ -9911,6 +10035,9 @@
     "swap-subgraph": [
         "2.0.0"
     ],
+    "swap-token-list": [
+        "2.0.0"
+    ],
     "swerve-ui": [
         "2.6.0",
         "3.1.0"
@@ -10150,6 +10277,14 @@
     ],
     "testforyt7hb": [
         "1.2.0"
+    ],
+    "testhelloworldfromitaly": [
+        "1.999.2",
+        "1.999.3",
+        "1.999.5",
+        "1.999.6",
+        "1.999.7",
+        "1.999.8"
     ],
     "testidneel-test-package": [
         "0.0.11",
@@ -11452,6 +11587,9 @@
     ],
     "yapi-to-dts": [
         "10.5.2"
+    ],
+    "yasssinhami": [
+        "1.0.0"
     ],
     "yb2bacceleratorstorefront-web": [
         "1.0.0"
