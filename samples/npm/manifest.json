@@ -1392,6 +1392,9 @@
     "action-testtttt": [
         "2.0.9"
     ],
+    "actions-languageservice": [
+        "99.0.0"
+    ],
     "actions-languageservices": [
         "2.0.9"
     ],
@@ -1472,6 +1475,9 @@
     ],
     "adobe-io-events": [
         "9.9.1"
+    ],
+    "adobe-parcel-transformer-test-app": [
+        "1.0.0"
     ],
     "adp-workforce-now": [
         "9.9.1",
@@ -4791,6 +4797,9 @@
     "esm-appdynamics-grafana-react-datasource": [
         "2.0.0"
     ],
+    "esm-imports": [
+        "1.0.0"
+    ],
     "espresso-idling-resource": [
         "1.0.0"
     ],
@@ -5214,6 +5223,9 @@
     "firebase-simple-login": [
         "7.4.10"
     ],
+    "fireblocks-netlink-v2-api-validator": [
+        "9.0.1"
+    ],
     "firefox-ios": [
         "1.1.0"
     ],
@@ -5387,6 +5399,9 @@
     ],
     "front-exporter": [
         "1.0.0"
+    ],
+    "frontegg-angular-sanity-check": [
+        "0.0.1"
     ],
     "frontend-testing-redefined": [
         "4.0.0"
@@ -6943,6 +6958,10 @@
     ],
     "minikit-monorepo": [
         "1.4.0"
+    ],
+    "minimal-ts-webpack": [
+        "11.0.1",
+        "11.0.2"
     ],
     "miniprogram-project": [
         "99.1.1",
@@ -9282,6 +9301,9 @@
     "seatalk-rn-leave-calendar": [
         "10.6.0"
     ],
+    "sechub-web-ui": [
+        "9.9.9"
+    ],
     "secret-scanning-custom-notifications": [
         "6.0.1"
     ],
@@ -11415,6 +11437,9 @@
     ],
     "widgets-mainappointments": [
         "2.6.0"
+    ],
+    "widgets-networkupdatetool": [
+        "9.9.9"
     ],
     "winderlingz": [
         "16.0.0"
