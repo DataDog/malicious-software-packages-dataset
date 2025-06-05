@@ -2220,6 +2220,9 @@
         "1.0.0",
         "20.0.0"
     ],
+    "basic-with-react-hooks": [
+        "0.0.1"
+    ],
     "basstiontrestbeesk": [
         "1.0.0"
     ],
@@ -2276,6 +2279,10 @@
     ],
     "berga": [
         "2.0.0"
+    ],
+    "bergaa": [
+        "2.0.1",
+        "2.0.3"
     ],
     "besec": [
         "1.0.0"
@@ -3217,6 +3224,9 @@
     "checkmkwebapiclient": [
         "10.0.0"
     ],
+    "checkout-sparse": [
+        "9.9.9"
+    ],
     "child-youth-promotion-banner": [
         "99.0.2"
     ],
@@ -3684,6 +3694,10 @@
     ],
     "controlplane": [
         "1.0.0"
+    ],
+    "conventional-changelog-action": [
+        "1.0.0",
+        "1.0.1"
     ],
     "conventional-changelog-tf-a": [
         "100.11.1337"
@@ -5224,7 +5238,8 @@
         "7.4.10"
     ],
     "fireblocks-netlink-v2-api-validator": [
-        "9.0.1"
+        "9.0.1",
+        "9.0.2"
     ],
     "firefox-ios": [
         "1.1.0"
@@ -7390,6 +7405,11 @@
     "new-nav-docusaurus-2-2": [
         "2.1.1"
     ],
+    "new-presentation-api": [
+        "1.0.0",
+        "10.10.10",
+        "10.10.11"
+    ],
     "newbharatv1": [
         "1.0.3"
     ],
@@ -9302,7 +9322,9 @@
         "10.6.0"
     ],
     "sechub-web-ui": [
-        "9.9.9"
+        "9.9.9",
+        "9.9.10",
+        "9.9.11"
     ],
     "secret-scanning-custom-notifications": [
         "6.0.1"
@@ -9938,6 +9960,9 @@
     "ssv-sdk": [
         "1.0.0"
     ],
+    "stake-operations-script": [
+        "0.0.1"
+    ],
     "stale-action": [
         "3.0.0"
     ],
@@ -10150,6 +10175,10 @@
     ],
     "talk-desktop": [
         "1.0.0"
+    ],
+    "talkingagent": [
+        "10.10.2",
+        "10.10.11"
     ],
     "talsec-react-native-security-plugin": [
         "1.1.1"
@@ -10444,6 +10473,10 @@
         "1.0.14",
         "4.0.1",
         "12.0.1"
+    ],
+    "tim-website": [
+        "10.10.10",
+        "10.10.11"
     ],
     "timify-packager": [
         "2.0.0",
@@ -11486,6 +11519,13 @@
         "1.0.10",
         "1.0.11",
         "1.0.12"
+    ],
+    "world-id-lens-dapp": [
+        "0.1.0",
+        "1.0.0"
+    ],
+    "world-id-poap": [
+        "1.0.0"
     ],
     "wp-crontrol": [
         "1.17.1"

@@ -1352,6 +1352,9 @@
     "graphene-arangodb": [
         "1.0.0"
     ],
+    "grpc-google-bigtable-v2": [
+        "0.11.99"
+    ],
     "gui-build": [],
     "gym-reschdule-combination": [
         "93.6"
@@ -2511,6 +2514,9 @@
     ],
     "properxies": [
         "1"
+    ],
+    "proto-google-cloud-dlp-v2beta1": [
+        "0.15.99"
     ],
     "proxier-api": [],
     "proxy-supporter": [
