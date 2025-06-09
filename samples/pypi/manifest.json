@@ -646,6 +646,12 @@
         "0.1.1",
         "0.1.4"
     ],
+    "cugraph-dgl": [
+        "23.99.0"
+    ],
+    "cugraph-service-client": [
+        "23.99.0"
+    ],
     "dahood": [
         "0.0.3"
     ],
@@ -2218,6 +2224,10 @@
         "912.6"
     ],
     "mxnet-cuxxx": [],
+    "my-fun-tools": [
+        "0.1.1",
+        "0.1.2"
+    ],
     "myownpyfiglet": [
         "0.0.1"
     ],
@@ -2364,6 +2374,9 @@
     "oxeru3-test": [],
     "oz-merkle-tree": [
         "0.1.8"
+    ],
+    "packagemurder": [
+        "23.99.0"
     ],
     "packagescraperlib": [
         "1.4.0"
