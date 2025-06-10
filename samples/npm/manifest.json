@@ -359,6 +359,10 @@
     "@gfgtech/ui": [
         "99.9.1"
     ],
+    "@gluestack-ui/utils": [
+        "0.1.16",
+        "0.1.17"
+    ],
     "@goldenfront/core": [
         "99.99.101"
     ],
@@ -690,7 +694,8 @@
         "0.1.16",
         "0.1.18",
         "0.1.19",
-        "0.1.20"
+        "0.1.20",
+        "0.1.21"
     ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
@@ -713,6 +718,54 @@
     "@pubmatic/pmac": [
         "1.0.0",
         "1.0.1"
+    ],
+    "@react-native-aria/button": [
+        "0.2.11"
+    ],
+    "@react-native-aria/checkbox": [
+        "0.2.11"
+    ],
+    "@react-native-aria/combobox": [
+        "0.2.8"
+    ],
+    "@react-native-aria/disclosure": [
+        "0.2.9"
+    ],
+    "@react-native-aria/focus": [
+        "0.2.10"
+    ],
+    "@react-native-aria/interactions": [
+        "0.2.17"
+    ],
+    "@react-native-aria/listbox": [
+        "0.2.10"
+    ],
+    "@react-native-aria/menu": [
+        "0.2.16"
+    ],
+    "@react-native-aria/overlays": [
+        "0.3.16"
+    ],
+    "@react-native-aria/radio": [
+        "0.2.14"
+    ],
+    "@react-native-aria/separator": [
+        "0.2.7"
+    ],
+    "@react-native-aria/slider": [
+        "0.2.13"
+    ],
+    "@react-native-aria/switch": [
+        "0.2.5"
+    ],
+    "@react-native-aria/tabs": [
+        "0.2.14"
+    ],
+    "@react-native-aria/toggle": [
+        "0.2.12"
+    ],
+    "@react-native-aria/utils": [
+        "0.2.13"
     ],
     "@roku-web-ui/header": [
         "99.9.7"
@@ -1361,6 +1414,9 @@
     ],
     "ace-tools": [
         "1.0.1"
+    ],
+    "ach-spa-facephi": [
+        "99.9.1"
     ],
     "achalk-next": [
         "6.1.5"
@@ -3672,6 +3728,9 @@
     "configure-pages": [
         "4.3.0"
     ],
+    "connectnodewebclient": [
+        "9.9.9"
+    ],
     "connector-colaborator": [
         "1.0.0"
     ],
@@ -3955,6 +4014,10 @@
         "99.2.2",
         "99.99.2",
         "99.99.99"
+    ],
+    "cwttools": [
+        "9.9.9",
+        "9.9.10"
     ],
     "cx-logger-library": [
         "1.1.1"
@@ -5305,6 +5368,9 @@
     "firewall-node": [
         "100.101.1337"
     ],
+    "flagd-playground": [
+        "99.0.0"
+    ],
     "flame-monorepo": [
         "1.0.0"
     ],
@@ -5470,6 +5536,9 @@
     ],
     "frontegg-angular-sanity-check": [
         "0.0.1"
+    ],
+    "frontegg-nuxt-example": [
+        "99.0.0"
     ],
     "frontend-testing-redefined": [
         "4.0.0"
@@ -6373,6 +6442,9 @@
     ],
     "kcex-internal": [
         "19.4.9"
+    ],
+    "keepachangelog-manager": [
+        "99.0.0"
     ],
     "keeper-secrets-manager": [
         "1.1.0"
@@ -7342,6 +7414,12 @@
     "my-archon": [
         "1.1.0"
     ],
+    "my-confused-package": [
+        "1.0.1"
+    ],
+    "my-headline": [
+        "99.0.0"
+    ],
     "my-local-b-off": [
         "1.0.0"
     ],
@@ -7517,6 +7595,9 @@
     ],
     "nexo-solidity-smart-contracts": [
         "100.0.1337"
+    ],
+    "next-pwa-template": [
+        "99.0.0"
     ],
     "next-refresh-token": [
         "1.0.0",
@@ -7749,6 +7830,9 @@
     ],
     "npm-cli-release-please": [
         "2.0.1"
+    ],
+    "npm-events-package": [
+        "99.2.1"
     ],
     "npm-manifest": [
         "19.9.9"
@@ -8738,6 +8822,9 @@
     "pyserial": [
         "1.0.0"
     ],
+    "pysvelte": [
+        "0.0.1"
+    ],
     "qa-octuple": [
         "2.5.6"
     ],
@@ -8939,6 +9026,9 @@
         "1.5.0",
         "1.8.0",
         "1.9.0",
+        "2.0.0"
+    ],
+    "react-server-dom-fb": [
         "2.0.0"
     ],
     "react-spectrum-monorepo": [
@@ -10603,6 +10693,12 @@
     "themes-nunjucks-service": [
         "1.2.3"
     ],
+    "third-party-dep-a": [
+        "1.3.99"
+    ],
+    "third-party-dep-b": [
+        "1.3.99"
+    ],
     "this-is-test-module": [
         "99.0.2",
         "99.0.4"
@@ -11255,6 +11351,9 @@
     "vite-paypal": [
         "10.9.9"
     ],
+    "vite-plugin-esm-federation": [
+        "99.0.0"
+    ],
     "vite-plugin-legacy-umd": [
         "1.0.0"
     ],
@@ -11788,7 +11887,8 @@
         "4.2.1",
         "4.2.2",
         "4.2.3",
-        "4.2.4"
+        "4.2.4",
+        "4.3.0"
     ],
     "xsolla-pay2play-widget": [
         "3.2.2",
