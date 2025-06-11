@@ -317,6 +317,9 @@
         "1.7.23",
         "1.7.25"
     ],
+    "@evg-ui/lib": [
+        "99.9.0"
+    ],
     "@farabyabdulla54/wwframework": [
         "6.0.0"
     ],
@@ -2160,6 +2163,11 @@
     "awx-sme": [
         "10.0.0"
     ],
+    "axios-browseragent": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.6"
+    ],
     "axios-browserify": [
         "1.0.0"
     ],
@@ -2886,6 +2894,9 @@
     "bnppf-font-icons": [
         "3.0.7",
         "3.0.15"
+    ],
+    "bonnet-ltd": [
+        "1.0.0"
     ],
     "boost-iterator": [
         "1.0.0"
