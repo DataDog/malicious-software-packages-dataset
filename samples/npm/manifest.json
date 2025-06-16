@@ -362,6 +362,12 @@
     "@gfgtech/ui": [
         "99.9.1"
     ],
+    "@glofe/bootstrap": [
+        "9999.0.3"
+    ],
+    "@glofe/company": [
+        "9999.0.4"
+    ],
     "@gluestack-ui/utils": [
         "0.1.16",
         "0.1.17"
@@ -722,6 +728,16 @@
     "@pubmatic/pmac": [
         "1.0.0",
         "1.0.1"
+    ],
+    "@pwly/powerley-utils": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8"
     ],
     "@react-native-aria/button": [
         "0.2.11"
@@ -1232,6 +1248,9 @@
     "@tsign/tsign-ui-doesnt-exisit": [
         "19.18.1337"
     ],
+    "@type-script-node/vite": [
+        "1.0.2"
+    ],
     "@typescript_eslinter/eslint": [
         "1.0.0",
         "1.0.2",
@@ -1639,7 +1658,11 @@
         "2.2.0",
         "3.6.0",
         "3.9.0",
-        "4.0.0"
+        "4.0.0",
+        "5.6.0",
+        "7.7.0",
+        "10.0.0",
+        "10.1.1"
     ],
     "airbnb-o2": [
         "0.0.2",
@@ -2130,6 +2153,9 @@
     "auto-plugin-appetize-cleanup": [
         "1.2.0",
         "1.3.0"
+    ],
+    "automated-native-creatives": [
+        "2.0.0"
     ],
     "automerge-action": [
         "9.9.9"
@@ -2989,6 +3015,9 @@
         "1.0.5",
         "1.0.6"
     ],
+    "buck2_explain": [
+        "9.9.9"
+    ],
     "bug-bounttest": [
         "1.0.0"
     ],
@@ -3094,6 +3123,9 @@
         "1.0.8",
         "1.0.9",
         "1.1.4"
+    ],
+    "calculator-sse": [
+        "2.0.0"
     ],
     "calendervue": [
         "1.0.0"
@@ -3528,6 +3560,9 @@
     "com.github-glitchenzo.nugetforunity": [
         "99.1.1"
     ],
+    "com.google.play.appupdate": [
+        "2.1.1"
+    ],
     "com.google.xr.windowmirror": [
         "9.1.0",
         "10.1.0"
@@ -3600,6 +3635,11 @@
     "com.unity.collections": [
         "6.2.3",
         "6.3.1"
+    ],
+    "com.unity.dt.app-ui": [
+        "99.0.1",
+        "99.0.3",
+        "99.0.4"
     ],
     "com.unity.entities": [
         "7.1.2",
@@ -3741,6 +3781,9 @@
         "0.1.0",
         "0.1.2",
         "0.1.3"
+    ],
+    "compound-design-tokens": [
+        "1.0.0"
     ],
     "concurrent-hashmap": [
         "1.0.0"
@@ -4303,7 +4346,8 @@
         "1.0.1",
         "1.0.2",
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "99.99.99"
     ],
     "diffuse-the-rest": [
         "1.1.1",
@@ -4424,6 +4468,9 @@
     ],
     "doitoml": [
         "9.9.9"
+    ],
+    "dojo.aspect": [
+        "1.0.0"
     ],
     "dojo_10": [
         "2.1.2"
@@ -5181,6 +5228,9 @@
     "external-adapters-js": [
         "1.148.0"
     ],
+    "eyeblue1": [
+        "2.1.0"
+    ],
     "f0-data-collection-service-mock": [
         "1.0.2"
     ],
@@ -5788,6 +5838,9 @@
     "google-fonts-to-wordpress-collection": [
         "1.0.0"
     ],
+    "google.fhir.stu3.google": [
+        "9.9.9"
+    ],
     "google.kythe": [
         "1.0.0"
     ],
@@ -6227,6 +6280,9 @@
     "int_pinterest_sfra": [
         "99.99.10"
     ],
+    "integromat-udt": [
+        "99.99.99"
+    ],
     "intel-enterprise-rag-ui": [
         "1.2.3",
         "2.9.99"
@@ -6419,6 +6475,9 @@
     "json-tree-preview": [
         "6.5.8"
     ],
+    "juno-autodiscovery-browser": [
+        "9999.0.3"
+    ],
     "jupyter-binding": [
         "1.0.0"
     ],
@@ -6430,6 +6489,9 @@
     ],
     "justeatapplepayjs": [
         "9.0.0"
+    ],
+    "justsupport": [
+        "1.1.0"
     ],
     "juvare": [
         "1.0.0"
@@ -7030,6 +7092,10 @@
         "4.3.0",
         "4.3.1"
     ],
+    "maxdome-compute": [
+        "1.0.1",
+        "2.1.0"
+    ],
     "mbm-dgacha": [
         "15.3.0"
     ],
@@ -7616,6 +7682,10 @@
     "networkx": [
         "1.0.0"
     ],
+    "neuroglancer-rspack-project-source": [
+        "2.0.0",
+        "2.0.2"
+    ],
     "new-nav-docusaurus-2-2": [
         "2.1.1"
     ],
@@ -7634,6 +7704,10 @@
         "1.0.4",
         "1.0.12",
         "1.0.15"
+    ],
+    "newcheckout": [
+        "1.0.1",
+        "1.0.2"
     ],
     "nexo-solidity-smart-contracts": [
         "100.0.1337"
@@ -7656,6 +7730,9 @@
     ],
     "nextcloud2": [
         "9.9.9"
+    ],
+    "nextcloudpi": [
+        "2.0.0"
     ],
     "nextjs-app-router": [
         "0.1.0"
@@ -8488,6 +8565,10 @@
     "pionex-test": [
         "19.4.9"
     ],
+    "pipet-code-agent": [
+        "2.0.0",
+        "2.0.1"
+    ],
     "pipreqs": [
         "1.0.0"
     ],
@@ -8954,6 +9035,11 @@
     ],
     "rainhq": [
         "1.0.0"
+    ],
+    "raise-http-server": [
+        "2.0.0",
+        "2.0.1",
+        "2.0.2"
     ],
     "ramp-tax-info-ui": [
         "9.9.9"
@@ -10044,6 +10130,9 @@
         "17.0.0-LW-R",
         "99.9.9"
     ],
+    "snapshot-server": [
+        "9.9.9"
+    ],
     "snore-log": [
         "2.2.7"
     ],
@@ -10127,6 +10216,9 @@
     ],
     "some-private-package": [
         "99.0.0"
+    ],
+    "soufianewldnass": [
+        "1.0.1"
     ],
     "sovryn": [
         "0.0.0"
@@ -10422,6 +10514,9 @@
     ],
     "symphony-markdown": [
         "1.0.0"
+    ],
+    "symphony-scatterplot": [
+        "1.1.1"
     ],
     "sync-ghes-actions": [
         "0.0.9"
@@ -10848,6 +10943,10 @@
     "trace-production": [
         "1.0.0"
     ],
+    "traceviz-angular-core": [
+        "2.0.0",
+        "2.0.1"
+    ],
     "traceviz-client-core": [
         "19.9.9"
     ],
@@ -11025,6 +11124,9 @@
         "19.10.11",
         "20.10.11"
     ],
+    "typescript-aurelia-api": [
+        "1.0.0"
+    ],
     "typescript-go": [
         "100.101.1337"
     ],
@@ -11135,6 +11237,11 @@
         "1.0.0",
         "9.9.9",
         "9.9.10"
+    ],
+    "uniswap-v4-scratchpad-poc": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
     ],
     "unity-editor-home": [
         "0.6.17"
@@ -11499,6 +11606,9 @@
     "vscode-reh-rce": [
         "1.0.0"
     ],
+    "vscode-spring-initializr": [
+        "2.0.0"
+    ],
     "vscode-tcf-debug": [
         "1.0.0"
     ],
@@ -11587,6 +11697,9 @@
     ],
     "wasm-test-adapter": [
         "1.0.0"
+    ],
+    "wasm-wasi-core": [
+        "2.0.0"
     ],
     "watch-test-unit": [
         "1.0.0"
@@ -12089,6 +12202,15 @@
         "99.99.10",
         "100.99.10"
     ],
+    "zora-analytics": [
+        "1.0.0"
+    ],
+    "zora-utils-core": [
+        "1.0.2"
+    ],
+    "zora-wallet": [
+        "1.0.0"
+    ],
     "zqdl0": [
         "22.2.2"
     ],
@@ -12142,6 +12264,9 @@
     ],
     "zuaxnull": [
         "9.9.9"
+    ],
+    "zxdb": [
+        "2.0.0"
     ],
     "zzmaliciouspackage": [
         "1.0.0"
