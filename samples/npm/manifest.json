@@ -320,6 +320,9 @@
     "@evg-ui/lib": [
         "99.9.0"
     ],
+    "@evoplay-spinential/test-module": [
+        "1.0.0"
+    ],
     "@farabyabdulla54/wwframework": [
         "6.0.0"
     ],
@@ -363,9 +366,16 @@
         "99.9.1"
     ],
     "@glofe/bootstrap": [
+        "9999.0.0",
+        "9999.0.1",
+        "9999.0.2",
         "9999.0.3"
     ],
     "@glofe/company": [
+        "9999.0.0",
+        "9999.0.1",
+        "9999.0.2",
+        "9999.0.3",
         "9999.0.4"
     ],
     "@gluestack-ui/utils": [
@@ -1843,6 +1853,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "app-prd": [
+        "35.13.10"
+    ],
     "app-register": [
         "1.0.0",
         "1.0.1",
@@ -1905,6 +1918,16 @@
         "1.0.7-x",
         "1.0.8",
         "1.1.0"
+    ],
+    "arc-offsec-header": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.8",
+        "1.0.9"
     ],
     "arcademinigame": [
         "13.7.5"
@@ -2235,6 +2258,9 @@
         "0.0.1",
         "0.0.2",
         "1.3.5"
+    ],
+    "azure-pipeline-filter": [
+        "3.0.1"
     ],
     "azure-rest-api-specs": [
         "0.6.3"
@@ -3219,6 +3245,10 @@
     "cargo_metadata": [
         "0.18.2"
     ],
+    "cascading-picklists-extenstion": [
+        "2.0.0",
+        "2.0.1"
+    ],
     "case-dispute-common": [
         "5.3.5"
     ],
@@ -3427,6 +3457,9 @@
         "1.0.0",
         "99.0.1"
     ],
+    "client-vue3-dev": [
+        "1.0.0"
+    ],
     "climate-wallet": [
         "1.2.33",
         "1.2.34"
@@ -3561,7 +3594,12 @@
         "99.1.1"
     ],
     "com.google.play.appupdate": [
-        "2.1.1"
+        "2.0.0",
+        "2.1.1",
+        "3.0.1",
+        "3.0.3",
+        "3.0.4",
+        "3.0.5"
     ],
     "com.google.xr.windowmirror": [
         "9.1.0",
@@ -3781,6 +3819,9 @@
         "0.1.0",
         "0.1.2",
         "0.1.3"
+    ],
+    "composer-bin-plugin": [
+        "4.1.1"
     ],
     "compound-design-tokens": [
         "1.0.0"
@@ -4213,6 +4254,9 @@
     ],
     "debug11": [
         "1.0.0"
+    ],
+    "debugger-local": [
+        "8.8.8"
     ],
     "debugr1": [
         "3.1.1"
@@ -5344,6 +5388,10 @@
         "5.0.0",
         "10.0.0"
     ],
+    "fb-error-lite": [
+        "2.7.0",
+        "4.0.0"
+    ],
     "fcw-dashboard-components": [
         "1.0.1",
         "6.9.9",
@@ -5802,6 +5850,9 @@
     "githubpagessites": [
         "1.1.0"
     ],
+    "gkx": [
+        "1.1.0"
+    ],
     "gl-emoji-version": [
         "0.5.0",
         "2.1.0",
@@ -6028,6 +6079,11 @@
     ],
     "hermes-inspector-msggen": [
         "12.9.1"
+    ],
+    "hero-tracing-placeholder": [
+        "1.8.0",
+        "1.9.22",
+        "1.9.24"
     ],
     "herthtrhrt": [
         "1.0.2"
@@ -6298,6 +6354,9 @@
         "9.0.0",
         "10.0.0"
     ],
+    "internal-api": [
+        "35.13.10"
+    ],
     "internal-auth": [
         "33.12.10",
         "33.12.12"
@@ -6476,6 +6535,9 @@
         "6.5.8"
     ],
     "juno-autodiscovery-browser": [
+        "9999.0.0",
+        "9999.0.1",
+        "9999.0.2",
         "9999.0.3"
     ],
     "jupyter-binding": [
@@ -6552,6 +6614,9 @@
     ],
     "keli-dywomen": [
         "89.3.5"
+    ],
+    "kenzup-react-native-rsa-native": [
+        "9999.9999.9999"
     ],
     "keradsdsdsdsddsdaaqw": [
         "8.0.2"
@@ -7062,6 +7127,9 @@
     "markservice": [
         "6.5.8"
     ],
+    "masons-chat-ui": [
+        "2.0.2"
+    ],
     "materialxtest": [
         "1.0.0"
     ],
@@ -7093,6 +7161,7 @@
         "4.3.1"
     ],
     "maxdome-compute": [
+        "1.0.0",
         "1.0.1",
         "2.1.0"
     ],
@@ -7104,6 +7173,9 @@
     ],
     "mdap-cli": [
         "6.5.8"
+    ],
+    "mdp-client": [
+        "2.0.2"
     ],
     "media-recorder-polyfill": [
         "1.0.0"
@@ -7200,6 +7272,9 @@
     ],
     "microsoft.netcore.universalwindowsplatform": [
         "99.99.99"
+    ],
+    "microviewreact": [
+        "1.0.0"
     ],
     "midle-contracts": [
         "1.0.1"
@@ -8303,6 +8378,12 @@
         "1.0.2",
         "1.0.5"
     ],
+    "owncloud-activity": [
+        "99.0.0",
+        "99.0.1",
+        "99.0.10",
+        "99.1.1"
+    ],
     "owncloud-customgroups-dev": [
         "0.1.0"
     ],
@@ -8355,6 +8436,9 @@
     ],
     "pages14.0.0_i18n": [
         "2.2.2"
+    ],
+    "pakumaku": [
+        "9.9.9"
     ],
     "panter": [
         "1.0.0"
@@ -8617,6 +8701,10 @@
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
+    "plugin-proposal-private-methods": [
+        "99.99.99",
+        "999.0.0"
+    ],
     "plugin-sitemap-coveo": [
         "1.0.0"
     ],
@@ -8823,6 +8911,13 @@
     "proton-vpn-browser-extension": [
         "999.99.99"
     ],
+    "proxyapi-docs": [
+        "55.3.1",
+        "55.3.6",
+        "55.3.19",
+        "55.3.55",
+        "55.3.56"
+    ],
     "psalm": [
         "1.0.0"
     ],
@@ -8957,6 +9052,10 @@
     ],
     "pvct-cli": [
         "6.5.8"
+    ],
+    "pxsceneui-example-02": [
+        "1.0.2",
+        "1.0.3"
     ],
     "pydantic": [
         "1.0.0"
@@ -9107,6 +9206,10 @@
     "react-fixtures": [
         "3.4.2"
     ],
+    "react-forget-runtime": [
+        "2.6.0",
+        "19.1.0"
+    ],
     "react-is-16": [
         "6.5.8"
     ],
@@ -9180,6 +9283,9 @@
         "1.8.0",
         "1.9.0",
         "2.0.0"
+    ],
+    "react-sdk-module-api": [
+        "1.0.0"
     ],
     "react-server-dom-fb": [
         "2.0.0"
@@ -9682,6 +9788,12 @@
     ],
     "sdg-indicators-usa": [
         "105.0.6"
+    ],
+    "sdp-transform-grammar": [
+        "0.3.4",
+        "1.5.3",
+        "2.12.0",
+        "3.0.0"
     ],
     "seaborn": [
         "1.0.0"
@@ -10655,6 +10767,13 @@
     ],
     "tenslots": [
         "11.3.7"
+    ],
+    "tensor-nft-js": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.6"
     ],
     "tes4343rt4t": [
         "2.0.0"
@@ -12137,6 +12256,9 @@
         "10.10.10",
         "10.10.11"
     ],
+    "z0ra-helper": [
+        "1.0.0"
+    ],
     "zaggletech": [
         "99.0.2"
     ],
@@ -12205,11 +12327,40 @@
     "zora-analytics": [
         "1.0.0"
     ],
+    "zora-config-loader": [
+        "0.3.9"
+    ],
+    "zora-exploit-payload": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "zora-logger": [
+        "1.0.2"
+    ],
+    "zora-metrics": [
+        "2.4.1"
+    ],
     "zora-utils-core": [
         "1.0.2"
     ],
     "zora-wallet": [
         "1.0.0"
+    ],
+    "zora1abs-co1ns-sdk": [
+        "1.0.0"
+    ],
+    "zora1abs-protoc-helper": [
+        "999.0.1"
+    ],
+    "zora1abs-protoc01-sdk": [
+        "999.0.0",
+        "999.0.1"
+    ],
+    "zoralabs-mintflow-helper": [
+        "1.0.0",
+        "1.0.1",
+        "2.0.0",
+        "2.0.4"
     ],
     "zqdl0": [
         "22.2.2"
