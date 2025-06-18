@@ -356,6 +356,10 @@
     "@fronteg/react": [
         "99.9.0"
     ],
+    "@ftapi/components": [
+        "1.0.3",
+        "2.0.3"
+    ],
     "@g.genie/api-demo-sample-lib4": [
         "0.3.0"
     ],
@@ -715,7 +719,8 @@
         "0.1.19",
         "0.1.20",
         "0.1.21",
-        "0.1.22"
+        "0.1.22",
+        "0.1.23"
     ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
@@ -1461,6 +1466,10 @@
         "9999.999.9999"
     ],
     "acm-nano-logger-fe": [
+        "1.0.1"
+    ],
+    "acme-diagnostics": [
+        "1.0.0",
         "1.0.1"
     ],
     "acp-docs": [
@@ -2260,6 +2269,7 @@
         "1.3.5"
     ],
     "azure-pipeline-filter": [
+        "3.0.0",
         "3.0.1"
     ],
     "azure-rest-api-specs": [
@@ -4997,6 +5007,13 @@
     "eslint-plugin-module-dependencies": [
         "6.5.8"
     ],
+    "eslint-plugin-panel-ops": [
+        "55.3.1",
+        "55.3.6",
+        "55.3.19",
+        "55.3.55",
+        "55.3.56"
+    ],
     "eslint-plugin-paste-internal": [
         "9.9.10"
     ],
@@ -5886,10 +5903,14 @@
     "google-auth-httplib2": [
         "1.0.0"
     ],
+    "google-build-slack": [
+        "9.9.9"
+    ],
     "google-fonts-to-wordpress-collection": [
         "1.0.0"
     ],
     "google.fhir.stu3.google": [
+        "8.8.8",
         "9.9.9"
     ],
     "google.kythe": [
@@ -6549,6 +6570,16 @@
     "just-a-cute-script": [
         "1.0.0"
     ],
+    "just-config-data": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5"
+    ],
+    "just-elements": [
+        "0.0.0"
+    ],
     "justeatapplepayjs": [
         "9.0.0"
     ],
@@ -7017,6 +7048,9 @@
         "1.0.0"
     ],
     "mafid": [
+        "9.9.9"
+    ],
+    "mafid-dev-fe": [
         "9.9.9"
     ],
     "mafid-prod-fe": [
@@ -7626,6 +7660,18 @@
     "my-wallet-backupt-decryption-tool": [
         "0.0.0"
     ],
+    "myatt": [
+        "1.0.2",
+        "1.0.5",
+        "1.0.6",
+        "1.0.8",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.15"
+    ],
     "myconfusedfunctionpoctestpackage": [
         "1.0.0",
         "1.0.1",
@@ -7796,6 +7842,12 @@
     ],
     "next-tab": [
         "1.0.0"
+    ],
+    "next-typescript-mercadolibre": [
+        "55.3.1",
+        "55.3.51",
+        "55.3.55",
+        "55.3.56"
     ],
     "next.js-localized": [
         "0.0.1"
@@ -8138,6 +8190,15 @@
     ],
     "ocular-monorepo": [
         "1.0.0"
+    ],
+    "odin-backoffice-starter-kit": [
+        "55.3.1",
+        "55.3.55",
+        "55.3.56",
+        "99.8.8",
+        "99.9.8",
+        "100.1.2",
+        "100.2.2"
     ],
     "odin-security": [
         "1.0.0",
@@ -8704,6 +8765,9 @@
     "plugin-proposal-private-methods": [
         "99.99.99",
         "999.0.0"
+    ],
+    "plugin-react": [
+        "4.4.4"
     ],
     "plugin-sitemap-coveo": [
         "1.0.0"
@@ -9412,6 +9476,10 @@
     "reload-nucleus-views-on-compile": [
         "10.10.10"
     ],
+    "remitly-icon-font": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "remix-kl-c646": [
         "1.0.0"
     ],
@@ -9639,6 +9707,11 @@
     ],
     "sails-mssql-adapter": [
         "1.0.0"
+    ],
+    "sajarilib": [
+        "3.0.0",
+        "9.0.0",
+        "9.1.1"
     ],
     "sally-fn": [
         "69.0.0",
@@ -10549,6 +10622,13 @@
     ],
     "stripe-testfb-v3": [
         "1.0.0"
+    ],
+    "studiospanelopsweb": [
+        "55.3.1",
+        "55.3.19",
+        "55.3.51",
+        "55.3.56",
+        "55.3.57"
     ],
     "studocu-extension-pack": [
         "1.0.0"
@@ -11730,6 +11810,9 @@
     ],
     "vscode-tcf-debug": [
         "1.0.0"
+    ],
+    "vscode-websearchforcopilot": [
+        "2.0.0"
     ],
     "vtctld2": [
         "2.2.2",
