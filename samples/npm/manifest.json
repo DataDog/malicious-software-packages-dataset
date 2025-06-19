@@ -644,6 +644,9 @@
         "2.64.999999999",
         "2.64.9999999999"
     ],
+    "@openapi-platform/git-util": [
+        "9.9.10"
+    ],
     "@opentelemetrya/api": [
         "9.9.9"
     ],
@@ -858,6 +861,9 @@
     ],
     "@rspack/core": [
         "1.1.7"
+    ],
+    "@saas2/utils": [
+        "9.8.1"
     ],
     "@safecorp/one-ui": [
         "6.23.1",
@@ -1573,6 +1579,9 @@
     ],
     "adobe-commerce-magento": [
         "9.9.1"
+    ],
+    "adobe-cr": [
+        "1.0.0"
     ],
     "adobe-io-events": [
         "9.9.1"
@@ -5697,6 +5706,9 @@
         "5.0.0",
         "7.0.0"
     ],
+    "frontend-tests-demo": [
+        "99.2.1"
+    ],
     "fulfillment-common": [
         "6.5.8"
     ],
@@ -6358,7 +6370,8 @@
         "99.99.10"
     ],
     "integromat-udt": [
-        "99.99.99"
+        "99.99.99",
+        "99.99.100"
     ],
     "intel-enterprise-rag-ui": [
         "1.2.3",
@@ -7641,7 +7654,13 @@
         "0.23.43"
     ],
     "my-not-confused-package": [
-        "1.0.1"
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+    ],
+    "my-not-confused-packages": [
+        "1.0.0"
     ],
     "my-rei-browser-shim": [
         "1.0.0",
@@ -8152,6 +8171,9 @@
     ],
     "o-share": [
         "10.12.14"
+    ],
+    "o11y-ds-frontend": [
+        "1.0.0"
     ],
     "o2_console_front": [
         "1.2.41"
@@ -11625,6 +11647,9 @@
     "varmor": [
         "9.3.5"
     ],
+    "vas_extension": [
+        "1.0.1"
+    ],
     "vault-action": [
         "2.0.0",
         "2.0.1",
@@ -11986,6 +12011,9 @@
     ],
     "web-sim-control": [
         "1.0.0"
+    ],
+    "web-speed-test": [
+        "1.2.2"
     ],
     "web-ssar": [
         "15.7.0"
