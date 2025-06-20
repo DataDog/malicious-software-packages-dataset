@@ -723,7 +723,8 @@
         "0.1.20",
         "0.1.21",
         "0.1.22",
-        "0.1.23"
+        "0.1.23",
+        "0.1.24"
     ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
@@ -3618,7 +3619,8 @@
         "3.0.1",
         "3.0.3",
         "3.0.4",
-        "3.0.5"
+        "3.0.5",
+        "3.0.9"
     ],
     "com.google.xr.windowmirror": [
         "9.1.0",
@@ -4570,6 +4572,9 @@
     ],
     "driver-app-server": [
         "14.7.2"
+    ],
+    "drivers-kit": [
+        "8.8.1"
     ],
     "dt-adoptionoverview-extension": [
         "99.99.99"
@@ -6039,6 +6044,9 @@
     "hacker_for_pastebin": [
         "1.0.1"
     ],
+    "hackshack-leaderboard": [
+        "1.0.0"
+    ],
     "hahahahahahahahahahah": [
         "9.9.9"
     ],
@@ -7203,6 +7211,9 @@
     "mattermost-cloudnative-bootstrapper": [
         "1.0.0"
     ],
+    "mattermost-hardware-keyboard": [
+        "1.0.0"
+    ],
     "maven-dependency-submission-action": [
         "4.3.0",
         "4.3.1"
@@ -7657,7 +7668,8 @@
         "1.0.1",
         "1.0.2",
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "2.1.0"
     ],
     "my-not-confused-packages": [
         "1.0.0"
@@ -9000,6 +9012,7 @@
     "proxyapi-docs": [
         "55.3.1",
         "55.3.6",
+        "55.3.11",
         "55.3.19",
         "55.3.55",
         "55.3.56"
@@ -10801,6 +10814,9 @@
     ],
     "tannucolingboys": [
         "99.0.0"
+    ],
+    "tap-bar": [
+        "8.8.1"
     ],
     "task-bots": [
         "1.0.0"
