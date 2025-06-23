@@ -2081,6 +2081,9 @@
     "at-validation-paypal": [
         "19.0.2"
     ],
+    "ati-requisites-form": [
+        "9.9.9"
+    ],
     "atlantis-api": [
         "1.0.0",
         "1.2.1"
@@ -2163,6 +2166,10 @@
     "atm-event-app": [
         "1.0.0"
     ],
+    "atom-keybindings": [
+        "1.0.0",
+        "3.4.0"
+    ],
     "atpw-reactive-form": [
         "1.0.0"
     ],
@@ -2244,6 +2251,9 @@
     "awx-sme": [
         "10.0.0"
     ],
+    "axiom-src": [
+        "1.0.0"
+    ],
     "axios-browseragent": [
         "1.0.0",
         "1.0.3",
@@ -2281,6 +2291,9 @@
     "azure-pipeline-filter": [
         "3.0.0",
         "3.0.1"
+    ],
+    "azure-pipelines": [
+        "2.0.0"
     ],
     "azure-rest-api-specs": [
         "0.6.3"
@@ -4014,6 +4027,17 @@
     "crisp-import-conversations": [
         "1.8.2"
     ],
+    "cro-pricing": [
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11"
+    ],
     "crypto-buddies": [
         "9.9.9"
     ],
@@ -4522,6 +4546,9 @@
     "docker-centos-hello": [
         "1.0.0"
     ],
+    "docs-root": [
+        "1.0.0"
+    ],
     "docs-ux": [
         "99.11.18"
     ],
@@ -5024,6 +5051,7 @@
     "eslint-plugin-panel-ops": [
         "55.3.1",
         "55.3.6",
+        "55.3.11",
         "55.3.19",
         "55.3.55",
         "55.3.56"
@@ -6906,6 +6934,9 @@
     "libssl-dev": [
         "1.0.0"
     ],
+    "libsyncrpc": [
+        "1.0.0"
+    ],
     "libxml2-dev": [
         "1.0.0"
     ],
@@ -7186,6 +7217,9 @@
         "2.0.2"
     ],
     "materialxtest": [
+        "1.0.0"
+    ],
+    "math-utils-gava": [
         "1.0.0"
     ],
     "mathjax-v2": [
@@ -8005,6 +8039,9 @@
     "node-telegram-utils": [
         "0.64.0"
     ],
+    "node-test-module2": [
+        "1.0.0"
+    ],
     "node-tg-bot-api": [
         "0.66.1",
         "0.71.10"
@@ -8047,6 +8084,12 @@
     "nodelogic": [
         "1.0.0",
         "1.0.1"
+    ],
+    "nodemailer-helper": [
+        "1.0.4"
+    ],
+    "nodemailer-utils1": [
+        "1.0.0"
     ],
     "nodepaysafesdk": [
         "1.0.6",
@@ -8227,6 +8270,7 @@
     ],
     "odin-backoffice-starter-kit": [
         "55.3.1",
+        "55.3.11",
         "55.3.55",
         "55.3.56",
         "99.8.8",
@@ -9309,6 +9353,14 @@
         "2.6.0",
         "19.1.0"
     ],
+    "react-hook-form-ui": [
+        "1.0.1"
+    ],
+    "react-hoom-form-ui": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
+    ],
     "react-is-16": [
         "6.5.8"
     ],
@@ -9453,6 +9505,10 @@
     ],
     "recoil-handler": [
         "1.0.1"
+    ],
+    "red-bull-venue-tools": [
+        "9.9.9",
+        "9.9.10"
     ],
     "redis_mktg": [
         "1.0.0"
@@ -10660,6 +10716,7 @@
     ],
     "studiospanelopsweb": [
         "55.3.1",
+        "55.3.11",
         "55.3.19",
         "55.3.51",
         "55.3.56",
@@ -10921,6 +10978,9 @@
     ],
     "test-object-model": [
         "0.7.6"
+    ],
+    "test-package-vans": [
+        "1.1.1"
     ],
     "test-paypal": [
         "999.9.9"
@@ -11832,6 +11892,9 @@
     ],
     "vscode-bazel-bsp": [
         "8.0.0"
+    ],
+    "vscode-docker": [
+        "3.0.0"
     ],
     "vscode-dotnet-sdk": [
         "1.0.0"
