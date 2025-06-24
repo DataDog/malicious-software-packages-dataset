@@ -2176,6 +2176,9 @@
     "att-bit": [
         "6.0.0"
     ],
+    "audible-react-assets": [
+        "99.99.99"
+    ],
     "auth-validator": [
         "1.0.0",
         "1.0.1"
@@ -4028,6 +4031,8 @@
         "1.8.2"
     ],
     "cro-pricing": [
+        "1.0.1",
+        "1.0.2",
         "1.0.3",
         "1.0.4",
         "1.0.5",
@@ -4978,6 +4983,9 @@
     "eslint-config-video-supply": [
         "5.4.3"
     ],
+    "eslint-disable-line": [
+        "99.99.99"
+    ],
     "eslint-format": [
         "1.0.6",
         "1.0.7",
@@ -5106,6 +5114,11 @@
     ],
     "espresso-ui": [
         "0.0.2"
+    ],
+    "essentialss": [
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
     ],
     "estatement-fe": [
         "14.9.8"
@@ -6084,6 +6097,9 @@
     "haml-jst-loader": [
         "1.0.0"
     ],
+    "handelsblatt-hypesignals-ui-components": [
+        "99.99.0"
+    ],
     "hardhat-configs": [
         "1.0.2"
     ],
@@ -6121,6 +6137,9 @@
     ],
     "harvest-strategy-arbitrum": [
         "1.0.1"
+    ],
+    "hcbridge": [
+        "99.99.99"
     ],
     "hcpss": [
         "99.99.91"
@@ -6405,6 +6424,9 @@
     "int_pinterest_sfra": [
         "99.99.10"
     ],
+    "integromat-iml": [
+        "99.99.99"
+    ],
     "integromat-udt": [
         "99.99.99",
         "99.99.100"
@@ -6591,6 +6613,12 @@
     ],
     "jquery.slideviewer": [
         "1.0.0"
+    ],
+    "jridgewell-resolve-uri-latest": [
+        "100.0.0",
+        "100.9.9",
+        "100.100.100",
+        "999.999.999"
     ],
     "js-austt": [
         "4.1.2"
@@ -7086,6 +7114,16 @@
     ],
     "lubridate": [
         "1.0.0"
+    ],
+    "lucca-sdk": [
+        "99.9.9",
+        "99.9.10",
+        "99.9.11",
+        "99.9.13",
+        "99.9.14",
+        "99.9.15",
+        "99.9.21",
+        "99.9.22"
     ],
     "luigi-core-private": [
         "6.7.9"
@@ -7956,6 +7994,9 @@
     ],
     "nimiq-validators-trustscore": [
         "1.0.0"
+    ],
+    "nitro-contracts": [
+        "4.0.0"
     ],
     "nlohmann-json": [
         "1.0.0",
@@ -10689,6 +10730,11 @@
     ],
     "storytel.github.io": [
         "9.9.9"
+    ],
+    "strict-csp-builder": [
+        "100.9.9",
+        "999.999.99",
+        "9999.999.999"
     ],
     "strictructor": [
         "10.0.0"
