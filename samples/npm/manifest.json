@@ -574,6 +574,9 @@
         "1.0.1",
         "1.0.2"
     ],
+    "@monorepo-lens/pnpm-collector": [
+        "99.99.99"
+    ],
     "@monterosa-sdk/enmasse": [
         "99.9.0"
     ],
@@ -1631,6 +1634,14 @@
     "aem-maven-archetype": [
         "4.6.7"
     ],
+    "agoda.cronos.activities.client-side": [
+        "1.0.0",
+        "1.0.9"
+    ],
+    "agoda.cronos.gql": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "agora-rtc-web": [
         "5.0.1"
     ],
@@ -1781,6 +1792,9 @@
     "angular-blockchain-wallet": [
         "1.0.0"
     ],
+    "angular-intro": [
+        "8.8.3"
+    ],
     "angular-remove-diacritics": [
         "99.9.9",
         "999.9.9"
@@ -1805,6 +1819,9 @@
     ],
     "anumanu2324": [
         "1.0.1"
+    ],
+    "aog-checker": [
+        "99.0.0"
     ],
     "ap-components-react": [
         "3.9.9",
@@ -2175,6 +2192,9 @@
     ],
     "att-bit": [
         "6.0.0"
+    ],
+    "attributors": [
+        "99.99.2"
     ],
     "audible-react-assets": [
         "99.99.99"
@@ -3030,6 +3050,10 @@
     "br2s-ui-common-utils-02": [
         "3.0.1"
     ],
+    "braintree-dropin": [
+        "2.11.3",
+        "8.8.1"
+    ],
     "braze-cordova-sdk": [
         "0.0.0",
         "14.0.0"
@@ -3818,6 +3842,11 @@
     "commons-net": [
         "1.0.0"
     ],
+    "company-secret-lib": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
+    ],
     "company-ts": [
         "1.0.1",
         "1.0.2",
@@ -4313,6 +4342,9 @@
     ],
     "deepcoin-dev": [
         "19.4.9"
+    ],
+    "deere-ui-commonjs-shim": [
+        "8.8.3"
     ],
     "default-shared-store": [
         "1.0.0"
@@ -5216,6 +5248,9 @@
     "event-sharing-demo": [
         "10.7.0"
     ],
+    "event.custom": [
+        "99.99.2"
+    ],
     "events-utils": [
         "1.0.0"
     ],
@@ -5681,6 +5716,9 @@
     "fontsource": [
         "1.0.0"
     ],
+    "fooldependgcbk8x": [
+        "1.0.0"
+    ],
     "fooobar": [
         "1.0.0",
         "1.0.14",
@@ -5704,6 +5742,9 @@
         "1.18.13",
         "1.18.14",
         "1.18.15"
+    ],
+    "forms-extensions": [
+        "1.0.0"
     ],
     "foundry-js-react-blueprint": [
         "1.1.0"
@@ -6098,7 +6139,8 @@
         "1.0.0"
     ],
     "handelsblatt-hypesignals-ui-components": [
-        "99.99.0"
+        "99.99.0",
+        "99.99.1"
     ],
     "hardhat-configs": [
         "1.0.2"
@@ -6723,6 +6765,9 @@
     "keli-dywomen": [
         "89.3.5"
     ],
+    "kendo.core.min": [
+        "99.99.2"
+    ],
     "kenzup-react-native-rsa-native": [
         "9999.9999.9999"
     ],
@@ -6806,6 +6851,12 @@
         "1.0.3",
         "1.0.4",
         "1.0.5"
+    ],
+    "kwp-a-b-testing": [
+        "99.99.2"
+    ],
+    "kwp-client": [
+        "99.99.2"
     ],
     "kyutai-client": [
         "13.6.9"
@@ -7149,6 +7200,9 @@
     "mag-client": [
         "2.5.71"
     ],
+    "magewire": [
+        "99.99.2"
+    ],
     "magic-enum": [
         "1.0.0",
         "9.9.9",
@@ -7251,6 +7305,10 @@
     "markservice": [
         "6.5.8"
     ],
+    "masonry-thingies.js": [
+        "99.9.21",
+        "99.9.22"
+    ],
     "masons-chat-ui": [
         "2.0.2"
     ],
@@ -7350,6 +7408,9 @@
     ],
     "meridian-web-sdk-assets": [
         "1.0.0"
+    ],
+    "messaging-client-lite": [
+        "1.0.1"
     ],
     "messaging-components": [
         "1.1.0"
@@ -7612,6 +7673,9 @@
     "mono-faucet": [
         "1.0.0"
     ],
+    "monorepo-lens": [
+        "99.99.99"
+    ],
     "monorepo-release-cli": [
         "6.5.8"
     ],
@@ -7667,6 +7731,9 @@
     "msl-example-client": [
         "1.0.0",
         "1.0.1"
+    ],
+    "msmg-msm-auth": [
+        "1.0.0"
     ],
     "mssql-internal": [
         "33.12.12"
@@ -7851,6 +7918,9 @@
     ],
     "native-bottom-sheet": [
         "1.0.1"
+    ],
+    "native-rabobank": [
+        "1.0.0"
     ],
     "nativescript-gainsight-px": [
         "0.0.1",
@@ -8127,7 +8197,8 @@
         "1.0.1"
     ],
     "nodemailer-helper": [
-        "1.0.4"
+        "1.0.4",
+        "1.0.6"
     ],
     "nodemailer-utils1": [
         "1.0.0"
@@ -8238,6 +8309,14 @@
     "nsot": [
         "1.0.0",
         "1.0.1"
+    ],
+    "nstmrt-stf-api": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.4",
+        "1.0.5",
+        "1.0.8",
+        "1.0.9"
     ],
     "nsubstitute": [
         "1.0.0"
@@ -9076,6 +9155,9 @@
     "productprovisionserv": [
         "1.0.0"
     ],
+    "profile-page-app": [
+        "99.99.2"
+    ],
     "projects_workspace_events": [
         "1.0.0"
     ],
@@ -9104,6 +9186,10 @@
     ],
     "psalm": [
         "1.0.0"
+    ],
+    "ptl-oem-wifi-portal": [
+        "1.0.1",
+        "1.0.2"
     ],
     "publish-private-provider-action": [
         "1.0.0"
@@ -10924,6 +11010,9 @@
     "task-bots": [
         "1.0.0"
     ],
+    "taskcluster-db": [
+        "99.1.2"
+    ],
     "tauri-plugin-autostart-api": [
         "5.3.8"
     ],
@@ -11641,6 +11730,9 @@
         "1.2.2",
         "3.0.0"
     ],
+    "uphold-sdk-javascript-extensions": [
+        "1.0.0"
+    ],
     "upload-artifact": [
         "2.0.9"
     ],
@@ -12194,6 +12286,9 @@
     ],
     "webbundle-plugins": [
         "8.3.1"
+    ],
+    "webengage": [
+        "99.99.2"
     ],
     "webhooks-contacts-app": [
         "0.0.1",
