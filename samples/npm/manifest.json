@@ -155,6 +155,14 @@
         "7.1.14",
         "7.1.15"
     ],
+    "@bb-ui-utils/memoizer": [
+        "9.7.9",
+        "9.8.0",
+        "9.8.1",
+        "9.8.2",
+        "9.8.3",
+        "9.8.6"
+    ],
     "@bh-ui/theme": [
         "1.0.0"
     ],
@@ -299,6 +307,10 @@
     ],
     "@elementor-editor-github-actions/utils": [
         "1.0.0"
+    ],
+    "@emburse/embark-core": [
+        "69.69.71",
+        "69.69.72"
     ],
     "@energysolutions/mylib": [
         "99.9.9",
@@ -1737,6 +1749,10 @@
     "alchemy-web3-webpack-example": [
         "1.1.0"
     ],
+    "alicn": [
+        "1.0.0",
+        "99.99.2"
+    ],
     "all-star-2019": [
         "14.8.3"
     ],
@@ -1934,6 +1950,9 @@
     ],
     "aptos-mint": [
         "0.0.1"
+    ],
+    "aquasec-orb-test-project": [
+        "9.9.9"
     ],
     "ar2-common": [
         "1.0.0"
@@ -2408,6 +2427,10 @@
         "1.20.0",
         "1.99.0"
     ],
+    "bar.app.bar_rights": [
+        "1.0.0",
+        "99.99.2"
+    ],
     "bar_lib": [
         "99.9.1"
     ],
@@ -2449,6 +2472,9 @@
     "bazelbuild.vscode-bazel": [
         "9.9.9",
         "9.9.99"
+    ],
+    "bb-escape": [
+        "9.9.5"
     ],
     "bbc-grandstand": [
         "9.1.0"
@@ -3230,6 +3256,9 @@
     "calling-integration-sdk-demo-react-ts": [
         "1.1.0"
     ],
+    "callsign-async-runner": [
+        "2.0.1"
+    ],
     "calypso-analytics": [
         "999.999.999",
         "1003.0.0",
@@ -3626,6 +3655,9 @@
     "codeql-sarif-security-standard-annotator": [
         "0.0.1"
     ],
+    "codesandbox-deps": [
+        "99.1.1"
+    ],
     "codeword": [
         "12.9.7"
     ],
@@ -3647,6 +3679,10 @@
     "coldbox": [
         "6.7.6",
         "6.7.71"
+    ],
+    "collab-app": [
+        "1.0.0",
+        "99.99.2"
     ],
     "collapsible-group": [
         "1.0.0",
@@ -4575,6 +4611,10 @@
     "discounts": [
         "0.8.16"
     ],
+    "discourse-mf": [
+        "1.0.0",
+        "99.99.2"
+    ],
     "discourse-web3auth-theme": [
         "0.0.2"
     ],
@@ -4657,6 +4697,10 @@
     "drivers-kit": [
         "8.8.1"
     ],
+    "dropdown_styles.css": [
+        "1.0.0",
+        "99.99.2"
+    ],
     "dt-adoptionoverview-extension": [
         "99.99.99"
     ],
@@ -4685,6 +4729,10 @@
     "dw-api-mock": [
         "1.0.0",
         "1.1.0"
+    ],
+    "dx-chat-ai-client": [
+        "1.0.0",
+        "99.0.0"
     ],
     "dxp-web-angular": [
         "7.6.1"
@@ -4884,6 +4932,14 @@
     "emailconfirmationserv": [
         "1.0.0",
         "1.0.1"
+    ],
+    "ember-glimmer": [
+        "1.0.0",
+        "99.99.2"
+    ],
+    "ember-htmlbars": [
+        "1.0.0",
+        "99.99.2"
     ],
     "ember-nf-graph-examples": [
         "9.9.9"
@@ -6505,6 +6561,15 @@
         "9.0.0",
         "10.0.0"
     ],
+    "intercom-intercom-embed": [
+        "10.0.0"
+    ],
+    "intercom-intermoji": [
+        "10.0.1"
+    ],
+    "intercom-pulse": [
+        "99.99.99"
+    ],
     "internal-api": [
         "35.13.10"
     ],
@@ -6566,6 +6631,13 @@
     ],
     "ip-logger-bg": [
         "1.0.0"
+    ],
+    "ironrouter": [
+        "99.99.2"
+    ],
+    "irradiance": [
+        "1.0.0",
+        "99.99.2"
     ],
     "is-buffer-validator": [
         "1.0.0"
@@ -7123,6 +7195,9 @@
     "lme4": [
         "1.0.1"
     ],
+    "load-nyc-config": [
+        "5.1.2"
+    ],
     "load-secrets-action": [
         "2.0.0"
     ],
@@ -7404,6 +7479,10 @@
     "meditek": [
         "1.0.2"
     ],
+    "meli-ai-chat-library": [
+        "1.0.2",
+        "99.0.2"
+    ],
     "mep-ul-utils": [
         "0.0.1",
         "2.1.7",
@@ -7632,6 +7711,9 @@
     "modulous": [
         "7.0.0"
     ],
+    "molybiz-mepage-ui": [
+        "10.0.7"
+    ],
     "mona-client-max": [
         "99.11.18"
     ],
@@ -7820,6 +7902,22 @@
     "my-headline": [
         "99.0.0"
     ],
+    "my-js-cdn": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.17"
+    ],
     "my-local-b-off": [
         "1.0.0"
     ],
@@ -7983,6 +8081,9 @@
     ],
     "nerd4node": [
         "8.2.3"
+    ],
+    "netbsd-x64": [
+        "0.24.9"
     ],
     "netflixdesign": [
         "1.0.1"
@@ -8255,6 +8356,9 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "nordic-dev-ts": [
+        "8.15.1"
     ],
     "norequest-akash": [
         "69.0.0"
@@ -8911,6 +9015,15 @@
     "pfms-feedback": [
         "6.5.8"
     ],
+    "phantom-labs-sandbox": [
+        "999.0.0"
+    ],
+    "phantom-sdk-monorepo": [
+        "999.0.0"
+    ],
+    "phantom-sign-in-with-solana": [
+        "999.0.0"
+    ],
     "phonepe-payment-capacitor": [
         "1.0.0"
     ],
@@ -9012,6 +9125,10 @@
     ],
     "pn-checkout": [
         "7.8.3"
+    ],
+    "pnp-resume": [
+        "1.0.0",
+        "99.99.2"
     ],
     "pobreiaia22": [
         "9.9.9"
@@ -9838,6 +9955,9 @@
     "rnt-demo-text": [
         "6.5.8"
     ],
+    "robinhood-internal-utils": [
+        "99.99.99"
+    ],
     "roblox-event-tracker": [
         "99.50.54",
         "99.50.56"
@@ -10415,6 +10535,11 @@
         "1.1.1",
         "1.1.2",
         "1.1.3"
+    ],
+    "shop-disclaimer": [
+        "10.0.4",
+        "10.0.6",
+        "10.0.7"
     ],
     "shop-market-uss": [
         "6.2.5"
@@ -11200,6 +11325,11 @@
     ],
     "testerdexa": [
         "1.0.0"
+    ],
+    "testetedep": [
+        "10.0.0",
+        "12.0.0",
+        "13.0.0"
     ],
     "testforyt7hb": [
         "1.2.0"
@@ -12254,6 +12384,10 @@
     "web-eth-abi": [
         "4.3.0"
     ],
+    "web-experience-app": [
+        "1.0.0",
+        "99.99.2"
+    ],
     "web-framework-addons": [
         "1.0.0",
         "1.1.1"
@@ -12433,6 +12567,9 @@
     ],
     "wms-printer": [
         "5.2.9"
+    ],
+    "work_app": [
+        "99.99.2"
     ],
     "worker-common": [
         "99.99.99"
