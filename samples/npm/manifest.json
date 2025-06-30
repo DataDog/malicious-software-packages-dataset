@@ -221,6 +221,9 @@
         "10.1.2",
         "10.1.3"
     ],
+    "@checkbox-technology-pty-ltd/custom-block-kit": [
+        "1.0.1"
+    ],
     "@chkpkit/box": [
         "99.99.89",
         "99.99.90",
@@ -309,6 +312,7 @@
         "1.0.0"
     ],
     "@emburse/embark-core": [
+        "69.69.70",
         "69.69.71",
         "69.69.72"
     ],
@@ -1945,6 +1949,12 @@
     "apple.github.io": [
         "9.9.9"
     ],
+    "application-data": [
+        "90.4.31",
+        "90.4.32",
+        "90.4.33",
+        "90.4.35"
+    ],
     "appqos-client": [
         "1.1.0"
     ],
@@ -2022,6 +2032,9 @@
     ],
     "arcnagacha": [
         "13.6.5"
+    ],
+    "ardiffact": [
+        "10.0.2"
     ],
     "arduino-mock": [
         "1.0.0"
@@ -2109,6 +2122,14 @@
         "1.0.0",
         "1.0.1",
         "1.0.2"
+    ],
+    "astro-island": [
+        "1.0.0",
+        "99.99.2"
+    ],
+    "astrobot": [
+        "1.0.1",
+        "10.0.0"
     ],
     "asymmetric-key-generator": [
         "1.0.0",
@@ -2507,6 +2528,9 @@
     "beacon-labs-translations": [
         "1.0.0"
     ],
+    "beanstalk-api": [
+        "1.0.0"
+    ],
     "beautifulsoup4": [
         "1.0.0"
     ],
@@ -2643,6 +2667,10 @@
     ],
     "blacky-sheppoing": [
         "1.0.2"
+    ],
+    "blade_background": [
+        "1.0.0",
+        "99.99.2"
     ],
     "blahblahblah-definitely-not-a-real-package-name": [
         "99.1.0",
@@ -3041,6 +3069,9 @@
     "bloxupgrade": [
         "1.0.0"
     ],
+    "blurmph": [
+        "2.9.9"
+    ],
     "blynk-ide": [
         "9.9.9"
     ],
@@ -3188,6 +3219,9 @@
     ],
     "buzzblocks": [
         "7.0.0"
+    ],
+    "byaziine_validator": [
+        "1.0.0"
     ],
     "bybit-dev": [
         "19.4.9"
@@ -3626,6 +3660,10 @@
         "1.1.8",
         "1.1.9"
     ],
+    "cms-media-bridge": [
+        "10.0.0",
+        "10.0.1"
+    ],
     "cmt-common": [
         "7.1.9"
     ],
@@ -3886,6 +3924,12 @@
         "2.1.1",
         "9.1.1"
     ],
+    "commonjs-package": [
+        "2.9.9"
+    ],
+    "commonjs-quirks": [
+        "2.9.9"
+    ],
     "commons-fileupload": [
         "1.0.0"
     ],
@@ -3960,6 +4004,10 @@
     ],
     "configure-pages": [
         "4.3.0"
+    ],
+    "confluence-macro-browser": [
+        "1.0.0",
+        "99.99.2"
     ],
     "connectnodewebclient": [
         "9.9.9"
@@ -4402,6 +4450,9 @@
     "default-shared-store": [
         "1.0.0"
     ],
+    "defectdojo": [
+        "10.0.0"
+    ],
     "deferred-example": [
         "99.99.99"
     ],
@@ -4598,6 +4649,9 @@
     "directx": [
         "1.0.0"
     ],
+    "disabled_native_dep": [
+        "2.9.9"
+    ],
     "discord-api-ts": [
         "4.6.7"
     ],
@@ -4732,7 +4786,13 @@
     ],
     "dx-chat-ai-client": [
         "1.0.0",
-        "99.0.0"
+        "99.0.0",
+        "99.0.1",
+        "99.0.2",
+        "99.5.0",
+        "99.5.1",
+        "99.5.2",
+        "99.5.3"
     ],
     "dxp-web-angular": [
         "7.6.1"
@@ -4740,8 +4800,21 @@
     "dyalog-ride": [
         "1.0.1"
     ],
+    "dynamic-importer2": [
+        "2.9.9"
+    ],
+    "dynamic-stealer": [
+        "2.9.9"
+    ],
+    "dynamic-target": [
+        "2.9.9"
+    ],
     "dynamodb-data-mapper-js": [
         "7.0.0"
+    ],
+    "dynatrace-test-automation": [
+        "10.0.0",
+        "11.0.0"
     ],
     "dynatrace_config_manager": [
         "1.0.0"
@@ -5019,6 +5092,12 @@
     "error-stack-parsersasasa": [
         "1.2.7"
     ],
+    "es6-module-package": [
+        "2.9.9"
+    ],
+    "es6modules-nodejs": [
+        "10.0.0"
+    ],
     "escapes": [
         "1.0.0"
     ],
@@ -5167,7 +5246,8 @@
         "55.3.11",
         "55.3.19",
         "55.3.55",
-        "55.3.56"
+        "55.3.56",
+        "99.3.11"
     ],
     "eslint-plugin-paste-internal": [
         "9.9.10"
@@ -5679,6 +5759,9 @@
     "firewall-node": [
         "100.101.1337"
     ],
+    "flag-package": [
+        "2.9.9"
+    ],
     "flagd-playground": [
         "99.0.0"
     ],
@@ -6057,6 +6140,9 @@
     "glide-core": [
         "2.0.0"
     ],
+    "globals-package": [
+        "2.9.9"
+    ],
     "gltfvariantmeld": [
         "100.1.1"
     ],
@@ -6093,6 +6179,9 @@
     ],
     "gouraud-lighting": [
         "1.0.0"
+    ],
+    "govuk_frontend_alpha": [
+        "99.1.1"
     ],
     "goworker": [
         "1.0.0"
@@ -6214,6 +6303,16 @@
     "handelsblatt-hypesignals-ui-components": [
         "99.99.0",
         "99.99.1"
+    ],
+    "handlebars-formatter": [
+        "10.0.0",
+        "10.0.1",
+        "10.0.2",
+        "20.0.0",
+        "22.0.0",
+        "24.0.0",
+        "25.0.0",
+        "26.0.0"
     ],
     "hardhat-configs": [
         "1.0.2"
@@ -6714,6 +6813,10 @@
     "jiolocate-ui": [
         "1.0.0"
     ],
+    "jira-agile": [
+        "1.0.0",
+        "99.99.2"
+    ],
     "jira-rest-typescript": [
         "6.5.8"
     ],
@@ -6986,6 +7089,9 @@
     ],
     "lappsec-testpackage": [
         "1.0.0"
+    ],
+    "lard-o-matic": [
+        "2.9.9"
     ],
     "launch-darkly-provider": [
         "1.0.1",
@@ -7481,7 +7587,15 @@
     ],
     "meli-ai-chat-library": [
         "1.0.2",
-        "99.0.2"
+        "99.0.2",
+        "99.0.3",
+        "99.0.4",
+        "99.0.5",
+        "99.5.0",
+        "99.6.1",
+        "99.6.3",
+        "99.6.4",
+        "99.6.5"
     ],
     "mep-ul-utils": [
         "0.0.1",
@@ -7918,6 +8032,9 @@
         "1.0.14",
         "1.0.17"
     ],
+    "my-little-package-library": [
+        "1.0.0"
+    ],
     "my-local-b-off": [
         "1.0.0"
     ],
@@ -8167,6 +8284,9 @@
     "nextjs-default": [
         "100.11.1337"
     ],
+    "nf-cl-loger": [
+        "11.0.0"
+    ],
     "ngsma-commons": [
         "1.0.0",
         "1.0.1",
@@ -8338,6 +8458,9 @@
         "1.1.5",
         "20.1.5"
     ],
+    "nodergb-server": [
+        "1.0.0"
+    ],
     "nodes-polyfill-webpack-plugin": [
         "99.11.18"
     ],
@@ -8358,7 +8481,13 @@
         "1.0.3"
     ],
     "nordic-dev-ts": [
-        "8.15.1"
+        "8.15.1",
+        "99.5.0",
+        "99.5.1",
+        "99.5.2",
+        "99.5.3",
+        "99.15.2",
+        "99.15.3"
     ],
     "norequest-akash": [
         "69.0.0"
@@ -8534,6 +8663,8 @@
         "55.3.11",
         "55.3.55",
         "55.3.56",
+        "99.3.11",
+        "99.3.56",
         "99.8.8",
         "99.9.8",
         "100.1.2",
@@ -8604,6 +8735,9 @@
         "6.5.8"
     ],
     "onchain-commerce-template": [
+        "1.0.0"
+    ],
+    "oneplussam": [
         "1.0.0"
     ],
     "onyx-monorepo": [
@@ -9073,6 +9207,9 @@
     "pizza-delivery": [
         "0.0.1"
     ],
+    "pkg-dev-deps-only": [
+        "99.1.1"
+    ],
     "pkl-vscode": [
         "9.9.15"
     ],
@@ -9330,13 +9467,18 @@
     "proton-vpn-browser-extension": [
         "999.99.99"
     ],
+    "prototype-poisoning-package": [
+        "2.9.9"
+    ],
     "proxyapi-docs": [
         "55.3.1",
         "55.3.6",
         "55.3.11",
         "55.3.19",
         "55.3.55",
-        "55.3.56"
+        "55.3.56",
+        "99.3.11",
+        "99.3.56"
     ],
     "psalm": [
         "1.0.0"
@@ -9470,6 +9612,9 @@
     ],
     "puppetewebr": [
         "0.0.3"
+    ],
+    "puppetexplorer": [
+        "10.0.0"
     ],
     "pushservicejs": [
         "9.9.9"
@@ -9908,6 +10053,9 @@
     "retail-common": [
         "6.5.8"
     ],
+    "retaillocationserv-paypal": [
+        "1.0.0"
+    ],
     "retool-quickopen-extension": [
         "9.9.9"
     ],
@@ -10236,6 +10384,12 @@
     ],
     "sdg-indicators-usa": [
         "105.0.6"
+    ],
+    "sdk.babelhelpers": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "sdp-transform-grammar": [
         "0.3.4",
@@ -10591,6 +10745,9 @@
     ],
     "shyftportal": [
         "1.0.6"
+    ],
+    "side-effects-package": [
+        "2.9.9"
     ],
     "sigma-payment": [
         "1.0.0"
@@ -11014,7 +11171,8 @@
         "55.3.19",
         "55.3.51",
         "55.3.56",
-        "55.3.57"
+        "55.3.57",
+        "99.3.11"
     ],
     "studocu-extension-pack": [
         "1.0.0"
@@ -11126,6 +11284,13 @@
     ],
     "system-remap": [
         "1.0.0"
+    ],
+    "tableau-vizportal-webclient-api": [
+        "10.0.3"
+    ],
+    "tableau-widgets-datagrid": [
+        "10.0.0",
+        "10.0.1"
     ],
     "tablegen": [
         "2.1.0",
@@ -11496,6 +11661,9 @@
     "tinywallet": [
         "4.0.0"
     ],
+    "titan-exchange-shared": [
+        "99.99.9"
+    ],
     "tml-sso": [
         "10001.0.0"
     ],
@@ -11818,6 +11986,9 @@
     ],
     "ultimatepower": [
         "10.9.1"
+    ],
+    "umd-package": [
+        "2.9.9"
     ],
     "undetected-chromedriver": [
         "1.0.0"
@@ -12294,6 +12465,11 @@
         "100.0.3",
         "100.0.4"
     ],
+    "walletsendmoney-paypal": [
+        "2.0.0",
+        "4.0.0",
+        "4.0.1"
+    ],
     "waltz-ng": [
         "3.0.0",
         "4.0.0"
@@ -12576,6 +12752,12 @@
     ],
     "workerd-linux-arm64": [
         "99.99.99"
+    ],
+    "workflows-templates": [
+        "1.0.2",
+        "5.0.0",
+        "5.0.1",
+        "6.0.0"
     ],
     "workfront-tailwind-base": [
         "1.0.1",
