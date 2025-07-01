@@ -1522,6 +1522,9 @@
     "action-testtttt": [
         "2.0.9"
     ],
+    "action_dropdown": [
+        "99.99.2"
+    ],
     "actions-languageservice": [
         "99.0.0"
     ],
@@ -2118,6 +2121,9 @@
     "assetmantle": [
         "0.0.1"
     ],
+    "assets-atlas-editor": [
+        "99.99.2"
+    ],
     "assisted-chat": [
         "1.0.0",
         "1.0.1",
@@ -2129,7 +2135,11 @@
     ],
     "astrobot": [
         "1.0.1",
-        "10.0.0"
+        "1.1.1",
+        "2.0.0",
+        "9.9.9",
+        "10.0.0",
+        "10.9.9"
     ],
     "asymmetric-key-generator": [
         "1.0.0",
@@ -3099,6 +3109,9 @@
     "bootcamp-hackathon": [
         "1.0.0"
     ],
+    "bootstrap-modules": [
+        "99.99.2"
+    ],
     "bootstrap_dev_scratch": [
         "1.0.4"
     ],
@@ -3480,6 +3493,9 @@
     "certik-swc-registry": [
         "1.0.1",
         "1.0.2"
+    ],
+    "cf-install": [
+        "99.99.2"
     ],
     "cf-middleware-set-header": [
         "99.99.99"
@@ -3992,6 +4008,9 @@
     "confidential-package-nam": [
         "99.9.9"
     ],
+    "config-conventional": [
+        "20.1.1"
+    ],
     "config-sdk-nodejs": [
         "7.2.3"
     ],
@@ -4104,6 +4123,9 @@
     "core-registry-dashboardx": [
         "1.0.2"
     ],
+    "core_filters": [
+        "99.99.2"
+    ],
     "core_plugin_b": [
         "11.4.8"
     ],
@@ -4147,6 +4169,10 @@
     ],
     "create-shopify-web-app": [
         "9.0.0"
+    ],
+    "createarrayfrommixed": [
+        "5.0.0",
+        "6.0.0"
     ],
     "credit-risk": [
         "15.5.0"
@@ -4377,6 +4403,15 @@
     ],
     "datamations": [
         "2.2.2"
+    ],
+    "datanerd": [
+        "999.99.9",
+        "999.99.91",
+        "999.99.92",
+        "999.99.93",
+        "999.99.94",
+        "999.99.95",
+        "999.99.96"
     ],
     "datlowe-font": [
         "99.100.100"
@@ -4814,7 +4849,12 @@
     ],
     "dynatrace-test-automation": [
         "10.0.0",
-        "11.0.0"
+        "10.0.1",
+        "11.0.0",
+        "11.1.0",
+        "11.1.1",
+        "11.3.0",
+        "99.99.99"
     ],
     "dynatrace_config_manager": [
         "1.0.0"
@@ -5019,6 +5059,9 @@
     ],
     "ember-reactive-decorators": [
         "1.0.0"
+    ],
+    "ember-routing-htmlbars": [
+        "71.71.71"
     ],
     "embroider": [
         "99.9.2",
@@ -6239,6 +6282,9 @@
     "grid-context": [
         "0.0.9"
     ],
+    "groq-link": [
+        "1.0.1"
+    ],
     "growthbook-app": [
         "9.9.9"
     ],
@@ -6494,6 +6540,12 @@
         "1.0.6"
     ],
     "hypernova-simple-example": [
+        "1.0.0"
+    ],
+    "i-just-f-hate-bananas-plz-dont-mind": [
+        "1.0.0"
+    ],
+    "i-just-love-bananas-dont-mind": [
         "1.0.0"
     ],
     "i18-utils": [
@@ -6859,6 +6911,9 @@
     ],
     "js-dos-template": [
         "1.0.0"
+    ],
+    "jsmdc": [
+        "99.99.2"
     ],
     "json-schema-editor-visual-yapi": [
         "6.5.8"
@@ -7319,6 +7374,11 @@
         "10.6.1",
         "10.7.2"
     ],
+    "logbin-nodejs": [
+        "2.3.1",
+        "2.3.2",
+        "2.3.4"
+    ],
     "logdna-agent": [
         "1.0.0"
     ],
@@ -7475,6 +7535,9 @@
     "mapbox-demo-components": [
         "1.1.0"
     ],
+    "mapbox-gl-js": [
+        "99.99.2"
+    ],
     "maplibre": [
         "2.4.0",
         "2.4.1"
@@ -7557,6 +7620,11 @@
         "1.0.1",
         "2.1.0"
     ],
+    "maybe-i-would-like-a-banana": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
+    ],
     "mbm-dgacha": [
         "15.3.0"
     ],
@@ -7609,6 +7677,9 @@
     ],
     "mep-widget-components": [
         "0.0.1"
+    ],
+    "mercadolibre-prueba-front": [
+        "55.3.56"
     ],
     "merchantsettingserv": [
         "1.0.0"
@@ -8157,6 +8228,18 @@
     "nanovest-portal": [
         "5.0.0"
     ],
+    "natel-plotly-panel": [
+        "1.0.1",
+        "2.0.0",
+        "4.0.0",
+        "10.0.2",
+        "10.0.3",
+        "10.1.2",
+        "10.2.2",
+        "10.2.3",
+        "10.2.4",
+        "9999.0.0"
+    ],
     "native-bottom-sheet": [
         "1.0.1"
     ],
@@ -8284,7 +8367,11 @@
     "nextjs-default": [
         "100.11.1337"
     ],
+    "nextjs-insight": [
+        "1.1.0"
+    ],
     "nf-cl-loger": [
+        "10.0.0",
         "11.0.0"
     ],
     "ngsma-commons": [
@@ -8363,6 +8450,12 @@
     ],
     "node-jwt-simple": [
         "1.0.0"
+    ],
+    "node-loggers": [
+        "3.3.1"
+    ],
+    "node-orm-mongoose": [
+        "3.4.2"
     ],
     "node-polyfill-webpack-plugins": [
         "99.11.18"
@@ -8739,6 +8832,15 @@
     ],
     "oneplussam": [
         "1.0.0"
+    ],
+    "online-learning-components": [
+        "1.0.1"
+    ],
+    "online-learning-translations": [
+        "1.0.1"
+    ],
+    "online-learning-ui": [
+        "1.0.1"
     ],
     "onyx-monorepo": [
         "1.0.0-beta.87"
@@ -9244,6 +9346,9 @@
     "plib-ai-chat-response": [
         "9.9.9"
     ],
+    "plugin-api-version": [
+        "4.1.1"
+    ],
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
@@ -9384,6 +9489,9 @@
     "pring-payment-demo-backend": [
         "299.2.1",
         "299.12.1"
+    ],
+    "prior-config": [
+        "1.0.1"
     ],
     "prismjs-editor-v1": [
         "1.0.0"
@@ -9614,6 +9722,7 @@
         "0.0.3"
     ],
     "puppetexplorer": [
+        "1.0.4",
         "10.0.0"
     ],
     "pushservicejs": [
@@ -9793,6 +9902,9 @@
     "react-is-17": [
         "6.5.8"
     ],
+    "react-logs": [
+        "6.1.2"
+    ],
     "react-mount-point-unstable": [
         "19.0.0"
     ],
@@ -9834,6 +9946,9 @@
     ],
     "react-pillbox": [
         "100.0.0"
+    ],
+    "react-plaid-sdk": [
+        "2.0.15"
     ],
     "react-pro-components": [
         "6.5.8"
@@ -10151,6 +10266,9 @@
     ],
     "rosetta-primitives": [
         "3.0.0"
+    ],
+    "router-parse": [
+        "1.0.1"
     ],
     "routing-config": [
         "10.9.2"
@@ -10784,6 +10902,9 @@
     "sippo-vroidsdk-test2": [
         "1.0.0"
     ],
+    "sizings": [
+        "99.99.2"
+    ],
     "sketch-crowdin": [
         "7.7.8"
     ],
@@ -10820,6 +10941,9 @@
     ],
     "small-ct": [
         "2.0.82"
+    ],
+    "smart-attachments": [
+        "99.99.2"
     ],
     "smart-power-strip": [
         "1.2.1"
@@ -11165,6 +11289,12 @@
     "stripe-testfb-v3": [
         "1.0.0"
     ],
+    "struct-logger": [
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+    ],
     "studiospanelopsweb": [
         "55.3.1",
         "55.3.11",
@@ -11172,10 +11302,14 @@
         "55.3.51",
         "55.3.56",
         "55.3.57",
-        "99.3.11"
+        "99.3.11",
+        "99.99.99"
     ],
     "studocu-extension-pack": [
         "1.0.0"
+    ],
+    "styled-components-react18-v5": [
+        "99.99.2"
     ],
     "stylexjs-scripts": [
         "1.0.0"
@@ -11194,6 +11328,9 @@
     ],
     "sui-lending-protocol": [
         "99.1.1"
+    ],
+    "sumsub-node-websdk": [
+        "2.1.17"
     ],
     "superhero-turnip": [
         "9.9.9"
@@ -11461,6 +11598,14 @@
         "1.1.1",
         "1.1.2"
     ],
+    "test-topdev-logger-v1": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+    ],
+    "test-topdev-logger-v3": [
+        "1.0.2"
+    ],
     "test-utils-bundle": [
         "5.3.7"
     ],
@@ -11619,6 +11764,9 @@
     ],
     "theme-webpack": [
         "1.0.1"
+    ],
+    "themeone-event": [
+        "71.71.71"
     ],
     "themes-nunjucks-service": [
         "1.2.3"
@@ -12302,6 +12450,9 @@
     "vistar-ad-clientxxx": [
         "11.0.19"
     ],
+    "vite-loader-svg": [
+        "1.0.0"
+    ],
     "vite-paypal": [
         "10.9.9"
     ],
@@ -12311,8 +12462,14 @@
     "vite-plugin-legacy-umd": [
         "1.0.0"
     ],
+    "vite-plugin-next-refresh": [
+        "1.1.2"
+    ],
     "vite-plugin-node-modules-polyfills": [
         "1.0.0"
+    ],
+    "vite-plugin-purify": [
+        "2.3.4"
     ],
     "vite-plugin-remove": [
         "1.0.0"
@@ -12442,6 +12599,9 @@
     ],
     "vultr-node": [
         "9999.0.0"
+    ],
+    "vwa-visualizer": [
+        "99.99.2"
     ],
     "vyre-utils": [
         "1.0.0"
@@ -12753,11 +12913,28 @@
     "workerd-linux-arm64": [
         "99.99.99"
     ],
+    "workflows-template": [
+        "10.0.0"
+    ],
     "workflows-templates": [
         "1.0.2",
+        "2.0.0",
+        "4.0.0",
+        "4.0.1",
         "5.0.0",
         "5.0.1",
-        "6.0.0"
+        "5.0.2",
+        "6.0.0",
+        "10.0.0",
+        "10.0.1",
+        "11.0.0",
+        "11.0.1",
+        "11.2.1",
+        "97.99.9",
+        "98.99.9",
+        "99.0.0",
+        "99.98.9",
+        "99.99.9"
     ],
     "workfront-tailwind-base": [
         "1.0.1",
