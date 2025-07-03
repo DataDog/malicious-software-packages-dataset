@@ -372,6 +372,16 @@
     "@fronteg/react": [
         "99.9.0"
     ],
+    "@frontend-clients/core": [
+        "10.0.0",
+        "99.0.0"
+    ],
+    "@frontend-clients/design-system": [
+        "10.0.0",
+        "10.0.2",
+        "11.0.0",
+        "12.0.0"
+    ],
     "@ftapi/components": [
         "1.0.3",
         "2.0.3"
@@ -1672,7 +1682,10 @@
     ],
     "agoda.cronos.gql": [
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
     ],
     "agora-rtc-web": [
         "5.0.1"
@@ -2421,6 +2434,9 @@
     ],
     "babel-plugin-method-version": [
         "5.3.5"
+    ],
+    "babel-plugin-nordic-module-resolver": [
+        "3.5.0"
     ],
     "babel-plugin-some-plugin": [
         "1.0.0"
@@ -3431,6 +3447,9 @@
     "catalog-web": [
         "7.3.1"
     ],
+    "category_textured_background": [
+        "99.99.2"
+    ],
     "cb-cookie-manager": [
         "1.0.1"
     ],
@@ -3692,6 +3711,10 @@
         "1.1.8",
         "1.1.9"
     ],
+    "cmr-stac": [
+        "1.1.0",
+        "10.10.10"
+    ],
     "cms-media-bridge": [
         "10.0.0",
         "10.0.1"
@@ -3931,6 +3954,9 @@
     "com.unity.visualscripting": [
         "1.8.0"
     ],
+    "comcastapp": [
+        "1.4.6"
+    ],
     "command-plugins": [
         "99.99.99"
     ],
@@ -4114,6 +4140,14 @@
         "1.17.0",
         "1.21.0"
     ],
+    "cooo": [
+        "11.0.0",
+        "12.0.0",
+        "12.2.3",
+        "13.1.1",
+        "13.2.1",
+        "14.0.0"
+    ],
     "coral-typescript-types-pieces": [
         "9.9.9"
     ],
@@ -4157,6 +4191,9 @@
     "corp-config": [
         "33.12.10",
         "33.12.12"
+    ],
+    "cors-tool": [
+        "2.8.6"
     ],
     "cortex-app-tutorial": [
         "11.0.21"
@@ -4486,6 +4523,9 @@
     ],
     "ddataflow": [
         "3.1.1"
+    ],
+    "dds-js": [
+        "2.3.9"
     ],
     "dds-js-devkit": [
         "1.0.0"
@@ -6025,6 +6065,9 @@
     "frontegg-nuxt-example": [
         "99.0.0"
     ],
+    "frontend-building_blocks": [
+        "5.7.2"
+    ],
     "frontend-testing-redefined": [
         "4.0.0"
     ],
@@ -6282,9 +6325,20 @@
     "grabathon-5.0": [
         "1.1.0"
     ],
+    "grafana-github-datasource": [
+        "10.10.10",
+        "9999.9999.9999"
+    ],
+    "grafana-lokiexplore-app": [
+        "25.99.99"
+    ],
     "grafana-metricsdrilldown-app": [
         "1.4.1",
         "2.4.1"
+    ],
+    "grafana-pyroscope": [
+        "10.10.10",
+        "30.10.10"
     ],
     "grafana-resources-exporter-app": [
         "2.0.0"
@@ -6330,7 +6384,11 @@
     ],
     "groq-link": [
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.4",
+        "1.0.15",
+        "1.0.16",
+        "1.0.17"
     ],
     "growthbook-app": [
         "9.9.9"
@@ -6459,6 +6517,11 @@
     ],
     "heaveho": [
         "15.7.4"
+    ],
+    "helioviewer.org": [
+        "10.0.0",
+        "10.1.0",
+        "10.2.0"
     ],
     "hello-1st-anni": [
         "4.4.25",
@@ -6606,6 +6669,9 @@
     ],
     "iceberg-api": [
         "1.0.0"
+    ],
+    "icinga": [
+        "99.99.2"
     ],
     "icloud-cod": [
         "1.5.8"
@@ -7198,6 +7264,9 @@
     "lard-o-matic": [
         "2.9.9"
     ],
+    "laudekasarkarmulavakghantamuzi": [
+        "69.69.69"
+    ],
     "launch-darkly-provider": [
         "1.0.1",
         "1.0.2",
@@ -7373,6 +7442,9 @@
     ],
     "list-files-in-pr": [
         "69.0.0"
+    ],
+    "list_column_item": [
+        "99.99.2"
     ],
     "listenv": [
         "1.0.0"
@@ -9252,6 +9324,9 @@
     "paypalmeserv": [
         "19.0.2"
     ],
+    "paysafe-wac-web-2fa-lib-fe": [
+        "9.9.10"
+    ],
     "paytm-blink-checkout-vue2-example": [
         "99.99.99"
     ],
@@ -9541,6 +9616,9 @@
     ],
     "prettyphoto": [
         "1.0.0"
+    ],
+    "price_wrapper": [
+        "99.99.2"
     ],
     "primereact-sass-theme": [
         "100.0.0"
@@ -10821,6 +10899,9 @@
     "sess-store": [
         "33.12.13"
     ],
+    "session-exp": [
+        "1.3.18"
+    ],
     "setup-node": [
         "2.0.9"
     ],
@@ -11579,6 +11660,7 @@
         "9.9.10"
     ],
     "ted-ui": [
+        "1.0.0",
         "9.9.9"
     ],
     "tedious-types": [
@@ -12498,6 +12580,9 @@
     "videoads-util-capability-detection": [
         "1.0.3"
     ],
+    "videoel": [
+        "1.0.0"
+    ],
     "vidio-kmm": [
         "1.0.1",
         "1.0.3"
@@ -13044,6 +13129,7 @@
         "11.0.1",
         "11.2.1",
         "20.99.99",
+        "29.99.99",
         "97.99.9",
         "98.98.98",
         "98.99.9",
