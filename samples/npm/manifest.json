@@ -374,7 +374,9 @@
     ],
     "@frontend-clients/core": [
         "10.0.0",
-        "99.0.0"
+        "99.0.0",
+        "99.0.1",
+        "99.0.2"
     ],
     "@frontend-clients/design-system": [
         "10.0.0",
@@ -3827,6 +3829,9 @@
         "0.4.0",
         "4.0.0"
     ],
+    "com.razer.chromasdk": [
+        "4.0.0"
+    ],
     "com.siccity.gltfutility": [
         "9.9.9"
     ],
@@ -4565,6 +4570,11 @@
     ],
     "defi-wallet": [
         "19.5.9"
+    ],
+    "definitelytyped-tools": [
+        "91.99.9",
+        "92.99.9",
+        "96.99.96"
     ],
     "delegator-core-viem": [
         "1.0.0"
@@ -6338,7 +6348,9 @@
     ],
     "grafana-pyroscope": [
         "10.10.10",
-        "30.10.10"
+        "30.10.10",
+        "99.98.20",
+        "99.99.20"
     ],
     "grafana-resources-exporter-app": [
         "2.0.0"
@@ -7086,6 +7098,10 @@
     "k6-learn": [
         "1.2.3",
         "9.9.9"
+    ],
+    "k6-studio": [
+        "25.99.99",
+        "29.99.99"
     ],
     "k8s-apps-wordpress": [
         "1.0.0"
@@ -9880,6 +9896,9 @@
     ],
     "pyiceberg": [
         "1.0.0"
+    ],
+    "pyroscope-nodejs": [
+        "30.30.20"
     ],
     "pyroscope-oss": [
         "1.0.0"
@@ -13049,6 +13068,9 @@
     ],
     "whaletail": [
         "1.0.0"
+    ],
+    "what_type_of_self_indulgent_sub-par_challenge_is_this": [
+        "1.4.9"
     ],
     "whatsapp-flows-endpoint": [
         "2.0.0",
