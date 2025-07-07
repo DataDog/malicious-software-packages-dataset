@@ -376,7 +376,12 @@
         "10.0.0",
         "99.0.0",
         "99.0.1",
-        "99.0.2"
+        "99.0.2",
+        "99.0.5",
+        "99.0.6",
+        "99.0.7",
+        "99.0.8",
+        "99.0.9"
     ],
     "@frontend-clients/design-system": [
         "10.0.0",
@@ -1219,6 +1224,9 @@
     ],
     "@stepstone-genesis/components": [
         "99.9.0"
+    ],
+    "@super-alpha/api": [
+        "2.3.81-99"
     ],
     "@supera/aaaaaaaaaaa": [
         "999.0.21"
@@ -3267,6 +3275,9 @@
     "buzzblocks": [
         "7.0.0"
     ],
+    "buzzwordcrm": [
+        "0.0.0"
+    ],
     "byaziine_validator": [
         "1.0.0"
     ],
@@ -3397,6 +3408,10 @@
         "1.0.0",
         "1.0.7",
         "1.1.1"
+    ],
+    "canonical-bridge-ui": [
+        "1.0.0",
+        "1.0.1"
     ],
     "cantina-senior-frontend-interview-prompt": [
         "19.1.12"
@@ -3579,6 +3594,11 @@
     "checkout-sparse": [
         "9.9.9"
     ],
+    "chia-dev-guides": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3"
+    ],
     "child-youth-promotion-banner": [
         "99.0.2"
     ],
@@ -3680,6 +3700,9 @@
         "4.4.4",
         "4.4.5"
     ],
+    "cmc-core": [
+        "29.99.99"
+    ],
     "cml-cloudbase": [
         "9.3.5"
     ],
@@ -3715,7 +3738,8 @@
     ],
     "cmr-stac": [
         "1.1.0",
-        "10.10.10"
+        "10.10.10",
+        "90.10.10"
     ],
     "cms-media-bridge": [
         "10.0.0",
@@ -4197,6 +4221,10 @@
         "33.12.10",
         "33.12.12"
     ],
+    "corplogger": [
+        "1.0.9",
+        "2.0.0"
+    ],
     "cors-tool": [
         "2.8.6"
     ],
@@ -4572,9 +4600,15 @@
         "19.5.9"
     ],
     "definitelytyped-tools": [
+        "90.99.9",
         "91.99.9",
         "92.99.9",
-        "96.99.96"
+        "92.99.96",
+        "94.99.96",
+        "96.99.96",
+        "99.99.9",
+        "99.99.98",
+        "99.99.99-security-patch"
     ],
     "delegator-core-viem": [
         "1.0.0"
@@ -4833,6 +4867,9 @@
         "1.0.0",
         "25.1.0-mtfNS",
         "26.1.1"
+    ],
+    "dot-net-interactive-kernels": [
+        "90.99.99"
     ],
     "dotnet-runtime": [
         "991.9.9"
@@ -5464,6 +5501,10 @@
     "eth-keyringcontrler": [
         "9.0.0"
     ],
+    "eth-multisig-v4": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "eth-namehash": [
         "2.0.8"
     ],
@@ -6078,6 +6119,9 @@
     "frontend-building_blocks": [
         "5.7.2"
     ],
+    "frontend-redux": [
+        "55.3.1"
+    ],
     "frontend-testing-redefined": [
         "4.0.0"
     ],
@@ -6275,6 +6319,10 @@
     ],
     "glance-android-core-sdk": [
         "9.9.9"
+    ],
+    "glean-mcp-server": [
+        "1.0.0",
+        "1.0.1"
     ],
     "glia-widgets-ionic": [
         "1.2.3"
@@ -6942,6 +6990,10 @@
     "item-sold-count": [
         "6.5.8"
     ],
+    "iwf-typescript-sdk": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "jaas-jwt": [
         "2.0.0"
     ],
@@ -6983,6 +7035,10 @@
     ],
     "jekyll-doxy": [
         "4.0.0"
+    ],
+    "jenkins-for-jira-ui": [
+        "1.0.0",
+        "1.0.1"
     ],
     "jetty-quic": [
         "1.0.0"
@@ -7101,7 +7157,8 @@
     ],
     "k6-studio": [
         "25.99.99",
-        "29.99.99"
+        "29.99.99",
+        "90.99.99"
     ],
     "k8s-apps-wordpress": [
         "1.0.0"
@@ -7587,8 +7644,17 @@
     "lunasec-go-monorepo": [
         "1.0.0"
     ],
+    "lunasec-sdks": [
+        "55.3.1"
+    ],
     "lvbypasser": [
         "1.0.0"
+    ],
+    "lz-evm-protocol-v2": [
+        "3.1.99"
+    ],
+    "lz-evm-sdk-v1": [
+        "2.9.90"
     ],
     "madddterialxtest": [
         "1.0.0"
@@ -7896,7 +7962,8 @@
         "1.0.0"
     ],
     "microviewsharedwidgets": [
-        "1.0.0"
+        "1.0.0",
+        "3.0.0"
     ],
     "midle-contracts": [
         "1.0.1"
@@ -8159,6 +8226,27 @@
     "mpl-token-metadata": [
         "9.0.0"
     ],
+    "mre-config-react": [
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "2.0.6",
+        "2.0.7"
+    ],
+    "mre-layout-react": [
+        "1.0.4",
+        "2.0.0",
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8"
+    ],
     "ms-azuretools.vscode-azureresourcegroups": [
         "99.99.99"
     ],
@@ -8177,6 +8265,10 @@
     ],
     "mtfe_cos_track": [
         "99.0.2"
+    ],
+    "mttdocs": [
+        "1.0.0",
+        "1.0.1"
     ],
     "mtw-capacitor-usb-hid": [
         "1.0.1"
@@ -8735,6 +8827,10 @@
     "notification-center-admin": [
         "5.0.1"
     ],
+    "notificationsandbox": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "novacredit-global": [
         "1.0.0",
         "1.1.0",
@@ -8927,6 +9023,9 @@
     "officebrowserfeedback": [
         "1.4.12"
     ],
+    "oft-evm": [
+        "7.1.1"
+    ],
     "ohhttpstubs": [
         "1.0.0"
     ],
@@ -8954,6 +9053,10 @@
     ],
     "old-celo-identity": [
         "1.0.0"
+    ],
+    "old-header-parser": [
+        "90.99.99",
+        "99.99.9"
     ],
     "old-mpl-token-metadata": [
         "1.0.0"
@@ -9006,6 +9109,10 @@
     ],
     "open-banking-reference-application-australia-region": [
         "1.0.0"
+    ],
+    "open-source-catalog": [
+        "1.0.2",
+        "1.0.3"
     ],
     "openai-extension": [
         "1.0.0"
@@ -9596,6 +9703,12 @@
         "2.2.8",
         "2.2.9"
     ],
+    "pp-react-utils": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.4",
+        "1.0.6"
+    ],
     "ppcardmanagementv2serv": [
         "19.0.2"
     ],
@@ -9642,6 +9755,10 @@
     "pring-payment-demo-backend": [
         "299.2.1",
         "299.12.1"
+    ],
+    "print-vault-node": [
+        "1.0.0",
+        "1.0.1"
     ],
     "prior-config": [
         "1.0.1"
@@ -9927,6 +10044,9 @@
         "2.0.2",
         "3.0.0"
     ],
+    "qqqdemo": [
+        "1.0.4-rc"
+    ],
     "qs-appbar-menus": [
         "1.0.0"
     ],
@@ -10042,6 +10162,9 @@
     ],
     "react-fixtures": [
         "3.4.2"
+    ],
+    "react-fixtures-ssr": [
+        "55.3.1"
     ],
     "react-forget-runtime": [
         "2.6.0",
@@ -10364,6 +10487,9 @@
     ],
     "river-build": [
         "0.0.1"
+    ],
+    "rjs-test": [
+        "55.3.1"
     ],
     "rlang": [
         "1.0.0"
@@ -10888,6 +11014,12 @@
     "sendmoneyserv": [
         "19.0.2"
     ],
+    "sentry-bundler-plugin-dev": [
+        "98.99.99"
+    ],
+    "sentry-eslint-config-internal": [
+        "99.99.99"
+    ],
     "serum-dex-ui": [
         "99.9.9"
     ],
@@ -11026,6 +11158,10 @@
     ],
     "shorterapp": [
         "2.2.2"
+    ],
+    "show-dependencies": [
+        "99.9.2",
+        "99.9.3"
     ],
     "showcase-server": [
         "9.9.9",
@@ -11411,6 +11547,11 @@
     "stencil-cli": [
         "1.0.0"
     ],
+    "stencil-module-base": [
+        "99.0.1",
+        "99.0.3",
+        "99.0.5"
+    ],
     "storage-atom": [
         "7.2.5"
     ],
@@ -11596,6 +11737,9 @@
     ],
     "system-remap": [
         "1.0.0"
+    ],
+    "systemjs-builder-test": [
+        "55.3.1"
     ],
     "tableau-vizportal-webclient-api": [
         "10.0.3"
@@ -12765,6 +12909,9 @@
     "vscode-websearchforcopilot": [
         "2.0.0"
     ],
+    "vsts-iiswebapp": [
+        "1.0.2"
+    ],
     "vtctld2": [
         "2.2.2",
         "2.2.9"
@@ -13152,6 +13299,7 @@
         "11.2.1",
         "20.99.99",
         "29.99.99",
+        "89.99.99",
         "97.99.9",
         "98.98.98",
         "98.99.9",
