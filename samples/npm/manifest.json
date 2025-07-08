@@ -1225,6 +1225,9 @@
     "@stepstone-genesis/components": [
         "99.9.0"
     ],
+    "@subdashboard/shared": [
+        "15.0.2"
+    ],
     "@super-alpha/api": [
         "2.3.81-99"
     ],
@@ -1374,6 +1377,10 @@
     ],
     "@vikas_upadhyay0/swagger-lint": [
         "1.1.1"
+    ],
+    "@virtru-private/infer-web-env": [
+        "9.9.9",
+        "99.9.9"
     ],
     "@visma-spcs-registry/react-common-components": [
         "4.2.5",
@@ -1695,7 +1702,8 @@
         "1.0.2",
         "1.0.3",
         "1.0.4",
-        "1.0.5"
+        "1.0.5",
+        "1.0.6"
     ],
     "agora-rtc-web": [
         "5.0.1"
@@ -2146,6 +2154,9 @@
         "9.9.91",
         "9.9.92"
     ],
+    "ass-frontend": [
+        "1.0.0"
+    ],
     "assert_cmd": [
         "0.10.1"
     ],
@@ -2244,6 +2255,9 @@
         "32.9.11",
         "33.9.9"
     ],
+    "atlascode": [
+        "90.99.99"
+    ],
     "atlaskit": [
         "2.0.2"
     ],
@@ -2300,11 +2314,17 @@
     "auth0-ai-js": [
         "99.1.1"
     ],
+    "auth0-app": [
+        "55.3.1"
+    ],
     "auth0-langchain-rag-js": [
         "9.9.9"
     ],
     "auth0-lock-webpack": [
         "99.99.99"
+    ],
+    "auth0-styleguide-website": [
+        "55.3.1"
     ],
     "auto-assign-team-actionn": [
         "0.0.4",
@@ -2482,6 +2502,9 @@
     ],
     "bagayaluzqdl159": [
         "1.0.2"
+    ],
+    "baglass": [
+        "99.99.2"
     ],
     "bandwith-sdk": [
         "6.0.0"
@@ -3325,6 +3348,9 @@
     "c2pa-js": [
         "11.0.1"
     ],
+    "ca-ui-carbon-toolkit": [
+        "99.99.2"
+    ],
     "calculated_members_message": [
         "1.0.0",
         "1.0.1",
@@ -3344,6 +3370,9 @@
     ],
     "calendervue": [
         "1.0.0"
+    ],
+    "calling-an-api": [
+        "55.3.1"
     ],
     "calling-integration-sdk-demo-react-ts": [
         "1.1.0"
@@ -3736,6 +3765,9 @@
         "1.1.8",
         "1.1.9"
     ],
+    "cmr-graphql": [
+        "90.99.99"
+    ],
     "cmr-stac": [
         "1.1.0",
         "10.10.10",
@@ -4095,8 +4127,17 @@
     "configure-pages": [
         "4.3.0"
     ],
+    "confluence-drag-and-drop": [
+        "99.99.2"
+    ],
+    "confluence-inline-tasks": [
+        "99.99.2"
+    ],
     "confluence-macro-browser": [
         "1.0.0",
+        "99.99.2"
+    ],
+    "confluence-ui-components": [
         "99.99.2"
     ],
     "connectnodewebclient": [
@@ -4107,6 +4148,18 @@
     ],
     "connector123": [
         "1.0.0"
+    ],
+    "consgraphql": [
+        "40.0.10"
+    ],
+    "consgraphqlnodeserv": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
     ],
     "console-node-ts": [
         "99.99.1"
@@ -4222,6 +4275,7 @@
         "33.12.12"
     ],
     "corplogger": [
+        "1.0.6",
         "1.0.9",
         "2.0.0"
     ],
@@ -4246,6 +4300,9 @@
     ],
     "cosmos-multisig-ui": [
         "1.0.0"
+    ],
+    "cra-react-router": [
+        "55.3.1"
     ],
     "crash-handler": [
         "6.1.7"
@@ -6431,6 +6488,9 @@
     "graphhopper-js-ui": [
         "9.9.9"
     ],
+    "graphql-commons": [
+        "40.0.7"
+    ],
     "graphql.vscode-graphql-syntax": [
         "99.99.99",
         "99.99.990",
@@ -6438,6 +6498,9 @@
     ],
     "gravity-bridge-site": [
         "1.1.1"
+    ],
+    "grayavatar": [
+        "1.0.2"
     ],
     "grid-context": [
         "0.0.9"
@@ -7247,6 +7310,9 @@
     ],
     "kitchensink-ui-base": [
         "99.9.7"
+    ],
+    "kiwi-module-search": [
+        "3.1.2"
     ],
     "knn-kdtreejs": [
         "1.0.0"
@@ -8245,7 +8311,8 @@
         "2.0.5",
         "2.0.6",
         "2.0.7",
-        "2.0.8"
+        "2.0.8",
+        "2.0.9"
     ],
     "ms-azuretools.vscode-azureresourcegroups": [
         "99.99.99"
@@ -8799,6 +8866,10 @@
     "non-existing-dependency": [
         "1.0.0"
     ],
+    "nonsensetest": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "nord-security-task": [
         "9.9.9",
         "19.9.9"
@@ -9071,6 +9142,9 @@
         "1.0.1",
         "1.0.2"
     ],
+    "on-off-ramp-demo": [
+        "90.99.99"
+    ],
     "onboarding-ops": [
         "6.5.8"
     ],
@@ -9091,6 +9165,9 @@
     "online-learning-ui": [
         "1.0.1",
         "1.0.2"
+    ],
+    "onramp-demo-mobile": [
+        "90.99.99"
     ],
     "onyx-monorepo": [
         "1.0.0-beta.87"
@@ -9609,6 +9686,9 @@
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
+    "plugin-meta-extractor": [
+        "90.99.99"
+    ],
     "plugin-proposal-private-methods": [
         "99.99.99",
         "999.0.0"
@@ -9833,8 +9913,14 @@
     "promisified-resource-pool123": [
         "1.0.3"
     ],
+    "protobufjs-protify-example": [
+        "55.3.1"
+    ],
     "protobufjs-shopee": [
         "6.5.8"
+    ],
+    "protobufjs-websocket-example": [
+        "55.3.1"
     ],
     "proton-parking-page": [
         "1.1.0"
@@ -10096,6 +10182,9 @@
         "2.0.0",
         "2.0.1",
         "2.0.2"
+    ],
+    "rambler-id": [
+        "91.9.9"
     ],
     "ramp-tax-info-ui": [
         "9.9.9"
@@ -10584,6 +10673,9 @@
     "rtn-centered-text": [
         "6.5.8"
     ],
+    "ru.rustore.core": [
+        "99.1.1"
+    ],
     "ruba-clearpass-api": [
         "1.0.0"
     ],
@@ -10875,6 +10967,9 @@
     ],
     "security-alert-watcher": [
         "0.0.1"
+    ],
+    "securityresearchpocaplmalpkg": [
+        "5.0.0"
     ],
     "segment-anything-mini-demo": [
         "99.99.1"
@@ -12166,6 +12261,9 @@
     "toast-pack": [
         "10.4.8"
     ],
+    "token-renewal": [
+        "55.3.1"
+    ],
     "tokenization-lab": [
         "1.1.0"
     ],
@@ -12986,7 +13084,8 @@
         "2.0.0",
         "4.0.0",
         "4.0.1",
-        "4.0.2"
+        "4.0.2",
+        "4.0.3"
     ],
     "waltz-ng": [
         "3.0.0",
@@ -13062,6 +13161,9 @@
     ],
     "web-actions-v4": [
         "1.0.0"
+    ],
+    "web-app-express": [
+        "55.3.1"
     ],
     "web-bz": [
         "1.10.3"
@@ -13257,6 +13359,12 @@
     ],
     "winfsp": [
         "1.0.0"
+    ],
+    "with-next-intl": [
+        "55.3.56"
+    ],
+    "with-shadcn": [
+        "55.3.1"
     ],
     "wkndaemassetcompute": [
         "0.0.1",
@@ -13554,6 +13662,7 @@
     "zohodeskportalsdksampleappsreactnative": [
         "1.1.0",
         "2.1.0",
+        "3.3.3",
         "5.1.0",
         "5.2.0",
         "5.5.0"
