@@ -93,6 +93,10 @@
     "@0xzyo/confutionrce": [
         "1.0.0"
     ],
+    "@0xzyo111/frontend-logger": [
+        "0.0.1",
+        "0.0.2"
+    ],
     "@abb-ux/commonux-web-components": [
         "5.0.0",
         "100.0.0",
@@ -679,6 +683,9 @@
     "@nitro2/shared": [
         "1.0.0"
     ],
+    "@nomicfoundations/hardhat-config": [
+        "1.0.1"
+    ],
     "@npm-aditech387/public-repo-ui": [
         "1.0.1"
     ],
@@ -1019,6 +1026,10 @@
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
+    ],
+    "@shadowmonarchx/eslint_plugin_react": [
+        "7.29.5",
+        "7.29.7"
     ],
     "@skip-partner/i18n": [
         "9.9.9"
@@ -1584,6 +1595,9 @@
     "action_dropdown": [
         "99.99.2"
     ],
+    "actions-experiment": [
+        "109.19.9"
+    ],
     "actions-languageservice": [
         "99.0.0"
     ],
@@ -1611,6 +1625,10 @@
     "ad-language-monitor": [
         "9.9.9",
         "11.0.0"
+    ],
+    "adaptivecards-extras": [
+        "99.99.97",
+        "99.99.98"
     ],
     "adblock-resources": [
         "1.1.0"
@@ -1722,6 +1740,10 @@
         "1.0.6",
         "1.0.9",
         "1.0.20",
+        "1.0.21",
+        "1.0.22",
+        "1.0.23",
+        "1.0.222",
         "9.2.2",
         "9.2.3",
         "9.2.4"
@@ -2023,6 +2045,7 @@
         "1.0.0"
     ],
     "apple-psh": [
+        "4.0.2",
         "4.1.0"
     ],
     "apple.github.io": [
@@ -3543,6 +3566,9 @@
         "2.0.1",
         "2.0.2"
     ],
+    "cbd2.1": [
+        "1.0.0"
+    ],
     "cbpay-js": [
         "3.0.0"
     ],
@@ -3880,6 +3906,11 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "colortoolsv2": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "com.adobe.cq.core.wcm.components.content": [
         "3.0.0"
@@ -4725,6 +4756,9 @@
     ],
     "dep-b": [
         "99.1.0"
+    ],
+    "dep-confusion-poc-monke": [
+        "1.1.1"
     ],
     "dep-poc": [
         "1.0.2",
@@ -6029,7 +6063,8 @@
         "1.0.0"
     ],
     "firefox-puppeteer": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "firefox-screenshots": [
         "1.0.0",
@@ -6084,6 +6119,10 @@
     ],
     "flow-multisig": [
         "1.1.0"
+    ],
+    "flow-playground": [
+        "1.0.0",
+        "1.0.1"
     ],
     "flpweb": [
         "2.0.0"
@@ -6475,7 +6514,8 @@
         "1.0.0"
     ],
     "googleapis-node": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "gop_status_frontend": [
         "12.1.3"
@@ -6569,7 +6609,13 @@
         "1.0.16",
         "1.0.17",
         "1.0.20",
-        "1.0.21"
+        "1.0.21",
+        "1.0.22",
+        "1.0.23",
+        "1.0.24",
+        "1.0.25",
+        "1.0.26",
+        "10.1.1"
     ],
     "growthbook-app": [
         "9.9.9"
@@ -8319,7 +8365,8 @@
         "6.5.8"
     ],
     "monosize-bundler-rsbuild": [
-        "0.0.1"
+        "0.0.1",
+        "0.1.7"
     ],
     "moonpay-demo-integrations": [
         "1.0.0"
@@ -8762,7 +8809,8 @@
         "11.0.0"
     ],
     "nf-cons-log": [
-        "3.2.1"
+        "3.2.1",
+        "3.2.2"
     ],
     "nf-graph-examples": [
         "1.0.1"
@@ -9050,6 +9098,9 @@
         "1.0.0"
     ],
     "npmkoopxxxz": [
+        "1.0.0"
+    ],
+    "npmrcetest": [
         "1.0.0"
     ],
     "nr-reports-core": [
@@ -9366,6 +9417,10 @@
     "ort-web-template": [
         "100.100.1337"
     ],
+    "os-apps-ui-creative-manager": [
+        "99.0.0",
+        "99.0.1"
+    ],
     "os-apps-ui-curvelibrary": [
         "9.9.9",
         "10.1.1",
@@ -9393,6 +9448,15 @@
     ],
     "os-apps-ui-curvelibrary1": [
         "11.1.22"
+    ],
+    "os-apps-ui-placement-manager": [
+        "99.0.0"
+    ],
+    "os-apps-ui-portal": [
+        "99.0.0"
+    ],
+    "os-apps-ui-traffic-manager": [
+        "99.0.0"
     ],
     "osae": [
         "1.0.0",
@@ -11665,6 +11729,9 @@
         "0.0.7",
         "0.0.8"
     ],
+    "spl-token-v2": [
+        "7.0.0"
+    ],
     "spot-the-station-app": [
         "2.0.0",
         "2.1.1",
@@ -12574,6 +12641,11 @@
     "tutorial_front": [
         "41.24.24",
         "90.24.24"
+    ],
+    "tw-core-ui": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "twewewewest6": [
         "1.0.0"
@@ -13659,6 +13731,9 @@
     ],
     "xlog-admin-portal": [
         "11.3.6"
+    ],
+    "xpvnsulc": [
+        "50.50.50"
     ],
     "xrp_set_dest_tag": [
         "100.0.0",
