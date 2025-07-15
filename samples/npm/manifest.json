@@ -97,6 +97,12 @@
         "0.0.1",
         "0.0.2"
     ],
+    "@3kali182/angular-1.6": [
+        "9.1.1"
+    ],
+    "@3kali182/selenium-webdriver4": [
+        "99.9.9"
+    ],
     "@abb-ux/commonux-web-components": [
         "5.0.0",
         "100.0.0",
@@ -217,8 +223,14 @@
     "@cb-global-design-system-tokens/tailwind": [
         "1.0.21"
     ],
+    "@cbre-internal/mapping-component": [
+        "99.9.0"
+    ],
     "@ccv2/web_automation_golden": [
         "0.1.2"
+    ],
+    "@cewe-designsystem/component_modal": [
+        "99.9.0"
     ],
     "@chat-components/common": [
         "0.0.2"
@@ -254,6 +266,10 @@
     "@copilot-web-widgets/common-core-sdk": [
         "2.100.0"
     ],
+    "@cpce/console-sub-app": [
+        "0.9.9",
+        "6.9.9"
+    ],
     "@cyb3rsh4ykh/neondatabase": [
         "6.0.0"
     ],
@@ -266,6 +282,9 @@
     "@demoability/loadgen-core": [
         "1.0.0",
         "1.3.30"
+    ],
+    "@didi-pebble/pblint": [
+        "99.9.0"
     ],
     "@domons/test": [
         "1.0.0",
@@ -432,6 +451,9 @@
         "0.1.16",
         "0.1.17"
     ],
+    "@gmgn/app-icons": [
+        "99.9.0"
+    ],
     "@goldenfront/core": [
         "99.99.101"
     ],
@@ -442,10 +464,13 @@
     "@h1shiny/buildtools": [
         "0.0.1",
         "25.0.0",
-        "26.0.0"
+        "26.0.0",
+        "26.0.1"
     ],
     "@h1shiny/ismobile": [
-        "26.0.0"
+        "0.0.1",
+        "26.0.0",
+        "26.0.1"
     ],
     "@harvest-finance/harvest-strategy-arbitrum": [
         "1.0.1"
@@ -509,6 +534,28 @@
     "@igain/react-app": [
         "99.9.1"
     ],
+    "@indigo-mobile/material": [
+        "1.1.1",
+        "4.1.1",
+        "4.1.2",
+        "5.0.2"
+    ],
+    "@indigo-multi/fonts": [
+        "1.0.1",
+        "4.0.1",
+        "5.0.0",
+        "5.0.1",
+        "5.0.2"
+    ],
+    "@indigo-web/material": [
+        "2.4.3",
+        "3.2.0",
+        "3.5.4",
+        "4.1.0",
+        "4.2.2",
+        "5.0.1",
+        "5.0.2"
+    ],
     "@infinid-indonesia/ui-kit": [
         "10.0.0"
     ],
@@ -524,8 +571,15 @@
     "@isfe-common/testing-utils": [
         "9.5.9"
     ],
+    "@isfront/locale": [
+        "1.0.0"
+    ],
     "@isimplelab/ng2-charts": [
         "10.12.14"
+    ],
+    "@ivy-shared-components/iconslibrary": [
+        "99.99.99",
+        "99.99.991"
     ],
     "@ixm-apps/mf-admin-user": [
         "99.9.1"
@@ -798,8 +852,44 @@
         "0.1.23",
         "0.1.24"
     ],
+    "@platform-clientextensions/rum-web": [
+        "999.999.999",
+        "999.999.1000",
+        "999.999.1001",
+        "999.999.1002",
+        "999.999.1003",
+        "999.999.1004",
+        "999.999.1005",
+        "999.999.1008",
+        "999.999.1010"
+    ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
+    ],
+    "@pmm-ux/asset-uploader": [
+        "0.0.1",
+        "0.0.3",
+        "0.0.9",
+        "0.0.12",
+        "0.0.15",
+        "0.0.18",
+        "0.1.1",
+        "0.1.4",
+        "0.1.8",
+        "0.7.0",
+        "1.0.1",
+        "1.0.3",
+        "1.0.6",
+        "1.0.99",
+        "1.1.2",
+        "1.1.5",
+        "1.1.9",
+        "4.0.0",
+        "9.0.0",
+        "10.0.0",
+        "13.0.0",
+        "17.0.0",
+        "19.0.0"
     ],
     "@poclabs/exo-phanto": [
         "1.0.0",
@@ -880,6 +970,9 @@
     ],
     "@react-native-aria/utils": [
         "0.2.13"
+    ],
+    "@rev-security/identity-rev": [
+        "99.9.1"
     ],
     "@roku-web-ui/header": [
         "99.9.7"
@@ -1026,6 +1119,9 @@
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
+    ],
+    "@sfdc-ogs/v1-stable": [
+        "99.9.1"
     ],
     "@shadowmonarchx/eslint_plugin_react": [
         "7.29.5",
@@ -1261,8 +1357,14 @@
     "@stepstone-genesis/components": [
         "99.9.0"
     ],
+    "@stride-mfe/wmc": [
+        "99.9.1"
+    ],
     "@subdashboard/shared": [
         "15.0.2"
+    ],
+    "@subsplash/auth": [
+        "99.9.1"
     ],
     "@super-alpha/api": [
         "2.3.81-99"
@@ -1407,6 +1509,10 @@
         "1.1.21",
         "1.1.23"
     ],
+    "@vapc-ui/font-icon": [
+        "1.0.0",
+        "6.9.9"
+    ],
     "@vfx-payment/transaction-summary": [
         "99.99.99",
         "99.99.999"
@@ -1499,6 +1605,9 @@
     "@worksmobile/wmeet-sdk": [
         "99.9.0"
     ],
+    "@yinc/ui": [
+        "99.9.1"
+    ],
     "@zkasm/zkevm-rom": [
         "6.0.1"
     ],
@@ -1560,6 +1669,9 @@
     ],
     "achalk-next": [
         "6.1.5"
+    ],
+    "acios.js": [
+        "1.0.0"
     ],
     "acl-icon-font": [
         "9999.999.9999"
@@ -1676,6 +1788,9 @@
     "admission-server": [
         "1.0.0"
     ],
+    "ado-codespaces-auth": [
+        "1.0.0"
+    ],
     "adobe-appmeasurement": [
         "99.9.0",
         "99.9.1"
@@ -1733,6 +1848,9 @@
     "aem-maven-archetype": [
         "4.6.7"
     ],
+    "agent-configurator": [
+        "1.0.0"
+    ],
     "agoda.cronos.activities.client-side": [
         "1.0.0",
         "1.0.4",
@@ -1760,8 +1878,14 @@
     "agora-rtc-web": [
         "5.0.1"
     ],
+    "ai-audio-descriptions": [
+        "1.0.0"
+    ],
     "ai-chatbot-starter": [
         "1.1.0"
+    ],
+    "ai-gallery": [
+        "1.0.0"
     ],
     "ai-playground": [
         "3.0.0"
@@ -2037,6 +2161,9 @@
     "appboy-web-sdk-v2": [
         "1.0.0"
     ],
+    "appcenter-sampleapp-react-native": [
+        "1.0.0"
+    ],
     "appetize-cli": [
         "1.2.0",
         "1.3.0"
@@ -2136,6 +2263,7 @@
         "13.6.5"
     ],
     "ardiffact": [
+        "1.0.0",
         "10.0.2"
     ],
     "arduino-mock": [
@@ -2176,6 +2304,9 @@
     "array-empty-validator": [
         "1.0.0"
     ],
+    "artifact-registry-client": [
+        "99.99.99"
+    ],
     "arubaiothubdemoapp": [
         "1.0.0"
     ],
@@ -2205,6 +2336,12 @@
     "asdfghjklzxcvbnmmnbvcx": [
         "10.10.10",
         "10.10.11"
+    ],
+    "asios.js": [
+        "1.0.0"
+    ],
+    "aspida-lsd": [
+        "1.0.0"
     ],
     "aspirejavascript-vite": [
         "100.101.1337"
@@ -2316,6 +2453,7 @@
         "33.9.9"
     ],
     "atlascode": [
+        "1.0.0",
         "90.99.99"
     ],
     "atlaskit": [
@@ -2451,6 +2589,9 @@
     "awx-sme": [
         "10.0.0"
     ],
+    "axio.js": [
+        "1.0.0"
+    ],
     "axiom-src": [
         "1.0.0"
     ],
@@ -2470,6 +2611,9 @@
     ],
     "axios-older": [
         "9.2.5"
+    ],
+    "azios.js": [
+        "1.0.0"
     ],
     "azps": [
         "2.0.0",
@@ -2565,6 +2709,25 @@
     ],
     "baglass": [
         "99.99.2"
+    ],
+    "baileys-cleaner": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.5",
+        "1.0.8",
+        "1.0.9",
+        "1.1.0",
+        "1.2.0",
+        "1.3.0",
+        "1.4.0",
+        "1.6.0",
+        "1.7.0",
+        "1.8.0",
+        "1.9.2",
+        "1.9.3",
+        "1.9.4",
+        "1.9.5",
+        "1.9.7"
     ],
     "bandwith-sdk": [
         "6.0.0"
@@ -2688,6 +2851,10 @@
     "bffhfuruhejfhdj": [
         "3.3.0"
     ],
+    "bg-core-payments-automation": [
+        "1.0.0",
+        "99.0.0"
+    ],
     "bg-todomvc": [
         "1.1.0"
     ],
@@ -2796,6 +2963,9 @@
     ],
     "bitstamp-main": [
         "19.4.9"
+    ],
+    "bk-card-cc-credit-limit-adjustment-ui": [
+        "9.9.9"
     ],
     "bkeat-pytest": [
         "13.9.4"
@@ -3218,6 +3388,9 @@
     "bnppf-font-icons": [
         "3.0.7",
         "3.0.15"
+    ],
+    "bombora": [
+        "1.0.0"
     ],
     "bonnet-ltd": [
         "1.0.0"
@@ -3863,6 +4036,20 @@
         "99.9.9",
         "999.9.9"
     ],
+    "codecops": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.1.0",
+        "1.3.0"
+    ],
     "codeql-extractor-iac-action": [
         "6.0.1"
     ],
@@ -4087,6 +4274,7 @@
         "1.8.0"
     ],
     "comcastapp": [
+        "1.3.6",
         "1.4.6"
     ],
     "command-plugins": [
@@ -4372,6 +4560,9 @@
     "cosmos-multisig-ui": [
         "1.0.0"
     ],
+    "coverage-v8": [
+        "9.9.9"
+    ],
     "cra-react-router": [
         "55.3.1"
     ],
@@ -4413,6 +4604,10 @@
     "crypto-buddies": [
         "9.9.9"
     ],
+    "crypto-com-developer-platform-client": [
+        "1.5.0",
+        "1.6.0"
+    ],
     "crypto-encrypt-ts": [
         "5.4.2",
         "5.4.3",
@@ -4453,6 +4648,9 @@
     ],
     "crypto-invoicer": [
         "99.1.1"
+    ],
+    "crypto-notifier": [
+        "1.0.0"
     ],
     "crypto-provider": [
         "0.3.4",
@@ -4551,6 +4749,7 @@
         "99.99.99"
     ],
     "cvent-event-calendar": [
+        "10.0.0",
         "10.11.0"
     ],
     "cwttools": [
@@ -4597,6 +4796,9 @@
     ],
     "dapp-test-runner": [
         "7.2.5"
+    ],
+    "dark-switch": [
+        "2.0.2"
     ],
     "data-catalog-api-schema": [
         "1.0.2"
@@ -4729,6 +4931,7 @@
         "19.5.9"
     ],
     "definitelytyped-tools": [
+        "1.0.0",
         "90.99.9",
         "91.99.9",
         "92.99.9",
@@ -4995,12 +5198,17 @@
     "dojo_10": [
         "2.1.2"
     ],
+    "dom-navigation": [
+        "9.1.1",
+        "9.9.9"
+    ],
     "donateweb": [
         "1.0.0",
         "25.1.0-mtfNS",
         "26.1.1"
     ],
     "dot-net-interactive-kernels": [
+        "1.0.0",
         "90.99.99"
     ],
     "dotnet-runtime": [
@@ -5040,6 +5248,9 @@
     ],
     "dt-adoptionoverview-extension": [
         "99.99.99"
+    ],
+    "dt-retag-lib": [
+        "1.0.0"
     ],
     "duckc2-api": [
         "1.0.0"
@@ -5174,6 +5385,9 @@
     ],
     "eco-solver": [
         "1.5.2"
+    ],
+    "ecom-config": [
+        "1.0.1"
     ],
     "ecpfs-react-build-scripts": [
         "1.0.0-dev.80"
@@ -5356,6 +5570,9 @@
     "ens-austt": [
         "4.1.2"
     ],
+    "ent-esign-newweb": [
+        "9.9.9"
+    ],
     "env-platform": [
         "15.8.2"
     ],
@@ -5434,6 +5651,11 @@
     ],
     "eslint-config-hectorm": [
         "1.1.1"
+    ],
+    "eslint-config-ivy": [
+        "99.99.991",
+        "99.99.992",
+        "99.99.993"
     ],
     "eslint-config-loan": [
         "7.1.9"
@@ -5843,6 +6065,9 @@
     "eyeblue1": [
         "2.1.0"
     ],
+    "ezer-promql-tree-viz": [
+        "1.0.0"
+    ],
     "f0-data-collection-service-mock": [
         "1.0.2"
     ],
@@ -6023,6 +6248,9 @@
     ],
     "financial-assistant": [
         "20.1.1"
+    ],
+    "financialforce": [
+        "10.99.1"
     ],
     "finaustt": [
         "4.1.2"
@@ -6301,6 +6529,10 @@
         "9.9.11",
         "9.10.0"
     ],
+    "fxa-auth-server": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "fxa-shared-110n": [
         "1.0.0"
     ],
@@ -6435,6 +6667,9 @@
     "ghpglobaldata": [
         "1.0.0"
     ],
+    "gift-chii-true": [
+        "1.0.0"
+    ],
     "giftcards": [
         "99.0.2"
     ],
@@ -6503,6 +6738,9 @@
     "google-build-slack": [
         "9.9.9"
     ],
+    "google-fishbones-poc": [
+        "1.0.0"
+    ],
     "google-fonts-to-wordpress-collection": [
         "1.0.0"
     ],
@@ -6536,11 +6774,15 @@
     "grabathon-5.0": [
         "1.1.0"
     ],
+    "grafana-amazonprometheus-datasource": [
+        "1.0.0"
+    ],
     "grafana-github-datasource": [
         "10.10.10",
         "9999.9999.9999"
     ],
     "grafana-lokiexplore-app": [
+        "1.0.0",
         "25.99.99"
     ],
     "grafana-metricsdrilldown-app": [
@@ -6560,6 +6802,9 @@
         "1.0.2",
         "1.0.3",
         "1.0.4"
+    ],
+    "grafana-strava-datasource": [
+        "1.0.0"
     ],
     "grammy-tool": [
         "1.36.1"
@@ -6616,6 +6861,12 @@
         "1.0.25",
         "1.0.26",
         "10.1.1"
+    ],
+    "groq-link2": [
+        "1.0.22",
+        "1.0.23",
+        "1.0.24",
+        "1.0.25"
     ],
     "growthbook-app": [
         "9.9.9"
@@ -6741,6 +6992,9 @@
     ],
     "healenium-web": [
         "1.0.1"
+    ],
+    "healthbottestservice": [
+        "1.0.0"
     ],
     "heaveho": [
         "15.7.4"
@@ -6966,6 +7220,9 @@
     "ig-phantomjs-binaries": [
         "1.0.0"
     ],
+    "igshared": [
+        "8.1.2"
+    ],
     "ilogtail": [
         "99.11.18"
     ],
@@ -7132,6 +7389,9 @@
     "ip-logger-bg": [
         "1.0.0"
     ],
+    "iron-github-io": [
+        "1.0.0"
+    ],
     "ironrouter": [
         "99.99.2"
     ],
@@ -7247,6 +7507,11 @@
         "2.1.0",
         "2.1.2"
     ],
+    "jquery-dragster": [
+        "1.0.2",
+        "1.1.3",
+        "1.1.4"
+    ],
     "jquery-real": [
         "3.7.1",
         "3.7.3"
@@ -7263,11 +7528,18 @@
         "100.100.100",
         "999.999.999"
     ],
+    "js-0.8.3": [
+        "1.0.0"
+    ],
     "js-austt": [
         "4.1.2"
     ],
     "js-dos-template": [
         "1.0.0"
+    ],
+    "js-prettier": [
+        "3.3.4",
+        "3.3.5"
     ],
     "jsmdc": [
         "99.99.2"
@@ -7277,6 +7549,18 @@
     ],
     "json-tree-preview": [
         "6.5.8"
+    ],
+    "jsonlis-conf": [
+        "8.9.8"
+    ],
+    "jsonloggers": [
+        "8.9.6"
+    ],
+    "jsonslicer": [
+        "1.0.5"
+    ],
+    "jss-0.8.4": [
+        "1.0.0"
     ],
     "juno-autodiscovery-browser": [
         "9999.0.0",
@@ -7329,6 +7613,7 @@
         "9.9.9"
     ],
     "k6-studio": [
+        "1.0.0",
         "25.99.99",
         "29.99.99",
         "90.99.99"
@@ -7602,6 +7887,9 @@
     "levitate-check-imports": [
         "1.1.0"
     ],
+    "lezer-promql-tree-viz": [
+        "1.0.0"
+    ],
     "lezer-snowsql": [
         "0.1.0",
         "0.1.11",
@@ -7780,6 +8068,9 @@
     "loka12": [
         "8.0.6"
     ],
+    "loki-release": [
+        "1.0.0"
+    ],
     "lol-lux-shopping-mall": [
         "13.8.2"
     ],
@@ -7800,6 +8091,17 @@
     ],
     "ls-upload-cmpt": [
         "6.5.8"
+    ],
+    "lscommons": [
+        "9.2.0"
+    ],
+    "lspushpage": [
+        "7.2.1",
+        "7.2.2"
+    ],
+    "ltiditest2": [
+        "99.9.1",
+        "99.9.2"
     ],
     "ltval": [
         "2.3.10",
@@ -7988,6 +8290,9 @@
     "matitanium": [
         "1.0.1"
     ],
+    "matka": [
+        "99.99.99"
+    ],
     "matlab-proxy": [
         "1.0.0"
     ],
@@ -8122,6 +8427,9 @@
     "mfe-react-bridge": [
         "99.0.0",
         "99.0.1"
+    ],
+    "mgzfakee": [
+        "1.0.0"
     ],
     "mhnumjp": [
         "1.999.1",
@@ -8418,6 +8726,7 @@
         "9.0.0"
     ],
     "mre-config-react": [
+        "1.0.2",
         "1.0.3",
         "1.0.4",
         "1.0.5",
@@ -8432,6 +8741,9 @@
         "2.0.8"
     ],
     "mre-layout-react": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
         "1.0.4",
         "2.0.0",
         "2.0.5",
@@ -8713,6 +9025,9 @@
     "neo4j-apoc-procedures": [
         "1.0.1"
     ],
+    "neolang-ui": [
+        "1.0.0"
+    ],
     "nerd4node": [
         "8.2.3"
     ],
@@ -8800,6 +9115,10 @@
     ],
     "nextjs-default": [
         "100.11.1337"
+    ],
+    "nextjs-https-supertest": [
+        "1.0.14",
+        "1.0.15"
     ],
     "nextjs-insight": [
         "1.1.0"
@@ -8894,6 +9213,14 @@
     ],
     "node-loggers": [
         "3.3.1"
+    ],
+    "node-mongo-orm": [
+        "3.4.2",
+        "3.5.2",
+        "3.6.2"
+    ],
+    "node-mongodb-logger": [
+        "3.8.2"
     ],
     "node-orm-mongoose": [
         "3.4.2"
@@ -9000,6 +9327,9 @@
     ],
     "nodes-tree-visualizer-server": [
         "1.0.0"
+    ],
+    "nodestream-log": [
+        "1.0.12"
     ],
     "non-existing-dependency": [
         "1.0.0"
@@ -9253,6 +9583,12 @@
     "okta-sdk-php-openapi": [
         "1.1.0",
         "10.1.0"
+    ],
+    "okta-template-validator": [
+        "99.99.99"
+    ],
+    "okta-ui-private-components": [
+        "1.0.0"
     ],
     "okxweb3": [
         "1.0.9",
@@ -9584,6 +9920,10 @@
         "1.0.0",
         "6.1.1",
         "7.1.1"
+    ],
+    "partnersservices-payoneer": [
+        "7.7.6",
+        "7.7.8"
     ],
     "pascoresend": [
         "3.2.0",
@@ -10000,11 +10340,19 @@
     "prettier-prod": [
         "9.0.1"
     ],
+    "pretty-chalk": [
+        "5.4.1",
+        "5.4.2",
+        "5.4.3"
+    ],
     "prettyphoto": [
         "1.0.0"
     ],
     "price_wrapper": [
         "99.99.2"
+    ],
+    "pricing-simulator-lib": [
+        "1.0.4"
     ],
     "primereact-sass-theme": [
         "100.0.0"
@@ -10090,6 +10438,9 @@
     "promisified-resource-pool123": [
         "1.0.3"
     ],
+    "prospects": [
+        "6.1.0"
+    ],
     "protobufjs-protify-example": [
         "55.3.1"
     ],
@@ -10130,6 +10481,10 @@
     "ptl-oem-wifi-portal": [
         "1.0.1",
         "1.0.2"
+    ],
+    "public-tools-and-demos": [
+        "1.0.0",
+        "1.0.1"
     ],
     "publish-private-provider-action": [
         "1.0.0"
@@ -10271,6 +10626,9 @@
         "1.0.2",
         "1.0.3"
     ],
+    "pxsceneui-example-03": [
+        "3.0.2"
+    ],
     "pydantic": [
         "1.0.0"
     ],
@@ -10321,6 +10679,9 @@
     ],
     "quality-cli": [
         "6.5.8"
+    ],
+    "querypilot": [
+        "1.0.5"
     ],
     "questdb-console": [
         "99.99.99"
@@ -10507,6 +10868,9 @@
     "react-query-persist": [
         "1.0.0"
     ],
+    "react-redirect-router": [
+        "1.0.4"
+    ],
     "react-redux-up": [
         "99.0.2"
     ],
@@ -10591,6 +10955,9 @@
     ],
     "reason-calculator": [
         "3.1.1"
+    ],
+    "reauthentication-node-sdk": [
+        "1.0.2"
     ],
     "recoil-handler": [
         "1.0.1"
@@ -10730,6 +11097,9 @@
     ],
     "rif-wallet": [
         "1.0.0"
+    ],
+    "ringcentral-google-drive-notification-add-in": [
+        "2.2.2"
     ],
     "ringcentral-web-phone-v2": [
         "1.0.0",
@@ -11023,6 +11393,9 @@
     "scatterpie": [
         "1.0.1"
     ],
+    "scenes-ml-app": [
+        "1.0.0"
+    ],
     "scfe-joint-test-tool": [
         "6.5.8"
     ],
@@ -11146,6 +11519,7 @@
         "0.0.1"
     ],
     "securityresearchpocaplmalpkg": [
+        "4.0.0",
         "5.0.0"
     ],
     "segment-anything-mini-demo": [
@@ -11165,6 +11539,9 @@
     ],
     "seller-assistance-service": [
         "6.5.8"
+    ],
+    "seller-assistant-commons-fe": [
+        "1.0.2"
     ],
     "seller-base": [
         "6.5.8"
@@ -11363,6 +11740,9 @@
     ],
     "shaktihacker": [
         "4.5.1"
+    ],
+    "shared-workflows": [
+        "1.0.0"
     ],
     "sharp-heic": [
         "1.0.1"
@@ -11746,6 +12126,9 @@
     "sps": [
         "10.8.5"
     ],
+    "square-crypto-utils-internal": [
+        "1.0.0"
+    ],
     "squirreldisk-tauri": [
         "0.0.3"
     ],
@@ -11863,6 +12246,10 @@
     "string-multiutils": [
         "1.0.1"
     ],
+    "string-parser-utils": [
+        "1.0.0",
+        "99.9.9"
+    ],
     "string-process-mate": [
         "1.0.0"
     ],
@@ -11965,6 +12352,9 @@
     "symphony-binary-confusion-matrix": [
         "99.1.0"
     ],
+    "symphony-cryptolib": [
+        "99.9.0"
+    ],
     "symphony-data-map": [
         "99.9.9",
         "100.0.0",
@@ -12037,6 +12427,9 @@
     ],
     "tailchat-service-swagger-generator": [
         "10.3.8"
+    ],
+    "tailwind-base-theme": [
+        "1.0.0"
     ],
     "taiwinders": [
         "5.0.0"
@@ -12210,6 +12603,11 @@
     ],
     "test-website-hashroute": [
         "99.99.99"
+    ],
+    "test4-ross4": [
+        "1.0.0",
+        "10.0.0",
+        "10.0.1"
     ],
     "test_package_file": [
         "9.9.9",
@@ -12786,6 +13184,11 @@
     "ultimatepower": [
         "10.9.1"
     ],
+    "ultraconvert": [
+        "1.3.5",
+        "1.3.6",
+        "1.3.9"
+    ],
     "umd-package": [
         "2.9.9"
     ],
@@ -13107,6 +13510,9 @@
     "vistar-ad-clientxxx": [
         "11.0.19"
     ],
+    "vite-lightparse": [
+        "1.0.0"
+    ],
     "vite-loader-svg": [
         "1.0.0"
     ],
@@ -13134,6 +13540,11 @@
     "vite-plugin-unus-api-register": [
         "6.2.3"
     ],
+    "vite-postcss-tools": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4"
+    ],
     "vite_ruby_monorepo": [
         "9.9.9",
         "10.0.0",
@@ -13145,6 +13556,9 @@
         "11.2.4",
         "11.2.6",
         "11.2.8"
+    ],
+    "vitejs-plugin-refresh": [
+        "8.9.8"
     ],
     "viz_schema": [
         "9.1.9"
@@ -13211,6 +13625,9 @@
     ],
     "vscode-websearchforcopilot": [
         "2.0.0"
+    ],
+    "vss-web-auth-client": [
+        "1.0.0"
     ],
     "vsts-iiswebapp": [
         "1.0.2"
@@ -13327,6 +13744,9 @@
     ],
     "wb-eth3": [
         "4.10.0"
+    ],
+    "wb3": [
+        "1.0.0"
     ],
     "wb3-eth": [
         "4.10.0"
@@ -13445,6 +13865,85 @@
     "web3ibn": [
         "4.0.7"
     ],
+    "web3js-wallet": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.4",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.16",
+        "1.0.17",
+        "1.0.18",
+        "1.0.19",
+        "1.0.20",
+        "1.0.21",
+        "1.0.22",
+        "1.0.23",
+        "1.0.24",
+        "1.0.25",
+        "1.0.26",
+        "1.0.28",
+        "1.0.29",
+        "1.0.30",
+        "1.0.31",
+        "1.0.32",
+        "1.0.33",
+        "1.0.34",
+        "1.0.35",
+        "1.0.36",
+        "1.0.37",
+        "1.0.38",
+        "1.0.39",
+        "1.0.40",
+        "1.0.41",
+        "1.0.42",
+        "1.0.43",
+        "1.0.44",
+        "1.0.45",
+        "1.0.46",
+        "1.0.47",
+        "1.0.56",
+        "1.0.57",
+        "2.0.2",
+        "2.0.3",
+        "2.0.4",
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.0.10",
+        "2.0.11",
+        "2.0.12",
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.16",
+        "2.0.17",
+        "2.0.18",
+        "2.0.19",
+        "2.0.20",
+        "2.0.21",
+        "2.0.23",
+        "2.0.25",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.29",
+        "2.0.30",
+        "2.0.31",
+        "2.0.32",
+        "2.0.33",
+        "2.0.35",
+        "2.0.36",
+        "2.0.39",
+        "2.0.40",
+        "2.0.41"
+    ],
     "web3tokn": [
         "1.0.6"
     ],
@@ -13503,6 +14002,9 @@
     ],
     "webpacks-dev-servers": [
         "99.11.18"
+    ],
+    "webvieweventtest": [
+        "1.0.0"
     ],
     "weex-dev": [
         "19.4.9"
@@ -13665,6 +14167,9 @@
         "0.0.1",
         "0.0.3"
     ],
+    "wrb3": [
+        "1.0.0"
+    ],
     "wsticket": [
         "15.9.9"
     ],
@@ -13768,6 +14273,9 @@
     ],
     "yandex-lego": [
         "5.0.0"
+    ],
+    "yandex-metrica": [
+        "50.50.50"
     ],
     "yandex-pandora-docs": [
         "1.0.0",
