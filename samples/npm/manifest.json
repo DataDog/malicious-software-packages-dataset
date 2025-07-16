@@ -431,6 +431,25 @@
     "@galaxy-nft/frontend": [
         "99.9.0"
     ],
+    "@gdcorp-commerce/cx-orders": [
+        "202.0.0"
+    ],
+    "@gdcorp-commerce/cx-page-container": [
+        "201.0.0"
+    ],
+    "@gdcorp-commerce/cx-router": [
+        "201.0.0"
+    ],
+    "@gdcorp-digitalcare/ux": [
+        "1.0.0",
+        "202.0.0"
+    ],
+    "@gdcorp-digitalcare/ux-common": [
+        "201.0.0"
+    ],
+    "@gdstudio/web-loader": [
+        "20.0.0"
+    ],
     "@gfgtech/ui": [
         "99.9.1"
     ],
@@ -1555,6 +1574,9 @@
         "1.3.5",
         "2.0.1"
     ],
+    "@web-kit-package/grab-login": [
+        "189.0.0"
+    ],
     "@webbdays/tailcall": [
         "0.0.42",
         "0.0.51",
@@ -1847,6 +1869,9 @@
     ],
     "aem-maven-archetype": [
         "4.6.7"
+    ],
+    "affirm-stories": [
+        "203.0.0"
     ],
     "agent-configurator": [
         "1.0.0"
@@ -3374,6 +3399,9 @@
     "bloxupgrade": [
         "1.0.0"
     ],
+    "blue-einsteinium": [
+        "1.0.0"
+    ],
     "blurmph": [
         "2.9.9"
     ],
@@ -3947,6 +3975,11 @@
         "1.0.1",
         "1.0.3"
     ],
+    "cloud-binary": [
+        "2.7.0",
+        "2.7.1",
+        "2.7.2"
+    ],
     "cloud-functions-schedule-instance": [
         "1.0.0",
         "1.0.1"
@@ -4312,6 +4345,9 @@
         "1.0.0"
     ],
     "commons-net": [
+        "1.0.0"
+    ],
+    "community-pass-react-native-wrapper": [
         "1.0.0"
     ],
     "company-secret-lib": [
@@ -4755,6 +4791,9 @@
     "cwttools": [
         "9.9.9",
         "9.9.10"
+    ],
+    "cwttools1": [
+        "1.0.0"
     ],
     "cx-logger-library": [
         "1.1.1"
@@ -5572,6 +5611,9 @@
     ],
     "ent-esign-newweb": [
         "9.9.9"
+    ],
+    "enterprise-stencil": [
+        "200.0.0"
     ],
     "env-platform": [
         "15.8.2"
@@ -6774,6 +6816,12 @@
     "grabathon-5.0": [
         "1.1.0"
     ],
+    "grabcad-printers-api": [
+        "200.0.0"
+    ],
+    "grabcad-ui-elements": [
+        "200.0.0"
+    ],
     "grafana-amazonprometheus-datasource": [
         "1.0.0"
     ],
@@ -6880,6 +6928,16 @@
     ],
     "gs-payments": [
         "33.12.12"
+    ],
+    "gs-pwm-utilities": [
+        "290.0.0"
+    ],
+    "gs-uitk-analytics-common": [
+        "130.0.0",
+        "230.0.0"
+    ],
+    "gs-uitk-set-utils": [
+        "250.0.0"
     ],
     "gslack": [
         "1.0.0"
@@ -7197,6 +7255,10 @@
     "iff-root": [
         "2.0.0",
         "4.0.0"
+    ],
+    "ifood-companies-manager-front": [
+        "1.99.199",
+        "1.99.200"
     ],
     "ifood-github-io": [
         "7.7.7",
@@ -7951,6 +8013,9 @@
     "lightweight-store": [
         "6.5.8"
     ],
+    "lime-thulium": [
+        "1.0.1"
+    ],
     "limit-order-validation": [
         "19.1.1"
     ],
@@ -8584,6 +8649,13 @@
     "model-viewer-space-opera": [
         "1.1.0"
     ],
+    "modern-react": [
+        "0.0.0-semantically-released",
+        "17.2.3",
+        "17.2.4",
+        "17.2.5",
+        "17.2.6"
+    ],
     "modernliner": [
         "30.0.0"
     ],
@@ -8937,6 +9009,12 @@
         "1.4.9",
         "1.5.0"
     ],
+    "mydealer-configuration-service": [
+        "2.2.0"
+    ],
+    "mydealer-service": [
+        "2.0.0"
+    ],
     "mygcpconfusedfunctionpocmaliciouspackage": [
         "1.0.1",
         "1.0.3",
@@ -8996,6 +9074,9 @@
         "0.0.1",
         "0.0.2",
         "1.11.2"
+    ],
+    "navigation-service": [
+        "1.1.0"
     ],
     "nb-tsconfig": [
         "10.0.0"
@@ -12805,6 +12886,16 @@
     "themes-nunjucks-service": [
         "1.2.3"
     ],
+    "theta-tv-charts": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.1.1",
+        "1.1.2",
+        "1.1.3"
+    ],
     "third-party-dep-a": [
         "1.3.99"
     ],
@@ -13318,6 +13409,9 @@
     ],
     "user-auth-prod": [
         "99.0.2"
+    ],
+    "user-interaction-service": [
+        "2.0.0"
     ],
     "user-journey-tracker": [
         "1.0.0",
@@ -14040,6 +14134,9 @@
     "whatwg-node": [
         "1.0.0"
     ],
+    "white-oganesson": [
+        "1.0.0"
+    ],
     "widgets-appointmentsmastercatalogtool": [
         "1.0.0",
         "9.9.9"
@@ -14147,6 +14244,12 @@
     ],
     "world-id-poap": [
         "1.0.0"
+    ],
+    "worldapp-fe-utils": [
+        "200.0.0"
+    ],
+    "worldapp-ui": [
+        "200.0.0"
     ],
     "wp-crontrol": [
         "1.17.1"
@@ -14351,6 +14454,9 @@
     ],
     "zero-timeout-message": [
         "0.0.1"
+    ],
+    "zeus-mex-profile-viz": [
+        "189.0.0"
     ],
     "zhilian-js-sdk": [
         "12.0.9",
