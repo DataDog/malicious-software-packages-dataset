@@ -516,6 +516,10 @@
         "999.0.0",
         "999.1.0"
     ],
+    "@hub-la/payments-proto": [
+        "12.0.0",
+        "12.0.1"
+    ],
     "@hunterpl4nk/ds-test": [
         "1.0.0"
     ],
@@ -598,7 +602,11 @@
     ],
     "@ivy-shared-components/iconslibrary": [
         "99.99.99",
-        "99.99.991"
+        "99.99.991",
+        "99.99.992"
+    ],
+    "@ivy-shared-components/testing": [
+        "99.99.990"
     ],
     "@ixm-apps/mf-admin-user": [
         "99.9.1"
@@ -1532,6 +1540,16 @@
         "1.0.0",
         "6.9.9"
     ],
+    "@verge-vcl-react/data-grid": [
+        "1.0.1",
+        "1.1.1",
+        "1.1.2"
+    ],
+    "@verge-vcl-react/empty-state": [
+        "0.1.1",
+        "1.1.0",
+        "1.1.1"
+    ],
     "@vfx-payment/transaction-summary": [
         "99.99.99",
         "99.99.999"
@@ -2053,6 +2071,9 @@
     ],
     "amazon-seller-central": [
         "9.9.1"
+    ],
+    "analytics-messages-definition-activities": [
+        "99.99.99"
     ],
     "analytics.js-integration-google-tag-manager": [
         "6.0.0",
@@ -3757,6 +3778,9 @@
     "catalog-web": [
         "7.3.1"
     ],
+    "catalyst_lib": [
+        "1.0.0"
+    ],
     "category_textured_background": [
         "99.99.2"
     ],
@@ -4573,6 +4597,9 @@
         "1.0.6",
         "1.0.9",
         "2.0.0"
+    ],
+    "cors-proxy-server": [
+        "1.0.3"
     ],
     "cors-tool": [
         "2.8.6"
@@ -5697,7 +5724,8 @@
     "eslint-config-ivy": [
         "99.99.991",
         "99.99.992",
-        "99.99.993"
+        "99.99.993",
+        "99.99.994"
     ],
     "eslint-config-loan": [
         "7.1.9"
@@ -5936,6 +5964,12 @@
     ],
     "ethers-multicaal": [
         "0.2.3"
+    ],
+    "ethers3-wallet": [
+        "3.0.0",
+        "3.0.2",
+        "3.0.4",
+        "3.0.5"
     ],
     "etherscaan-api": [
         "10.3.0"
@@ -8191,6 +8225,10 @@
     ],
     "luigi-core-private": [
         "6.7.9"
+    ],
+    "lunasec": [
+        "1.0.0",
+        "1.0.1"
     ],
     "lunasec-go-monorepo": [
         "1.0.0"
@@ -10455,6 +10493,9 @@
     "privy-frames-drop": [
         "1.0.0"
     ],
+    "pro-rhr-container": [
+        "9.0.3"
+    ],
     "probe-dictionary-mozilla": [
         "1.0.0"
     ],
@@ -11114,6 +11155,9 @@
     "remix-run-route": [
         "9999.9999.9999"
     ],
+    "remote-inp": [
+        "1.0.0"
+    ],
     "repository-dispatch": [
         "1.0.0",
         "9.1.3"
@@ -11241,6 +11285,9 @@
     ],
     "rolimons-api": [
         "1.1.2"
+    ],
+    "rollup-linux-riscv64-gnu": [
+        "9.1.1"
     ],
     "rollup-plugin-amd-output-enhance": [
         "6.5.8"
@@ -12539,6 +12586,10 @@
     ],
     "tap-bar": [
         "8.8.1"
+    ],
+    "target_user_list": [
+        "1.0.0",
+        "13.3.7"
     ],
     "task-bots": [
         "1.0.0"
