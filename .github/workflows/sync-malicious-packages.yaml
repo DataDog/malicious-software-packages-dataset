@@ -5,7 +5,7 @@ on:
   schedule:
   - cron: '0 8 * * 1-5' # every weekday at 8 UTC
 
-  
+
 permissions:
   contents: write
   pull-requests: write
@@ -18,11 +18,24 @@ jobs:
     environment: Main
 
     steps:
+      # <TESTING> Only for debugging, remove after testing
+      - name: Debug OIDC Claims
+        uses: github/actions-oidc-debugger@main
+        with:
+          audience: "octo-debugger"
+      # </TESTING>
+
+      - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
+        id: octo-sts
+        with:
+          scope: DataDog/malicious-software-packages-dataset  # target repository
+          policy: self.open_pr # trust policy in target repo
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12' 
+          python-version: '3.12'
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
@@ -56,6 +69,7 @@ jobs:
           title: "[Bot] Auto-synchronize malicious packages"
           labels: sync
           branch-suffix: timestamp
+          token: ${{ steps.octo-sts.outputs.token }}
           reviewers: |
             christophetd
             sobregosodd
