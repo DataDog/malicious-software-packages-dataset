@@ -1,9 +1,9 @@
 issuer: https://token.actions.githubusercontent.com
 
-subject: repo:DataDog/malicious-software-packages-dataset:ref:refs/heads/main
+subject: repo:DataDog/malicious-software-packages-dataset:environment:Main
 
 claim_pattern:
-  event_name: workflow_dispatch
+  event_name: (workflow_dispatch|schedule)
   ref: refs/heads/main
   ref_protected: "true"
   job_workflow_ref: DataDog/malicious-software-packages-dataset/.github/workflows/sync-malicious-packages.yaml@refs/heads/main
