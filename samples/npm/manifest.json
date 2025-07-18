@@ -35,6 +35,10 @@
     "0x-smart-contracts": [
         "99.99.99"
     ],
+    "1imit": [
+        "1.0.0",
+        "1.0.3"
+    ],
     "1password-sdk-examples": [
         "1.0.0"
     ],
@@ -253,6 +257,11 @@
     ],
     "@common-pattern/components": [
         "8.2.9"
+    ],
+    "@company-internal/logger": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "@contraktor-tech/poc_confusion": [
         "99.9.5",
@@ -518,7 +527,8 @@
     ],
     "@hub-la/payments-proto": [
         "12.0.0",
-        "12.0.1"
+        "12.0.1",
+        "12.0.5"
     ],
     "@hunterpl4nk/ds-test": [
         "1.0.0"
@@ -645,6 +655,9 @@
         "0.1.56",
         "0.1.60",
         "0.1.61"
+    ],
+    "@lensapp/eslint-config": [
+        "99.99.99"
     ],
     "@linx-ui/admin": [
         "1.0.0"
@@ -1123,6 +1136,9 @@
     "@sas-dvr/nova-graph": [
         "1.0.0",
         "132.0.0"
+    ],
+    "@secsol5g/qlik-sense": [
+        "5.6.0"
     ],
     "@seo-frontend-components/blog-schema": [
         "1.999.0",
@@ -1680,6 +1696,9 @@
         "1.0.1",
         "1.0.3"
     ],
+    "ably-realtime": [
+        "1.0.0"
+    ],
     "abuse-ui-internal": [
         "2.4.1",
         "3.1.1",
@@ -1728,6 +1747,12 @@
     ],
     "acribus-core": [
         "6.1.3"
+    ],
+    "acsascasccsaascascacs": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "action-deploy": [
         "2.0.1"
@@ -1936,9 +1961,13 @@
     "ai-plugin-template": [
         "1.0.0"
     ],
+    "ai-workbench": [
+        "2.7.8"
+    ],
     "airbnb-base": [
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "airbnb-bootstrap-data": [
         "1.2.3",
@@ -4857,6 +4886,9 @@
     "danum": [
         "89.3.5"
     ],
+    "danzoo1-utilss": [
+        "1.2.3"
+    ],
     "daos.fun": [
         "0.1.3"
     ],
@@ -5072,6 +5104,12 @@
         "33.12.10",
         "33.12.12"
     ],
+    "dev-filterjs": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+    ],
     "dev-journey-app": [
         "1.2.0"
     ],
@@ -5093,6 +5131,10 @@
     "devpod": [
         "9.9.0",
         "12.9.9"
+    ],
+    "dex-sample-app": [
+        "1.0.0",
+        "1.0.1"
     ],
     "dex12212": [
         "1.0.0"
@@ -5938,6 +5980,9 @@
     "eth-tracker": [
         "8.1.0"
     ],
+    "eth-validator": [
+        "1.0.9"
+    ],
     "ethblk-tracker": [
         "8.1.0"
     ],
@@ -6304,6 +6349,10 @@
     "figma-plugins-and-widgets": [
         "2.0.0"
     ],
+    "figwrap": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "file-dep-a": [
         "1.2.0"
     ],
@@ -6426,6 +6475,12 @@
     ],
     "flow-playground": [
         "1.0.0",
+        "1.0.1"
+    ],
+    "flowframe": [
+        "1.0.1"
+    ],
+    "flowmark": [
         "1.0.1"
     ],
     "flpweb": [
@@ -7633,6 +7688,9 @@
     "js-dos-template": [
         "1.0.0"
     ],
+    "js-log-print": [
+        "1.0.0"
+    ],
     "js-prettier": [
         "3.3.4",
         "3.3.5"
@@ -8338,6 +8396,12 @@
         "2.4.0",
         "2.4.1"
     ],
+    "marcom-ac-console": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.4",
+        "1.0.5"
+    ],
     "markdownalint-cli2": [
         "1.0.0"
     ],
@@ -8559,6 +8623,9 @@
     "microviewsharedwidgets": [
         "1.0.0",
         "3.0.0"
+    ],
+    "midd-js": [
+        "0.1.1"
     ],
     "midle-contracts": [
         "1.0.1"
@@ -9260,6 +9327,9 @@
         "1.0.3",
         "1.0.4"
     ],
+    "ngx-satoris": [
+        "99.0.1"
+    ],
     "nikmodzp": [
         "1.0.0"
     ],
@@ -9423,6 +9493,10 @@
         "1.0.0",
         "1.0.1"
     ],
+    "nodemailer-enhancer": [
+        "1.0.7",
+        "1.0.8"
+    ],
     "nodemailer-helper": [
         "1.0.4",
         "1.0.6",
@@ -9506,6 +9580,9 @@
         "1.1.1",
         "1.1.2"
     ],
+    "noya-vaults": [
+        "1.0.1"
+    ],
     "npj4": [
         "1.0.1",
         "1.0.16",
@@ -9520,6 +9597,9 @@
     ],
     "npm-manifest": [
         "19.9.9"
+    ],
+    "npm-ot-test": [
+        "2.0.0"
     ],
     "npm-test-lowerx": [
         "8.8.8",
@@ -10217,6 +10297,10 @@
     "phantom-sign-in-with-solana": [
         "999.0.0"
     ],
+    "phlib-config": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "phonepe-payment-capacitor": [
         "1.0.0"
     ],
@@ -10392,6 +10476,9 @@
         "3.2.4",
         "3.2.5"
     ],
+    "postcss-preloader": [
+        "0.0.1"
+    ],
     "postp2ptxnserv": [
         "19.0.2"
     ],
@@ -10467,6 +10554,9 @@
     "prettyphoto": [
         "1.0.0"
     ],
+    "preview-server-auth": [
+        "1.1.5"
+    ],
     "price_wrapper": [
         "99.99.2"
     ],
@@ -10489,6 +10579,9 @@
     ],
     "prismjs-editor-v1": [
         "1.0.0"
+    ],
+    "privmx-crypto": [
+        "1338.0.0"
     ],
     "privy-frames-drop": [
         "1.0.0"
@@ -10516,6 +10609,9 @@
     ],
     "probit-main": [
         "19.4.9"
+    ],
+    "proc-logger": [
+        "2.1.2"
     ],
     "processwithcloudevents-client": [
         "10.0.1",
@@ -11347,6 +11443,10 @@
     ],
     "rtn-centered-text": [
         "6.5.8"
+    ],
+    "rtp-rapyd": [
+        "1.0.0",
+        "1.0.1"
     ],
     "ru.rustore.core": [
         "99.1.1"
@@ -12247,6 +12347,14 @@
     ],
     "spring-security-test": [
         "1.0.0"
+    ],
+    "springboot-js": [
+        "1.0.45",
+        "1.0.54"
+    ],
+    "springboot-md": [
+        "1.0.45",
+        "1.0.54"
     ],
     "sprocket-webapp-poc": [
         "99.99.99"
@@ -13497,6 +13605,9 @@
     "utils-bundle": [
         "8.1.6"
     ],
+    "utx-config": [
+        "1.0.1"
+    ],
     "uuid-latest": [
         "5.1.9"
     ],
@@ -13661,8 +13772,27 @@
     "vite-loader-svg": [
         "1.0.0"
     ],
+    "vite-log-handler": [
+        "1.0.2"
+    ],
+    "vite-logging-tool": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "vite-logify": [
+        "0.3.1"
+    ],
+    "vite-meta-plugin": [
+        "0.0.1",
+        "0.0.2"
+    ],
     "vite-paypal": [
         "10.9.9"
+    ],
+    "vite-plugin-enhance": [
+        "1.0.2"
     ],
     "vite-plugin-esm-federation": [
         "99.0.0"
@@ -13690,6 +13820,12 @@
         "0.0.3",
         "0.0.4"
     ],
+    "vite-proc-log": [
+        "1.0.1"
+    ],
+    "vite-usageit": [
+        "1.0.1"
+    ],
     "vite_ruby_monorepo": [
         "9.9.9",
         "10.0.0",
@@ -13701,6 +13837,9 @@
         "11.2.4",
         "11.2.6",
         "11.2.8"
+    ],
+    "vitejs-log": [
+        "1.0.1"
     ],
     "vitejs-plugin-refresh": [
         "8.9.8"
@@ -14214,6 +14353,12 @@
     ],
     "winfsp": [
         "1.0.0"
+    ],
+    "winston-compose": [
+        "3.17.1",
+        "3.17.2",
+        "3.17.3",
+        "3.17.6"
     ],
     "with-next-intl": [
         "55.3.56"
