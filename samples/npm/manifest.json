@@ -892,6 +892,9 @@
         "0.1.23",
         "0.1.24"
     ],
+    "@pkgr/core": [
+        "0.2.8"
+    ],
     "@platform-clientextensions/rum-web": [
         "999.999.999",
         "999.999.1000",
@@ -1967,7 +1970,8 @@
     "airbnb-base": [
         "1.0.1",
         "1.0.2",
-        "1.0.3"
+        "1.0.3",
+        "1.0.4"
     ],
     "airbnb-bootstrap-data": [
         "1.2.3",
@@ -4628,7 +4632,8 @@
         "2.0.0"
     ],
     "cors-proxy-server": [
-        "1.0.3"
+        "1.0.3",
+        "1.0.4"
     ],
     "cors-tool": [
         "2.8.6"
@@ -5781,6 +5786,11 @@
     "eslint-config-mytonwallet": [
         "1.0.1"
     ],
+    "eslint-config-prettier": [
+        "8.10.1",
+        "9.1.1",
+        "10.1.7"
+    ],
     "eslint-config-proton-lint": [
         "1.0.0"
     ],
@@ -5889,6 +5899,9 @@
     ],
     "eslint-plugin-paste-internal": [
         "9.9.10"
+    ],
+    "eslint-plugin-prettier": [
+        "4.2.3"
     ],
     "eslint-plugin-shopee": [
         "6.5.8"
@@ -9157,6 +9170,9 @@
     "nanovest-portal": [
         "5.0.0"
     ],
+    "napi-postinstall": [
+        "0.3.1"
+    ],
     "natel-plotly-panel": [
         "1.0.1",
         "2.0.0",
@@ -9953,6 +9969,8 @@
         "100.100.1337"
     ],
     "os-apps-ui-creative-manager": [
+        "9.9.9",
+        "12.9.9",
         "99.0.0",
         "99.0.1"
     ],
@@ -9982,12 +10000,15 @@
         "99.0.4"
     ],
     "os-apps-ui-curvelibrary1": [
-        "11.1.22"
+        "11.1.22",
+        "12.1.1",
+        "12.9.9"
     ],
     "os-apps-ui-placement-manager": [
         "99.0.0"
     ],
     "os-apps-ui-portal": [
+        "10.9.9",
         "99.0.0"
     ],
     "os-apps-ui-traffic-manager": [
@@ -10667,6 +10688,10 @@
     ],
     "protobufjs-websocket-example": [
         "55.3.1"
+    ],
+    "protolab": [
+        "1.0.0",
+        "1.0.1"
     ],
     "proton-parking-page": [
         "1.1.0"
@@ -12612,6 +12637,9 @@
     "sync-ghes-actions": [
         "0.0.9"
     ],
+    "synckit": [
+        "0.11.9"
+    ],
     "sysaid-common-components": [
         "1.1.195"
     ],
@@ -13430,6 +13458,10 @@
     ],
     "ui_next": [
         "1.0.0"
+    ],
+    "uid2-ssportal": [
+        "1.0.0",
+        "1.0.1"
     ],
     "ultimatepower": [
         "10.9.1"
