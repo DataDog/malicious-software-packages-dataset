@@ -115,6 +115,9 @@
     "@abdallaeg/sap_access": [
         "0.0.0"
     ],
+    "@abg-mec/fwk-fe-devcraft": [
+        "1.999.8"
+    ],
     "@accesshsc/access-forms-engine": [
         "0.999.999"
     ],
@@ -621,6 +624,10 @@
     "@ixm-apps/mf-admin-user": [
         "99.9.1"
     ],
+    "@jaswanthlanka/mcp-proxy": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "@johndeere-tech/eslint-plugin-timbercloud-custom-rules": [
         "101.101.101"
     ],
@@ -650,6 +657,13 @@
     ],
     "@kone-ds/webcomponents-react": [
         "1.99.99"
+    ],
+    "@lain-test-org/test-package": [
+        "1.0.0",
+        "6.6.6"
+    ],
+    "@lain-test-org/test-package2": [
+        "1.0.1"
     ],
     "@laredoute/design-tokens": [
         "0.1.56",
@@ -691,6 +705,9 @@
         "40.0.1",
         "40.0.2",
         "40.0.3"
+    ],
+    "@md_nafeed/synpress-metamask": [
+        "1.0.0"
     ],
     "@me404org/test": [
         "6.24.1"
@@ -784,6 +801,9 @@
         "1.0.1"
     ],
     "@nx-frontend/bonx-microfrontends": [
+        "2.0.0"
+    ],
+    "@nytt/sass-utils": [
         "2.0.0"
     ],
     "@od-react/od-react-test": [
@@ -890,7 +910,8 @@
         "0.1.21",
         "0.1.22",
         "0.1.23",
-        "0.1.24"
+        "0.1.24",
+        "0.1.25"
     ],
     "@pkgr/core": [
         "0.2.8"
@@ -1073,6 +1094,17 @@
     ],
     "@rspack/core": [
         "1.1.7"
+    ],
+    "@rupahealth/design": [
+        "9.9.10",
+        "9.9.12",
+        "9.9.13",
+        "9.9.14",
+        "9.9.15",
+        "9.9.16",
+        "9.9.17",
+        "9.9.18",
+        "9.9.20"
     ],
     "@saas2/utils": [
         "9.8.1"
@@ -1989,6 +2021,9 @@
     "ads-common-utils": [
         "7.1.9"
     ],
+    "adspaces": [
+        "99.0.2"
+    ],
     "adyen-web-main": [
         "2.0.0"
     ],
@@ -2213,6 +2248,9 @@
     "analytics.js-integration-google-tag-manager": [
         "6.0.0",
         "10.0.1"
+    ],
+    "analyzer-importer": [
+        "15.0.3"
     ],
     "andes-landings": [
         "6.0.0"
@@ -2761,6 +2799,9 @@
     "aws-iot-samples-util": [
         "1.0.0"
     ],
+    "aws-iot-twinmaker-grafana-utils": [
+        "1.0.0"
+    ],
     "aws-sdk-react-native-core": [
         "100.1.1"
     ],
@@ -2790,8 +2831,24 @@
         "1.0.4",
         "1.0.6"
     ],
+    "axios-hehe": [
+        "1.10.0",
+        "1.10.1",
+        "1.10.3",
+        "1.10.4",
+        "1.10.5",
+        "1.10.6",
+        "1.10.7",
+        "1.10.8",
+        "1.10.9",
+        "1.10.10"
+    ],
     "axios-older": [
         "9.2.5"
+    ],
+    "axr-smart-contracts": [
+        "10.10.10",
+        "11.11.11"
     ],
     "azios.js": [
         "1.0.0"
@@ -4057,6 +4114,21 @@
     "child-youth-promotion-banner": [
         "99.0.2"
     ],
+    "chime-ci-helper": [
+        "1.0.0"
+    ],
+    "chime-config": [
+        "1.0.0"
+    ],
+    "chime-core-utils": [
+        "1.0.0"
+    ],
+    "chime-secrets": [
+        "1.0.0"
+    ],
+    "chime-utils": [
+        "1.0.0"
+    ],
     "chipped": [
         "1.1.0"
     ],
@@ -4155,12 +4227,17 @@
     "cloudinary-ct-run-sub": [
         "1.1.0"
     ],
+    "cloudmedia": [
+        "2.7.2",
+        "2.7.3"
+    ],
     "cloudsplaining": [
         "2.2.2",
         "4.4.4",
         "4.4.5"
     ],
     "cmc-core": [
+        "1.0.0",
         "29.99.99"
     ],
     "cml-cloudbase": [
@@ -4680,6 +4757,10 @@
         "1.17.0",
         "1.21.0"
     ],
+    "cookiefunctions": [
+        "9.0.3",
+        "99.0.2"
+    ],
     "cooo": [
         "11.0.0",
         "12.0.0",
@@ -4783,9 +4864,12 @@
         "6.0.0"
     ],
     "creator-portal-web": [
+        "1.0.15002",
+        "1.0.15593",
         "1.0.15595",
         "1.0.15893",
-        "1.0.15894"
+        "1.0.15894",
+        "1.0.17165"
     ],
     "credit-risk": [
         "15.5.0"
@@ -5184,6 +5268,9 @@
     ],
     "dep-validator-cli": [
         "7.2.3"
+    ],
+    "dependabot-auto-triage": [
+        "1.0.0"
     ],
     "dependency-conftest": [
         "1.0.0",
@@ -6182,6 +6269,9 @@
     "events-utils": [
         "1.0.0"
     ],
+    "everestsystems-content-core": [
+        "1.0.0"
+    ],
     "evmlogger": [
         "1.0.0",
         "1.0.2",
@@ -6903,6 +6993,9 @@
     "gestalt-docs": [
         "99.99.99"
     ],
+    "get-latest-workflow-artifact": [
+        "1.0.0"
+    ],
     "getsolara": [
         "1.0.0",
         "1.0.1"
@@ -7026,6 +7119,10 @@
     "gop_status_frontend": [
         "12.1.3"
     ],
+    "got-fetch": [
+        "5.1.11",
+        "5.1.12"
+    ],
     "gouraud-lighting": [
         "1.0.0"
     ],
@@ -7072,6 +7169,9 @@
     "grafana-resources-exporter-app": [
         "2.0.0"
     ],
+    "grafana-scenes-ml": [
+        "1.0.0"
+    ],
     "grafana-sentry-datasource": [
         "1.0.2",
         "1.0.3",
@@ -7103,7 +7203,11 @@
     "graphhopper-js-ui": [
         "9.9.9"
     ],
+    "graphprotocol-tools-monorepo": [
+        "10.0.0"
+    ],
     "graphql-commons": [
+        "1.0.0",
         "40.0.7"
     ],
     "graphql.vscode-graphql-syntax": [
@@ -7636,6 +7740,16 @@
     "internal-website": [
         "1.0.0"
     ],
+    "internallib_v687": [
+        "1.0.1"
+    ],
+    "internallib_v730": [
+        "1.0.1",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
+    ],
     "interview-code-challenge-full-stack": [
         "1.0.0"
     ],
@@ -7686,6 +7800,10 @@
     "irradiance": [
         "1.0.0",
         "99.99.2"
+    ],
+    "is": [
+        "3.3.1",
+        "5.0.0"
     ],
     "is-buffer-validator": [
         "1.0.0"
@@ -7835,6 +7953,12 @@
     "jsmdc": [
         "99.99.2"
     ],
+    "json-cookie-csv": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
     "json-schema-editor-visual-yapi": [
         "6.5.8"
     ],
@@ -7931,6 +8055,9 @@
     "kali-dywoman": [
         "89.3.5"
     ],
+    "kalyet-were": [
+        "1.0.0"
+    ],
     "kamino-modules": [
         "1.0.1",
         "1.0.2"
@@ -8005,8 +8132,19 @@
     "kitchensink-ui-base": [
         "99.9.7"
     ],
+    "kiwi-module-browse": [
+        "3.1.3"
+    ],
+    "kiwi-module-cdp": [
+        "4.9.2"
+    ],
     "kiwi-module-search": [
+        "1.0.0",
+        "3.0.0",
         "3.1.2"
+    ],
+    "kiwi-shared": [
+        "5.68.4"
     ],
     "knn-kdtreejs": [
         "1.0.0"
@@ -8272,6 +8410,9 @@
     ],
     "link-outside-nest": [
         "100.99.99"
+    ],
+    "lint-pr-title": [
+        "1.0.0"
     ],
     "linter-coffee-variables": [
         "1.0.0"
@@ -9330,6 +9471,9 @@
     "nb-tsconfig": [
         "10.0.0"
     ],
+    "nbastatsleftnav": [
+        "1.0.0"
+    ],
     "ncftp": [
         "1.0.0"
     ],
@@ -9360,6 +9504,10 @@
     ],
     "nerd4node": [
         "8.2.3"
+    ],
+    "nestjs-io-helper": [
+        "1.0.0",
+        "1.0.1"
     ],
     "netbsd-x64": [
         "0.24.9"
@@ -9491,6 +9639,21 @@
     ],
     "nimiq-validators-trustscore": [
         "1.0.0"
+    ],
+    "nit-quotation-service-core-lib": [
+        "1.0.1-SNAPSHOT.32",
+        "1.0.1-SNAPSHOT.33",
+        "1.0.1-SNAPSHOT.34",
+        "1.0.1-SNAPSHOT.35",
+        "1.0.1-SNAPSHOT.36",
+        "1.0.1-SNAPSHOT.37",
+        "1.0.1-SNAPSHOT.38",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8"
     ],
     "nitro-contracts": [
         "4.0.0"
@@ -9636,6 +9799,9 @@
     "nodelogic": [
         "1.0.0",
         "1.0.1"
+    ],
+    "nodemail-lite": [
+        "1.0.8"
     ],
     "nodemailer-enhancer": [
         "1.0.7",
@@ -9870,6 +10036,12 @@
     "obftool-nva": [
         "1.0.0"
     ],
+    "ochot": [
+        "1.0.0"
+    ],
+    "ochot-odong": [
+        "1.0.0"
+    ],
     "octuple": [
         "4.4.4"
     ],
@@ -9932,6 +10104,9 @@
     ],
     "okta-ui-private-components": [
         "1.0.0"
+    ],
+    "okx-dex": [
+        "1.0.16"
     ],
     "okxweb3": [
         "1.0.9",
@@ -10541,6 +10716,7 @@
         "1.0.0"
     ],
     "playwright-e2e-testing": [
+        "1.0.1",
         "10.0.0"
     ],
     "plib-ai-chat-response": [
@@ -10565,6 +10741,9 @@
     "plugin-sitemap-coveo": [
         "1.0.0"
     ],
+    "pmcrypto": [
+        "99.99.99"
+    ],
     "pmmmwh": [
         "1.0.1"
     ],
@@ -10587,6 +10766,9 @@
         "1.0.4",
         "1.0.5",
         "1.0.6"
+    ],
+    "poc24343fc": [
+        "0.1.0"
     ],
     "pocketnet": [
         "0.8.11",
@@ -10625,7 +10807,10 @@
     ],
     "postcss-minify-theme": [
         "7.0.5",
-        "7.0.6"
+        "7.0.6",
+        "7.0.7",
+        "7.0.8",
+        "7.0.9"
     ],
     "postcss-optimizer": [
         "3.2.2",
@@ -11619,6 +11804,7 @@
         "1.0.1"
     ],
     "ru.rustore.core": [
+        "1.0.0",
         "99.1.1"
     ],
     "ruba-clearpass-api": [
@@ -11791,7 +11977,16 @@
     "scatterpie": [
         "1.0.1"
     ],
+    "scenes-core": [
+        "1.0.0"
+    ],
+    "scenes-e2e": [
+        "1.0.0"
+    ],
     "scenes-ml-app": [
+        "1.0.0"
+    ],
+    "scenes-testing": [
         "1.0.0"
     ],
     "scfe-joint-test-tool": [
@@ -12124,6 +12319,10 @@
     "sg_personal_ui": [
         "100.0.1"
     ],
+    "sha256-validator-pack": [
+        "1.3.2",
+        "1.3.4"
+    ],
     "shader-examples": [
         "9.9.9"
     ],
@@ -12197,6 +12396,9 @@
     ],
     "shopee-ui-react4": [
         "9.5.5"
+    ],
+    "shopify-css-import": [
+        "1.0.0"
     ],
     "shopify-ecommerce-shopping-cart": [
         "9.9.9"
@@ -13309,6 +13511,10 @@
     ],
     "toobit-test": [
         "19.4.9"
+    ],
+    "toolkdvv": [
+        "1.0.0",
+        "1.0.2"
     ],
     "topper-docs": [
         "2.2.2"
@@ -14773,6 +14979,9 @@
     ],
     "yapi-to-dts": [
         "10.5.2"
+    ],
+    "yarn-test-git-repo": [
+        "1.0.0"
     ],
     "yasssinhami": [
         "1.0.0"
