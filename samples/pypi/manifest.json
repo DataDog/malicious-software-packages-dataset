@@ -1461,6 +1461,9 @@
     "graphene-arangodb": [
         "1.0.0"
     ],
+    "groq-mcp": [
+        "9.9.9"
+    ],
     "grpc-google-bigtable-v2": [
         "0.11.99"
     ],
@@ -3497,6 +3500,9 @@
     ],
     "rtpoc1": [
         "0.2"
+    ],
+    "ruamel-poc": [
+        "1.17.16"
     ],
     "s3transfer-sl": [
         "0.12.0",
