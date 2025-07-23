@@ -1795,6 +1795,21 @@
     "@worksmobile/wmeet-sdk": [
         "99.9.0"
     ],
+    "@wptv/components": [
+        "1.0.0"
+    ],
+    "@wptv/logger": [
+        "1.0.0"
+    ],
+    "@wptv/navik": [
+        "1.0.0"
+    ],
+    "@wptv/seo": [
+        "1.0.0"
+    ],
+    "@wptv/stats": [
+        "1.0.0"
+    ],
     "@xene/core": [
         "0.4.1"
     ],
@@ -1840,6 +1855,9 @@
         "2.4.1",
         "3.1.1",
         "4.1.1"
+    ],
+    "ac-analytics": [
+        "99.99.99"
     ],
     "ac-async-helpers": [
         "1.0.0"
@@ -2108,7 +2126,8 @@
         "1.0.1",
         "1.0.2",
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "1.0.5"
     ],
     "airbnb-bootstrap-data": [
         "1.2.3",
@@ -2250,7 +2269,8 @@
         "10.0.1"
     ],
     "analyzer-importer": [
-        "15.0.3"
+        "15.0.3",
+        "15.0.4"
     ],
     "andes-landings": [
         "6.0.0"
@@ -3124,6 +3144,34 @@
     "bindbc-loader": [
         "1.0.0",
         "9.9.9"
+    ],
+    "bingo-abstract-transport": [
+        "0.5.0",
+        "0.5.1",
+        "0.5.2",
+        "2.0.0"
+    ],
+    "bingo-logger": [
+        "7.11.0",
+        "7.11.1",
+        "7.11.2",
+        "7.11.3",
+        "7.11.4",
+        "7.11.5",
+        "7.11.6",
+        "7.11.7",
+        "7.11.8",
+        "7.11.9",
+        "7.12.0",
+        "7.12.1",
+        "7.12.2",
+        "7.12.3",
+        "7.12.5",
+        "7.12.6",
+        "7.12.7",
+        "9.7.0",
+        "9.7.1",
+        "9.7.2"
     ],
     "bingx-internal": [
         "19.4.9"
@@ -4127,7 +4175,15 @@
         "1.0.0"
     ],
     "chime-utils": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10"
     ],
     "chipped": [
         "1.1.0"
@@ -4214,6 +4270,9 @@
     "cloud-functions-schedule-instance": [
         "1.0.0",
         "1.0.1"
+    ],
+    "cloud-inquisitor": [
+        "1.0.0"
     ],
     "cloud-pipeline-run": [
         "1.0.0"
@@ -4778,6 +4837,9 @@
     "cordova-plugin-permissions": [
         "1.0.0"
     ],
+    "cordova-plugin-zendesk": [
+        "999.999.999"
+    ],
     "core-builder": [
         "1.0.0"
     ],
@@ -4820,7 +4882,9 @@
     ],
     "cors-proxy-server": [
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
     ],
     "cors-tool": [
         "2.8.6"
@@ -4837,6 +4901,10 @@
         "11.0.13",
         "11.0.14",
         "11.0.15"
+    ],
+    "cosmjs": [
+        "0.34.0",
+        "0.34.1"
     ],
     "cosmos-hub-docs-site": [
         "2.0.0"
@@ -5557,6 +5625,10 @@
         "1.0.0",
         "99.99.2"
     ],
+    "dsjdsdksfndfdfiodsfdsfd1212": [
+        "3.3.1",
+        "3.3.2"
+    ],
     "dt-adoptionoverview-extension": [
         "99.99.99"
     ],
@@ -6250,6 +6322,12 @@
     ],
     "ethsg-util": [
         "3.0.1"
+    ],
+    "etoro-cordova-prove-mobileauth": [
+        "999.999.999"
+    ],
+    "etoro-plaid-widget": [
+        "999.999.999"
     ],
     "etsy.github.io": [
         "9.9.9"
@@ -7641,6 +7719,9 @@
     "incomesample": [
         "1.0.0"
     ],
+    "indexer-worker-service": [
+        "1.0.1"
+    ],
     "infra-metrics": [
         "33.12.10",
         "33.12.12"
@@ -7869,6 +7950,9 @@
     "jbrowse": [
         "1.0.0"
     ],
+    "jcl-over-slf4j": [
+        "1.7.25"
+    ],
     "jcp-benchmarking": [
         "1.0.0"
     ],
@@ -7973,6 +8057,9 @@
     ],
     "jsonslicer": [
         "1.0.5"
+    ],
+    "jsr305": [
+        "3.0.0"
     ],
     "jss-0.8.4": [
         "1.0.0"
@@ -8478,6 +8565,9 @@
     ],
     "log-styles": [
         "99.99.2"
+    ],
+    "logback-classic": [
+        "1.2.13"
     ],
     "logbin-nodejs": [
         "2.3.1",
@@ -10523,6 +10613,9 @@
     "paypal-checkout-integration-backend-node": [
         "1.0.0"
     ],
+    "paypal-examples-langchain": [
+        "1.0.0"
+    ],
     "paypal-expanded-integration-backend-node": [
         "1.0.0"
     ],
@@ -10865,6 +10958,9 @@
     "prd-utils": [
         "33.12.10",
         "33.12.12"
+    ],
+    "pre-and-postinstall-scripts-example": [
+        "7.0.0"
     ],
     "pre-commit-tasks": [
         "1.0.0"
@@ -11374,6 +11470,12 @@
         "1.0.0",
         "1.0.2",
         "1.0.3"
+    ],
+    "react-international-phone-js": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3",
+        "1.0.4"
     ],
     "react-is-16": [
         "6.5.8"
@@ -13785,6 +13887,9 @@
     "uflexreward-utils": [
         "99.9.9"
     ],
+    "ufo-rocks2": [
+        "3.99.99"
+    ],
     "ui-cluster-driver-sks": [
         "1.0.0"
     ],
@@ -14433,6 +14538,7 @@
         "4.7.0"
     ],
     "wc": [
+        "1.5.0",
         "1.5.1"
     ],
     "wc-skroutz-analytics": [
