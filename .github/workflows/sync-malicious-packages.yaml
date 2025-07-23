@@ -18,12 +18,6 @@ jobs:
     environment: Main
 
     steps:
-      # <TESTING> Only for debugging, remove after testing
-      - name: Debug OIDC Claims
-        uses: github/actions-oidc-debugger@main
-        with:
-          audience: "octo-debugger"
-      # </TESTING>
 
       - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
         id: octo-sts
