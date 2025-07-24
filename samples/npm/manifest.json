@@ -2163,6 +2163,9 @@
         "8.7.0",
         "10.2.0"
     ],
+    "airbnb-internals": [
+        "10.0.1"
+    ],
     "airbnb-jitney-schemas": [
         "3.6226.1"
     ],
@@ -2327,6 +2330,12 @@
     "apache-httpclient": [
         "1.0.0"
     ],
+    "apache-httpclient1": [
+        "1.0.0"
+    ],
+    "apache-httpclient2": [
+        "1.0.0"
+    ],
     "apache-iotdb": [
         "1.0.0"
     ],
@@ -2393,6 +2402,9 @@
     ],
     "app-webbridge": [
         "6.1.3"
+    ],
+    "app-wheelify": [
+        "2.0.37"
     ],
     "app_custom_pinterest": [
         "99.99.10"
@@ -2578,6 +2590,9 @@
     ],
     "asios.js": [
         "1.0.0"
+    ],
+    "askama": [
+        "0.12.1"
     ],
     "aspida-lsd": [
         "1.0.0"
@@ -6740,6 +6755,12 @@
     "flame-monorepo": [
         "1.0.0"
     ],
+    "flash-hros": [
+        "1.0.0"
+    ],
+    "flash-tecnologia": [
+        "1.0.0"
+    ],
     "flashcanvas": [
         "1.0.0"
     ],
@@ -7659,6 +7680,9 @@
     ],
     "idkit-monorepo": [
         "1.3.0"
+    ],
+    "ids-core": [
+        "1.0.0"
     ],
     "idt-validation-paypal": [
         "19.0.2"
@@ -10821,6 +10845,9 @@
     "plib-ai-chat-response": [
         "9.9.9"
     ],
+    "plide": [
+        "2.4.21"
+    ],
     "plugin-api-version": [
         "4.1.1"
     ],
@@ -12838,6 +12865,9 @@
     "spl-token-v2": [
         "7.0.0"
     ],
+    "splide": [
+        "2.4.21"
+    ],
     "spot-the-station-app": [
         "2.0.0",
         "2.1.1",
@@ -14205,6 +14235,9 @@
         "18.0.0",
         "19.0.0"
     ],
+    "vercel-internals": [
+        "1.0.0"
+    ],
     "vercel-repros": [
         "1.0.0"
     ],
@@ -14821,6 +14854,9 @@
     "webvieweventtest": [
         "1.0.0"
     ],
+    "webxr-input-profiles": [
+        "1.0.0"
+    ],
     "weex-dev": [
         "19.4.9"
     ],
@@ -15063,6 +15099,9 @@
     ],
     "xigplayer": [
         "89.3.5"
+    ],
+    "xk6-top": [
+        "7.1.1"
     ],
     "xlog-admin-portal": [
         "11.3.6"
