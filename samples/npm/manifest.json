@@ -2188,6 +2188,12 @@
         "7.795.0",
         "13.1.0"
     ],
+    "airbnb-private": [
+        "10.0.1"
+    ],
+    "airbnb-prop": [
+        "10.0.1"
+    ],
     "airpay-js-sdk": [
         "7.1.9"
     ],
@@ -2264,6 +2270,10 @@
     "amazon-seller-central": [
         "9.9.1"
     ],
+    "analytics-bp-passive-tracker-loader": [
+        "99.99.99",
+        "99.99.100"
+    ],
     "analytics-messages-definition-activities": [
         "99.99.99"
     ],
@@ -2334,6 +2344,18 @@
         "1.0.0"
     ],
     "apache-httpclient2": [
+        "1.0.0"
+    ],
+    "apache-httpclient3": [
+        "1.0.0"
+    ],
+    "apache-httpclient4": [
+        "1.0.0"
+    ],
+    "apache-httpclient6": [
+        "1.0.0"
+    ],
+    "apache-httpclient7": [
         "1.0.0"
     ],
     "apache-iotdb": [
@@ -3153,6 +3175,9 @@
     "bigumner-js": [
         "9.1.2"
     ],
+    "binance-dev": [
+        "10.0.1"
+    ],
     "binance-toolbox-nodejs": [
         "1.0.0"
     ],
@@ -3787,6 +3812,9 @@
     "buck2_explain": [
         "9.9.9"
     ],
+    "bufbuild-core": [
+        "1.0.0"
+    ],
     "bug-bounttest": [
         "1.0.0"
     ],
@@ -4198,7 +4226,8 @@
         "1.0.6",
         "1.0.8",
         "1.0.9",
-        "1.0.10"
+        "1.0.10",
+        "1.0.11"
     ],
     "chipped": [
         "1.1.0"
@@ -4960,6 +4989,15 @@
     "creditkarma-us": [
         "99.0.2"
     ],
+    "creditorwatch": [
+        "5.0.0",
+        "5.0.1",
+        "5.0.3",
+        "5.0.4",
+        "5.0.5",
+        "5.0.6",
+        "5.0.8"
+    ],
     "crisp-import-conversations": [
         "1.8.2"
     ],
@@ -5242,6 +5280,10 @@
     "db-cleaner": [
         "14.5.5"
     ],
+    "db-connections-templates": [
+        "1.0.0",
+        "1.0.3"
+    ],
     "db-prod-interno": [
         "33.12.12"
     ],
@@ -5338,6 +5380,9 @@
     "demo-resources": [
         "5.5.1"
     ],
+    "demo-vault-backup-webapp": [
+        "1.0.0"
+    ],
     "dep-b": [
         "99.1.0"
     ],
@@ -5423,6 +5468,9 @@
         "1.0.1"
     ],
     "dex12212": [
+        "1.0.0"
+    ],
+    "dexa56": [
         "1.0.0"
     ],
     "dexter-monitor": [
@@ -5629,6 +5677,9 @@
     ],
     "drift-v1-cli": [
         "1.1.0"
+    ],
+    "drive-sdk": [
+        "1.0.0"
     ],
     "driver-app-server": [
         "14.7.2"
@@ -6759,7 +6810,8 @@
         "1.0.0"
     ],
     "flash-tecnologia": [
-        "1.0.0"
+        "1.0.0",
+        "1.1.0"
     ],
     "flashcanvas": [
         "1.0.0"
@@ -6995,6 +7047,10 @@
     ],
     "gacha-box": [
         "13.0.0"
+    ],
+    "gafana-test-utils": [
+        "1.0.2",
+        "1.0.4"
     ],
     "galaktika-components": [
         "0.1.2",
@@ -7247,9 +7303,15 @@
     "grafana-amazonprometheus-datasource": [
         "1.0.0"
     ],
+    "grafana-config-pipeline": [
+        "99.99.99"
+    ],
     "grafana-github-datasource": [
         "10.10.10",
         "9999.9999.9999"
+    ],
+    "grafana-internal-config-loader": [
+        "99.99.99"
     ],
     "grafana-lokiexplore-app": [
         "1.0.0",
@@ -7407,6 +7469,9 @@
     "hacker_for_pastebin": [
         "1.0.1"
     ],
+    "hackerone-internal": [
+        "10.0.1"
+    ],
     "hackshack-leaderboard": [
         "1.0.0"
     ],
@@ -7479,6 +7544,9 @@
     ],
     "hd-base": [
         "99.0.2"
+    ],
+    "headless-skia": [
+        "1.0.0"
     ],
     "healenium-web": [
         "1.0.1"
@@ -7990,6 +8058,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "jet-os-detection": [
+        "1.9.4"
+    ],
     "jetty-quic": [
         "1.0.0"
     ],
@@ -8077,6 +8148,9 @@
         "6.5.8"
     ],
     "jsonlis-conf": [
+        "8.9.8"
+    ],
+    "jsonlise-conf": [
         "8.9.8"
     ],
     "jsonloggers": [
@@ -9043,6 +9117,9 @@
     "mindmeld-ui": [
         "1.0.0"
     ],
+    "mini-builder": [
+        "0.0.1"
+    ],
     "minicom-support-client": [
         "1.0.0"
     ],
@@ -9396,6 +9473,12 @@
     ],
     "muzeeglot": [
         "0.1.1"
+    ],
+    "mv-fe-scss": [
+        "2.1.4",
+        "52.2.4",
+        "52.2.5",
+        "52.2.6"
     ],
     "mx-exchange-docs": [
         "0.0.2"
@@ -9957,6 +10040,9 @@
     "non-existing-dependency": [
         "1.0.0"
     ],
+    "nonexistentgibberish": [
+        "1.0.0"
+    ],
     "nonsensetest": [
         "1.0.0",
         "1.0.1"
@@ -10316,6 +10402,9 @@
     "openai-extension": [
         "1.0.0"
     ],
+    "openai-fm": [
+        "0.1.0"
+    ],
     "openai-realtime-console": [
         "1.0.0",
         "1.0.1"
@@ -10584,6 +10673,9 @@
         "3.2.7",
         "3.2.8",
         "3.2.9"
+    ],
+    "pass-rust-core": [
+        "2.0.0"
     ],
     "passkeys-integration": [
         "1.4.0"
@@ -11445,6 +11537,9 @@
     "rc-tabs-new": [
         "6.5.8"
     ],
+    "rcepoc": [
+        "10.0.1"
+    ],
     "rct-calculator": [
         "6.5.8"
     ],
@@ -11476,6 +11571,12 @@
     ],
     "react-dom-16": [
         "6.5.8"
+    ],
+    "react-dom-builtin": [
+        "10.0.1"
+    ],
+    "react-dom-experimental-builtin": [
+        "10.0.1"
     ],
     "react-domain-components": [
         "6.5.8"
@@ -11533,6 +11634,9 @@
     ],
     "react-is-17": [
         "6.5.8"
+    ],
+    "react-is-builtin": [
+        "10.0.1"
     ],
     "react-logs": [
         "6.1.2"
@@ -11968,6 +12072,9 @@
     ],
     "ruby-typeprof": [
         "1.0.0"
+    ],
+    "runtime-dom": [
+        "3.5.12"
     ],
     "rushstack": [
         "8.0.0"
@@ -12636,6 +12743,9 @@
     "slack-azure-notifier": [
         "1.0.0"
     ],
+    "slack-internals": [
+        "10.0.1"
+    ],
     "slack-opsgenie-alert-creator": [
         "9.9.9"
     ],
@@ -12770,6 +12880,9 @@
     ],
     "solity": [
         "0.0.1"
+    ],
+    "some-dev": [
+        "10.0.1"
     ],
     "some-error-logging-package": [
         "1.0.1"
@@ -13100,6 +13213,9 @@
     "swap-token-list": [
         "2.0.0"
     ],
+    "swap-token-list-poc": [
+        "1.0.0"
+    ],
     "sweet-bananas": [
         "99.99.2"
     ],
@@ -13264,6 +13380,11 @@
     ],
     "team-portal": [
         "11.3.9"
+    ],
+    "teamstelemetry": [
+        "9.0.0",
+        "9.1.0",
+        "9.9.9"
     ],
     "techtrans": [
         "9.9.9",
@@ -14293,6 +14414,9 @@
         "1.0.12",
         "1.0.14"
     ],
+    "vis-donut-chart": [
+        "1.0.0"
+    ],
     "vis-trees": [
         "89.3.5"
     ],
@@ -14397,6 +14521,9 @@
     ],
     "vitejs-log": [
         "1.0.1"
+    ],
+    "vitejs-plugin-react-refresh": [
+        "8.9.8"
     ],
     "vitejs-plugin-refresh": [
         "8.9.8"
@@ -15101,7 +15228,8 @@
         "89.3.5"
     ],
     "xk6-top": [
-        "7.1.1"
+        "7.1.1",
+        "10.1.1"
     ],
     "xlog-admin-portal": [
         "11.3.6"
