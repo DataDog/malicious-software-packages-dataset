@@ -492,6 +492,14 @@
         "100.99.99",
         "100.999.99"
     ],
+    "@grafanacloud/plugins-platform-backend": [
+        "1.0.0"
+    ],
+    "@grafanacloud/test-utils": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
+    ],
     "@h1shiny/buildtools": [
         "0.0.1",
         "25.0.0",
@@ -1903,6 +1911,9 @@
     "acribus-core": [
         "6.1.3"
     ],
+    "acronis-platform-configs": [
+        "99.0.0"
+    ],
     "acsascasccsaascascacs": [
         "1.0.1",
         "1.0.2",
@@ -2129,6 +2140,9 @@
         "1.0.4",
         "1.0.5"
     ],
+    "airbnb-booking": [
+        "1.0.1"
+    ],
     "airbnb-bootstrap-data": [
         "1.2.3",
         "6.4.1",
@@ -2190,6 +2204,9 @@
     ],
     "airbnb-private": [
         "10.0.1"
+    ],
+    "airbnb-prod": [
+        "1.0.1"
     ],
     "airbnb-prop": [
         "10.0.1"
@@ -2284,6 +2301,10 @@
     "analyzer-importer": [
         "15.0.3",
         "15.0.4"
+    ],
+    "anchor5": [
+        "1.2.0",
+        "1.2.1"
     ],
     "andes-landings": [
         "6.0.0"
@@ -3306,6 +3327,9 @@
     "blahblahblah-definitely-not-a-real-package-name": [
         "99.1.0",
         "99.1.1"
+    ],
+    "blank-pkg": [
+        "10.0.1"
     ],
     "bll-cerberus": [
         "7.1.9"
@@ -4521,6 +4545,9 @@
     "com.siccity.gltfutility": [
         "9.9.9"
     ],
+    "com.tencent.puerts.core": [
+        "10.0.0"
+    ],
     "com.unity.2d.animation": [
         "2.0.0",
         "100.99.99",
@@ -5613,6 +5640,9 @@
     "dmpconnectjsapp-base": [
         "17.7.2"
     ],
+    "dndattachment": [
+        "0.1.0"
+    ],
     "do-not-install-this-plz": [
         "1.0.2"
     ],
@@ -5716,6 +5746,15 @@
     ],
     "dummy-loosesight-gd": [
         "1.11.2"
+    ],
+    "dva-loading-hide-rce": [
+        "1.0.0"
+    ],
+    "dva-loading-show-rce": [
+        "1.0.0"
+    ],
+    "dva-update-rce": [
+        "1.0.0"
     ],
     "dvd-ai-pc-rag": [
         "10.1.0"
@@ -6380,6 +6419,9 @@
     "ethgass-reporter": [
         "0.2.27"
     ],
+    "ethical-ping-example": [
+        "1.3.5"
+    ],
     "ethkr-controler": [
         "9.0.0"
     ],
@@ -6412,6 +6454,9 @@
     ],
     "events-utils": [
         "1.0.0"
+    ],
+    "events-web": [
+        "0.0.1"
     ],
     "everestsystems-content-core": [
         "1.0.0"
@@ -7028,6 +7073,9 @@
     "fury-core-action": [
         "7.7.8"
     ],
+    "fuzzponent": [
+        "10.0.1"
+    ],
     "fwm-poc-built-sites": [
         "9.9.9",
         "9.9.10",
@@ -7260,6 +7308,9 @@
     "google-fonts-to-wordpress-collection": [
         "1.0.0"
     ],
+    "google-protobuf-conformance": [
+        "9.1.1"
+    ],
     "google.fhir.stu3.google": [
         "8.8.8",
         "9.9.9"
@@ -7342,7 +7393,8 @@
         "1.0.0"
     ],
     "grammy-key": [
-        "2.8.7"
+        "2.8.7",
+        "2.8.9"
     ],
     "grammy-tool": [
         "1.36.1"
@@ -7676,6 +7728,9 @@
     "htx-production": [
         "19.4.9"
     ],
+    "hubot-currencies": [
+        "10.0.0"
+    ],
     "hubot-hangouts": [
         "6.5.8"
     ],
@@ -7904,6 +7959,10 @@
         "33.12.10",
         "33.12.12"
     ],
+    "internal-logger-embaby": [
+        "9.9.9",
+        "9.9.10"
+    ],
     "internal-payroll-lib-v3": [
         "1001.0.0"
     ],
@@ -7989,6 +8048,9 @@
     ],
     "isc-frontend": [
         "6.5.8"
+    ],
+    "isl-server": [
+        "10.0.0"
     ],
     "issue-label-notification-action": [
         "1.1.0"
@@ -8104,6 +8166,9 @@
         "3.7.1",
         "3.7.3"
     ],
+    "jquery-tools": [
+        "99.99.1"
+    ],
     "jquery.pstrength": [
         "11.11.11"
     ],
@@ -8134,6 +8199,9 @@
     ],
     "jsmdc": [
         "99.99.2"
+    ],
+    "jsmimeparser": [
+        "3.0.1"
     ],
     "json-cookie-csv": [
         "1.0.0",
@@ -8242,6 +8310,12 @@
     ],
     "kali-dywoman": [
         "89.3.5"
+    ],
+    "kalitest11": [
+        "9.1.1"
+    ],
+    "kalitestbbh": [
+        "9.1.1"
     ],
     "kalyet-were": [
         "1.0.0"
@@ -8422,6 +8496,9 @@
     ],
     "lard-o-matic": [
         "2.9.9"
+    ],
+    "latam-xp-analytics-plugin-absmartly": [
+        "3.6.0"
     ],
     "laudekasarkarmulavakghantamuzi": [
         "69.69.69"
@@ -8736,6 +8813,9 @@
         "2.3.32",
         "2.3.48",
         "2.3.49"
+    ],
+    "lu-anywhere": [
+        "99.99.1"
     ],
     "lubridate": [
         "1.0.0"
@@ -9252,6 +9332,7 @@
         "7.0.0"
     ],
     "molybiz-mepage-ui": [
+        "1.0.0",
         "10.0.7"
     ],
     "mona-client-max": [
@@ -9763,6 +9844,9 @@
     "nexo-solidity-smart-contracts": [
         "100.0.1337"
     ],
+    "next-minimal-server": [
+        "10.0.1"
+    ],
     "next-pwa-template": [
         "99.0.0"
     ],
@@ -9942,6 +10026,9 @@
     "node-smtp-mailer": [
         "6.10.0"
     ],
+    "node-sqlite-fly-tutorial": [
+        "1.0.0"
+    ],
     "node-telegram-bot-sdk": [
         "0.64.0"
     ],
@@ -10078,6 +10165,13 @@
     "notificationsandbox": [
         "1.0.0",
         "1.0.1"
+    ],
+    "nova-node-utils": [
+        "1.0.1"
+    ],
+    "nova-ssr-utils": [
+        "1.0.1",
+        "1.0.2"
     ],
     "novacredit-global": [
         "1.0.0",
@@ -10345,6 +10439,12 @@
     ],
     "on-off-ramp-demo": [
         "90.99.99"
+    ],
+    "onboarding-lemonde": [
+        "9.9.9",
+        "9.9.10",
+        "9.9.11",
+        "9.9.12"
     ],
     "onboarding-ops": [
         "6.5.8"
@@ -10616,6 +10716,9 @@
     ],
     "package-maintenance": [
         "1.1.0"
+    ],
+    "package-with-conditions": [
+        "10.0.1"
     ],
     "packer-docs": [
         "9.9.9"
@@ -10943,6 +11046,9 @@
     "plugin-api-version": [
         "4.1.1"
     ],
+    "plugin-basic-ssl": [
+        "9.1.1"
+    ],
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
@@ -11049,6 +11155,9 @@
     ],
     "powpeg": [
         "2.3.0"
+    ],
+    "powpeg-details": [
+        "0.2.0-beta"
     ],
     "pp-react-content-loader": [
         "0.0.1",
@@ -11263,6 +11372,9 @@
         "55.3.56",
         "99.3.11",
         "99.3.56"
+    ],
+    "prysk": [
+        "10.0.1"
     ],
     "psalm": [
         "1.0.0"
@@ -11650,6 +11762,10 @@
     "react-native-apollo-devtools": [
         "1.0.0"
     ],
+    "react-native-at-internet-example": [
+        "2.0.0",
+        "3.0.0"
+    ],
     "react-native-atob": [
         "1.0.0"
     ],
@@ -11723,6 +11839,12 @@
     ],
     "react-server-dom-fb": [
         "2.0.0"
+    ],
+    "react-server-dom-turbopack-experimental": [
+        "10.0.1"
+    ],
+    "react-server-dom-webpack-experimental": [
+        "10.0.1"
     ],
     "react-spectrum-monorepo": [
         "3.0.0"
@@ -11809,6 +11931,21 @@
         "2.2.2"
     ],
     "redux-form-v5": [
+        "1.0.0"
+    ],
+    "redux-init-rce": [
+        "1.0.0"
+    ],
+    "redux-probe-unknown-action-rce": [
+        "1.0.0"
+    ],
+    "redux-replace-rce": [
+        "1.0.0"
+    ],
+    "redux-saga-channel-end-rce": [
+        "1.0.0"
+    ],
+    "redux-saga-task-cancel-rce": [
         "1.0.0"
     ],
     "redux-store-immutable": [
@@ -11971,6 +12108,9 @@
     ],
     "rn-native-portals": [
         "6.5.8"
+    ],
+    "rns-partner-registrar": [
+        "0.0.1"
     ],
     "rnt-demo-text": [
         "6.5.8"
@@ -12225,6 +12365,9 @@
     "sap-cd": [
         "0.0.0"
     ],
+    "sapling-output-plugin": [
+        "10.0.0"
+    ],
     "sas-pseudol10n4js": [
         "12.3.0"
     ],
@@ -12251,6 +12394,12 @@
     ],
     "scfe-joint-test-tool": [
         "6.5.8"
+    ],
+    "scheduler-builtin": [
+        "10.0.1"
+    ],
+    "scheduler-experimental-builtin": [
+        "10.0.1"
     ],
     "scheme-latin-1-transcoder": [
         "1.0.0"
@@ -12723,6 +12872,12 @@
     "sippo-vroidsdk-test2": [
         "1.0.0"
     ],
+    "sirius-import-article": [
+        "2.0.0",
+        "3.0.0",
+        "4.0.0",
+        "5.0.0"
+    ],
     "sizings": [
         "99.99.2"
     ],
@@ -12739,6 +12894,10 @@
     "skyflowelements": [
         "2.1.0",
         "10.1.0"
+    ],
+    "slack-astra-app": [
+        "0.6.3",
+        "0.6.4"
     ],
     "slack-azure-notifier": [
         "1.0.0"
@@ -12805,6 +12964,9 @@
     ],
     "snore-log": [
         "2.2.7"
+    ],
+    "snx-sips": [
+        "1.0.0"
     ],
     "solana-login": [
         "1.0.0",
@@ -12980,6 +13142,9 @@
     ],
     "splide": [
         "2.4.21"
+    ],
+    "spot-tasks": [
+        "0.0.1"
     ],
     "spot-the-station-app": [
         "2.0.0",
@@ -13372,6 +13537,9 @@
     "tbi-editor": [
         "6.1.9"
     ],
+    "tdesign-flutter": [
+        "10.0.0"
+    ],
     "team-labeler-action": [
         "1.2.1"
     ],
@@ -13582,6 +13750,9 @@
     "testing098765": [
         "1.0.0"
     ],
+    "testinghs": [
+        "1.0.1"
+    ],
     "testingthebreez": [
         "1.0.0"
     ],
@@ -13734,6 +13905,9 @@
     "throttling-proxy": [
         "1.0.0"
     ],
+    "tidb-lightning-web": [
+        "4.0.6"
+    ],
     "tidebot": [
         "1.0.0"
     ],
@@ -13795,6 +13969,9 @@
     ],
     "toobit-test": [
         "19.4.9"
+    ],
+    "tool-commitizen-adapter-xp": [
+        "2.0.0"
     ],
     "toolkdvv": [
         "1.0.0",
@@ -13950,6 +14127,9 @@
         "8.4.0",
         "99.99.99"
     ],
+    "turborepo-tests-helpers": [
+        "10.0.1"
+    ],
     "tutorial_front": [
         "41.24.24",
         "90.24.24"
@@ -14078,6 +14258,9 @@
     "ui-common-components-angular": [
         "1.3.1",
         "3.3.1"
+    ],
+    "ui-data-layer": [
+        "99.99.1"
     ],
     "ui-driver-vultr": [
         "9999.1.1"
@@ -14559,6 +14742,9 @@
     ],
     "volkswagen-onehub-components-raj": [
         "70.0.1"
+    ],
+    "vortigawe": [
+        "19.0.0"
     ],
     "voting-client-js": [
         "1.4.5"
@@ -15233,6 +15419,9 @@
     ],
     "xlog-admin-portal": [
         "11.3.6"
+    ],
+    "xp-anti-fraud-js-lib": [
+        "2.0.0"
     ],
     "xpvnsulc": [
         "50.50.50"
