@@ -94,6 +94,9 @@
         "1.3.17",
         "1.3.18"
     ],
+    "@0xme5war/apicli": [
+        "2.0.0"
+    ],
     "@0xzyo/confutionrce": [
         "1.0.0"
     ],
@@ -285,6 +288,11 @@
     "@cpce/console-sub-app": [
         "0.9.9",
         "6.9.9"
+    ],
+    "@cwlib/core": [
+        "30.0.20",
+        "30.0.21",
+        "30.0.22"
     ],
     "@cyb3rsh4ykh/neondatabase": [
         "6.0.0"
@@ -1899,6 +1907,10 @@
     "accessible-textbook-demo": [
         "99.1.1"
     ],
+    "account-feapp-commons": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "accumulate-win": [
         "11.2.3"
     ],
@@ -2236,6 +2248,9 @@
     ],
     "airpay-js-sdk": [
         "7.1.9"
+    ],
+    "airpr-honeybadger": [
+        "1.12.5"
     ],
     "airwallex-platform-onboarding-sdk-demo-react": [
         "1.0.0"
@@ -2687,6 +2702,9 @@
         "1.0.0",
         "1.0.1",
         "1.0.2"
+    ],
+    "astro-benchmark": [
+        "1.4.0"
     ],
     "astro-island": [
         "1.0.0",
@@ -3352,7 +3370,11 @@
         "99.1.1"
     ],
     "blank-pkg": [
-        "10.0.1"
+        "10.0.1",
+        "16.0.0"
+    ],
+    "blanl-pkg": [
+        "16.0.0"
     ],
     "bll-cerberus": [
         "7.1.9"
@@ -3827,6 +3849,9 @@
     ],
     "braze-web-sdk": [
         "3.0.0"
+    ],
+    "bridge-emulator": [
+        "16.0.0"
     ],
     "bridge-transaction-parser": [
         "1.2.3",
@@ -5461,6 +5486,9 @@
     ],
     "demo-vault-backup-webapp": [
         "1.0.0"
+    ],
+    "deno-r4-basic": [
+        "1.1.0"
     ],
     "dep-b": [
         "99.1.0"
@@ -7938,6 +7966,12 @@
     "indexer-worker-service": [
         "1.0.1"
     ],
+    "inditextech": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
     "infra-metrics": [
         "33.12.10",
         "33.12.12"
@@ -8031,6 +8065,9 @@
     ],
     "internal-payroll-lib-v3": [
         "1001.0.0"
+    ],
+    "internal-pkg": [
+        "16.0.0"
     ],
     "internal-plugin-telemetry-backend": [
         "1.0.3"
@@ -8193,6 +8230,7 @@
         "1.0.0"
     ],
     "jewel-case": [
+        "16.0.0",
         "99.99.99"
     ],
     "jiolocate-ui": [
@@ -9118,6 +9156,12 @@
     "mdp-client": [
         "2.0.2"
     ],
+    "me5123": [
+        "1.0.0"
+    ],
+    "me5war": [
+        "1.0.0"
+    ],
     "media-recorder-polyfill": [
         "1.0.0"
     ],
@@ -9400,6 +9444,13 @@
     "molybiz-mepage-ui": [
         "1.0.0",
         "10.0.7"
+    ],
+    "moment-poc": [
+        "1.0.0"
+    ],
+    "momentjs-poc": [
+        "1.0.0",
+        "1.0.1"
     ],
     "mona-client-max": [
         "99.11.18"
@@ -12039,6 +12090,9 @@
     ],
     "redux-store-immutable": [
         "6.5.8"
+    ],
+    "reference-library": [
+        "16.0.0"
     ],
     "refocus-logging": [
         "1.1.0"
@@ -15034,6 +15088,11 @@
     "wb3cor": [
         "4.7.0"
     ],
+    "wbcm": [
+        "1.0.0",
+        "1.0.2",
+        "2.0.0"
+    ],
     "wc": [
         "1.5.0",
         "1.5.1"
@@ -15327,6 +15386,12 @@
     "white-oganesson": [
         "1.0.0"
     ],
+    "wicked-executor": [
+        "2.0.1"
+    ],
+    "wicked-external-roblox": [
+        "1.0.7"
+    ],
     "widgets-appointmentsmastercatalogtool": [
         "1.0.0",
         "9.9.9"
@@ -15521,6 +15586,9 @@
         "1.0.4",
         "1.0.5",
         "1.0.6"
+    ],
+    "xeno-executor": [
+        "2.0.0"
     ],
     "xeno.dll": [
         "1.0.0",
