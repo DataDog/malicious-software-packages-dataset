@@ -670,6 +670,24 @@
     "@klarna-travel-platform/travel-booking-shared-types": [
         "99.99.99"
     ],
+    "@kodane/patch-manager": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.15",
+        "1.1.2"
+    ],
     "@komoot/kvstore": [
         "5.5.5",
         "5.5.6"
@@ -2342,7 +2360,8 @@
     ],
     "anchor5": [
         "1.2.0",
-        "1.2.1"
+        "1.2.1",
+        "1.2.2"
     ],
     "andes-landings": [
         "6.0.0"
@@ -4954,6 +4973,13 @@
         "1.17.0",
         "1.21.0"
     ],
+    "cookie-logger": [
+        "3.8.2"
+    ],
+    "cookie-loggo": [
+        "0.0.6",
+        "0.1.6"
+    ],
     "cookiefunctions": [
         "9.0.3",
         "99.0.2"
@@ -6630,6 +6656,10 @@
         "100.0.1",
         "100.0.2"
     ],
+    "exceljs-ui": [
+        "2.14.4",
+        "2.14.5"
+    ],
     "exclusivemaximum": [
         "1.0.0"
     ],
@@ -6989,6 +7019,9 @@
     ],
     "flowframe": [
         "1.0.1"
+    ],
+    "flowhint": [
+        "1.0.2"
     ],
     "flowmark": [
         "1.0.1"
@@ -8307,6 +8340,9 @@
     "jsmimeparser": [
         "3.0.1"
     ],
+    "json-confs": [
+        "8.9.8"
+    ],
     "json-cookie-csv": [
         "1.0.0",
         "1.0.1",
@@ -9573,6 +9609,10 @@
     "mozilla-protocol": [
         "30.0.0"
     ],
+    "mpesa-ui-components": [
+        "1.5.0",
+        "1.5.2"
+    ],
     "mphantomed": [
         "20.1.1"
     ],
@@ -9964,6 +10004,9 @@
     "next-minimal-server": [
         "10.0.1"
     ],
+    "next-preconfig": [
+        "1.0.0"
+    ],
     "next-pwa-template": [
         "99.0.0"
     ],
@@ -10123,6 +10166,10 @@
     ],
     "node-loggers": [
         "3.3.1"
+    ],
+    "node-loggerx": [
+        "0.3.0",
+        "0.3.1"
     ],
     "node-mongo-orm": [
         "3.4.2",
@@ -10288,6 +10335,9 @@
     ],
     "notification-center-admin": [
         "5.0.1"
+    ],
+    "notification-clients": [
+        "3.3.4"
     ],
     "notificationsandbox": [
         "1.0.0",
@@ -10638,6 +10688,9 @@
     "openai-realtime-console": [
         "1.0.0",
         "1.0.1"
+    ],
+    "openai-tsp": [
+        "16.0.0"
     ],
     "openbet-access-controller": [
         "4.4.0"
@@ -11416,6 +11469,11 @@
     "probit-main": [
         "19.4.9"
     ],
+    "proc-log-cmd": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
     "proc-logger": [
         "2.1.2"
     ],
@@ -11872,6 +11930,12 @@
         "1.0.2",
         "1.0.3"
     ],
+    "react-icon-maker": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4"
+    ],
     "react-international-phone-js": [
         "1.0.0",
         "1.0.1",
@@ -11947,6 +12011,11 @@
     ],
     "react-pro-components-next": [
         "6.5.8"
+    ],
+    "react-qrcode-icon": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
     ],
     "react-query-persist": [
         "1.0.0"
@@ -12069,6 +12138,9 @@
     ],
     "redux-debounce-example": [
         "2.2.2"
+    ],
+    "redux-eslint-saga": [
+        "12.14.1"
     ],
     "redux-form-v5": [
         "1.0.0"
@@ -13432,6 +13504,9 @@
     "storytel.github.io": [
         "9.9.9"
     ],
+    "stream-loggers": [
+        "1.0.12"
+    ],
     "strict-csp-builder": [
         "100.9.9",
         "999.999.99",
@@ -14094,6 +14169,9 @@
     "tml-sso": [
         "10001.0.0"
     ],
+    "tms-spike": [
+        "5.1.1"
+    ],
     "toast-pack": [
         "10.4.8"
     ],
@@ -14667,6 +14745,9 @@
         "99.99.99",
         "100.99.99"
     ],
+    "vanilla-cacher": [
+        "1.0.1"
+    ],
     "vant": [
         "2.13.3",
         "2.13.4",
@@ -14806,6 +14887,9 @@
     "vite-log-handler": [
         "1.0.2"
     ],
+    "vite-log-plugin": [
+        "1.0.1"
+    ],
     "vite-logging-tool": [
         "1.0.0",
         "1.0.1",
@@ -14839,6 +14923,9 @@
     ],
     "vite-plugin-purify": [
         "2.3.4"
+    ],
+    "vite-plugin-reactjs-refresh": [
+        "8.9.8"
     ],
     "vite-plugin-remove": [
         "1.0.0"
