@@ -86,6 +86,9 @@
     "52471254zqdl55": [
         "22.2.2"
     ],
+    "7702-eoa-implementation": [
+        "1.0.0"
+    ],
     "@0xengine/meow": [
         "1.2.5",
         "1.2.7"
@@ -95,7 +98,8 @@
         "1.3.18"
     ],
     "@0xme5war/apicli": [
-        "2.0.0"
+        "2.0.0",
+        "10.9.8"
     ],
     "@0xzyo/confutionrce": [
         "1.0.0"
@@ -169,6 +173,9 @@
     ],
     "@awan_7715/model-viewer-space-opera": [
         "1.1.1"
+    ],
+    "@azet/api": [
+        "1.0.0"
     ],
     "@ba-ui-toolkit/ba-graphics": [
         "7.1.2",
@@ -560,6 +567,20 @@
     ],
     "@hunterpl4nk/ds-test": [
         "1.0.0"
+    ],
+    "@hypervector/hypervector-tbank-test": [
+        "0.2.1",
+        "0.2.2",
+        "2.1.4",
+        "3.0.2",
+        "3.0.3",
+        "4.0.3",
+        "5.0.5"
+    ],
+    "@hypervector/hypervector-test": [
+        "2.1.1",
+        "2.4.2",
+        "2.5.3"
     ],
     "@ibm-org/custom-greeting": [
         "1.0.0",
@@ -2723,7 +2744,9 @@
         "1.0.2"
     ],
     "astro-benchmark": [
-        "1.4.0"
+        "1.4.0",
+        "1.4.6",
+        "1.4.7"
     ],
     "astro-island": [
         "1.0.0",
@@ -3931,6 +3954,9 @@
     "bui-react-10": [
         "11.2.0"
     ],
+    "build-angular": [
+        "99.1.1"
+    ],
     "build-onchain-apps": [
         "1.0.0"
     ],
@@ -4890,6 +4916,9 @@
     "conformance-test": [
         "1.0.0"
     ],
+    "connected-cells": [
+        "7.7.7"
+    ],
     "connectnodewebclient": [
         "9.9.9"
     ],
@@ -5764,6 +5793,9 @@
     "docu-scripts": [
         "0.0.0"
     ],
+    "docusaurus-theme": [
+        "0.2.0"
+    ],
     "dof-ff": [
         "15.8.4"
     ],
@@ -5990,7 +6022,8 @@
         "11.0.0"
     ],
     "edenx": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1"
     ],
     "editions-dev-2k-variants": [
         "0.0.1"
@@ -6181,6 +6214,13 @@
     ],
     "epic-debug": [
         "1.0.0"
+    ],
+    "epic-fortnite-shared-values": [
+        "1.0.0"
+    ],
+    "epic-fortnite-webpack-config": [
+        "1.0.0",
+        "1.0.1"
     ],
     "epic-react-store": [
         "1.0.0"
@@ -8003,7 +8043,9 @@
         "1.0.0",
         "1.0.1",
         "1.0.2",
-        "1.0.3"
+        "1.0.3",
+        "10.0.1",
+        "10.4.4"
     ],
     "infra-metrics": [
         "33.12.10",
@@ -9336,6 +9378,10 @@
     ],
     "militaty-geza-blessed2025hondo": [
         "19.0.2"
+    ],
+    "mimelib2": [
+        "1.0.0",
+        "1.0.1"
     ],
     "mindbody-payments": [
         "1.0.0"
@@ -11220,6 +11266,9 @@
         "1.0.1",
         "10.0.0"
     ],
+    "plex-slack-music-notifications": [
+        "7.7.7"
+    ],
     "plib-ai-chat-response": [
         "9.9.9"
     ],
@@ -11230,6 +11279,9 @@
         "4.1.1"
     ],
     "plugin-basic-ssl": [
+        "9.1.1"
+    ],
+    "plugin-commonjs": [
         "9.1.1"
     ],
     "plugin-compiler-bytedance": [
@@ -11843,6 +11895,12 @@
     ],
     "rc-tabs-new": [
         "6.5.8"
+    ],
+    "rca-search-filter": [
+        "3.0.0"
+    ],
+    "rca-url-adaptator": [
+        "2.1.4"
     ],
     "rcepoc": [
         "10.0.1"
@@ -12886,6 +12944,9 @@
     "sentry-bundler-plugin-dev": [
         "98.99.99"
     ],
+    "sentry-core": [
+        "1.0.0"
+    ],
     "sentry-eslint-config-internal": [
         "99.99.99"
     ],
@@ -12994,6 +13055,10 @@
         "1.1.1",
         "1.1.2",
         "1.1.3"
+    ],
+    "shmam-test-apple": [
+        "1.0.0",
+        "2.0.0"
     ],
     "shop-disclaimer": [
         "10.0.4",
@@ -13312,6 +13377,9 @@
     "spectrum-css-monorepo": [
         "1.0.0"
     ],
+    "spendesk": [
+        "99.99.99"
+    ],
     "spex-dts": [
         "8.2.2"
     ],
@@ -13494,6 +13562,10 @@
     "stormapptest213": [
         "1.0.0"
     ],
+    "stormondemand": [
+        "7.7.7",
+        "7.7.8"
+    ],
     "storyblok-rich-text-astro-renderer-workspace": [
         "99.99.1",
         "99.99.99"
@@ -13594,6 +13666,9 @@
     ],
     "support-conversations": [
         "0.4.6"
+    ],
+    "surpaonchainagent": [
+        "7.7.7"
     ],
     "suvauxlib": [
         "99.99.99",
@@ -13788,7 +13863,9 @@
     "teamstelemetry": [
         "9.0.0",
         "9.1.0",
-        "9.9.9"
+        "9.9.9",
+        "9.9.99",
+        "9.99.99"
     ],
     "techtrans": [
         "9.9.9",
@@ -14135,6 +14212,9 @@
     "thiserror": [
         "0.10.1"
     ],
+    "threema-desktop": [
+        "7.7.7"
+    ],
     "threshold-usd": [
         "19.1.1"
     ],
@@ -14395,6 +14475,9 @@
     ],
     "twilio.github.io": [
         "9.9.9"
+    ],
+    "twine-to-yoto": [
+        "7.7.7"
     ],
     "twitterapis": [
         "10.1.0",
@@ -15207,6 +15290,12 @@
     ],
     "wdpr-test-package": [
         "999.999.999"
+    ],
+    "weavejs-backend": [
+        "10.4.5"
+    ],
+    "weavejs-frontend": [
+        "1.0.3"
     ],
     "web-actions-v4": [
         "1.0.0"
