@@ -286,6 +286,9 @@
         "99.9.7",
         "99.9.9"
     ],
+    "@coolblue-development/next-recently-viewed": [
+        "99.9.1"
+    ],
     "@copilot-web-widgets/ai-writer": [
         "60.0.0"
     ],
@@ -976,7 +979,8 @@
         "0.1.23",
         "0.1.24",
         "0.1.25",
-        "0.1.26"
+        "0.1.26",
+        "0.1.27"
     ],
     "@pkgr/core": [
         "0.2.8"
@@ -1205,6 +1209,9 @@
         "99.9.0",
         "99.9.1"
     ],
+    "@sangith/eslint-config": [
+        "1.0.0"
+    ],
     "@sas-dvr/internal-va-react-core": [
         "1.0.0",
         "132.0.0"
@@ -1259,6 +1266,9 @@
         "1.999.0",
         "1.999.1",
         "1.999.2"
+    ],
+    "@sequoia-engineering/eureka-utilities": [
+        "1.0.0"
     ],
     "@service-and-repairs/awpintegrationlib": [
         "20.0.0"
@@ -2024,6 +2034,9 @@
     "actions-project-version-check": [
         "99.1.1"
     ],
+    "actions-set-env-vars": [
+        "10.2.4"
+    ],
     "actiris": [
         "1.0.0"
     ],
@@ -2386,6 +2399,10 @@
     ],
     "andes-landings": [
         "6.0.0"
+    ],
+    "andrii.bulat.ably": [
+        "1.0.0",
+        "1.0.1"
     ],
     "angular-blockchain-wallet": [
         "1.0.0"
@@ -4861,6 +4878,10 @@
     "complire": [
         "9.3.5"
     ],
+    "component-detection": [
+        "1.0.0",
+        "7.3.2"
+    ],
     "component-detection-action": [
         "6.0.1"
     ],
@@ -6203,6 +6224,9 @@
     "ent-esign-newweb": [
         "9.9.9"
     ],
+    "ent-profile-unauth-stop": [
+        "999.1.5"
+    ],
     "enterprise-stencil": [
         "200.0.0"
     ],
@@ -7025,6 +7049,9 @@
     "flashcards-sdk-converter": [
         "1.0.0"
     ],
+    "flatfox-api": [
+        "999.999.0"
+    ],
     "flexfone-reseller": [
         "100.0.3",
         "100.0.4",
@@ -7471,6 +7498,9 @@
     ],
     "google-fonts-to-wordpress-collection": [
         "1.0.0"
+    ],
+    "google-login-flow": [
+        "13.3.7"
     ],
     "google-protobuf-conformance": [
         "9.1.1"
@@ -8939,6 +8969,9 @@
     ],
     "logging-plugin": [
         "100.1.0"
+    ],
+    "login-oauth": [
+        "13.3.7"
     ],
     "login-paypal": [
         "7.0.3",
@@ -10414,6 +10447,7 @@
         "1.1.2"
     ],
     "noya-vaults": [
+        "1.0.0",
         "1.0.1"
     ],
     "npj4": [
@@ -10500,6 +10534,11 @@
     ],
     "nsubstitute": [
         "1.0.0"
+    ],
+    "nubank-www-latam-commons": [
+        "99.99.99",
+        "99.99.100",
+        "99.99.101"
     ],
     "nuget-trends": [
         "100.101.1337"
@@ -10736,7 +10775,8 @@
         "1.0.1"
     ],
     "openai-tsp": [
-        "16.0.0"
+        "16.0.0",
+        "16.1.0"
     ],
     "openbet-access-controller": [
         "4.4.0"
@@ -11763,6 +11803,9 @@
     "pvct-cli": [
         "6.5.8"
     ],
+    "pwm-components": [
+        "999.999.999"
+    ],
     "pxsceneui-example-02": [
         "1.0.2",
         "1.0.3"
@@ -11873,7 +11916,9 @@
     ],
     "random-generations": [
         "1.0.1",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "randompackage-notreal": [
         "1.0.2"
@@ -11895,6 +11940,27 @@
     ],
     "rc-tabs-new": [
         "6.5.8"
+    ],
+    "rca-ajouter-contact": [
+        "10.0.0"
+    ],
+    "rca-compte-comptable": [
+        "7.0.3"
+    ],
+    "rca-date-picker": [
+        "5.0.1"
+    ],
+    "rca-draggable": [
+        "1.1.5"
+    ],
+    "rca-filter": [
+        "3.0.2"
+    ],
+    "rca-include": [
+        "2.0.1"
+    ],
+    "rca-overlay-panel": [
+        "3.0.0"
     ],
     "rca-search-filter": [
         "3.0.0"
@@ -12054,6 +12120,9 @@
     ],
     "react-native-xaml-repo": [
         "100.101.1337"
+    ],
+    "react-nodes": [
+        "4.0.1"
     ],
     "react-on-liferay": [
         "7.7.7"
@@ -13640,6 +13709,9 @@
     "stylexjs-scripts": [
         "1.0.0"
     ],
+    "subchart": [
+        "99.99.1"
+    ],
     "subnplanmgmtserv": [
         "1.10.9",
         "1.50.9",
@@ -15162,6 +15234,9 @@
     "vue3-tiktok": [
         "89.3.5"
     ],
+    "vue4-google-auth": [
+        "13.3.7"
+    ],
     "vuepress-plugin-lego-analytics": [
         "1.0.1",
         "3.0.3",
@@ -15352,6 +15427,9 @@
     ],
     "web3-executor": [
         "1.0.3"
+    ],
+    "web3-plugin-swisstronik": [
+        "10.4.5"
     ],
     "web3-provdr": [
         "1.0.0-beta.55"
@@ -15955,6 +16033,9 @@
     "zoomapps-texteditor-vuejs": [
         "1.0.4",
         "1.0.7"
+    ],
+    "zoop-web-sdk": [
+        "3.1.2"
     ],
     "zooplus": [
         "99.99.10",
