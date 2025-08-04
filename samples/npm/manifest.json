@@ -3200,6 +3200,12 @@
         "2.6.1",
         "2.6.2"
     ],
+    "base128-x58-1": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4"
+    ],
     "base_sdk_const": [
         "99.2.1"
     ],
@@ -3907,6 +3913,9 @@
     "botframework-webchat-base": [
         "9.9.9"
     ],
+    "botframework-webchat-cldr-data": [
+        "9.9.9"
+    ],
     "botframework-webchat-react-valibot": [
         "9.9.9"
     ],
@@ -3915,6 +3924,9 @@
     ],
     "bounty123ay": [
         "1.0.6"
+    ],
+    "bp-console-fe-sg": [
+        "99.99.99"
     ],
     "bqtop": [
         "1.0.0"
@@ -4083,6 +4095,12 @@
     ],
     "byteir": [
         "9.3.5"
+    ],
+    "byteplus-platform-runtime": [
+        "99.99.99"
+    ],
+    "byteplus-public-aiso": [
+        "99.99.99"
     ],
     "bytes-guide": [
         "99.3.5"
@@ -12047,6 +12065,9 @@
     "ramp-tax-info-ui": [
         "9.9.9"
     ],
+    "random-generates": [
+        "1.0.1"
+    ],
     "random-generations": [
         "1.0.1",
         "1.0.2",
@@ -13985,6 +14006,9 @@
     ],
     "systemjs-builder-test": [
         "55.3.1"
+    ],
+    "tableau-redirection-service": [
+        "99.0.0"
     ],
     "tableau-vizportal-webclient-api": [
         "10.0.3"
