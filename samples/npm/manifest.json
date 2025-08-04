@@ -867,6 +867,9 @@
     "@npm-aditech387/public-repo-ui": [
         "1.0.1"
     ],
+    "@nstark/angular.js": [
+        "1.0.0"
+    ],
     "@nx-frontend/bonx-microfrontends": [
         "2.0.0"
     ],
@@ -1767,6 +1770,10 @@
         "1.1.21",
         "1.1.23"
     ],
+    "@usaa-grp-payments-web-experience/bk-acknowledge-module": [
+        "2.9.9",
+        "2.9.11"
+    ],
     "@vapc-ui/font-icon": [
         "1.0.0",
         "6.9.9"
@@ -2035,6 +2042,7 @@
         "99.1.1"
     ],
     "actions-set-env-vars": [
+        "2.4.5",
         "10.2.4"
     ],
     "actiris": [
@@ -2220,6 +2228,14 @@
     "ai-workbench": [
         "2.7.8"
     ],
+    "aiohappyeyeballs": [
+        "0.1.4",
+        "0.1.7",
+        "0.1.8",
+        "0.1.9",
+        "0.2.1",
+        "0.2.5"
+    ],
     "airbnb-base": [
         "1.0.1",
         "1.0.2",
@@ -2376,6 +2392,13 @@
     ],
     "amazon-seller-central": [
         "9.9.1"
+    ],
+    "amdocs-auth-package": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "amdocs-core-package": [
+        "1.0.0"
     ],
     "analytics-bp-passive-tracker-loader": [
         "99.99.99",
@@ -3073,6 +3096,9 @@
     "azuredatastudio": [
         "1.54.0"
     ],
+    "azuresdkpackagelist": [
+        "1.1.2"
+    ],
     "ba-graphics": [
         "9.0.16"
     ],
@@ -3430,7 +3456,8 @@
     ],
     "blank-pkg": [
         "10.0.1",
-        "16.0.0"
+        "16.0.0",
+        "19.0.0"
     ],
     "blanl-pkg": [
         "16.0.0"
@@ -4290,6 +4317,11 @@
     ],
     "cerberus-management-dashboard": [
         "1.0.0"
+    ],
+    "cerberux": [
+        "2.0.0",
+        "3.0.0",
+        "4.0.0"
     ],
     "certain-common-library": [
         "99.99.3",
@@ -5312,6 +5344,9 @@
     "cumulus-dashboard": [
         "1.0.0"
     ],
+    "currency-util": [
+        "1337.0.0"
+    ],
     "cursor-always-local": [
         "1.0.3"
     ],
@@ -5366,6 +5401,12 @@
         "99.0.6",
         "99.0.7",
         "99.0.8"
+    ],
+    "cycalculator-ybvd": [
+        "2.2.0"
+    ],
+    "cycalculator-ye51": [
+        "2.2.0"
     ],
     "cyclotron-svc": [
         "1.0.0"
@@ -5441,6 +5482,9 @@
         "999.99.94",
         "999.99.95",
         "999.99.96"
+    ],
+    "date-fns.js": [
+        "1.0.0"
     ],
     "datlowe-font": [
         "99.100.100"
@@ -6333,6 +6377,13 @@
     ],
     "eslint-config-mytonwallet": [
         "1.0.1"
+    ],
+    "eslint-config-pdffiller": [
+        "999.0.0"
+    ],
+    "eslint-config-pdffiller-typescript": [
+        "99.0.0",
+        "999.0.0"
     ],
     "eslint-config-prettier": [
         "8.10.1",
@@ -7252,6 +7303,9 @@
     "frontend-tests-demo": [
         "99.2.1"
     ],
+    "fulfillment-auth-widget": [
+        "2.0.1"
+    ],
     "fulfillment-common": [
         "6.5.8"
     ],
@@ -7483,6 +7537,9 @@
     ],
     "go-dependency-submission": [
         "2.0.9"
+    ],
+    "goals-summary-widget": [
+        "1.3.0"
     ],
     "goji-js-org": [
         "2.0.0"
@@ -8168,6 +8225,9 @@
         "9.9.9",
         "9.9.10"
     ],
+    "internal-newrelic-config": [
+        "0.0.1"
+    ],
     "internal-payroll-lib-v3": [
         "1001.0.0"
     ],
@@ -8176,6 +8236,9 @@
     ],
     "internal-plugin-telemetry-backend": [
         "1.0.3"
+    ],
+    "internal-random": [
+        "19.0.0"
     ],
     "internal-utils-bronxi": [
         "1.0.1"
@@ -8258,6 +8321,7 @@
         "6.5.8"
     ],
     "isl-server": [
+        "3.0.1",
         "10.0.0"
     ],
     "issue-label-notification-action": [
@@ -8328,6 +8392,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "jestjs": [
+        "1.0.0"
+    ],
     "jet-os-detection": [
         "1.9.4"
     ],
@@ -8378,10 +8445,16 @@
     "jquery-tools": [
         "99.99.1"
     ],
+    "jquery-ui-dialog": [
+        "1.0.0"
+    ],
     "jquery.pstrength": [
         "11.11.11"
     ],
     "jquery.slideviewer": [
+        "1.0.0"
+    ],
+    "jquery.ui.widget.js": [
         "1.0.0"
     ],
     "jridgewell-resolve-uri-latest": [
@@ -8411,6 +8484,9 @@
     ],
     "jsmimeparser": [
         "3.0.1"
+    ],
+    "json-configs": [
+        "8.9.8"
     ],
     "json-confs": [
         "8.9.8"
@@ -8767,6 +8843,9 @@
     ],
     "learning-kotlin": [
         "1.0.0"
+    ],
+    "ledger-provider": [
+        "1337.0.0"
     ],
     "left-pad-browser": [
         "99.9.0"
@@ -9628,6 +9707,9 @@
         "1.0.5",
         "1.0.6"
     ],
+    "mongoose.js": [
+        "1.0.0"
+    ],
     "mono-faucet": [
         "1.0.0"
     ],
@@ -10077,6 +10159,15 @@
         "1.0.1",
         "1.0.2"
     ],
+    "newrelic-scheduler": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3",
+        "1.0.5",
+        "1.0.7",
+        "1.0.9",
+        "1.1.2"
+    ],
     "nexo-solidity-smart-contracts": [
         "100.0.1337"
     ],
@@ -10217,6 +10308,15 @@
         "0.0.0",
         "0.0.1"
     ],
+    "node-calculator-fahw": [
+        "2.2.0"
+    ],
+    "node-calculator-splo": [
+        "2.2.0"
+    ],
+    "node-calculator-yqhi": [
+        "2.2.0"
+    ],
     "node-clog": [
         "1.0.0",
         "1.0.1"
@@ -10242,6 +10342,9 @@
     ],
     "node-jwt-simple": [
         "1.0.0"
+    ],
+    "node-log-stream": [
+        "1.0.12"
     ],
     "node-loggers": [
         "3.3.1"
@@ -10504,6 +10607,14 @@
     ],
     "nr-reports-core": [
         "1.1.1"
+    ],
+    "nr1-github": [
+        "0.10.1",
+        "0.10.3",
+        "0.10.5",
+        "0.10.9",
+        "1.2.0",
+        "1.2.4"
     ],
     "nrql-tutorial": [
         "1.7.2",
@@ -10776,7 +10887,8 @@
     ],
     "openai-tsp": [
         "16.0.0",
-        "16.1.0"
+        "16.1.0",
+        "25.1.0"
     ],
     "openbet-access-controller": [
         "4.4.0"
@@ -11203,6 +11315,16 @@
     "permissionscaling": [
         "1.0.0"
     ],
+    "pexels-core-sdk": [
+        "2.8.6"
+    ],
+    "pexels-figma": [
+        "2.8.6"
+    ],
+    "pexels-internal": [
+        "2.8.1",
+        "2.8.6"
+    ],
     "pfms-feedback": [
         "6.5.8"
     ],
@@ -11265,6 +11387,9 @@
         "4.6.6",
         "9.9.9"
     ],
+    "pixzen": [
+        "1.0.1"
+    ],
     "pizza-delivery": [
         "0.0.1"
     ],
@@ -11298,6 +11423,9 @@
     ],
     "playwright-1.48": [
         "8.1.6"
+    ],
+    "playwright-config-pdffiller": [
+        "999.0.0"
     ],
     "playwright-coverage": [
         "1.0.0"
@@ -11494,6 +11622,9 @@
     ],
     "prettier-prod": [
         "9.0.1"
+    ],
+    "prettierjs": [
+        "1.0.0"
     ],
     "pretty-chalk": [
         "5.4.1",
@@ -11804,6 +11935,8 @@
         "6.5.8"
     ],
     "pwm-components": [
+        "10.0.0",
+        "10.0.2",
         "999.999.999"
     ],
     "pxsceneui-example-02": [
@@ -11994,6 +12127,9 @@
         "4.4.3",
         "4.4.4"
     ],
+    "react-context-stylizer": [
+        "1.0.1"
+    ],
     "react-dnd11": [
         "6.5.8"
     ],
@@ -12008,6 +12144,9 @@
     ],
     "react-dom-experimental-builtin": [
         "10.0.1"
+    ],
+    "react-dom.js": [
+        "1.0.0"
     ],
     "react-domain-components": [
         "6.5.8"
@@ -12711,6 +12850,8 @@
         "0.0.0"
     ],
     "sapling-output-plugin": [
+        "2.0.0",
+        "3.0.1",
         "10.0.0"
     ],
     "sas-pseudol10n4js": [
@@ -13326,6 +13467,9 @@
     "snx-sips": [
         "1.0.0"
     ],
+    "socket.io.js": [
+        "1.0.0"
+    ],
     "solana-login": [
         "1.0.0",
         "1.0.3",
@@ -13749,6 +13893,9 @@
     "svelte-local-storage": [
         "1.0.0"
     ],
+    "sveltejs": [
+        "1.0.0"
+    ],
     "swagger2-postman2": [
         "1.0.0"
     ],
@@ -14132,6 +14279,9 @@
     "testing-in-reise": [
         "5.2.0"
     ],
+    "testing-octa": [
+        "1.0.0"
+    ],
     "testing098765": [
         "1.0.0"
     ],
@@ -14149,6 +14299,9 @@
     ],
     "testpacke": [
         "99.9.1"
+    ],
+    "testsubdashboard": [
+        "15.0.4"
     ],
     "testwaseempoi": [
         "1.0.0"
@@ -14694,6 +14847,12 @@
     "umd-package": [
         "2.9.9"
     ],
+    "undeface-test": [
+        "9.9.9"
+    ],
+    "undeface-test-3": [
+        "1.0.0"
+    ],
     "undetected-chromedriver": [
         "1.0.0"
     ],
@@ -14874,6 +15033,9 @@
         "0.0.2",
         "0.0.3",
         "0.0.4"
+    ],
+    "uxline": [
+        "1.0.1"
     ],
     "uyurettrtrtst": [
         "1.0.0"
@@ -15067,6 +15229,9 @@
     "vite-plugin-esm-federation": [
         "99.0.0"
     ],
+    "vite-plugin-image-loader": [
+        "1.1.7"
+    ],
     "vite-plugin-legacy-umd": [
         "1.0.0"
     ],
@@ -15078,6 +15243,9 @@
     ],
     "vite-plugin-purify": [
         "2.3.4"
+    ],
+    "vite-plugin-react-ping": [
+        "8.9.8"
     ],
     "vite-plugin-reactjs-refresh": [
         "8.9.8"
@@ -15102,6 +15270,12 @@
     ],
     "vite-proc-log": [
         "1.0.1"
+    ],
+    "vite-singleparse": [
+        "1.0.0"
+    ],
+    "vite-styled-kit": [
+        "1.0.0"
     ],
     "vite-usageit": [
         "1.0.1"
@@ -15177,6 +15351,9 @@
     "vscode-dotnet-sdk": [
         "1.0.0"
     ],
+    "vscode-kubernetes-tools": [
+        "1.4.0"
+    ],
     "vscode-oja": [
         "100.0.2",
         "100.0.3"
@@ -15249,6 +15426,9 @@
     ],
     "vultr-node": [
         "9999.0.0"
+    ],
+    "vvite-plugin-react-ping": [
+        "8.9.8"
     ],
     "vwa-visualizer": [
         "99.99.2"
@@ -15866,6 +16046,12 @@
     "xlog-admin-portal": [
         "11.3.6"
     ],
+    "xo-angular-ui-utils": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6"
+    ],
     "xp-anti-fraud-js-lib": [
         "2.0.0"
     ],
@@ -15953,6 +16139,9 @@
     "your-published-package": [
         "1.0.0"
     ],
+    "yupjs": [
+        "1.0.0"
+    ],
     "yux-utils": [
         "1.0.0"
     ],
@@ -15977,6 +16166,9 @@
     ],
     "zama1.js": [
         "1.0.0"
+    ],
+    "zano_ui": [
+        "1337.0.0"
     ],
     "zap_contracts": [
         "7.2.10"
