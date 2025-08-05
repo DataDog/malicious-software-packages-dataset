@@ -563,6 +563,24 @@
         "999.0.0",
         "999.1.0"
     ],
+    "@hopper-b2b/flair": [
+        "91.0.0"
+    ],
+    "@hopper-b2b/hopper": [
+        "291.0.0"
+    ],
+    "@hopper-b2b/uber-iframe": [
+        "231.0.0"
+    ],
+    "@hopper-b2b/ui": [
+        "321.0.0"
+    ],
+    "@hopper-b2b/utilities": [
+        "131.0.0"
+    ],
+    "@hopper-b2b/volaris": [
+        "311.0.0"
+    ],
     "@hub-la/payments-proto": [
         "12.0.0",
         "12.0.1",
@@ -785,11 +803,18 @@
     "@meneprojects/body-parsers": [
         "1.0.3"
     ],
+    "@merge-api/merge-javascript-shared": [
+        "27.7.0",
+        "27.8.0"
+    ],
     "@metrics-service/mf-client": [
         "157.1.5"
     ],
     "@metrics-service/static": [
         "18.3.1"
+    ],
+    "@mintstudiouicore/telemetry": [
+        "172.0.0"
     ],
     "@mkto/analytics-provider": [
         "1.0.1"
@@ -819,6 +844,12 @@
     ],
     "@monterosa-sdk/enmasse": [
         "99.9.0"
+    ],
+    "@moonpig/web-core-analytics": [
+        "172.0.0"
+    ],
+    "@moonpig/web-core-utils": [
+        "172.0.0"
     ],
     "@mosfe/beam": [
         "2.0.0"
@@ -854,9 +885,24 @@
         "1.0.0",
         "1.0.1"
     ],
+    "@neednova/cash": [
+        "172.0.0"
+    ],
+    "@neednova/credit-passport-supply": [
+        "172.0.0"
+    ],
+    "@neednova/enterprise-eng": [
+        "172.0.0"
+    ],
+    "@neednova/metapod": [
+        "172.0.0"
+    ],
     "@ng-cat/common": [
         "9.89.9",
         "9.99.99"
+    ],
+    "@ninjaone/webapp": [
+        "172.0.0"
     ],
     "@nitro2/shared": [
         "1.0.0"
@@ -934,6 +980,9 @@
         "99.99.106",
         "99.99.109"
     ],
+    "@partnercenter-react/ui-webcore": [
+        "162.0.0"
+    ],
     "@partners-types/generics": [
         "99.9.0"
     ],
@@ -1001,6 +1050,9 @@
     ],
     "@platform-ui-kit/components-library-react": [
         "9.9.1"
+    ],
+    "@plentific/dashboard": [
+        "172.0.0"
     ],
     "@pmm-ux/asset-uploader": [
         "0.0.1",
@@ -1301,6 +1353,9 @@
     "@smt-front/tracker": [
         "158.1.5"
     ],
+    "@snapon/design-system-react": [
+        "131.0.0"
+    ],
     "@solana/web3.js": [
         "1.95.7"
     ],
@@ -1579,6 +1634,10 @@
         "1.0.4",
         "1.0.5"
     ],
+    "@teamstelemetry/shared-logger": [
+        "9.2.1",
+        "9.2.2"
+    ],
     "@telepo/web-attendant": [
         "4.5.0",
         "4.5.1",
@@ -1718,6 +1777,12 @@
     "@tsign/tsign-ui-doesnt-exisit": [
         "19.18.1337"
     ],
+    "@ttbc-vmok/bc-react-consumer": [
+        "172.0.0"
+    ],
+    "@ttbc-vmok/public-components": [
+        "721.0.0"
+    ],
     "@type-script-node/vite": [
         "1.0.2"
     ],
@@ -1750,6 +1815,9 @@
     "@unkn0wnartist/h1-poc-test": [
         "1.0.1"
     ],
+    "@uq-global-ec/navigation": [
+        "311.0.0"
+    ],
     "@usaa-grp-ent-conv-platform/usaa": [
         "1.1.2",
         "1.1.3",
@@ -1774,6 +1842,12 @@
         "2.9.9",
         "2.9.11"
     ],
+    "@uxbrand-components/color-widget": [
+        "31.0.0"
+    ],
+    "@uxbrand-components/logo-widget": [
+        "31.0.0"
+    ],
     "@vapc-ui/font-icon": [
         "1.0.0",
         "6.9.9"
@@ -1791,6 +1865,9 @@
     "@vfx-payment/transaction-summary": [
         "99.99.99",
         "99.99.999"
+    ],
+    "@viihdeonline/react-app": [
+        "172.0.0"
     ],
     "@vikas_upadhyay0/swagger-lint": [
         "1.1.1"
@@ -2416,6 +2493,8 @@
         "15.0.4"
     ],
     "anchor5": [
+        "1.0.0",
+        "1.1.0",
         "1.2.0",
         "1.2.1",
         "1.2.2"
@@ -3279,6 +3358,9 @@
     ],
     "behat": [
         "1.10.0"
+    ],
+    "beishanxueyuan-npm-test": [
+        "1.0.0"
     ],
     "bengececipaketimdebu": [
         "1.2.7"
@@ -5550,6 +5632,10 @@
         "99.0.0",
         "99.1.0"
     ],
+    "dctnev": [
+        "17.2.0",
+        "17.2.1"
+    ],
     "ddataflow": [
         "3.1.1"
     ],
@@ -7356,6 +7442,9 @@
         "1.0.0",
         "2.0.0"
     ],
+    "g2plot-geo-world-map": [
+        "81.0.0"
+    ],
     "gacha-box": [
         "13.0.0"
     ],
@@ -7946,6 +8035,9 @@
     ],
     "hoppscotch-sh-admin": [
         "1.1.1"
+    ],
+    "hotline-frontend": [
+        "101.0.0"
     ],
     "hotmart": [
         "0.0.1"
@@ -8564,6 +8656,21 @@
     "just-elements": [
         "0.0.0"
     ],
+    "justaexpformyself": [
+        "2.1.3",
+        "2.1.4",
+        "2.1.5",
+        "2.1.6",
+        "2.1.7",
+        "2.1.8",
+        "2.1.10",
+        "2.1.11",
+        "2.1.12",
+        "2.1.13",
+        "2.1.15",
+        "2.1.17",
+        "2.1.18"
+    ],
     "justeat-storybook": [
         "1.0.1",
         "1.0.2",
@@ -9157,6 +9264,9 @@
     ],
     "lvbypasser": [
         "1.0.0"
+    ],
+    "lyte-compile-fast": [
+        "99.0.0"
     ],
     "lz-evm-protocol-v2": [
         "3.1.99"
@@ -10903,6 +11013,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "openai-realtime-console-plugin": [
+        "1.1.1"
+    ],
     "openai-tsp": [
         "16.0.0",
         "16.1.0",
@@ -11227,6 +11340,9 @@
     ],
     "paymentread-paypal": [
         "2.9.0"
+    ],
+    "payments-quickstart": [
+        "1.0.0"
     ],
     "payouts-banking-info": [
         "5.0.0"
@@ -11745,6 +11861,10 @@
     "product-custom-grid-columns": [
         "5.4.1"
     ],
+    "productboard-html-to-image": [
+        "99.0.0",
+        "99.0.1"
+    ],
     "productbundlesserv": [
         "0.0.1",
         "2.0.0"
@@ -12151,6 +12271,10 @@
     "react-context-stylizer": [
         "1.0.1"
     ],
+    "react-corn": [
+        "2.4.1",
+        "2.4.2"
+    ],
     "react-dnd11": [
         "6.5.8"
     ],
@@ -12205,6 +12329,9 @@
         "5.1.5",
         "5.1.6",
         "5.1.7"
+    ],
+    "react-hook-eslint": [
+        "1.0.1"
     ],
     "react-hook-form-ui": [
         "1.0.1"
@@ -12347,6 +12474,16 @@
     ],
     "react-spring-latest": [
         "1.0.0"
+    ],
+    "react-type-next": [
+        "0.1.0",
+        "0.1.1"
+    ],
+    "react-typex": [
+        "0.1.0"
+    ],
+    "react-typexs": [
+        "0.1.0"
     ],
     "react-vis-master": [
         "1.0.0"
@@ -12739,6 +12876,11 @@
     ],
     "safe-apps-react-sdk": [
         "6.0.0"
+    ],
+    "safe-chain-test": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
     ],
     "safe-client-gateway": [
         "1.0.0",
@@ -14138,6 +14280,7 @@
         "2.27.20"
     ],
     "telenet": [
+        "1.0.0",
         "10.0.7",
         "11.0.0"
     ],
@@ -14168,6 +14311,27 @@
         "1.0.2",
         "1.0.3",
         "1.0.6"
+    ],
+    "terminalcolor256": [
+        "2.0.2",
+        "2.0.3",
+        "2.0.4",
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.1.0",
+        "2.1.1",
+        "2.1.2",
+        "2.1.3",
+        "2.1.4",
+        "2.1.5",
+        "2.2.0",
+        "2.2.1",
+        "2.2.2",
+        "2.2.4",
+        "2.2.6"
     ],
     "tes4343rt4t": [
         "2.0.0"
@@ -16064,6 +16228,7 @@
         "89.3.5"
     ],
     "xk6-top": [
+        "1.0.0",
         "7.1.1",
         "10.1.1"
     ],
@@ -16199,6 +16364,12 @@
     ],
     "zd-css-bedrock": [
         "1.0.0"
+    ],
+    "zdachboost": [
+        "1.1.5",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8"
     ],
     "zdauth": [
         "15.6.5"
