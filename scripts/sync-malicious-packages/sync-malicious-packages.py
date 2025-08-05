@@ -22,40 +22,28 @@ def parse_arguments():
     parser.add_argument('--since', help='Date in YYYY-MM-DD format', required=True)
     parser.add_argument('--destination', help='Where to store the resulting ZIP', required=True)
     parser.add_argument('--s3-bucket', help='S3 bucket containing the samples')
-    parser.add_argument('--dynamodb-table', help='DynamoDB table containing the scan results')
+    parser.add_argument('--scan-table', help='DynamoDB table containing the scan results')
+    parser.add_argument('--triage-table', help='DynamoDB table containing the triage results')
     args = parser.parse_args()
     return args
 
 
-def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bucket):
-  table = boto3.resource('dynamodb').Table(dynamodb_table)
-
+def query_and_download_items(ecosystem, cutoff_date, dest, scan_table, triage_table, s3_bucket):
   # Convert the date to a timestamp
   since = datetime.strptime(cutoff_date + " 00:00:00", '%Y-%m-%d %H:%M:%S')
   since_ts = round(time.mktime(since.timetuple()))
 
-  # Scan the DynamoDB table
-  results = []
-  response = {}
-  query = "ecosystem = :ecosystem AND triage_state = :state AND scan_timestamp >= :cutoff_timestamp"
-  values = {
+  scan_query = "ecosystem = :ecosystem AND triage_state = :state AND scan_timestamp >= :cutoff_timestamp"
+  scan_values = {
     ":ecosystem": ecosystem,
     ":state": "malicious",
     ":cutoff_timestamp": since_ts
   }
-  first_query = True
-  while 'LastEvaluatedKey' in response or first_query:
-    if first_query:
-      response = table.scan(FilterExpression=query, ExpressionAttributeValues=values)
-      first_query = False
-    else:
-      response = table.scan(FilterExpression=query, ExpressionAttributeValues=values, ExclusiveStartKey=response['LastEvaluatedKey'])
-    
-    results.extend(response['Items'])
+  scan_results = perform_table_scan(scan_table, scan_query, scan_values)
   
-  print("Syncing samples of " + str(len(results)) + " packages")
+  print("Syncing samples of " + str(len(scan_results)) + " packages")
   os.chdir(dest)
-  for item in results:
+  for item in scan_results:
     # Convert scan_datetime to the desired format
     scan_datetime = datetime.strptime(item['scan_datetime'], '%Y-%m-%d %H:%M:%S.%f')
     formatted_date = scan_datetime.strftime('%Y-%m-%d')
@@ -65,20 +53,33 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
     if package_name != item["package_name"] and package_version.startswith(NPM_SECURITY_VERSION):
       continue
 
-    # Sanitize the package name and version for use in a file or directory name
-    # `@` is used in place of `/` for the directory versions because it is:
-    #   1) unambiguously identifiable as a replacement character (used by the manifest generator on that basis)
-    #   2) already used in certain of the npm package names
+    # TODO(ikretz): Replace this with a query and filters
+    triage_query = "package = :package"
+    triage_values = { ":package": f"{package_name}|{ecosystem}" }
+    triage_results = perform_table_scan(triage_table, triage_query, triage_values)
+
+    directory_prefix = Path("malicious_intent")
+    if any(
+      map(
+        lambda r: r.get("compromised_lib", False) and package_version in r.get("malicious_versions", []),
+        triage_results
+      )
+    ):
+      directory_prefix = Path("compromised_lib")
+
+    # `@` is used in place of `/` for directories because it is:
+    #   1) unambiguously identifiable as a replacement character (used to generate manifests)
+    #   2) already used in npm package names, thus safe to use
     package_name_directory = package_name.replace('/', '@')
     package_version_directory = package_version.replace('/', '@')
+    sample_directory = directory_prefix / package_name_directory / package_version_directory
+
     package_name_file = package_name.replace('/', '_')
     package_version_file = package_version.replace('/', '_')
+    sample_file = f"{formatted_date}-{package_name_file}-v{package_version_file}.zip"
 
-    sample_identifier = f"{formatted_date}-{package_name_file}-v{package_version_file}"
-    sample_directory = os.path.join(package_name_directory, package_version_directory)
-    sample_filename = os.path.join(sample_directory, f"{sample_identifier}.zip")
-
-    if os.path.isfile(sample_filename):
+    sample_path = sample_directory / sample_file
+    if sample_path.is_file():
       continue
 
     print(f"Downloading files for {package_name}-v{package_version}")
@@ -99,16 +100,46 @@ def query_and_download_items(ecosystem, cutoff_date, dest, dynamodb_table, s3_bu
       Path(sample_directory).mkdir(parents=True, exist_ok=True)
 
       # We spawn zip because no way to encrypt with the standard ZipFile library...
-      command = ["zip", "--encrypt", "-r", "-P", "infected", sample_filename, tempdir]
+      command = ["zip", "--encrypt", "-r", "-P", "infected", sample_path, tempdir]
       try:
         subprocess.run(command, check=True, capture_output=True, cwd=dest)
       except subprocess.CalledProcessError as e:
         print("Unable to ZIP: " + str(e))
         print(e.stderr)
         exit(1)
-      print("Wrote new ZIP file " + sample_filename)
+      print(f"Wrote new ZIP file {sample_path}")
+
+
+def perform_table_scan(table_name: str, filter_expr: str, expr_attr_values: dict) -> list:
+  results = []
+
+  response, first_query = {}, True
+  table = boto3.resource('dynamodb').Table(table_name)
+
+  while first_query or "LastEvaluatedKey" in response:
+    args = {
+      "FilterExpression": filter_expr,
+      "ExpressionAttributeValues": expr_attr_values,
+    }
+
+    if first_query:
+      first_query = False
+    else:
+      args["ExclusiveStartKey"] = response["LastEvaluatedKey"]
+
+    response = table.scan(**args)
+    results.extend(response['Items'])
+
+  return results
 
 
 if __name__ == "__main__":
     args = parse_arguments()
-    query_and_download_items(args.ecosystem, args.since, args.destination, args.dynamodb_table, args.s3_bucket)
+    query_and_download_items(
+      args.ecosystem,
+      args.since,
+      args.destination,
+      args.scan_table,
+      args.triage_table,
+      args.s3_bucket
+    )
