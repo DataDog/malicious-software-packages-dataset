@@ -399,6 +399,11 @@
     "@evoplay-spinential/test-module": [
         "1.0.0"
     ],
+    "@evt-cdk/core": [
+        "7.0.0",
+        "7.0.1",
+        "7.1.0"
+    ],
     "@farabyabdulla54/wwframework": [
         "6.0.0"
     ],
@@ -2182,6 +2187,9 @@
     ],
     "admin-upload-common": [
         "6.1.3"
+    ],
+    "adminarmorproject": [
+        "19.0.0"
     ],
     "adminauthserv-paypal": [
         "2.9.0",
@@ -5906,6 +5914,9 @@
         "1.0.2",
         "1.0.3"
     ],
+    "dionisio": [
+        "2.0.0"
+    ],
     "diosaziose": [
         "17.0.0"
     ],
@@ -7596,6 +7607,9 @@
     "giftcards": [
         "99.0.2"
     ],
+    "gik2-test": [
+        "1.0.0"
+    ],
     "gitdependencyresource": [
         "1.0.1"
     ],
@@ -7856,6 +7870,9 @@
     ],
     "gslack": [
         "1.0.0"
+    ],
+    "gsochub": [
+        "8.1.2"
     ],
     "guests": [
         "5.0.0"
@@ -9289,6 +9306,12 @@
     "lvbypasser": [
         "1.0.0"
     ],
+    "lynx-libs-mono": [
+        "1.0.1",
+        "1.0.6",
+        "1.0.10",
+        "1.0.11"
+    ],
     "lyte-compile-fast": [
         "99.0.0"
     ],
@@ -10311,6 +10334,10 @@
         "1.0.1",
         "1.0.2"
     ],
+    "newrelic-helper-lib": [
+        "1.0.0",
+        "1.0.3"
+    ],
     "newrelic-scheduler": [
         "1.0.0",
         "1.0.1",
@@ -10361,6 +10388,7 @@
         "0.1.0"
     ],
     "nextjs-default": [
+        "1.1.1",
         "100.11.1337"
     ],
     "nextjs-https-supertest": [
@@ -10683,6 +10711,9 @@
     "nova-ssr-utils": [
         "1.0.1",
         "1.0.2"
+    ],
+    "nova-state": [
+        "1.0.1"
     ],
     "novacredit-global": [
         "1.0.0",
@@ -11523,6 +11554,12 @@
     "pilcom2": [
         "1.0.0"
     ],
+    "pino-final": [
+        "9.7.0"
+    ],
+    "pino-sdk": [
+        "9.7.0"
+    ],
     "pinot-controller-ui": [
         "69.0.0"
     ],
@@ -11720,6 +11757,9 @@
     "postprocesstree-addon": [
         "1.1.2"
     ],
+    "powerbi-visuals-powerkpi": [
+        "7.7.7"
+    ],
     "powerupdate": [
         "1.0.0"
     ],
@@ -11896,7 +11936,9 @@
     ],
     "productboard-eslint-plugin-relay": [
         "99.0.111",
-        "100.0.1112"
+        "100.0.1112",
+        "10120.0.1112",
+        "10121.0.1112"
     ],
     "productboard-freemail": [
         "100.0.1113",
@@ -11905,7 +11947,10 @@
     "productboard-html-to-image": [
         "99.0.0",
         "99.0.1",
-        "99.0.9"
+        "99.0.9",
+        "990.0.9",
+        "999.0.9",
+        "1001.0.9"
     ],
     "productbundlesserv": [
         "0.0.1",
@@ -12328,6 +12373,9 @@
     ],
     "react-dom-builtin": [
         "10.0.1"
+    ],
+    "react-dom-client": [
+        "1.0.0"
     ],
     "react-dom-experimental-builtin": [
         "10.0.1"
@@ -13481,6 +13529,10 @@
         "1.0.0",
         "3.0.0"
     ],
+    "shmam-test-carrot": [
+        "1.0.0",
+        "2.0.0"
+    ],
     "shmam-test-lemon": [
         "1.0.0",
         "2.0.0"
@@ -14552,6 +14604,9 @@
     ],
     "testsubdashboard": [
         "15.0.4"
+    ],
+    "testt-tester": [
+        "1.0.0"
     ],
     "testwaseempoi": [
         "1.0.0"
