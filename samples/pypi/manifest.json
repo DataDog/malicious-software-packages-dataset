@@ -1,4977 +1,1687 @@
 {
-    "0wneg": [
-        "0.9.0"
-    ],
-    "1337test": [
-        "1"
-    ],
-    "282828282828282828": [],
-    "EZBEAMER": [],
-    "EZBEAMSW": [],
-    "Gunbase": [],
-    "J3y5r": [],
-    "PaypalOtpBypass": [],
-    "Roblox.-com": [],
-    "SentinelOne": [
-        "1.0.8"
-    ],
-    "a-b27": [
-        "1.0.0"
-    ],
-    "a1rn": [
-        "0.1.4"
-    ],
-    "activedevbadge": [],
-    "adanbu": [
-        "92.6"
-    ],
-    "adandu": [
-        "92.6"
-    ],
-    "adandv": [
-        "912.6"
-    ],
-    "advpruebitaa": [
-        "1.0.0"
-    ],
-    "advpruebitaa3": [
-        "1.0.0"
-    ],
-    "advpruebitaa4": [
-        "1.0.0"
-    ],
-    "advpruebitaa6": [
-        "1.0.0"
-    ],
-    "advpruebitaa8": [
-        "1.0.0"
-    ],
-    "advpruebitaa9": [
-        "1.0.0"
-    ],
-    "aeivasta": [
-        "0.3"
-    ],
-    "aeodata": [
-        "0.4"
-    ],
-    "aeodatav04": [
-        "0.4"
-    ],
-    "aes44": [],
-    "affinequant": [
-        "99.6"
-    ],
-    "ai-labs-snippets-sdk": [
-        "0.1.0",
-        "1.1.0",
-        "1.2.0",
-        "2.0.0",
-        "2.2.0",
-        "3.0.0",
-        "3.2.0",
-        "3.3.0",
-        "3.4.0",
-        "3.5.0",
-        "4.0.0",
-        "4.4.0"
-    ],
-    "ai-solver-py": [
-        "1.0"
-    ],
-    "aietelegram": [
-        "0.3"
-    ],
-    "aiiohttp": [],
-    "ailyboostbot": [
-        "1.0"
-    ],
-    "ailynitro": [
-        "1.0"
-    ],
-    "ailzyn1tr0": [
-        "1.0"
-    ],
-    "ailzynitro": [
-        "1.0"
-    ],
-    "aio3": [],
-    "aioconsol": [],
-    "aiohttp-libscss": [
-        "0.25.0"
-    ],
-    "aiohtttp": [],
-    "aiohtttps": [],
-    "aiopbotocore": [
-        "0.1.0",
-        "0.2.0",
-        "0.3",
-        "0.4.0",
-        "0.9.0"
-    ],
-    "airduq": [
-        "1.0"
-    ],
-    "airnitro": [
-        "1.0"
-    ],
-    "algokit-arc": [
-        "10.0.1"
-    ],
-    "aliyun-ai-labs-sdk": [
-        "1.0.0"
-    ],
-    "aliyun-ai-labs-snippets-sdk": [
-        "1.0.0",
-        "2.0.0",
-        "2.1.0"
-    ],
-    "alzynitro": [
-        "1.0"
-    ],
-    "anaconda-anon-usage": [
-        "0.4.9"
-    ],
-    "analyze-me": [
-        "1.0.0"
-    ],
-    "androidspyeye": [
-        "2.5"
-    ],
-    "antibyfron": [
-        "0.0.1"
-    ],
-    "aowdjpawojd": [],
-    "arangodb-driver": [
-        "1.0.0"
-    ],
-    "arangodb-python": [
-        "1.0.0"
-    ],
-    "artifact-lab-3-package": [
-        "0.1.2"
-    ],
-    "artifact-lab-3-package-02f73e0e": [
-        "1.0.3",
-        "1.0.4"
-    ],
-    "artifact-lab-3-package-153c1c1a": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-1f7a39bc": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-2387a34d": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-24ddbc49": [
-        "0.5.0",
-        "0.6.0",
-        "0.7.0"
-    ],
-    "artifact-lab-3-package-34b21b63": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-3ccf47e8": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-438d82fc": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-4c04b1a2": [
-        "0.1",
-        "0.1.1",
-        "0.2",
-        "0.3",
-        "0.5",
-        "1.0.1",
-        "1.0.3",
-        "1.0.4",
-        "1.0.5"
-    ],
-    "artifact-lab-3-package-736f752d": [
-        "0.1.1",
-        "0.1.3"
-    ],
-    "artifact-lab-3-package-77d0c154": [
-        "0.1.2"
-    ],
-    "artifact-lab-3-package-a18ff5d9": [
-        "1.1.5"
-    ],
-    "artifact-lab-3-package-b1ec2b9f": [
-        "0.1",
-        "0.1.1",
-        "0.2.0",
-        "0.2.1",
-        "0.2.3"
-    ],
-    "artifact-lab-3-package-b55680cd": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-db7d716a": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-e46d5661": [
-        "0.1.1"
-    ],
-    "artifact-lab-3-package-e7ffd2ef": [
-        "0.1.1"
-    ],
-    "artindex": [
-        "0.0.1"
-    ],
-    "arubomber": [],
-    "asciidrawing": [
-        "0.1.2"
-    ],
-    "aslmutetion": [
-        "98.7",
-        "99.7"
-    ],
-    "asmutation": [
-        "99.7"
-    ],
-    "assaulthimars": [
-        "1.3.5"
-    ],
-    "assulthimars": [
-        "1.3.5"
-    ],
-    "astralnitro": [
-        "1.0"
-    ],
-    "asycn": [],
-    "asyncmodules": [
-        "2.3.5"
-    ],
-    "asyncoi": [],
-    "atlasctf-21-prod-00": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-01": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-02": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-03": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-04": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-05": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-06": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-07": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-08": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-09": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-10": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-11": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-12": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-13": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-14": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-15": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-16": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-17": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-18": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-19": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-20": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-21": [
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "atlasctf-21-prod-29": [
-        "0.1",
-        "9.9",
-        "99.99.99",
-        "99.99.99.1"
-    ],
-    "auto-scrubber": [
-        "0.1"
-    ],
-    "automsg": [
-        "0.0.1"
-    ],
-    "axderz": [
-        "1.0.4"
-    ],
-    "axelo": [],
-    "azure-sdk-tools": [],
-    "babetmf": [
-        "99.7"
-    ],
-    "backwwi": [
-        "0.1.0"
-    ],
-    "backwwii": [
-        "0.1.0"
-    ],
-    "baibitmf": [
-        "99.7"
-    ],
-    "batchran": [
-        "912.6"
-    ],
-    "beautifulsoup-numpy": [
-        "10.13.10"
-    ],
-    "beautifulsoup-requests": [
-        "12.15.13"
-    ],
-    "beautifulsoup-scikit-learn": [
-        "2.4.9"
-    ],
-    "beautifulsup4": [
-        "0.1"
-    ],
-    "bebitmf": [
-        "99.7"
-    ],
-    "bettercolor": [
-        "3"
-    ],
-    "betterstyle": [],
-    "binol": [
-        "1.0"
-    ],
-    "blazeted": [
-        "1.0"
-    ],
-    "bloxflipscraper": [],
-    "bloxflipsearch": [],
-    "bo3to": [
-        "0.1"
-    ],
-    "bogdi": [
-        "1.0"
-    ],
-    "bolym": [
-        "1.0"
-    ],
-    "boogipoper": [
-        "0.1.0"
-    ],
-    "boogishell": [
-        "0.1.0"
-    ],
-    "boogishell2": [
-        "0.1.0"
-    ],
-    "boogishell3": [
-        "0.1.0"
-    ],
-    "boogishell4": [
-        "0.1.0"
-    ],
-    "boogishell5": [
-        "0.1.0"
-    ],
-    "boogishell6": [
-        "0.1.0"
-    ],
-    "boostbot": [
-        "0.0.1"
-    ],
-    "botoceor": [
-        "0.1"
-    ],
-    "botocote": [],
-    "bruts": [
-        "1.0"
-    ],
-    "btoocore": [],
-    "builderknower": [
-        "0.1.1",
-        "0.1.2",
-        "0.1.3",
-        "0.1.4",
-        "0.1.5",
-        "0.1.6",
-        "0.1.7",
-        "0.1.8",
-        "0.1.9",
-        "0.1.10",
-        "0.1.11",
-        "0.1.12"
-    ],
-    "burdoq": [
-        "1.0"
-    ],
-    "byte-flux-3822a6dd00d6414daba3ae0de3930a5a": [
-        "9.6"
-    ],
-    "bytebs": [
-        "912.6"
-    ],
-    "byted-df": [
-        "99.1.1"
-    ],
-    "byted-flex": [
-        "9.6"
-    ],
-    "byted-flux": [
-        "9.6"
-    ],
-    "byted-rtc-robot-api-v2": [
-        "0.0.45.15"
-    ],
-    "bytedance-chat": [
-        "0.1.1"
-    ],
-    "bytedplus": [
-        "99.7"
-    ],
-    "bytedplus-rec": [
-        "99.7"
-    ],
-    "bytedps": [
-        "99.7"
-    ],
-    "bytedsp": [
-        "912.6"
-    ],
-    "bytedtrace": [
-        "0.1.0",
-        "0.1.1",
-        "0.1.2",
-        "0.1.3",
-        "0.1.4",
-        "0.1.5",
-        "0.1.6",
-        "0.1.7",
-        "0.1.8",
-        "0.1.10",
-        "0.1.11",
-        "0.1.12",
-        "0.1.13",
-        "0.1.14",
-        "0.1.15",
-        "0.1.16",
-        "0.1.17",
-        "0.1.18",
-        "0.1.19",
-        "0.1.20",
-        "0.2.4",
-        "0.2.5",
-        "0.2.6",
-        "0.2.7",
-        "0.2.8",
-        "0.2.9",
-        "0.3.0",
-        "0.3.1",
-        "0.3.2",
-        "0.3.3",
-        "0.3.4",
-        "0.3.5",
-        "0.3.6",
-        "0.3.7",
-        "0.3.8",
-        "0.3.9",
-        "0.3.10",
-        "0.10.1",
-        "0.10.2",
-        "0.10.3",
-        "0.10.4"
-    ],
-    "byteff": [
-        "912.6"
-    ],
-    "bytekafka": [
-        "98.7",
-        "99.7"
-    ],
-    "bytekafka-0-0-15": [
-        "98.7"
-    ],
-    "bytekafka-0-15": [
-        "98.7"
-    ],
-    "bytekafka0-0-15": [
-        "99.7"
-    ],
-    "bytemlperf": [
-        "912.6"
-    ],
-    "bytep": [
-        "99.7"
-    ],
-    "bytepilot": [
-        "99.7"
-    ],
-    "bytepilot-0-0-15": [
-        "99.7"
-    ],
-    "bytepps": [
-        "94.6"
-    ],
-    "byteqs": [
-        "94.6"
-    ],
-    "bytesap": [
-        "99.7"
-    ],
-    "byteseep": [
-        "99.7"
-    ],
-    "bytesip": [
-        "99.7"
-    ],
-    "bytesp": [
-        "99.7"
-    ],
-    "calculator-2c397c49ab20c445": [],
-    "calendar-extender": [
-        "0.1",
-        "0.2"
-    ],
-    "capmonster": [
-        "1.0"
-    ],
-    "capmonster-task": [
-        "1.0"
-    ],
-    "captcha-py": [
-        "1.0"
-    ],
-    "captchaboy": [],
-    "cascadev": [
-        "99.6"
-    ],
-    "cblines": [
-        "0.0.1"
-    ],
-    "celery-poolroutes": [
-        "1.0.0"
-    ],
-    "celery-routing": [
-        "1.0.0"
-    ],
-    "celery-routr": [
-        "1.0.0"
-    ],
-    "chain00x": [
-        "1.0"
-    ],
-    "chimera-sandbox-extensions": [
-        "0.1.42"
-    ],
-    "cirtum": [
-        "1.0"
-    ],
-    "citscapesscripts": [
-        "11.0.0"
-    ],
-    "class-py": [
-        "1.0.0"
-    ],
-    "cleantalk": [
-        "6.6.6"
-    ],
-    "cloud-client": [
-        "1.34"
-    ],
-    "cloudfix": [
-        "0.0.0",
-        "1",
-        "1.34",
-        "2"
-    ],
-    "cloudx-base": [
-        "1.2.1"
-    ],
-    "colimer": [
-        "1.0"
-    ],
-    "colopym2": [
-        "0.0.1"
-    ],
-    "colorara": [
-        "0.1"
-    ],
-    "colorating": [
-        "1.0.0"
-    ],
-    "colored-fidget": [
-        "1.0"
-    ],
-    "colorfidget": [
-        "1.0"
-    ],
-    "coloroma": [],
-    "colors-update": [
-        "3"
-    ],
-    "colorsapi": [],
-    "colorstyle": [
-        "1.0"
-    ],
-    "colotama": [
-        "0.4.4",
-        "0.4.5",
-        "0.4.6",
-        "0.4.8",
-        "0.4.9",
-        "0.5.0"
-    ],
-    "colouramas": [],
-    "colurama": [],
-    "compresai": [
-        "94.6"
-    ],
-    "compressa": [
-        "94.6"
-    ],
-    "compressi": [
-        "94.6"
-    ],
-    "confluent-docker-utils": [
-        "0.0.89"
-    ],
-    "consolecmds": [],
-    "control4d-multiview": [
-        "9.6"
-    ],
-    "controlnot-aux": [
-        "95.6"
-    ],
-    "convocations": [
-        "0.19",
-        "0.20",
-        "0.21",
-        "0.22"
-    ],
-    "cosmostroposphere": [],
-    "crustyhttp": [
-        "1.3.5"
-    ],
-    "cryostar": [
-        "912.6"
-    ],
-    "crypto-pygame": [
-        "10.14.7"
-    ],
-    "cryptocalls": [
-        "0.0.1"
-    ],
-    "cryptograohy": [
-        "0.5.6",
-        "0.5.7",
-        "0.6.0",
-        "0.6.1",
-        "0.6.2",
-        "0.6.3",
-        "0.6.4",
-        "0.6.5",
-        "0.6.6",
-        "0.7.0",
-        "0.7.1"
-    ],
-    "cryptographz": [
-        "1.0.0"
-    ],
-    "crystalnitro": [
-        "1.0"
-    ],
-    "crytic-compilers": [
-        "0.3.7",
-        "0.3.8",
-        "0.3.9",
-        "0.3.10",
-        "0.3.11"
-    ],
-    "cryztalnitro": [
-        "1.0"
-    ],
-    "ctf-aio-tool": [
-        "0.1"
-    ],
-    "ctfpipshell": [
-        "0.0.4"
-    ],
-    "ctftestsowwy": [
-        "0.0.8",
-        "0.0.9",
-        "0.1.0",
-        "0.1.1",
-        "0.1.4"
-    ],
-    "cugraph-dgl": [
-        "23.99.0"
-    ],
-    "cugraph-service-client": [
-        "23.99.0"
-    ],
-    "dahood": [
-        "0.0.3"
-    ],
-    "darknegrobbc": [],
-    "dasdhaiusd1212": [
-        "1.0.117"
-    ],
-    "dasdsajdjsaasddsad": [
-        "2.0.0",
-        "3.0.0",
-        "4.0.0"
-    ],
-    "dasdsajdjsadsad": [
-        "2.0.0"
-    ],
-    "dbt-bytedhouse": [
-        "99.7"
-    ],
-    "dbt-byteshouse": [
-        "99.7"
-    ],
-    "ddim": [
-        "9.6"
-    ],
-    "deadiff": [
-        "99.6"
-    ],
-    "decompopt": [
-        "912.6"
-    ],
-    "deeprce": [
-        "0.0.1"
-    ],
-    "deepseeek": [
-        "0.0.8"
-    ],
-    "deepseekai": [
-        "0.0.8"
-    ],
-    "deepsolid": [
-        "99.6"
-    ],
-    "defca": [
-        "2.0.0",
-        "3.0.0"
-    ],
-    "definitely-not-requests": [
-        "2.28.2"
-    ],
-    "deflib": [],
-    "dekugay": [
-        "1.0"
-    ],
-    "dependency-analyzer": [
-        "1.0.0"
-    ],
-    "dependency-conf": [],
-    "dependency-confusion12": [
-        "1.0.4"
-    ],
-    "dependency-confusion123": [
-        "1.0.4"
-    ],
-    "dependency-confusion12345": [
-        "9.9.9"
-    ],
-    "dependency-confusion123456": [
-        "9.9.9"
-    ],
-    "dependency-confusion1234567": [
-        "9.9.9"
-    ],
-    "dependency1338": [
-        "1.0.0"
-    ],
-    "dependencyrrr": [
-        "1.0.0"
-    ],
-    "dequests": [],
-    "derkpy": [],
-    "detecron2": [
-        "94.6"
-    ],
-    "detection-telegram": [
-        "5.6"
-    ],
-    "detectren": [
-        "94.6"
-    ],
-    "detectron4": [
-        "94.6"
-    ],
-    "dfdfdfdfhhh": [
-        "1.0.0",
-        "1.0.1",
-        "1.0.2",
-        "1.0.3"
-    ],
-    "dhawnz": [
-        "1.0"
-    ],
-    "diaossama-test1": [
-        "0.0.1",
-        "0.0.2"
-    ],
-    "dider": [
-        "1.0"
-    ],
-    "discconnect": [
-        "0.1",
-        "0.2",
-        "0.4",
-        "0.5"
-    ],
-    "discodr": [],
-    "discord-hook": [
-        "1.0"
-    ],
-    "discord-manager": [
-        "1.0"
-    ],
-    "discould": [
-        "0.0.1"
-    ],
-    "discrd": [],
-    "distpro": [
-        "92.6"
-    ],
-    "django-pyyaml": [
-        "20.17.15"
-    ],
-    "djangoo": [
-        "0.1"
-    ],
-    "donotdownload": [
-        "0.0.0"
-    ],
-    "dpdcyconfusion": [
-        "0.1"
-    ],
-    "dpndncyconfusion": [
-        "0.1"
-    ],
-    "dpy-bot": [
-        "1.0"
-    ],
-    "dreamfusion": [
-        "9.6"
-    ],
-    "dtb-bytehouse": [
-        "99.7"
-    ],
-    "dumers": [
-        "1.0"
-    ],
-    "e3po": [
-        "912.6"
-    ],
-    "easydicts": [
-        "94.6"
-    ],
-    "easygetflag": [
-        "1.5"
-    ],
-    "easyrequests": [
-        "1.0.0"
-    ],
-    "edenred": [],
-    "edgehttp": [
-        "1.0"
-    ],
-    "embeddings-validation": [
-        "99.9.9"
-    ],
-    "embeds": [
-        "0.0.1"
-    ],
-    "emumonitor": [
-        "912.6"
-    ],
-    "esqcandyosintcandy": [
-        "1.61"
-    ],
-    "esqcandysplitpep": [
-        "8.82"
-    ],
-    "esqccpongcpu": [
-        "1.16"
-    ],
-    "esqccpullvirtual": [
-        "5.37"
-    ],
-    "esqccstringmask": [
-        "7.66"
-    ],
-    "esqccstudyhacked": [
-        "2.4"
-    ],
-    "esqcontrolgrandsplit": [
-        "2.94"
-    ],
-    "esqcontrolhttphttp": [
-        "5.22"
-    ],
-    "esqcpugrandpong": [
-        "1.41"
-    ],
-    "esqcpupipkill": [
-        "9.35"
-    ],
-    "esqcpustudyhydra": [
-        "1.64"
-    ],
-    "esqcraftlibcv": [
-        "10.44"
-    ],
-    "esqcraftremc": [
-        "9.12"
-    ],
-    "esqcvcpupy": [
-        "5.75"
-    ],
-    "esqcvinfogrand": [
-        "5.33"
-    ],
-    "esqcvvermask": [
-        "10.54"
-    ],
-    "esqedpushvm": [
-        "8.61"
-    ],
-    "esqencodegameproof": [
-        "6.69"
-    ],
-    "esqgameencodereplace": [
-        "7.83"
-    ],
-    "esqgameguiintel": [
-        "10.2"
-    ],
-    "esqgameloadrandom": [
-        "4.81"
-    ],
-    "esqgamemineping": [
-        "1.6"
-    ],
-    "esqgamereplacetool": [
-        "8.91"
-    ],
-    "esqgetlibpyw": [
-        "9.39"
-    ],
-    "esqgetultragui": [
-        "5.56"
-    ],
-    "esqgrandvirtualget": [
-        "4.22"
-    ],
-    "esqguipippost": [
-        "2.7"
-    ],
-    "esqguiproofad": [
-        "6.36"
-    ],
-    "esqhackedlgtbpip": [
-        "5.4"
-    ],
-    "esqhttpguicc": [
-        "2.76"
-    ],
-    "esqhttpmaskload": [
-        "8.19"
-    ],
-    "esqhttppaypalurl": [
-        "4.13"
-    ],
-    "esqhttppywinfo": [
-        "8.86"
-    ],
-    "esqinfostrget": [
-        "8.25"
-    ],
-    "esqinfostrosint": [
-        "9.73"
-    ],
-    "esqinfovirtualgame": [
-        "3.2"
-    ],
-    "esqintcvgui": [
-        "6.43"
-    ],
-    "esqintmaskgui": [
-        "4.63"
-    ],
-    "esqintpaypalram": [
-        "5.71"
-    ],
-    "esqintstringcraft": [
-        "9.30"
-    ],
-    "esqintstudyhacked": [
-        "1.26"
-    ],
-    "esqkillpongrand": [
-        "2.94"
-    ],
-    "esqlibcpucc": [
-        "9.61"
-    ],
-    "esqlibcpuosint": [
-        "4.43"
-    ],
-    "esqlibkillstr": [
-        "10.27"
-    ],
-    "esqlibpullreplace": [
-        "6.11"
-    ],
-    "esqloadhackednvidia": [
-        "4.86"
-    ],
-    "esqmaskcpustring": [
-        "10.12"
-    ],
-    "esqmaskgrandcc": [
-        "6.23"
-    ],
-    "esqmaskintlib": [
-        "2.39"
-    ],
-    "esqmaskintnvidia": [
-        "7.65"
-    ],
-    "esqmasksplitpush": [
-        "1.41"
-    ],
-    "esqmaskvirtualcpu": [
-        "10.12"
-    ],
-    "esqmineosintpip": [
-        "2.47"
-    ],
-    "esqnvidiaadram": [
-        "1.94"
-    ],
-    "esqnvidiamaskvirtual": [
-        "7.87"
-    ],
-    "esqnvidiapywpip": [
-        "2.81"
-    ],
-    "esqnvidiaultrapep": [
-        "7.81"
-    ],
-    "esqnvidiavmget": [
-        "1.15"
-    ],
-    "esqosintcraftram": [
-        "4.53"
-    ],
-    "esqosinthackedstudy": [
-        "4.60"
-    ],
-    "esqpaypalnvidiaurl": [
-        "4.73"
-    ],
-    "esqpaypalpongcc": [
-        "6.17"
-    ],
-    "esqpaypalvisaencode": [
-        "1.7"
-    ],
-    "esqpepintpyw": [
-        "3.40"
-    ],
-    "esqpeprandpaypal": [
-        "5.38"
-    ],
-    "esqpingpingcontrol": [
-        "5.1"
-    ],
-    "esqposthackedver": [
-        "2.14"
-    ],
-    "esqpostintelcpu": [
-        "1.39"
-    ],
-    "esqpostloadping": [
-        "6.22"
-    ],
-    "esqproofinthydra": [
-        "4.9"
-    ],
-    "esqproofosintkill": [
-        "3.22"
-    ],
-    "esqproofpongint": [
-        "4.27"
-    ],
-    "esqproofpostpull": [
-        "10.60"
-    ],
-    "esqproofpostvisa": [
-        "3.58"
-    ],
-    "esqproofvisacandy": [
-        "10.5"
-    ],
-    "esqpullhackedstudy": [
-        "10.24"
-    ],
-    "esqpywlgtbnvidia": [
-        "1.47"
-    ],
-    "esqpywpepcraft": [
-        "7.19"
-    ],
-    "esqrandadget": [
-        "3.2"
-    ],
-    "esqrandompullad": [
-        "5.98"
-    ],
-    "esqrandompullmine": [
-        "6.45"
-    ],
-    "esqrandomreplacecc": [
-        "5.49"
-    ],
-    "esqrandpippush": [
-        "6.67"
-    ],
-    "esqrecpuvm": [
-        "5.27"
-    ],
-    "esqreinfore": [
-        "5.34"
-    ],
-    "esqreplacegrandpep": [
-        "6.68"
-    ],
-    "esqrepymc": [
-        "5.43"
-    ],
-    "esqrerecandy": [
-        "2.70"
-    ],
-    "esqrestrhttp": [
-        "9.27"
-    ],
-    "esqreultramask": [
-        "6.89"
-    ],
-    "esqsplitmaskpy": [
-        "9.35"
-    ],
-    "esqsplitpushpush": [
-        "7.71"
-    ],
-    "esqstringgamere": [
-        "10.81"
-    ],
-    "esqstringminecv": [
-        "3.8"
-    ],
-    "esqstringpingcraft": [
-        "7.91"
-    ],
-    "esqstringvirtualtool": [
-        "5.32"
-    ],
-    "esqstrpushgrand": [
-        "6.62"
-    ],
-    "esqstudyedgrand": [
-        "10.14"
-    ],
-    "esqstudypiprand": [
-        "3.32"
-    ],
-    "esqstudyrepull": [
-        "2.77"
-    ],
-    "esqtoolinfoultra": [
-        "7.18"
-    ],
-    "esqtoolvisaram": [
-        "5.90"
-    ],
-    "esqultracc": [
-        "5.17"
-    ],
-    "esqultralgtbhydra": [
-        "8.19"
-    ],
-    "esqultraultrapong": [
-        "7.37"
-    ],
-    "esqurlencodead": [
-        "9.76"
-    ],
-    "esqurlosinthydra": [
-        "10.26"
-    ],
-    "esqveradvirtual": [
-        "10.8"
-    ],
-    "esqverosintint": [
-        "4.74"
-    ],
-    "esqverpyosint": [
-        "9.22"
-    ],
-    "esqvirtualintpep": [
-        "2.60"
-    ],
-    "esqvirtualkillint": [
-        "4.83"
-    ],
-    "esqvirtualkillsuper": [
-        "9.16"
-    ],
-    "esqvisastred": [
-        "10.10"
-    ],
-    "esqvisaverload": [
-        "3.62"
-    ],
-    "esqvisavirtualencode": [
-        "2.27"
-    ],
-    "estimating": [],
-    "etherapi": [
-        "1.0"
-    ],
-    "etlisalat": [
-        "1.0"
-    ],
-    "evannlegoat": [
-        "1.0.4"
-    ],
-    "example-vizsla-tutorial": [
-        "0.1.0",
-        "0.1.1"
-    ],
-    "ezauto": [
-        "0.0.1"
-    ],
-    "fadlearner": [
-        "912.6"
-    ],
-    "fairseqn": [
-        "92.6"
-    ],
-    "fairsequence": [
-        "91.6"
-    ],
-    "faiss-gp": [
-        "1.0.2"
-    ],
-    "fakepipd": [
-        "0.0.1"
-    ],
-    "fantasia3d": [
-        "9.6"
-    ],
-    "farking": [
-        "1"
-    ],
-    "fasdghjkhjafsd": [
-        "0.0.1",
-        "0.0.2",
-        "0.0.3"
-    ],
-    "fast-httpx": [],
-    "fastapi-toolkit": [],
-    "fastpep8": [],
-    "fc-clip": [
-        "99.6"
-    ],
-    "fdsfsdfsdfgsdg": [],
-    "feature-preserve-portrait-editing": [
-        "99.6"
-    ],
-    "fedddecorr": [
-        "94.6"
-    ],
-    "feddecor": [
-        "94.6"
-    ],
-    "feddecorr": [
-        "94.6"
-    ],
-    "fedlearnerr": [
-        "912.6"
-    ],
-    "fedlearnre": [
-        "912.6"
-    ],
-    "feenton": [
-        "1.0"
-    ],
-    "fequests": [],
-    "ferminet-with-ecp": [
-        "94.6"
-    ],
-    "ferned": [
-        "1.0"
-    ],
-    "ferns": [
-        "1.0"
-    ],
-    "ffmpge": [],
-    "fidnffvvbfhghghhhh": [
-        "1"
-    ],
-    "fijiwashere12323": [],
-    "fjkslfjsdgbjkbnjfdkq": [
-        "1.1.1"
-    ],
-    "flophttp": [
-        "2.3.5"
-    ],
-    "flsak": [
-        "2.2.3"
-    ],
-    "fluiddaddy": [
-        "1.0"
-    ],
-    "forgepy": [
-        "1.0.0",
-        "1.0.1",
-        "1.0.2",
-        "1.0.3"
-    ],
-    "forgepys": [
-        "1.0.3"
-    ],
-    "forgyp": [
-        "1.0.3"
-    ],
-    "forgyps": [
-        "2.0.0"
-    ],
-    "formatter-test-package": [
-        "0.0.1",
-        "0.1.0",
-        "0.1.3",
-        "0.1.4",
-        "0.1.7",
-        "0.1.10"
-    ],
-    "foxx-py": [
-        "1.0.0"
-    ],
-    "fxzontop": [],
-    "gal32fjdsbf89hnd": [
-        "1"
-    ],
-    "gasmanez": [
-        "1.0.0"
-    ],
-    "genz-translator": [
-        "9000.0.1",
-        "9002.0.1",
-        "9003.0.1",
-        "9006.0.1",
-        "9007.0.1",
-        "9008.0.1",
-        "9009.0.1",
-        "9011.0.1",
-        "9012.0.1",
-        "9013.0.1",
-        "9015.0.1",
-        "9016.0.1",
-        "9019.0.1",
-        "9020.0.1",
-        "9021.0.1",
-        "9023.0.1",
-        "9026.0.1",
-        "9027.0.1",
-        "9029.0.1",
-        "9030.0.1",
-        "9032.0.1"
-    ],
-    "gequests": [],
-    "ggvpslmao": [],
-    "giantmidi-piano": [
-        "912.6"
-    ],
-    "gkjzjh146": [
-        "1.3"
-    ],
-    "good-regex": [
-        "1.0.0"
-    ],
-    "googleapis-googleapis-grpc-python": [
-        "1.9.3"
-    ],
-    "gr-mg": [
-        "99.6"
-    ],
-    "grandslam": [],
-    "graphene-arangodb": [
-        "1.0.0"
-    ],
-    "groq-mcp": [
-        "9.9.9"
-    ],
-    "grpc-google-bigtable-v2": [
-        "0.11.99"
-    ],
-    "gui-build": [],
-    "gym-reschdule-combination": [
-        "93.6"
-    ],
-    "h8shdf89d": [
-        "2.28.2"
-    ],
-    "haaahhaha": [
-        "0.1"
-    ],
-    "habibisus": [],
-    "habitmf": [
-        "99.7"
-    ],
-    "hahahasillyxd": [
-        "0.1"
-    ],
-    "haisenbergs-pkg": [
-        "1.0.0"
-    ],
-    "hakepip": [
-        "0.1.1"
-    ],
-    "hamburgesr": [
-        "1.0.0"
-    ],
-    "hansont": [
-        "1.0.0"
-    ],
-    "haxorsiambot": [],
-    "hellomynameisahjahs": [],
-    "hellotesthim": [
-        "0.1.1"
-    ],
-    "hellowhatisao": [],
-    "henter": [
-        "1.0.0"
-    ],
-    "hllm": [
-        "912.6"
-    ],
-    "hmac2": [
-        "0.0.2rc0",
-        "0.0.2"
-    ],
-    "http3-client": [
-        "1.0.0",
-        "1.0.0.1",
-        "1.0.4",
-        "1.0.5",
-        "1.0.7",
-        "1.0.11",
-        "1.0.14",
-        "1.0.15",
-        "1.0.16",
-        "1.0.17",
-        "1.0.18"
-    ],
-    "httprequesting": [
-        "1.1.1",
-        "3.0.1"
-    ],
-    "httpsmovements": [
-        "1.3.5"
-    ],
-    "httpx-advanced2": [
-        "0.1.0"
-    ],
-    "httpxboost": [
-        "1.0"
-    ],
-    "httpxc": [
-        "0.0.1"
-    ],
-    "httpxfaster": [],
-    "httpxontop": [
-        "1.0"
-    ],
-    "hugebbc": [],
-    "huggingface-hubs": [
-        "95.6"
-    ],
-    "huggingfaces-hub": [
-        "95.6"
-    ],
-    "hugginglega": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.3"
-    ],
-    "huluquests": [
-        "0.0.3"
-    ],
-    "hybrid-sd": [
-        "912.6"
-    ],
-    "hyperreq": [
-        "0.1"
-    ],
-    "ic-flow-platform": [
-        "91.6"
-    ],
-    "ic-flows-platform": [
-        "91.6"
-    ],
-    "icedgen": [],
-    "imad213": [
-        "2.0.4"
-    ],
-    "image-dream": [
-        "9.6"
-    ],
-    "imagedream": [
-        "912.6"
-    ],
-    "imagedreamfusion": [
-        "9.6"
-    ],
-    "imageoi": [
-        "95.6"
-    ],
-    "imap-utisl": [],
-    "importlib-metadate": [
-        "99.99"
-    ],
-    "importlib-resource": [
-        "95.6"
-    ],
-    "importlibs-resource": [
-        "95.6"
-    ],
-    "importlibs-resources": [
-        "95.6"
-    ],
-    "incaperror": [
-        "7.0.0"
-    ],
-    "infosys": [],
-    "inject-rem": [
-        "0.0.1"
-    ],
-    "inkpy-jinja": [
-        "0.0.1"
-    ],
-    "instacart-roulette-daemon-client": [
-        "10.0.999"
-    ],
-    "install-crypto": [
-        "4.18.5"
-    ],
-    "install-pytest": [
-        "1.12.7"
-    ],
-    "install-pyyaml": [
-        "1.19.12"
-    ],
-    "instructnerf2nerf": [
-        "9.6"
-    ],
-    "invokehttp": [
-        "2.5.3",
-        "2.5.5"
-    ],
-    "irasim": [
-        "99.6"
-    ],
-    "ironic-secureboot-driver": [
-        "31463.0.0"
-    ],
-    "j5gerggnpuiwerbngpiutbgn0iutb0p": [
-        "0.0.1"
-    ],
-    "j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef": [
-        "0.0.1"
-    ],
-    "j5gnpfweguiwerbngpiutbgn0iutb0pfwef": [
-        "0.0.1"
-    ],
-    "j5gnpfweguiwerbngpiutbgn0iutb0pfwfef": [
-        "0.0.1"
-    ],
-    "j5gnpuiwerbngpiutbgn0iutb0pfwef": [
-        "0.0.1"
-    ],
-    "jaqmc": [
-        "912.6"
-    ],
-    "jmdrs": [
-        "1.0.4",
-        "1.0.5",
-        "1.0.6"
-    ],
-    "juphelp": [
-        "0.1.0"
-    ],
-    "jupyter-calendar-extension": [
-        "0.1"
-    ],
-    "jupyter-pytest-fi-console": [
-        "8.7.5",
-        "8.7.6"
-    ],
-    "kayauthgen": [],
-    "kazer12": [
-        "1",
-        "2"
-    ],
-    "kera-preprocess": [
-        "94.6"
-    ],
-    "kera-preprocessing": [
-        "94.6"
-    ],
-    "keras-arg": [
-        "19.14.9"
-    ],
-    "keras-beautifulsoup": [
-        "2.9.2"
-    ],
-    "keras-preprocess": [
-        "94.6"
-    ],
-    "kers": [],
-    "kersa": [
-        "0.1"
-    ],
-    "keyauthkey": [],
-    "kmvn-ekjvnbwkhjbewv": [
-        "0.2.5"
-    ],
-    "kotlin-stdlib-jdk8": [
-        "99.1.1"
-    ],
-    "kubespy": [
-        "1.0.0"
-    ],
-    "lab-3-package-438d82fc": [
-        "0.1.1",
-        "0.1.2"
-    ],
-    "laghtseq": [
-        "99.7"
-    ],
-    "lalaproxy": [
-        "1"
-    ],
-    "lanm-neo": [
-        "95.6"
-    ],
-    "lapnet": [
-        "99.6"
-    ],
-    "largebatchctr": [
-        "94.6"
-    ],
-    "larger-batch-ctr": [
-        "94.6"
-    ],
-    "larpexodus": [
-        "0.1"
-    ],
-    "latentnerf": [
-        "9.6"
-    ],
-    "layoutspecs": [
-        "0.1"
-    ],
-    "ld-impl-linux": [
-        "64"
-    ],
-    "libadtoolmc": [
-        "9.41"
-    ],
-    "libbmet": [
-        "94.6"
-    ],
-    "libcandyadhydra": [
-        "9.66"
-    ],
-    "libcckillhydra": [
-        "8.76"
-    ],
-    "libccreplacemask": [
-        "8.41"
-    ],
-    "libcontrolhttpstr": [
-        "7.75"
-    ],
-    "libcontrolrehydra": [
-        "8.33"
-    ],
-    "libcontrolultravm": [
-        "2.33"
-    ],
-    "libcontrolverlgtb": [
-        "5.50"
-    ],
-    "libcpupywmine": [
-        "2.9"
-    ],
-    "libcrafthackedsplit": [
-        "8.43"
-    ],
-    "libcraftlgtbload": [
-        "1.62"
-    ],
-    "libcraftsuperre": [
-        "10.62"
-    ],
-    "libcvproofstr": [
-        "2.8"
-    ],
-    "libedgetstudy": [
-        "5.70"
-    ],
-    "libencodepypost": [
-        "8.42"
-    ],
-    "libfwupdplugin1": [
-        "1.0.0",
-        "9.0.0"
-    ],
-    "libgetrandram": [
-        "7.78"
-    ],
-    "libgrandlibpyw": [
-        "9.89"
-    ],
-    "libgrandrandomintel": [
-        "3.58"
-    ],
-    "libgrandverultra": [
-        "6.20"
-    ],
-    "libguicraftcandy": [
-        "10.87"
-    ],
-    "libguigrandmc": [
-        "9.92"
-    ],
-    "libguireplaceram": [
-        "9.30"
-    ],
-    "libguiurlcc": [
-        "6.38"
-    ],
-    "libhackedloadtool": [
-        "8.54"
-    ],
-    "libhackedosintvm": [
-        "2.26"
-    ],
-    "libhackedstrreplace": [
-        "3.20"
-    ],
-    "libhttppostpost": [
-        "10.70"
-    ],
-    "libhydraedstudy": [
-        "6.31"
-    ],
-    "libid": [
-        "0.1"
-    ],
-    "libida": [
-        "0.2"
-    ],
-    "libide": [
-        "0.1"
-    ],
-    "libidee": [
-        "0.1"
-    ],
-    "libideee": [
-        "0.1"
-    ],
-    "libideeee": [
-        "0.1"
-    ],
-    "libidi": [
-        "0.1"
-    ],
-    "libidos": [
-        "0.1"
-    ],
-    "libidreq": [
-        "0.1"
-    ],
-    "libidrequest": [
-        "0.4"
-    ],
-    "libig": [
-        "0.1"
-    ],
-    "libintcpusplit": [
-        "3.42"
-    ],
-    "libintelkillvm": [
-        "8.47"
-    ],
-    "libintelpostlib": [
-        "6.37"
-    ],
-    "libintultrapyw": [
-        "2.39"
-    ],
-    "libkilledgame": [
-        "4.61"
-    ],
-    "libkillmaskhydra": [
-        "2.69"
-    ],
-    "liblgtbkillhacked": [
-        "6.98"
-    ],
-    "liblibpostcc": [
-        "2.61"
-    ],
-    "libloadhackedpyw": [
-        "8.65"
-    ],
-    "liblxml3": [
-        "0.1",
-        "0.2",
-        "1.4",
-        "1.5",
-        "1.7",
-        "2.0",
-        "2.1",
-        "2.2",
-        "2.6",
-        "2.7"
-    ],
-    "libmasklibosint": [
-        "4.81"
-    ],
-    "libmaskosinthydra": [
-        "4.82"
-    ],
-    "libmccraftpush": [
-        "8.51"
-    ],
-    "libmclibed": [
-        "5.84"
-    ],
-    "libminerandomosint": [
-        "2.54"
-    ],
-    "libnvidiareplacerandom": [
-        "3.3"
-    ],
-    "libnvidiasplitpep": [
-        "7.70"
-    ],
-    "libosintliblgtb": [
-        "5.94"
-    ],
-    "libpeppipintel": [
-        "2.18"
-    ],
-    "libpingreintel": [
-        "5.74"
-    ],
-    "libpingverrand": [
-        "2.34"
-    ],
-    "libpipcontrolcandy": [
-        "10.30"
-    ],
-    "libpipcvpip": [
-        "3.20"
-    ],
-    "libpipinfoad": [
-        "10.35"
-    ],
-    "libpipkillre": [
-        "4.35"
-    ],
-    "libpiposintmc": [
-        "4.71"
-    ],
-    "libpipultravirtual": [
-        "2.77"
-    ],
-    "libpongcvvm": [
-        "1.16"
-    ],
-    "libponggetpaypal": [
-        "2.51"
-    ],
-    "libpostmcstudy": [
-        "9.67"
-    ],
-    "libpostpongmc": [
-        "5.53"
-    ],
-    "libpostpullpaypal": [
-        "10.22"
-    ],
-    "libpullpongpaypal": [
-        "1.86"
-    ],
-    "libpullvisapy": [
-        "10.81"
-    ],
-    "libpushmasklgtb": [
-        "6.91"
-    ],
-    "libpywreproof": [
-        "9.96"
-    ],
-    "libpywstrvm": [
-        "7.15"
-    ],
-    "libpywvisavirtual": [
-        "2.26"
-    ],
-    "librandlgtbultra": [
-        "6.97"
-    ],
-    "librandomintelgame": [
-        "7.10"
-    ],
-    "librandomintelkill": [
-        "5.64"
-    ],
-    "librandproofhttp": [
-        "9.9"
-    ],
-    "librandstringpull": [
-        "3.76"
-    ],
-    "librehackedpull": [
-        "6.60"
-    ],
-    "libreplaceultraintel": [
-        "7.90"
-    ],
-    "librereplacereplace": [
-        "8.23"
-    ],
-    "libressl": [
-        "1.5.0"
-    ],
-    "libsock4": [
-        "0.1.1",
-        "0.1.2",
-        "0.1.3"
-    ],
-    "libsplitrandomencode": [
-        "1.46"
-    ],
-    "libssl": [],
-    "libstrcraftint": [
-        "3.6"
-    ],
-    "libstrproofurl": [
-        "3.10"
-    ],
-    "libstudyencodepaypal": [
-        "7.27"
-    ],
-    "libsuperproofint": [
-        "3.64"
-    ],
-    "libtoolcvgui": [
-        "9.33"
-    ],
-    "libtoolrandomrand": [
-        "8.83"
-    ],
-    "liburlcraftgrand": [
-        "1.28"
-    ],
-    "liburlosintstudy": [
-        "8.80"
-    ],
-    "liburlpywpost": [
-        "1.1"
-    ],
-    "liburlstringping": [
-        "3.86"
-    ],
-    "libvercpuvm": [
-        "6.94"
-    ],
-    "libverpullpong": [
-        "9.71"
-    ],
-    "libvirtualreplacepyw": [
-        "9.34"
-    ],
-    "libvirtualsplitstring": [
-        "2.35"
-    ],
-    "libvisapullpaypal": [
-        "6.89"
-    ],
-    "libvisasupergrand": [
-        "6.90"
-    ],
-    "libvisaurlgui": [
-        "9.72"
-    ],
-    "licensemonitor": [
-        "99.6"
-    ],
-    "lightgboost": [
-        "1.1.1",
-        "1.1.2",
-        "1.1.3",
-        "1.1.4"
-    ],
-    "lightgmb": [],
-    "lightseeq": [
-        "98.7",
-        "99.7"
-    ],
-    "lightseqe": [
-        "98.7",
-        "99.7"
-    ],
-    "lightsequ": [
-        "98.7",
-        "99.7"
-    ],
-    "lightsuq": [
-        "99.7"
-    ],
-    "ligitgays": [
-        "1.0"
-    ],
-    "ligitkidss": [
-        "1.0"
-    ],
-    "lindze": [
-        "0.1"
-    ],
-    "lmaoalmost": [],
-    "lofter": [
-        "1.0"
-    ],
-    "loggerbyxolo": [],
-    "logic2": [],
-    "lolsagetestbaha": [],
-    "lowui": [
-        "0.0.1"
-    ],
-    "lukz": [
-        "2.0.0",
-        "2.0.1",
-        "3.0.0"
-    ],
-    "macaqua": [
-        "99.7"
-    ],
-    "machaque": [
-        "99.7"
-    ],
-    "macque": [
-        "99.7"
-    ],
-    "magic3d": [
-        "9.6"
-    ],
-    "maiter": [
-        "1.0"
-    ],
-    "malicus": [
-        "0.0.1"
-    ],
-    "malinssx": [
-        "0.0.1"
-    ],
-    "mall0d": [
-        "1.0"
-    ],
-    "mallody": [
-        "1.0"
-    ],
-    "mallodys": [
-        "1.0"
-    ],
-    "malod": [
-        "1.0"
-    ],
-    "manda-cv-secureit": [],
-    "manda-tu-cv-a-secureit": [],
-    "marinff-test": [
-        "0.2",
-        "0.4",
-        "0.5",
-        "0.6",
-        "0.7",
-        "0.8"
-    ],
-    "mashetz": [
-        "1.0"
-    ],
-    "mastowrapper": [],
-    "matlibplot": [
-        "0.3"
-    ],
-    "matplotlib-flask": [
-        "7.15.10"
-    ],
-    "matplotlib-req": [
-        "17.6.16"
-    ],
-    "matplotlib-requests": [
-        "16.12.4"
-    ],
-    "matplotlib-sqlalchemy": [
-        "16.18.4"
-    ],
-    "matplotlibp": [
-        "0.3"
-    ],
-    "mayalbl": [
-        "4",
-        "5"
-    ],
-    "mecit2": [
-        "1.0.0"
-    ],
-    "mecit3": [
-        "1.0.0"
-    ],
-    "mega-sparks": [
-        "92.6"
-    ],
-    "megai": [
-        "92.6"
-    ],
-    "mestin": [
-        "1.0"
-    ],
-    "metrical": [],
-    "mianoplmao": [],
-    "mianoplol": [],
-    "mianprojekt": [],
-    "mianprojlol": [],
-    "miantested": [],
-    "miantestedone": [],
-    "miantestone": [],
-    "microsoft-helper": [
-        "1.0"
-    ],
-    "midi-melady-extraction": [
-        "94.6"
-    ],
-    "midi-melody-extraction": [
-        "94.6"
-    ],
-    "midi-melody-extractions": [
-        "94.6"
-    ],
-    "milleday": [
-        "1"
-    ],
-    "mirrorbot": [
-        "0.2",
-        "0.3",
-        "0.5",
-        "0.6",
-        "0.9",
-        "1.1",
-        "1.3"
-    ],
-    "mirtos": [
-        "1.0"
-    ],
-    "mjrl": [
-        "1.0.0"
-    ],
-    "mkdsli": [
-        "6.0.0"
-    ],
-    "ml-linear-regression-lib": [
-        "1.1.3"
-    ],
-    "mlc-ai-nightly": [
-        "9.9.9"
-    ],
-    "mlc-ai-nightly-cu123": [
-        "9.9.9"
-    ],
-    "mlc-ai-nightly-rocm62": [
-        "9.9.9"
-    ],
-    "mlc-llm-nightly": [
-        "99.99.99",
-        "99.99.100",
-        "99.99.102",
-        "99.99.105"
-    ],
-    "mlc-llm-nightly-cu123": [
-        "9.9.9"
-    ],
-    "mnolith": [
-        "912.6"
-    ],
-    "modeflow": [
-        "0.0.1",
-        "0.1.0"
-    ],
-    "modelize": [
-        "1"
-    ],
-    "modernreqs": [
-        "2.3.5"
-    ],
-    "moneyprinter-api": [
-        "0.1.0"
-    ],
-    "monlith": [
-        "912.6"
-    ],
-    "monoliht": [
-        "912.6"
-    ],
-    "monolit": [
-        "912.6"
-    ],
-    "mordving": [
-        "1.0.0"
-    ],
-    "mqbench": [
-        "94.6"
-    ],
-    "msfpath": [],
-    "mtvqa": [
-        "912.6"
-    ],
-    "much-needed-py-package": [
-        "0.1"
-    ],
-    "much-needed-python-package": [
-        "0.1"
-    ],
-    "multitools": [
-        "0.1",
-        "0.2",
-        "0.3"
-    ],
-    "mumupatcher": [
-        "0.0.1"
-    ],
-    "mumuplayer12": [
-        "0.0.1"
-    ],
-    "mumuzi1": [
-        "1.5"
-    ],
-    "mumuziyyds": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.3",
-        "1.5"
-    ],
-    "music-source-separation": [
-        "912.6"
-    ],
-    "muxf": [
-        "0.0.1"
-    ],
-    "mvdream": [
-        "912.6"
-    ],
-    "mvdream-threestudio": [
-        "912.6"
-    ],
-    "mxnet-cuxxx": [],
-    "my-fun-tools": [
-        "0.1.1",
-        "0.1.2"
-    ],
-    "myownpyfiglet": [
-        "0.0.1"
-    ],
-    "myshellcode": [
-        "0.1.0"
-    ],
-    "myshellcode2": [
-        "0.1.0"
-    ],
-    "myshellcode3": [
-        "0.1.0"
-    ],
-    "myshellcode4": [
-        "0.1.0"
-    ],
-    "myshit12223": [
-        "1.0",
-        "2.0"
-    ],
-    "mysqlloadup": [],
-    "n1trobrdr": [
-        "1.0"
-    ],
-    "neftron": [
-        "1.0"
-    ],
-    "nerst": [
-        "99.7"
-    ],
-    "netobs": [
-        "99.6"
-    ],
-    "networkx-match": [
-        "0.1.0",
-        "0.1.1"
-    ],
-    "networkx-match-algr": [
-        "0.1.1"
-    ],
-    "networkx-match-ssss": [
-        "0.1.1"
-    ],
-    "neursts": [
-        "92.6"
-    ],
-    "newurllib": [],
-    "next-vit": [
-        "912.6"
-    ],
-    "nezur": [
-        "0.1"
-    ],
-    "nifty-cli": [
-        "100.0.0"
-    ],
-    "nnabla-dataset-uploader": [],
-    "node-hill": [],
-    "noed": [],
-    "noed-hill": [],
-    "notsogood": [
-        "0.0.2"
-    ],
-    "nt4padyp3": [
-        "0.0.2"
-    ],
-    "nuerst": [
-        "99.7"
-    ],
-    "nuest": [
-        "99.7"
-    ],
+    "0wneg": null,
+    "1337test": null,
+    "282828282828282828": null,
+    "EZBEAMER": null,
+    "EZBEAMSW": null,
+    "Gunbase": null,
+    "J3y5r": null,
+    "PaypalOtpBypass": null,
+    "Roblox.-com": null,
+    "SentinelOne": null,
+    "a-b27": null,
+    "a1rn": null,
+    "activedevbadge": null,
+    "adanbu": null,
+    "adandu": null,
+    "adandv": null,
+    "advpruebitaa": null,
+    "advpruebitaa3": null,
+    "advpruebitaa4": null,
+    "advpruebitaa6": null,
+    "advpruebitaa8": null,
+    "advpruebitaa9": null,
+    "aeivasta": null,
+    "aeodata": null,
+    "aeodatav04": null,
+    "aes44": null,
+    "affinequant": null,
+    "ai-labs-snippets-sdk": null,
+    "ai-solver-py": null,
+    "aietelegram": null,
+    "aiiohttp": null,
+    "ailyboostbot": null,
+    "ailynitro": null,
+    "ailzyn1tr0": null,
+    "ailzynitro": null,
+    "aio3": null,
+    "aioconsol": null,
+    "aiohttp-libscss": null,
+    "aiohtttp": null,
+    "aiohtttps": null,
+    "aiopbotocore": null,
+    "airduq": null,
+    "airnitro": null,
+    "algokit-arc": null,
+    "aliyun-ai-labs-sdk": null,
+    "aliyun-ai-labs-snippets-sdk": null,
+    "alzynitro": null,
+    "anaconda-anon-usage": null,
+    "analyze-me": null,
+    "androidspyeye": null,
+    "antibyfron": null,
+    "aowdjpawojd": null,
+    "arangodb-driver": null,
+    "arangodb-python": null,
+    "artifact-lab-3-package": null,
+    "artifact-lab-3-package-02f73e0e": null,
+    "artifact-lab-3-package-153c1c1a": null,
+    "artifact-lab-3-package-1f7a39bc": null,
+    "artifact-lab-3-package-2387a34d": null,
+    "artifact-lab-3-package-24ddbc49": null,
+    "artifact-lab-3-package-34b21b63": null,
+    "artifact-lab-3-package-3ccf47e8": null,
+    "artifact-lab-3-package-438d82fc": null,
+    "artifact-lab-3-package-4c04b1a2": null,
+    "artifact-lab-3-package-736f752d": null,
+    "artifact-lab-3-package-77d0c154": null,
+    "artifact-lab-3-package-a18ff5d9": null,
+    "artifact-lab-3-package-b1ec2b9f": null,
+    "artifact-lab-3-package-b55680cd": null,
+    "artifact-lab-3-package-db7d716a": null,
+    "artifact-lab-3-package-e46d5661": null,
+    "artifact-lab-3-package-e7ffd2ef": null,
+    "artindex": null,
+    "arubomber": null,
+    "asciidrawing": null,
+    "aslmutetion": null,
+    "asmutation": null,
+    "assaulthimars": null,
+    "assulthimars": null,
+    "astralnitro": null,
+    "asycn": null,
+    "asyncmodules": null,
+    "asyncoi": null,
+    "atlasctf-21-prod-00": null,
+    "atlasctf-21-prod-01": null,
+    "atlasctf-21-prod-02": null,
+    "atlasctf-21-prod-03": null,
+    "atlasctf-21-prod-04": null,
+    "atlasctf-21-prod-05": null,
+    "atlasctf-21-prod-06": null,
+    "atlasctf-21-prod-07": null,
+    "atlasctf-21-prod-08": null,
+    "atlasctf-21-prod-09": null,
+    "atlasctf-21-prod-10": null,
+    "atlasctf-21-prod-11": null,
+    "atlasctf-21-prod-12": null,
+    "atlasctf-21-prod-13": null,
+    "atlasctf-21-prod-14": null,
+    "atlasctf-21-prod-15": null,
+    "atlasctf-21-prod-16": null,
+    "atlasctf-21-prod-17": null,
+    "atlasctf-21-prod-18": null,
+    "atlasctf-21-prod-19": null,
+    "atlasctf-21-prod-20": null,
+    "atlasctf-21-prod-21": null,
+    "atlasctf-21-prod-29": null,
+    "auto-scrubber": null,
+    "automsg": null,
+    "axderz": null,
+    "axelo": null,
+    "azure-sdk-tools": null,
+    "babetmf": null,
+    "backwwi": null,
+    "backwwii": null,
+    "baibitmf": null,
+    "batchran": null,
+    "beautifulsoup-numpy": null,
+    "beautifulsoup-requests": null,
+    "beautifulsoup-scikit-learn": null,
+    "beautifulsup4": null,
+    "bebitmf": null,
+    "bettercolor": null,
+    "betterstyle": null,
+    "binol": null,
+    "blazeted": null,
+    "bloxflipscraper": null,
+    "bloxflipsearch": null,
+    "bo3to": null,
+    "bogdi": null,
+    "bolym": null,
+    "boogipoper": null,
+    "boogishell": null,
+    "boogishell2": null,
+    "boogishell3": null,
+    "boogishell4": null,
+    "boogishell5": null,
+    "boogishell6": null,
+    "boostbot": null,
+    "botoceor": null,
+    "botocote": null,
+    "bruts": null,
+    "btoocore": null,
+    "builderknower": null,
+    "burdoq": null,
+    "byte-flux-3822a6dd00d6414daba3ae0de3930a5a": null,
+    "bytebs": null,
+    "byted-df": null,
+    "byted-flex": null,
+    "byted-flux": null,
+    "byted-rtc-robot-api-v2": null,
+    "bytedance-chat": null,
+    "bytedplus": null,
+    "bytedplus-rec": null,
+    "bytedps": null,
+    "bytedsp": null,
+    "bytedtrace": null,
+    "byteff": null,
+    "bytekafka": null,
+    "bytekafka-0-0-15": null,
+    "bytekafka-0-15": null,
+    "bytekafka0-0-15": null,
+    "bytemlperf": null,
+    "bytep": null,
+    "bytepilot": null,
+    "bytepilot-0-0-15": null,
+    "bytepps": null,
+    "byteqs": null,
+    "bytesap": null,
+    "byteseep": null,
+    "bytesip": null,
+    "bytesp": null,
+    "calculator-2c397c49ab20c445": null,
+    "calendar-extender": null,
+    "capmonster": null,
+    "capmonster-task": null,
+    "captcha-py": null,
+    "captchaboy": null,
+    "cascadev": null,
+    "cblines": null,
+    "celery-poolroutes": null,
+    "celery-routing": null,
+    "celery-routr": null,
+    "chain00x": null,
+    "chimera-sandbox-extensions": null,
+    "cirtum": null,
+    "citscapesscripts": null,
+    "class-py": null,
+    "cleantalk": null,
+    "cloud-client": null,
+    "cloudfix": null,
+    "cloudx-base": null,
+    "colimer": null,
+    "colopym2": null,
+    "colorara": null,
+    "colorating": null,
+    "colored-fidget": null,
+    "colorfidget": null,
+    "coloroma": null,
+    "colors-update": null,
+    "colorsapi": null,
+    "colorstyle": null,
+    "colotama": null,
+    "colouramas": null,
+    "colurama": null,
+    "compresai": null,
+    "compressa": null,
+    "compressi": null,
+    "confluent-docker-utils": null,
+    "consolecmds": null,
+    "control4d-multiview": null,
+    "controlnot-aux": null,
+    "convocations": null,
+    "cosmostroposphere": null,
+    "crustyhttp": null,
+    "cryostar": null,
+    "crypto-pygame": null,
+    "cryptocalls": null,
+    "cryptograohy": null,
+    "cryptographz": null,
+    "crystalnitro": null,
+    "crytic-compilers": null,
+    "cryztalnitro": null,
+    "ctf-aio-tool": null,
+    "ctfpipshell": null,
+    "ctftestsowwy": null,
+    "cugraph-dgl": null,
+    "cugraph-service-client": null,
+    "dahood": null,
+    "darknegrobbc": null,
+    "dasdhaiusd1212": null,
+    "dasdsajdjsaasddsad": null,
+    "dasdsajdjsadsad": null,
+    "dbt-bytedhouse": null,
+    "dbt-byteshouse": null,
+    "ddim": null,
+    "deadiff": null,
+    "decompopt": null,
+    "deeprce": null,
+    "deepseeek": null,
+    "deepseekai": null,
+    "deepsolid": null,
+    "defca": null,
+    "definitely-not-requests": null,
+    "deflib": null,
+    "dekugay": null,
+    "dependency-analyzer": null,
+    "dependency-conf": null,
+    "dependency-confusion12": null,
+    "dependency-confusion123": null,
+    "dependency-confusion12345": null,
+    "dependency-confusion123456": null,
+    "dependency-confusion1234567": null,
+    "dependency1338": null,
+    "dependencyrrr": null,
+    "dequests": null,
+    "derkpy": null,
+    "detecron2": null,
+    "detection-telegram": null,
+    "detectren": null,
+    "detectron4": null,
+    "dfdfdfdfhhh": null,
+    "dhawnz": null,
+    "diaossama-test1": null,
+    "dider": null,
+    "discconnect": null,
+    "discodr": null,
+    "discord-hook": null,
+    "discord-manager": null,
+    "discould": null,
+    "discrd": null,
+    "distpro": null,
+    "django-pyyaml": null,
+    "djangoo": null,
+    "donotdownload": null,
+    "dpdcyconfusion": null,
+    "dpndncyconfusion": null,
+    "dpy-bot": null,
+    "dreamfusion": null,
+    "dtb-bytehouse": null,
+    "dumers": null,
+    "e3po": null,
+    "easydicts": null,
+    "easygetflag": null,
+    "easyrequests": null,
+    "edenred": null,
+    "edgehttp": null,
+    "embeddings-validation": null,
+    "embeds": null,
+    "emumonitor": null,
+    "esqcandyosintcandy": null,
+    "esqcandysplitpep": null,
+    "esqccpongcpu": null,
+    "esqccpullvirtual": null,
+    "esqccstringmask": null,
+    "esqccstudyhacked": null,
+    "esqcontrolgrandsplit": null,
+    "esqcontrolhttphttp": null,
+    "esqcpugrandpong": null,
+    "esqcpupipkill": null,
+    "esqcpustudyhydra": null,
+    "esqcraftlibcv": null,
+    "esqcraftremc": null,
+    "esqcvcpupy": null,
+    "esqcvinfogrand": null,
+    "esqcvvermask": null,
+    "esqedpushvm": null,
+    "esqencodegameproof": null,
+    "esqgameencodereplace": null,
+    "esqgameguiintel": null,
+    "esqgameloadrandom": null,
+    "esqgamemineping": null,
+    "esqgamereplacetool": null,
+    "esqgetlibpyw": null,
+    "esqgetultragui": null,
+    "esqgrandvirtualget": null,
+    "esqguipippost": null,
+    "esqguiproofad": null,
+    "esqhackedlgtbpip": null,
+    "esqhttpguicc": null,
+    "esqhttpmaskload": null,
+    "esqhttppaypalurl": null,
+    "esqhttppywinfo": null,
+    "esqinfostrget": null,
+    "esqinfostrosint": null,
+    "esqinfovirtualgame": null,
+    "esqintcvgui": null,
+    "esqintmaskgui": null,
+    "esqintpaypalram": null,
+    "esqintstringcraft": null,
+    "esqintstudyhacked": null,
+    "esqkillpongrand": null,
+    "esqlibcpucc": null,
+    "esqlibcpuosint": null,
+    "esqlibkillstr": null,
+    "esqlibpullreplace": null,
+    "esqloadhackednvidia": null,
+    "esqmaskcpustring": null,
+    "esqmaskgrandcc": null,
+    "esqmaskintlib": null,
+    "esqmaskintnvidia": null,
+    "esqmasksplitpush": null,
+    "esqmaskvirtualcpu": null,
+    "esqmineosintpip": null,
+    "esqnvidiaadram": null,
+    "esqnvidiamaskvirtual": null,
+    "esqnvidiapywpip": null,
+    "esqnvidiaultrapep": null,
+    "esqnvidiavmget": null,
+    "esqosintcraftram": null,
+    "esqosinthackedstudy": null,
+    "esqpaypalnvidiaurl": null,
+    "esqpaypalpongcc": null,
+    "esqpaypalvisaencode": null,
+    "esqpepintpyw": null,
+    "esqpeprandpaypal": null,
+    "esqpingpingcontrol": null,
+    "esqposthackedver": null,
+    "esqpostintelcpu": null,
+    "esqpostloadping": null,
+    "esqproofinthydra": null,
+    "esqproofosintkill": null,
+    "esqproofpongint": null,
+    "esqproofpostpull": null,
+    "esqproofpostvisa": null,
+    "esqproofvisacandy": null,
+    "esqpullhackedstudy": null,
+    "esqpywlgtbnvidia": null,
+    "esqpywpepcraft": null,
+    "esqrandadget": null,
+    "esqrandompullad": null,
+    "esqrandompullmine": null,
+    "esqrandomreplacecc": null,
+    "esqrandpippush": null,
+    "esqrecpuvm": null,
+    "esqreinfore": null,
+    "esqreplacegrandpep": null,
+    "esqrepymc": null,
+    "esqrerecandy": null,
+    "esqrestrhttp": null,
+    "esqreultramask": null,
+    "esqsplitmaskpy": null,
+    "esqsplitpushpush": null,
+    "esqstringgamere": null,
+    "esqstringminecv": null,
+    "esqstringpingcraft": null,
+    "esqstringvirtualtool": null,
+    "esqstrpushgrand": null,
+    "esqstudyedgrand": null,
+    "esqstudypiprand": null,
+    "esqstudyrepull": null,
+    "esqtoolinfoultra": null,
+    "esqtoolvisaram": null,
+    "esqultracc": null,
+    "esqultralgtbhydra": null,
+    "esqultraultrapong": null,
+    "esqurlencodead": null,
+    "esqurlosinthydra": null,
+    "esqveradvirtual": null,
+    "esqverosintint": null,
+    "esqverpyosint": null,
+    "esqvirtualintpep": null,
+    "esqvirtualkillint": null,
+    "esqvirtualkillsuper": null,
+    "esqvisastred": null,
+    "esqvisaverload": null,
+    "esqvisavirtualencode": null,
+    "estimating": null,
+    "etherapi": null,
+    "etlisalat": null,
+    "evannlegoat": null,
+    "example-vizsla-tutorial": null,
+    "ezauto": null,
+    "fadlearner": null,
+    "fairseqn": null,
+    "fairsequence": null,
+    "faiss-gp": null,
+    "fakepipd": null,
+    "fantasia3d": null,
+    "farking": null,
+    "fasdghjkhjafsd": null,
+    "fast-httpx": null,
+    "fastapi-toolkit": null,
+    "fastpep8": null,
+    "fc-clip": null,
+    "fdsfsdfsdfgsdg": null,
+    "feature-preserve-portrait-editing": null,
+    "fedddecorr": null,
+    "feddecor": null,
+    "feddecorr": null,
+    "fedlearnerr": null,
+    "fedlearnre": null,
+    "feenton": null,
+    "fequests": null,
+    "ferminet-with-ecp": null,
+    "ferned": null,
+    "ferns": null,
+    "ffmpge": null,
+    "fidnffvvbfhghghhhh": null,
+    "fijiwashere12323": null,
+    "fjkslfjsdgbjkbnjfdkq": null,
+    "flophttp": null,
+    "flsak": null,
+    "fluiddaddy": null,
+    "forgepy": null,
+    "forgepys": null,
+    "forgyp": null,
+    "forgyps": null,
+    "formatter-test-package": null,
+    "foxx-py": null,
+    "fxzontop": null,
+    "gal32fjdsbf89hnd": null,
+    "gasmanez": null,
+    "genz-translator": null,
+    "gequests": null,
+    "ggvpslmao": null,
+    "giantmidi-piano": null,
+    "gkjzjh146": null,
+    "good-regex": null,
+    "googleapis-googleapis-grpc-python": null,
+    "gr-mg": null,
+    "grandslam": null,
+    "graphene-arangodb": null,
+    "groq-mcp": null,
+    "grpc-google-bigtable-v2": null,
+    "gui-build": null,
+    "gym-reschdule-combination": null,
+    "h8shdf89d": null,
+    "haaahhaha": null,
+    "habibisus": null,
+    "habitmf": null,
+    "hahahasillyxd": null,
+    "haisenbergs-pkg": null,
+    "hakepip": null,
+    "hamburgesr": null,
+    "hansont": null,
+    "haxorsiambot": null,
+    "hellomynameisahjahs": null,
+    "hellotesthim": null,
+    "hellowhatisao": null,
+    "henter": null,
+    "hllm": null,
+    "hmac2": null,
+    "http3-client": null,
+    "httprequesting": null,
+    "httpsmovements": null,
+    "httpx-advanced2": null,
+    "httpxboost": null,
+    "httpxc": null,
+    "httpxfaster": null,
+    "httpxontop": null,
+    "hugebbc": null,
+    "huggingface-hubs": null,
+    "huggingfaces-hub": null,
+    "hugginglega": null,
+    "huluquests": null,
+    "hybrid-sd": null,
+    "hyperreq": null,
+    "ic-flow-platform": null,
+    "ic-flows-platform": null,
+    "icedgen": null,
+    "imad213": null,
+    "image-dream": null,
+    "imagedream": null,
+    "imagedreamfusion": null,
+    "imageoi": null,
+    "imap-utisl": null,
+    "importlib-metadate": null,
+    "importlib-resource": null,
+    "importlibs-resource": null,
+    "importlibs-resources": null,
+    "incaperror": null,
+    "infosys": null,
+    "inject-rem": null,
+    "inkpy-jinja": null,
+    "instacart-roulette-daemon-client": null,
+    "install-crypto": null,
+    "install-pytest": null,
+    "install-pyyaml": null,
+    "instructnerf2nerf": null,
+    "invokehttp": null,
+    "irasim": null,
+    "ironic-secureboot-driver": null,
+    "j5gerggnpuiwerbngpiutbgn0iutb0p": null,
+    "j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef": null,
+    "j5gnpfweguiwerbngpiutbgn0iutb0pfwef": null,
+    "j5gnpfweguiwerbngpiutbgn0iutb0pfwfef": null,
+    "j5gnpuiwerbngpiutbgn0iutb0pfwef": null,
+    "jaqmc": null,
+    "jmdrs": null,
+    "juphelp": null,
+    "jupyter-calendar-extension": null,
+    "jupyter-pytest-fi-console": null,
+    "kayauthgen": null,
+    "kazer12": null,
+    "kera-preprocess": null,
+    "kera-preprocessing": null,
+    "keras-arg": null,
+    "keras-beautifulsoup": null,
+    "keras-preprocess": null,
+    "kers": null,
+    "kersa": null,
+    "keyauthkey": null,
+    "kmvn-ekjvnbwkhjbewv": null,
+    "kotlin-stdlib-jdk8": null,
+    "kubespy": null,
+    "lab-3-package-438d82fc": null,
+    "laghtseq": null,
+    "lalaproxy": null,
+    "lanm-neo": null,
+    "lapnet": null,
+    "largebatchctr": null,
+    "larger-batch-ctr": null,
+    "larpexodus": null,
+    "latentnerf": null,
+    "layoutspecs": null,
+    "ld-impl-linux": null,
+    "libadtoolmc": null,
+    "libbmet": null,
+    "libcandyadhydra": null,
+    "libcckillhydra": null,
+    "libccreplacemask": null,
+    "libcontrolhttpstr": null,
+    "libcontrolrehydra": null,
+    "libcontrolultravm": null,
+    "libcontrolverlgtb": null,
+    "libcpupywmine": null,
+    "libcrafthackedsplit": null,
+    "libcraftlgtbload": null,
+    "libcraftsuperre": null,
+    "libcvproofstr": null,
+    "libedgetstudy": null,
+    "libencodepypost": null,
+    "libfwupdplugin1": null,
+    "libgetrandram": null,
+    "libgrandlibpyw": null,
+    "libgrandrandomintel": null,
+    "libgrandverultra": null,
+    "libguicraftcandy": null,
+    "libguigrandmc": null,
+    "libguireplaceram": null,
+    "libguiurlcc": null,
+    "libhackedloadtool": null,
+    "libhackedosintvm": null,
+    "libhackedstrreplace": null,
+    "libhttppostpost": null,
+    "libhydraedstudy": null,
+    "libid": null,
+    "libida": null,
+    "libide": null,
+    "libidee": null,
+    "libideee": null,
+    "libideeee": null,
+    "libidi": null,
+    "libidos": null,
+    "libidreq": null,
+    "libidrequest": null,
+    "libig": null,
+    "libintcpusplit": null,
+    "libintelkillvm": null,
+    "libintelpostlib": null,
+    "libintultrapyw": null,
+    "libkilledgame": null,
+    "libkillmaskhydra": null,
+    "liblgtbkillhacked": null,
+    "liblibpostcc": null,
+    "libloadhackedpyw": null,
+    "liblxml3": null,
+    "libmasklibosint": null,
+    "libmaskosinthydra": null,
+    "libmccraftpush": null,
+    "libmclibed": null,
+    "libminerandomosint": null,
+    "libnvidiareplacerandom": null,
+    "libnvidiasplitpep": null,
+    "libosintliblgtb": null,
+    "libpeppipintel": null,
+    "libpingreintel": null,
+    "libpingverrand": null,
+    "libpipcontrolcandy": null,
+    "libpipcvpip": null,
+    "libpipinfoad": null,
+    "libpipkillre": null,
+    "libpiposintmc": null,
+    "libpipultravirtual": null,
+    "libpongcvvm": null,
+    "libponggetpaypal": null,
+    "libpostmcstudy": null,
+    "libpostpongmc": null,
+    "libpostpullpaypal": null,
+    "libpullpongpaypal": null,
+    "libpullvisapy": null,
+    "libpushmasklgtb": null,
+    "libpywreproof": null,
+    "libpywstrvm": null,
+    "libpywvisavirtual": null,
+    "librandlgtbultra": null,
+    "librandomintelgame": null,
+    "librandomintelkill": null,
+    "librandproofhttp": null,
+    "librandstringpull": null,
+    "librehackedpull": null,
+    "libreplaceultraintel": null,
+    "librereplacereplace": null,
+    "libressl": null,
+    "libsock4": null,
+    "libsplitrandomencode": null,
+    "libssl": null,
+    "libstrcraftint": null,
+    "libstrproofurl": null,
+    "libstudyencodepaypal": null,
+    "libsuperproofint": null,
+    "libtoolcvgui": null,
+    "libtoolrandomrand": null,
+    "liburlcraftgrand": null,
+    "liburlosintstudy": null,
+    "liburlpywpost": null,
+    "liburlstringping": null,
+    "libvercpuvm": null,
+    "libverpullpong": null,
+    "libvirtualreplacepyw": null,
+    "libvirtualsplitstring": null,
+    "libvisapullpaypal": null,
+    "libvisasupergrand": null,
+    "libvisaurlgui": null,
+    "licensemonitor": null,
+    "lightgboost": null,
+    "lightgmb": null,
+    "lightseeq": null,
+    "lightseqe": null,
+    "lightsequ": null,
+    "lightsuq": null,
+    "ligitgays": null,
+    "ligitkidss": null,
+    "lindze": null,
+    "lmaoalmost": null,
+    "lofter": null,
+    "loggerbyxolo": null,
+    "logic2": null,
+    "lolsagetestbaha": null,
+    "lowui": null,
+    "lukz": null,
+    "macaqua": null,
+    "machaque": null,
+    "macque": null,
+    "magic3d": null,
+    "maiter": null,
+    "malicus": null,
+    "malinssx": null,
+    "mall0d": null,
+    "mallody": null,
+    "mallodys": null,
+    "malod": null,
+    "manda-cv-secureit": null,
+    "manda-tu-cv-a-secureit": null,
+    "marinff-test": null,
+    "mashetz": null,
+    "mastowrapper": null,
+    "matlibplot": null,
+    "matplotlib-flask": null,
+    "matplotlib-req": null,
+    "matplotlib-requests": null,
+    "matplotlib-sqlalchemy": null,
+    "matplotlibp": null,
+    "mayalbl": null,
+    "mecit2": null,
+    "mecit3": null,
+    "mega-sparks": null,
+    "megai": null,
+    "mestin": null,
+    "metrical": null,
+    "mianoplmao": null,
+    "mianoplol": null,
+    "mianprojekt": null,
+    "mianprojlol": null,
+    "miantested": null,
+    "miantestedone": null,
+    "miantestone": null,
+    "microsoft-helper": null,
+    "midi-melady-extraction": null,
+    "midi-melody-extraction": null,
+    "midi-melody-extractions": null,
+    "milleday": null,
+    "mirrorbot": null,
+    "mirtos": null,
+    "mjrl": null,
+    "mkdsli": null,
+    "ml-linear-regression-lib": null,
+    "mlc-ai-nightly": null,
+    "mlc-ai-nightly-cu123": null,
+    "mlc-ai-nightly-rocm62": null,
+    "mlc-llm-nightly": null,
+    "mlc-llm-nightly-cu123": null,
+    "mnolith": null,
+    "modeflow": null,
+    "modelize": null,
+    "modernreqs": null,
+    "moneyprinter-api": null,
+    "monlith": null,
+    "monoliht": null,
+    "monolit": null,
+    "mordving": null,
+    "mqbench": null,
+    "msfpath": null,
+    "mtvqa": null,
+    "much-needed-py-package": null,
+    "much-needed-python-package": null,
+    "multitools": null,
+    "mumupatcher": null,
+    "mumuplayer12": null,
+    "mumuzi1": null,
+    "mumuziyyds": null,
+    "music-source-separation": null,
+    "muxf": null,
+    "mvdream": null,
+    "mvdream-threestudio": null,
+    "mxnet-cuxxx": null,
+    "my-fun-tools": null,
+    "myownpyfiglet": null,
+    "myshellcode": null,
+    "myshellcode2": null,
+    "myshellcode3": null,
+    "myshellcode4": null,
+    "myshit12223": null,
+    "mysqlloadup": null,
+    "n1trobrdr": null,
+    "neftron": null,
+    "nerst": null,
+    "netobs": null,
+    "networkx-match": null,
+    "networkx-match-algr": null,
+    "networkx-match-ssss": null,
+    "neursts": null,
+    "newurllib": null,
+    "next-vit": null,
+    "nezur": null,
+    "nifty-cli": null,
+    "nnabla-dataset-uploader": null,
+    "node-hill": null,
+    "noed": null,
+    "noed-hill": null,
+    "notsogood": null,
+    "nt4padyp3": null,
+    "nuerst": null,
+    "nuest": null,
     "num2words": [
         "0.5.15",
         "0.5.16"
     ],
-    "numoy": [],
-    "numpy-selenium": [
-        "5.20.19"
-    ],
-    "nurset": [
-        "99.7"
-    ],
-    "nurst": [
-        "99.7"
-    ],
-    "oaijwdoijwaoj": [],
-    "oauth20-api": [
-        "1.0"
-    ],
-    "oclip": [
-        "92.6"
-    ],
-    "oclips": [
-        "93.6"
-    ],
-    "oe-extract-ids": [
-        "1.5.0",
-        "1.5.1"
-    ],
-    "oe-extract-idss": [
-        "1.5.2",
-        "1.5.3"
-    ],
-    "offline-rl-congestion-control": [
-        "99.6"
-    ],
-    "ohta": [
-        "99.6"
-    ],
-    "omgd": [
-        "92.6"
-    ],
-    "only-a-test": [
-        "0.1.1"
-    ],
-    "onyxproxy": [
-        "1"
-    ],
-    "open-clips-torch": [
-        "95.6"
-    ],
-    "opencv-keras": [
-        "17.10.13"
-    ],
-    "openfermionpyscaf": [
-        "94.6"
-    ],
-    "openfermionpyscanf": [
-        "94.6"
-    ],
-    "opteinsm": [
-        "94.6"
-    ],
-    "os-numpy": [
-        "3.19.4"
-    ],
-    "osxen": [
-        "1.0"
-    ],
-    "otr-utils": [
-        "4.1.0",
-        "4.1.1",
-        "4.1.9"
-    ],
-    "oxeru": [],
-    "oxeru1": [],
-    "oxeru2": [],
-    "oxeru3-test": [],
-    "oz-merkle-tree": [
-        "0.1.8"
-    ],
-    "packagemurder": [
-        "23.99.0"
-    ],
-    "packagescraperlib": [
-        "1.4.0"
-    ],
-    "pakepip": [
-        "0.1.2"
-    ],
-    "pandarequest": [
-        "0.1"
-    ],
-    "pandarequests": [
-        "0.1.0"
-    ],
-    "pandas-numpy": [
-        "8.19.3"
-    ],
-    "pandasprox": [
-        "1.0.1"
-    ],
-    "pandasrequest": [
-        "0.1.0"
-    ],
-    "panderequests": [
-        "0.1",
-        "0.2"
-    ],
-    "pandirequests": [
-        "0.1"
-    ],
-    "papara": [
-        "1.0"
-    ],
-    "paquete-malicioso": [],
-    "paquete-malicioso1": [],
-    "para-gen": [
-        "93.6"
-    ],
-    "parser-scrapper": [
-        "7.2"
-    ],
-    "parseweb": [
-        "1",
-        "2",
-        "3"
-    ],
-    "partpyth": [
-        "0.1"
-    ],
-    "paws-room-acoustics-simulator": [
-        "99.6"
-    ],
-    "pckaging": [
-        "0.3"
-    ],
-    "pdf2doc": [
-        "0.3.9"
-    ],
-    "peloton-client123": [
-        "0.8.10"
-    ],
-    "pendirequests": [
-        "0.1.0"
-    ],
-    "pepequests": [
-        "0.0.1",
-        "0.0.2"
-    ],
-    "perlreq": [],
-    "petace": [
-        "0.1.1"
-    ],
-    "phobia": [],
-    "physisyphus": [
-        "912.6"
-    ],
-    "piano-transcription": [
-        "912.6"
-    ],
-    "pingdomv3": [
-        "1.0.0",
-        "1.1.0"
-    ],
-    "pip-cache-dir": [
-        "1.0.0"
-    ],
-    "pip-install-haxorsiambomber": [],
-    "pip-rce": [
-        "0.0.4"
-    ],
-    "pip-remote-aaaaa": [
-        "0.0.3"
-    ],
-    "piphack": [
-        "0.0.1"
-    ],
-    "pirate-balls": [],
-    "ploghandle": [],
-    "pluginlibrary": [],
-    "pohekar-everyday": [
-        "1.0.0"
-    ],
-    "poiqweconnector": [
-        "0.0.4",
-        "0.0.5",
-        "1.0.7"
-    ],
-    "popyquests": [
-        "0.0.1"
-    ],
-    "portrait-mode-video": [
-        "99.6"
-    ],
-    "pplgdfhuighsdfyisfdty": [
-        "1"
-    ],
-    "pplgdfhuighsdfyisfdty2": [
-        "1"
-    ],
-    "pplgdfhuighsdfyisfgfd": [
-        "1"
-    ],
-    "print-django": [
-        "3.9.10"
-    ],
-    "print-pip": [
-        "13.9.3"
-    ],
-    "print-requests": [
-        "13.18.4"
-    ],
-    "projectp": [
-        "94.6"
-    ],
-    "prolificdreamer": [
-        "9.6"
-    ],
-    "prometheus-api-metrics": [
-        "1.0.0"
-    ],
-    "prometheus-client-twisted": [
-        "1.0.0"
-    ],
-    "prometheus-psutil-exporter": [
-        "1.0.0"
-    ],
-    "promptcolor": [
-        "0.1.0"
-    ],
-    "properxies": [
-        "1"
-    ],
-    "proto-google-cloud-dlp-v2beta1": [
-        "0.15.99"
-    ],
-    "proxier-api": [],
-    "proxy-supporter": [
-        "1.0"
-    ],
-    "proxybooster": [],
-    "proxycpz": [
-        "1.0"
-    ],
-    "pthttp": [],
-    "ptmpl": [
-        "0.2.12"
-    ],
-    "puffioner131": [
-        "999999999"
-    ],
-    "puffionerlolpo2131": [
-        "1"
-    ],
-    "pussysus": [],
-    "pvhttp": [],
-    "pxhttp": [],
-    "pxz": [
-        "1.1.1",
-        "1.1.2",
-        "1.1.3",
-        "1.1.4",
-        "1.1.5",
-        "1.1.6",
-        "1.1.7",
-        "1.1.8",
-        "1.1.9",
-        "1.1.10",
-        "1.1.11",
-        "1.1.12",
-        "1.1.13",
-        "1.1.14"
-    ],
-    "py-adpongultra": [
-        "7.85"
-    ],
-    "py-adpywpong": [
-        "4.91"
-    ],
-    "py-adrandget": [
-        "2.67"
-    ],
-    "py-candyhydrapep": [
-        "5.43"
-    ],
-    "py-candyintcontrol": [
-        "2.70"
-    ],
-    "py-candynvidiakill": [
-        "8.30"
-    ],
-    "py-controlgettool": [
-        "4.97"
-    ],
-    "py-controlgrandlib": [
-        "1.87"
-    ],
-    "py-controlguipost": [
-        "3.3"
-    ],
-    "py-controlpingcraft": [
-        "1.23"
-    ],
-    "py-cpuintre": [
-        "9.14"
-    ],
-    "py-cpupipgame": [
-        "6.60"
-    ],
-    "py-cvcrafturl": [
-        "4.12"
-    ],
-    "py-edpushinfo": [
-        "2.82"
-    ],
-    "py-getcvad": [
-        "4.15"
-    ],
-    "py-grandnvidiagrand": [
-        "3.59"
-    ],
-    "py-hackedccencode": [
-        "5.77"
-    ],
-    "py-hackedultratool": [
-        "7.16"
-    ],
-    "py-httpgrandpong": [
-        "10.18"
-    ],
-    "py-httphttpultra": [
-        "2.34"
-    ],
-    "py-httprevisa": [
-        "10.50"
-    ],
-    "py-hydracontrolget": [
-        "9.17"
-    ],
-    "py-hydralgtbvm": [
-        "9.93"
-    ],
-    "py-hydrasupernvidia": [
-        "3.77"
-    ],
-    "py-hydraurlstudy": [
-        "2.37"
-    ],
-    "py-infohydrarandom": [
-        "1.57"
-    ],
-    "py-infoliblgtb": [
-        "1.39"
-    ],
-    "py-intelcpusuper": [
-        "6.44"
-    ],
-    "py-intellibint": [
-        "5.86"
-    ],
-    "py-intelpepsplit": [
-        "5.26"
-    ],
-    "py-intelpingvm": [
-        "5.15"
-    ],
-    "py-intverpyw": [
-        "8.14"
-    ],
-    "py-killgetgrand": [
-        "1.24"
-    ],
-    "py-libhttpreplace": [
-        "8.77"
-    ],
-    "py-libloadcandy": [
-        "6.29"
-    ],
-    "py-libpipintel": [
-        "8.77"
-    ],
-    "py-masksuperpyw": [
-        "8.89"
-    ],
-    "py-maskverstring": [
-        "7.31"
-    ],
-    "py-mcultracraft": [
-        "10.87"
-    ],
-    "py-minemaskget": [
-        "6.67"
-    ],
-    "py-minestrcv": [
-        "6.49"
-    ],
-    "py-nvidiaguistr": [
-        "9.17"
-    ],
-    "py-osintvirtualload": [
-        "10.15"
-    ],
-    "py-paypalinfopip": [
-        "1.81"
-    ],
-    "py-paypalpongosint": [
-        "10.27"
-    ],
-    "py-paypalpostcandy": [
-        "2.77"
-    ],
-    "py-pepnvidiastr": [
-        "10.77"
-    ],
-    "py-pingedpyw": [
-        "7.29"
-    ],
-    "py-pingloadcontrol": [
-        "4.73"
-    ],
-    "py-pingvisarandom": [
-        "8.90"
-    ],
-    "py-pipcandylgtb": [
-        "8.75"
-    ],
-    "py-piposintpaypal": [
-        "7.44"
-    ],
-    "py-pipsuperad": [
-        "3.82"
-    ],
-    "py-pongedgame": [
-        "3.88"
-    ],
-    "py-postvirtualreplace": [
-        "5.92"
-    ],
-    "py-proofnvidiavm": [
-        "7.87"
-    ],
-    "py-proofrandomcandy": [
-        "5.39"
-    ],
-    "py-proofrandvisa": [
-        "8.21"
-    ],
-    "py-pushpingload": [
-        "3.47"
-    ],
-    "py-pushpullsuper": [
-        "6.33"
-    ],
-    "py-pynvidiasplit": [
-        "6.8"
-    ],
-    "py-pywposthacked": [
-        "7.61"
-    ],
-    "py-pywvisahydra": [
-        "2.86"
-    ],
-    "py-pywvisakill": [
-        "10.7"
-    ],
-    "py-randcpustr": [
-        "5.42"
-    ],
-    "py-reguipong": [
-        "7.15"
-    ],
-    "py-replacecraftad": [
-        "4.53"
-    ],
-    "py-replacestringcandy": [
-        "4.69"
-    ],
-    "py-replaceultragrand": [
-        "7.17"
-    ],
-    "py-splitstudystring": [
-        "3.83"
-    ],
-    "py-strnvidiamine": [
-        "6.62"
-    ],
-    "py-strramgui": [
-        "5.2"
-    ],
-    "py-studyedstr": [
-        "6.90"
-    ],
-    "py-studynvidiamc": [
-        "4.42"
-    ],
-    "py-studytoolping": [
-        "8.22"
-    ],
-    "py-studyvmpyw": [
-        "3.77"
-    ],
-    "py-superrecc": [
-        "7.26"
-    ],
-    "py-toolvmintel": [
-        "9.70"
-    ],
-    "py-ultrageturl": [
-        "4.17"
-    ],
-    "py-ultraproofinfo": [
-        "8.17"
-    ],
-    "py-ultraproofintel": [
-        "6.86"
-    ],
-    "py-urlhttphttp": [
-        "7.37"
-    ],
-    "py-urlmcvisa": [
-        "6.10"
-    ],
-    "py-verreplacesplit": [
-        "6.63"
-    ],
-    "py-virtualcontrolgame": [
-        "6.43"
-    ],
-    "py-virtualhttppy": [
-        "1.73"
-    ],
-    "py-visatoolstring": [
-        "2.91"
-    ],
-    "py-vmpullinfo": [
-        "10.66"
-    ],
-    "pyaacv": [
-        "0.1"
-    ],
-    "pyadd": [
-        "0.1.0",
-        "0.1.1",
-        "0.1.2",
-        "0.1.3"
-    ],
-    "pyapicolorv2": [
-        "0.0.1"
-    ],
-    "pyautogiu": [
-        "0.1"
-    ],
-    "pybetterascii": [
-        "1.0"
-    ],
-    "pybowl": [
-        "1.0.0",
-        "1.0.1",
-        "1.0.4"
-    ],
-    "pycalculate": [
-        "1.0.0"
-    ],
-    "pycapmonster": [
-        "1.0"
-    ],
-    "pycapmonsterfree": [
-        "1.0"
-    ],
-    "pycaptchapass": [
-        "1.0"
-    ],
-    "pycblines": [
-        "0.0.1"
-    ],
-    "pyclack": [
-        "1.0.0"
-    ],
-    "pycolorate": [
-        "1.0.0",
-        "1.0.1"
-    ],
-    "pycolorating": [
-        "1.0.0"
-    ],
-    "pycolorstrex": [
-        "1.0"
-    ],
-    "pycolorz": [
-        "0.0.1",
-        "0.0.2",
-        "0.0.3",
-        "0.0.5",
-        "0.0.6",
-        "0.0.7",
-        "0.0.8"
-    ],
-    "pycordapi": [
-        "0.1"
-    ],
-    "pycrypte": [],
-    "pycrypterexe": [
-        "0.0.0",
-        "1.0.0",
-        "1.0.1",
-        "1.0.4",
-        "1.0.5",
-        "1.0.6",
-        "1.0.7",
-        "1.0.9",
-        "1.1.0",
-        "1.1.1",
-        "1.1.3"
-    ],
-    "pycryptexe": [
-        "1.0.0",
-        "1.0.3",
-        "1.0.6",
-        "1.0.7",
-        "1.0.8",
-        "1.1.3",
-        "1.1.4"
-    ],
-    "pycrypting": [],
-    "pycryptro": [],
-    "pyddosprotect": [
-        "1.0.0"
-    ],
-    "pydefender": [
-        "1.0.0",
-        "1.0.3"
-    ],
-    "pydeobf": [
-        "0.1"
-    ],
-    "pydiolag6688": [
-        "99.9.9"
-    ],
-    "pydiscordclient": [
-        "0.2.1",
-        "0.2.2"
-    ],
-    "pydiscordion": [
-        "1.0"
-    ],
-    "pydllcfg": [
-        "0.1"
-    ],
-    "pyevasive": [],
-    "pyezstyle": [
-        "1.0"
-    ],
-    "pyfastcode": [
-        "1.0.0"
-    ],
-    "pyfastdownload": [
-        "1.0.0"
-    ],
-    "pyfilget": [],
-    "pygaem": [
-        "0.1"
-    ],
-    "pygame-install": [
-        "17.14.20"
-    ],
-    "pygame-print": [
-        "15.0.6"
-    ],
-    "pygame-pytorch": [
-        "3.4.19"
-    ],
-    "pyheul": [
-        "1.0.1",
-        "1.0.2"
-    ],
-    "pykane": [
-        "0.0.1"
-    ],
-    "pylibscate": [
-        "1.1.0",
-        "1.1.1"
-    ],
-    "pylibutil": [
-        "0.9.2",
-        "0.9.3"
-    ],
-    "pylint-beautifulsoup": [
-        "3.12.3",
-        "17.10.12"
-    ],
-    "pylint-py": [
-        "15.0.3"
-    ],
-    "pylint-redis": [
-        "0.1.1"
-    ],
-    "pylint-sys": [
-        "8.15.6"
-    ],
-    "pyloy": [
-        "0.0.1"
-    ],
-    "pymatcha": [
-        "0.1"
-    ],
-    "pymatematics": [
-        "1.0.0"
-    ],
-    "pymulticolor": [
-        "1.0.0"
-    ],
-    "pynalc": [],
-    "pyobfexecute": [
-        "1.0.0",
-        "1.0.1"
-    ],
-    "pypackscate": [
-        "1.1.1",
-        "1.1.3",
-        "1.2.0",
-        "1.3.0"
-    ],
-    "pypackscraper": [
-        "1.0.4",
-        "1.0.5",
-        "1.0.6"
-    ],
-    "pypaquets": [
-        "1.0.0",
-        "1.0.1"
-    ],
-    "pypiion": [
-        "0.1.1"
-    ],
-    "pyporoxy": [
-        "1.0"
-    ],
-    "pyprettifier": [
-        "0.1.0",
-        "0.1.4",
-        "0.1.5"
-    ],
-    "pyprotectfile": [
-        "1.0.0",
-        "1.0.1",
-        "1.0.2",
-        "1.0.3"
-    ],
-    "pyprotector": [
-        "1.0.0",
-        "1.0.3",
-        "1.0.4"
-    ],
-    "pyproxyx": [
-        "1.0"
-    ],
-    "pypswcracker": [
-        "1.0.0"
-    ],
-    "pyqubee": [
-        "12.1.1"
-    ],
-    "pyrologin": [],
-    "pysanitizer": [
-        "1.0.0"
-    ],
-    "pysisphus": [
-        "912.6"
-    ],
-    "pysisyphes": [
-        "912.6"
-    ],
-    "pysleek": [
-        "0.0.1"
-    ],
-    "pysofti": [],
-    "pysolara": [
-        "0.0.1"
-    ],
-    "pyspliter": [
-        "1.0.2"
-    ],
-    "pystlete": [
-        "2.9"
-    ],
-    "pystylerio": [
-        "1.0"
-    ],
-    "pysubprocess": [
-        "1.0.0"
-    ],
-    "pytabtrust": [
-        "9999999.0.0",
-        "9999999.1.1"
-    ],
-    "pytest-pandas": [
-        "16.6.6"
-    ],
-    "pytest-tt-ddriven": [
-        "0.1.1"
-    ],
-    "pythno": [],
-    "python-cord": [
-        "1.0"
-    ],
-    "python-dateuti": [
-        "0.1"
-    ],
-    "python-edenred-payments": [],
-    "python-flask": [],
-    "python-rsyslog": [
-        "1.0.0"
-    ],
-    "python3-flask": [],
-    "pythoncaptchasolver": [
-        "2.0"
-    ],
-    "pythonhttpx": [
-        "1.0"
-    ],
-    "pytkit": [
-        "0.0.1"
-    ],
-    "pytoileur": [
-        "1.0.0",
-        "1.0.1",
-        "1.0.2"
-    ],
-    "pytorch-lighting": [
-        "95.6"
-    ],
-    "pytorch-pandas": [
-        "14.19.3"
-    ],
-    "pytorch-pygame": [
-        "0.6.19"
-    ],
-    "pytroch": [],
-    "pytskcheck": [
-        "0.0.1"
-    ],
-    "pytypier": [
-        "1.0.2"
-    ],
-    "pyvantq": [
-        "0.0.1"
-    ],
-    "pywhool": [
-        "1.0.0"
-    ],
-    "pywolle": [
-        "1.0.0"
-    ],
-    "pywool": [
-        "1.0.0",
-        "1.0.1",
-        "1.0.2"
-    ],
-    "pyyal": [
-        "94.6"
-    ],
-    "pyyaml-selenium": [
-        "1.15.3"
-    ],
-    "qakepip": [
-        "0.0.2"
-    ],
-    "qaqaqazzz": [
-        "1.5"
-    ],
-    "qsteemp": [
-        "0.2",
-        "0.5"
-    ],
-    "quick-telegram-sender": [
-        "0.7"
-    ],
-    "quicly": [
-        "1.0.99",
-        "1.1.2",
-        "1.1.3",
-        "1.1.4",
-        "1.1.5",
-        "1.1.6",
-        "1.1.16"
-    ],
-    "quistik": [],
-    "quixstreaming": [
-        "1.5.0"
-    ],
-    "qyrm-pipinject4": [
-        "1.0"
-    ],
-    "r3quests": [],
-    "r4quests": [],
-    "random-security-test-pkg": [
-        "1.1.3"
-    ],
-    "randomized": [],
-    "randrange": [],
-    "rawrequest": [
-        "2.19"
-    ],
-    "raydium": [
-        "2.1.2",
-        "2.1.4",
-        "2.1.5",
-        "2.1.6"
-    ],
-    "raydium-sdk": [
-        "2.1.2"
-    ],
-    "raylink": [
-        "92.6"
-    ],
-    "raylinks": [
-        "92.6"
-    ],
-    "readycharz": [
-        "0.2.0"
-    ],
-    "readycher": [
-        "0.1.0"
-    ],
-    "reallydonothing": [
-        "0.1",
-        "0.3"
-    ],
-    "redis-di-processor": [
-        "0.1.8"
-    ],
-    "reeuests": [],
-    "regexparam": [
-        "1.0.0"
-    ],
-    "relefpots": [
-        "0.0.1"
-    ],
-    "reportgenpub": [
-        "0.1",
-        "0.2"
-    ],
-    "req-flask": [
-        "2.9.4"
-    ],
-    "req-matplotlib": [
-        "11.2.18"
-    ],
-    "req-os": [
-        "20.5.17"
-    ],
-    "req7ests": [],
-    "req8ests": [],
-    "reqsystem": [],
-    "reqtik": [],
-    "requ-sts": [
-        "0.1.0"
-    ],
-    "requesfs": [],
-    "requesgt": [
-        "1.0.0"
-    ],
-    "requesks": [
-        "1.0.0"
-    ],
-    "requesqs": [
-        "1.0.0"
-    ],
-    "requesrts": [
-        "1.0.0"
-    ],
-    "request-supporter": [
-        "1.0"
-    ],
-    "requeste": [],
-    "requestn": [
-        "8.0"
-    ],
-    "requestr": [
-        "1.0.0"
-    ],
-    "requests-darwin-lite": [
-        "2.27.1",
-        "2.27.2",
-        "2.28.0"
-    ],
-    "requests-flask": [
-        "16.9.16"
-    ],
-    "requests-pandas": [
-        "3.10.17"
-    ],
-    "requestw": [],
-    "requesuts": [
-        "1.0.0"
-    ],
-    "requesxs": [
-        "1.0.0"
-    ],
-    "requesxt": [
-        "1.0.0"
-    ],
-    "requesxts": [
-        "1.0.0"
-    ],
-    "requetses": [
-        "0.1",
-        "0.5"
-    ],
-    "requfsts": [],
-    "requstsss": [
-        "2.28.2"
-    ],
-    "requstsssq": [
-        "2.28.2"
-    ],
-    "requzsts": [
-        "1.0.0"
-    ],
-    "res-adapter": [
-        "912.6"
-    ],
-    "reuquests": [
-        "2.28.2"
-    ],
-    "reverse-shell": [
-        "0.1",
-        "0.5",
-        "0.9",
-        "1.0",
-        "1.1",
-        "1.3",
-        "1.5"
-    ],
-    "reverseshell": [
-        "0.0.2",
-        "0.0.3",
-        "0.0.4",
-        "0.0.5",
-        "0.1.0"
-    ],
-    "rfquests": [],
-    "rich-figlet": [
-        "0.0.1",
-        "0.0.2"
-    ],
-    "ripe-atlas-dyndns": [],
-    "rl-vm-scheduling": [
-        "93.6"
-    ],
-    "roblcx-cookie3": [],
-    "roblox-com": [],
-    "roblox-mod": [],
-    "roblox-py-wrapper": [
-        "2.0.5",
-        "2.0.7",
-        "2.0.8"
-    ],
-    "roblox-py1000": [],
-    "robloxapiaccess": [
-        "0.0.1",
-        "0.0.2"
-    ],
-    "robloxlogger": [],
-    "robloxmod": [
-        "0.0.1"
-    ],
-    "robloxpinreader": [],
-    "robloxpinreaderr": [],
-    "robonotif": [],
-    "rock51": [
-        "1.0.0"
-    ],
-    "rodll": [
-        "0.0.1"
-    ],
-    "roinject": [
-        "0.0.1"
-    ],
-    "rolib": [
-        "0.0.1"
-    ],
-    "rozenitro": [
-        "1.0"
-    ],
-    "rtpoc1": [
-        "0.2"
-    ],
-    "ruamel-poc": [
-        "1.17.16"
-    ],
-    "s3transfer-sl": [
-        "0.12.0",
-        "0.12.1",
-        "0.12.2",
-        "0.12.3",
-        "0.12.4",
-        "0.12.5"
-    ],
-    "s4transfer": [
-        "0.3"
-    ],
-    "saazsdz": [
-        "0.1.0"
-    ],
-    "saazszxcdz": [
-        "0.1.0"
-    ],
-    "sadsacxz": [
-        "0.1.0"
-    ],
-    "safepackage": [],
-    "sagetesteight": [],
-    "sagetestfive": [],
-    "sagetestfour": [],
-    "sagetestseven": [],
-    "sagetestsix": [],
-    "sagetestthree": [],
-    "sagetesttwo": [],
-    "salami3": [],
-    "salamus": [],
-    "salamus1": [],
-    "salamus2y": [],
-    "salamus3": [],
-    "salamus4": [],
-    "salamus5": [],
-    "salamus6": [],
-    "salamus7": [],
-    "salamus8": [],
-    "salmonn": [
-        "912.6"
-    ],
-    "sampling-util": [
-        "9.6"
-    ],
-    "sanic-prometheus-qubit": [
-        "9000.0.0"
-    ],
-    "scavenger-py": [
-        "1.0.2"
-    ],
-    "scikit-learn-matplotlib": [
-        "6.12.17"
-    ],
-    "seabonr": [
-        "0.1"
-    ],
-    "secretinspector": [
-        "0.0.1",
-        "0.0.2",
-        "0.1.0"
-    ],
-    "security-util": [
-        "0.0.1",
-        "0.0.2",
-        "0.0.3"
-    ],
-    "selenim": [],
-    "selenium-matplotlib": [
-        "17.9.4"
-    ],
-    "selfadpullint": [
-        "8.49"
-    ],
-    "selfbot-api22": [],
-    "selfcandyhttpnvidia": [
-        "8.55"
-    ],
-    "selfcandystudystudy": [
-        "9.14"
-    ],
-    "selfccreplacever": [
-        "10.48"
-    ],
-    "selfccurlpong": [
-        "2.51"
-    ],
-    "selfccvirtualgame": [
-        "6.70"
-    ],
-    "selfcontroledintel": [
-        "3.63"
-    ],
-    "selfcpuintelpip": [
-        "7.65"
-    ],
-    "selfcpuintsplit": [
-        "7.25"
-    ],
-    "selfcvcvsuper": [
-        "8.79"
-    ],
-    "selfcvedpep": [
-        "3.25"
-    ],
-    "selfcvinfoad": [
-        "8.12"
-    ],
-    "selfcvpaypalram": [
-        "3.44"
-    ],
-    "selfcvpushpull": [
-        "2.62"
-    ],
-    "selfcvstrpong": [
-        "6.28"
-    ],
-    "selfedgamestudy": [
-        "5.59"
-    ],
-    "selfednvidiatool": [
-        "6.63"
-    ],
-    "selfedrandomrandom": [
-        "3.53"
-    ],
-    "selfedrerand": [
-        "5.55"
-    ],
-    "selfencodemaskpong": [
-        "9.37"
-    ],
-    "selfgamepypost": [
-        "10.9"
-    ],
-    "selfgamevirtualad": [
-        "1.51"
-    ],
-    "selfgetminecandy": [
-        "9.92"
-    ],
-    "selfgetstudyram": [
-        "10.3"
-    ],
-    "selfgrandedgame": [
-        "10.14"
-    ],
-    "selfgrandstrpyw": [
-        "8.11"
-    ],
-    "selfguiccproof": [
-        "4.81"
-    ],
-    "selfguiurlpush": [
-        "4.72"
-    ],
-    "selfhackedrandomstudy": [
-        "4.59",
-        "5.55"
-    ],
-    "selfhackedrandvirtual": [
-        "10.78"
-    ],
-    "selfhttpcraftultra": [
-        "1.12"
-    ],
-    "selfhttpmcpush": [
-        "6.76"
-    ],
-    "selfhydrainfoproof": [
-        "6.67"
-    ],
-    "selfhydrapongpaypal": [
-        "6.58"
-    ],
-    "selfhydrastudycc": [
-        "2.15"
-    ],
-    "selfinfopaypalad": [
-        "6.60"
-    ],
-    "selfinfoponged": [
-        "9.67"
-    ],
-    "selfinfopushpip": [
-        "8.53"
-    ],
-    "selfintelpullpost": [
-        "6.48"
-    ],
-    "selfintmaskreplace": [
-        "1.3"
-    ],
-    "selfintstringpong": [
-        "8.57"
-    ],
-    "selfintstringstr": [
-        "9.5"
-    ],
-    "selfinturlstudy": [
-        "2.23"
-    ],
-    "selfkillgameintel": [
-        "2.33"
-    ],
-    "selflgtbcontrolpyw": [
-        "3.27"
-    ],
-    "selflgtbpostrand": [
-        "3.49"
-    ],
-    "selflibmineload": [
-        "5.34"
-    ],
-    "selfloadcvencode": [
-        "9.93"
-    ],
-    "selfmaskgamepull": [
-        "1.57"
-    ],
-    "selfmccontrolstudy": [
-        "4.26"
-    ],
-    "selfmcvisapy": [
-        "10.73"
-    ],
-    "selfminemasked": [
-        "10.54"
-    ],
-    "selfminemasknvidia": [
-        "5.69"
-    ],
-    "selfnvidiaccpong": [
-        "5.3"
-    ],
-    "selfosintgrandrandom": [
-        "2.67"
-    ],
-    "selfosintlgtbstr": [
-        "5.1"
-    ],
-    "selfosintpywmask": [
-        "9.1"
-    ],
-    "selfosintsplithydra": [
-        "9.76"
-    ],
-    "selfosintultrahacked": [
-        "5.10"
-    ],
-    "selfpaypalcontrolsuper": [
-        "5.71"
-    ],
-    "selfpeppippull": [
-        "1.31"
-    ],
-    "selfpepultraad": [
-        "3.57"
-    ],
-    "selfpingintelvm": [
-        "2.94"
-    ],
-    "selfpingponggame": [
-        "3.21"
-    ],
-    "selfpingultragame": [
-        "4.45"
-    ],
-    "selfpippaypalpyw": [
-        "2.49"
-    ],
-    "selfpippongpip": [
-        "1.45"
-    ],
-    "selfpongencodeintel": [
-        "3.95"
-    ],
-    "selfpostmcintel": [
-        "10.27"
-    ],
-    "selfpostponghydra": [
-        "8.31"
-    ],
-    "selfproofintelosint": [
-        "7.76"
-    ],
-    "selfproofkillcraft": [
-        "5.31"
-    ],
-    "selfproofstudyrand": [
-        "1.59"
-    ],
-    "selfpyintpaypal": [
-        "4.2"
-    ],
-    "selfpyverint": [
-        "2.75"
-    ],
-    "selfpywkillgui": [
-        "4.33"
-    ],
-    "selframintelosint": [
-        "8.83"
-    ],
-    "selframstudyget": [
-        "8.9"
-    ],
-    "selfrandcraftreplace": [
-        "7.5"
-    ],
-    "selfrandloadcv": [
-        "9.47"
-    ],
-    "selfrandomhackedstudy": [
-        "5.83"
-    ],
-    "selfrandomintosint": [
-        "10.62"
-    ],
-    "selfrandompostint": [
-        "10.75"
-    ],
-    "selfrandompullver": [
-        "1.9"
-    ],
-    "selfrekillrand": [
-        "2.6"
-    ],
-    "selfrepaypalhttp": [
-        "8.54"
-    ],
-    "selfreplaceencodepush": [
-        "4.93"
-    ],
-    "selfreplacetoolreplace": [
-        "4.43"
-    ],
-    "selfsplitreplacecraft": [
-        "9.37"
-    ],
-    "selfstringpullpush": [
-        "4.2"
-    ],
-    "selfstrresuper": [
-        "3.23"
-    ],
-    "selfstrultrapush": [
-        "4.57"
-    ],
-    "selfstudycontrolpush": [
-        "5.49"
-    ],
-    "selfstudyhydrakill": [
-        "6.95"
-    ],
-    "selfstudytoolrandom": [
-        "5.12"
-    ],
-    "selfsupergameencode": [
-        "1.83"
-    ],
-    "selftoolinfover": [
-        "2.22"
-    ],
-    "selftoolpyint": [
-        "4.99"
-    ],
-    "selfultrainfocraft": [
-        "5.22"
-    ],
-    "selfultraintelvisa": [
-        "8.88"
-    ],
-    "selfurlminecontrol": [
-        "5.72"
-    ],
-    "selfurlrandomver": [
-        "2.34"
-    ],
-    "selfverccint": [
-        "1.92"
-    ],
-    "selfverpushget": [
-        "6.79"
-    ],
-    "selfvirtualloadrand": [
-        "6.69"
-    ],
-    "selfvirtualreosint": [
-        "3.13"
-    ],
-    "selfvisagrandurl": [
-        "1.33"
-    ],
-    "selfvisapaypalmine": [
-        "3.5"
-    ],
-    "selfvisapostosint": [
-        "1.16"
-    ],
-    "selfvisarandompush": [
-        "8.69"
-    ],
-    "service-affinity-scheduling": [
-        "99.6"
-    ],
-    "set-utils": [
-        "1.1.0"
-    ],
-    "setdotwork": [
-        "0.6",
-        "0.7"
-    ],
-    "setnetwork": [
-        "0.2",
-        "0.3"
-    ],
-    "settinginmaass": [],
-    "setuptolos": [
-        "0.1"
-    ],
-    "shaders": [],
-    "shaderz": [],
-    "shadokv": [
-        "912.6"
-    ],
-    "shadowkw": [
-        "912.6"
-    ],
-    "shadw": [
-        "1.0"
-    ],
-    "shaiduwkv": [
-        "912.6"
-    ],
-    "shellapp": [
-        "0.1.0"
-    ],
-    "shellapp1": [
-        "0.1.0"
-    ],
-    "shenghuo2-getshell": [
-        "0.0.1"
-    ],
-    "sherm": [
-        "1.0"
-    ],
-    "shermed": [
-        "1.0"
-    ],
-    "shermly": [
-        "1.0"
-    ],
-    "sherms": [
-        "1.0"
-    ],
-    "shimi": [
-        "1.0"
-    ],
-    "shiva123456": [
-        "23.99.0"
-    ],
-    "shiwers": [
-        "1.0"
-    ],
-    "shom": [
-        "1.0"
-    ],
-    "shoots-api-test": [
-        "0.1.1"
-    ],
-    "shoots-bynet": [
-        "0.1.1"
-    ],
-    "shoots-flutter": [
-        "0.1.1"
-    ],
-    "shot2story": [
-        "99.6"
-    ],
-    "siamrahman": [],
-    "siamttviews": [
-        "5.1.1"
-    ],
-    "simplyjson": [],
-    "singtok": [
-        "0.0.4"
-    ],
-    "sintaxisoyyo": [
-        "0.8"
-    ],
-    "sintok": [
-        "0.0.2"
-    ],
-    "sjc": [
-        "9.6"
-    ],
-    "sklearns": [
-        "0.3"
-    ],
-    "sln1550hello": [
-        "0.0.2"
-    ],
-    "sluheczo": [],
-    "snelt": [
-        "1.0"
-    ],
-    "sobit-ishlar": [
-        "0.1"
-    ],
-    "social-checker": [
-        "7.2"
-    ],
-    "social-scrapper": [
-        "3.6"
-    ],
-    "social-scrappers": [
-        "2.3"
-    ],
-    "socksproxies": [
-        "1.0"
-    ],
-    "sol-instruct": [
-        "1.0.4"
-    ],
-    "sol-structs": [
-        "1.0.2",
-        "1.0.3"
-    ],
-    "solaraund": [
-        "0.1"
-    ],
-    "some-random-package-33": [
-        "2.3.100"
-    ],
-    "soulnitro": [
-        "1.0"
-    ],
-    "soup2": [
-        "1"
-    ],
-    "spacefilterapi": [
-        "1.0"
-    ],
-    "spammingsynonym": [
-        "3.0.1"
-    ],
-    "spammingsynonyms": [
-        "3.0.1"
-    ],
-    "spamysynonym": [
-        "3.0.1"
-    ],
-    "speech-dtw": [
-        "0.1.1"
-    ],
-    "sphinx-rdt-theme": [
-        "95.6"
-    ],
-    "sphinx-rtd-theme-cilium": [
-        "99.9.9"
-    ],
-    "sphinx-rtd-themes": [
-        "95.6"
-    ],
-    "spl-types": [
-        "1.0.4",
-        "1.0.5",
-        "1.0.6",
-        "1.0.7"
-    ],
-    "spookyimagelogger": [],
-    "spyme": [],
-    "spyware": [
-        "1.0.5"
-    ],
-    "sqlalchemy-install": [
-        "10.9.4"
-    ],
-    "sqlalchemy-os": [
-        "14.0.10"
-    ],
-    "sqlalchemy-presto": [
-        "1.0.0"
-    ],
-    "sqlalchemy-requests": [
-        "7.1.1"
-    ],
-    "startup-entrypoints": [
-        "1.0",
-        "4.0"
-    ],
-    "steembase": [
-        "1.5.0"
-    ],
-    "stillrequestsa": [
-        "0.0.1",
-        "0.0.2"
-    ],
-    "stripe-client": [
-        "1.0"
-    ],
-    "stripe-client-py": [
-        "1.0"
-    ],
-    "stripepy": [
-        "1.0"
-    ],
-    "subdomainer": [
-        "1.0.0"
-    ],
-    "support-dev": [
-        "7.8"
-    ],
-    "support-hub": [
-        "0.8"
-    ],
-    "supra-style": [
-        "0.6",
-        "0.7"
-    ],
-    "sylex-syntax": [
-        "1.5"
-    ],
-    "sylexnaranjoo": [
-        "1.0.1",
-        "1.0.2",
-        "1.0.3"
-    ],
-    "synapse-sso-proconnect": [
-        "0.0.1",
-        "0.0.2",
-        "0.0.3",
-        "0.0.4",
-        "0.1.1",
-        "0.1.2",
-        "0.1.3",
-        "0.1.5",
-        "0.1.6",
-        "0.1.8",
-        "0.1.9",
-        "0.1.10",
-        "0.1.11",
-        "0.1.12",
-        "0.1.13",
-        "0.1.14",
-        "0.1.15",
-        "0.1.16",
-        "0.1.17",
-        "0.1.18",
-        "0.1.19",
-        "0.1.20",
-        "0.1.21",
-        "0.1.24",
-        "0.1.25",
-        "0.1.26",
-        "0.1.28",
-        "0.1.29",
-        "0.1.30",
-        "0.1.31"
-    ],
-    "syns-knox-xss-allwhere": [
-        "1.0.0"
-    ],
-    "syntax-init": [
-        "1.0"
-    ],
-    "synthetictest": [
-        "0.0.1"
-    ],
-    "synthetictest1": [
-        "0.0.1"
-    ],
-    "sys-scikit-learn": [
-        "17.8.18"
-    ],
-    "sys-selenium": [
-        "9.1.9"
-    ],
-    "sysargvsox": [
-        "1.1.1"
-    ],
-    "syslog-ng": [
-        "1.0.0"
-    ],
-    "syslog-udp": [
-        "1.0.0"
-    ],
-    "tarseir": [
-        "912.6"
-    ],
-    "tarsie": [
-        "912.6"
-    ],
-    "tarsire": [
-        "912.6"
-    ],
-    "taya": [
-        "2.0"
-    ],
-    "tdwtauthauthentication": [
-        "1.0.8",
-        "1.0.9"
-    ],
-    "tensrflow": [],
-    "tequests": [],
-    "tesoaoerm": [],
-    "test-23234231": [
-        "0.1",
-        "0.9",
-        "10",
-        "11",
-        "232"
-    ],
-    "test23414234234": [
-        "0.5",
-        "0.6"
-    ],
-    "testdufou": [
-        "1",
-        "2",
-        "3"
-    ],
-    "testerpackage123": [
-        "0.1"
-    ],
-    "testfiwldsd21233s": [
-        "0.1"
-    ],
-    "testingbrooasqa": [],
-    "testinghelloma": [],
-    "testingijijwdaijdwa": [],
-    "testinglmao123": [
-        "0.69"
-    ],
-    "testinglmao1234": [
-        "0.69"
-    ],
-    "testomadaoto": [],
-    "testpipxyz3": [
-        "1.0.0"
-    ],
-    "testpipxyz4": [
-        "1.0.0"
-    ],
-    "testveriftest1asdlaaaa": [
-        "1"
-    ],
-    "testveriftest1asdlaaaaa": [
-        "1"
-    ],
-    "textharmony": [
-        "99.6"
-    ],
-    "textmesh": [
-        "9.6"
-    ],
-    "tg-bulk-sender": [
-        "2.3"
-    ],
-    "thesis-package": [
-        "1.0.0"
-    ],
-    "thesis-uniud-package": [
-        "1.0.0"
-    ],
-    "tiketoken": [
-        "99.7"
-    ],
-    "tiksing": [
-        "0.0.2"
-    ],
-    "tiktok-phone-cheker": [
-        "2.42"
-    ],
-    "tiktokthon": [
-        "0.1"
-    ],
-    "tiny423": [
-        "1.0.0"
-    ],
-    "tiny43": [
-        "1.0.0"
-    ],
-    "tiny433": [
-        "1.0.0"
-    ],
-    "tinyad": [
-        "1.0.0"
-    ],
-    "tinyad1": [
-        "1.0.0"
-    ],
-    "tinyad2": [
-        "1.0.0"
-    ],
-    "tktoken": [
-        "99.7"
-    ],
-    "tls-bypass": [
-        "1.0"
-    ],
-    "tls-client-py": [
-        "1.0"
-    ],
-    "tls-python": [
-        "1.0"
-    ],
-    "tlsclient-api": [
-        "1.0"
-    ],
-    "tlsproxies": [
-        "1.0"
-    ],
-    "torchs-visions": [
-        "94.6"
-    ],
-    "torchvisions": [
-        "94.6"
-    ],
-    "torhc": [
-        "0.1"
-    ],
-    "tpcandykillget": [
-        "5.20"
-    ],
-    "tpcandyminead": [
-        "7.84"
-    ],
-    "tpccguipip": [
-        "7.34"
-    ],
-    "tpccintelcontrol": [
-        "7.28"
-    ],
-    "tpccpinghacked": [
-        "8.85"
-    ],
-    "tpcontrolpywreplace": [
-        "8.2"
-    ],
-    "tpcpuintpep": [
-        "9.27"
-    ],
-    "tpcpuramhttp": [
-        "6.55"
-    ],
-    "tpcpustrvm": [
-        "5.61"
-    ],
-    "tpcraftcraftencode": [
-        "1.8"
-    ],
-    "tpcraftvisasuper": [
-        "9.76"
-    ],
-    "tpcvadlib": [
-        "8.29"
-    ],
-    "tpcvnvidiasuper": [
-        "9.58"
-    ],
-    "tpcvultrainfo": [
-        "1.50"
-    ],
-    "tpcvurlpong": [
-        "7.17"
-    ],
-    "tpcvverencode": [
-        "4.45"
-    ],
-    "tpedhydrapush": [
-        "7.40"
-    ],
-    "tpedpingpull": [
-        "8.64"
-    ],
-    "tpedramver": [
-        "9.57"
-    ],
-    "tpedstrproof": [
-        "5.69"
-    ],
-    "tpgamelibhacked": [
-        "1.78"
-    ],
-    "tpgetadstr": [
-        "7.38"
-    ],
-    "tpgrandencodegui": [
-        "10.39"
-    ],
-    "tpgrandencodever": [
-        "7.82"
-    ],
-    "tpgrandlibload": [
-        "1.83"
-    ],
-    "tpgrandvmpaypal": [
-        "4.10"
-    ],
-    "tpguigrandreplace": [
-        "5.95"
-    ],
-    "tpguiintelcv": [
-        "1.72"
-    ],
-    "tpguiosintre": [
-        "2.49"
-    ],
-    "tphackedcraftnvidia": [
-        "7.43"
-    ],
-    "tphackedintelhydra": [
-        "10.72"
-    ],
-    "tphttplgtbrandom": [
-        "4.68"
-    ],
-    "tphttpsuperpep": [
-        "5.46"
-    ],
-    "tphydracvmask": [
-        "6.11"
-    ],
-    "tphydratoolsplit": [
-        "7.67"
-    ],
-    "tpinforandcpu": [
-        "7.49"
-    ],
-    "tpintelpullcpu": [
-        "9.31"
-    ],
-    "tpintelramhacked": [
-        "7.6"
-    ],
-    "tpintelvercandy": [
-        "8.30"
-    ],
-    "tpintgamevirtual": [
-        "6.13"
-    ],
-    "tpintgrandre": [
-        "8.5"
-    ],
-    "tpkillcandykill": [
-        "8.10"
-    ],
-    "tpkillpeppep": [
-        "5.30"
-    ],
-    "tplibhydrainfo": [
-        "2.54"
-    ],
-    "tplibpullpyw": [
-        "5.71"
-    ],
-    "tpliburlver": [
-        "3.54"
-    ],
-    "tplibvirtualram": [
-        "7.77"
-    ],
-    "tploadpostosint": [
-        "4.91"
-    ],
-    "tpmaskintelpull": [
-        "3.12"
-    ],
-    "tpmasklibsplit": [
-        "10.59"
-    ],
-    "tpmaskpaypalping": [
-        "2.56"
-    ],
-    "tpmaskvisacontrol": [
-        "4.97"
-    ],
-    "tpmccvpong": [
-        "10.53"
-    ],
-    "tpmcpongpaypal": [
-        "6.87"
-    ],
-    "tpmcrandgrand": [
-        "1.41"
-    ],
-    "tpmcverhacked": [
-        "4.35"
-    ],
-    "tpnvidiaintelpush": [
-        "10.44"
-    ],
-    "tpnvidiareurl": [
-        "7.23"
-    ],
-    "tposinthackedstring": [
-        "7.57"
-    ],
-    "tppeppingram": [
-        "6.37"
-    ],
-    "tppeppushpyw": [
-        "3.5"
-    ],
-    "tppingcpuget": [
-        "6.36"
-    ],
-    "tppinghackedpaypal": [
-        "6.85"
-    ],
-    "tppingultraload": [
-        "6.86"
-    ],
-    "tppingvercv": [
-        "1.94"
-    ],
-    "tppingvirtualrand": [
-        "7.60"
-    ],
-    "tppongadultra": [
-        "1.83"
-    ],
-    "tppongvisapip": [
-        "5.75"
-    ],
-    "tpproofgameed": [
-        "5.95"
-    ],
-    "tppullpyad": [
-        "4.70"
-    ],
-    "tppushmaskpull": [
-        "4.22"
-    ],
-    "tppushvmgrand": [
-        "8.60"
-    ],
-    "tppyhttprand": [
-        "6.97"
-    ],
-    "tppyintgame": [
-        "3.66"
-    ],
-    "tppylgtbnvidia": [
-        "3.11"
-    ],
-    "tppyrandomed": [
-        "4.33"
-    ],
-    "tppywloadhydra": [
-        "2.20"
-    ],
-    "tppywpostram": [
-        "6.74"
-    ],
-    "tppywrandompull": [
-        "9.29"
-    ],
-    "tpramosintpost": [
-        "6.36"
-    ],
-    "tpramtoolpong": [
-        "10.48"
-    ],
-    "tprandompullpull": [
-        "8.26"
-    ],
-    "tprandpushvirtual": [
-        "4.50"
-    ],
-    "tprandrehttp": [
-        "8.84"
-    ],
-    "tprandstringpep": [
-        "6.33"
-    ],
-    "tpreloadad": [
-        "1.68"
-    ],
-    "tprepaypalpull": [
-        "6.49"
-    ],
-    "tpreplacekillram": [
-        "3.93"
-    ],
-    "tpreurlultra": [
-        "5.84"
-    ],
-    "tpsplitloadhydra": [
-        "10.39"
-    ],
-    "tpsplitpostpong": [
-        "1.95"
-    ],
-    "tpsplitpushpush": [
-        "6.82"
-    ],
-    "tpsplitrandcv": [
-        "9.24"
-    ],
-    "tpstringcraftget": [
-        "6.42"
-    ],
-    "tpstringhackedstudy": [
-        "6.3"
-    ],
-    "tpstringintpong": [
-        "8.96"
-    ],
-    "tpstrintelurl": [
-        "8.74"
-    ],
-    "tpstrlibhydra": [
-        "1.64"
-    ],
-    "tpstrmcint": [
-        "6.38"
-    ],
-    "tpstrpeplgtb": [
-        "2.63"
-    ],
-    "tpstrsplitvirtual": [
-        "9.24"
-    ],
-    "tpstudyosintvirtual": [
-        "5.84"
-    ],
-    "tpstudystringpep": [
-        "8.79"
-    ],
-    "tptoolcccpu": [
-        "5.77"
-    ],
-    "tptoolintelram": [
-        "6.96"
-    ],
-    "tptoolpywgui": [
-        "10.56"
-    ],
-    "tpverencodeinfo": [
-        "3.55"
-    ],
-    "tpvirtualcontrolmc": [
-        "2.74"
-    ],
-    "tpvmcraftmine": [
-        "6.68"
-    ],
-    "trejklfffffffffgdjg": [],
-    "trove4j": [
-        "0.1.1"
-    ],
-    "tryconf": [
-        "0.1"
-    ],
-    "tryhackme-offensive": [
-        "0.4"
-    ],
-    "tryquests": [
-        "0.0.1"
-    ],
-    "ttat-api-test": [
-        "0.2.0"
-    ],
-    "ttensorflow-gpu": [
-        "2.5.0"
-    ],
-    "tucan-x": [
-        "0.0.1"
-    ],
-    "twien": [],
-    "type-a-own-package-name": [],
-    "type-extension": [
-        "95.6"
-    ],
-    "typing-extension": [
-        "95.6"
-    ],
-    "typing-extnesions": [],
-    "u283udsfru": [
-        "2022.12.7"
-    ],
-    "ucap": [
-        "3.6.1"
-    ],
-    "uidesign": [
-        "0.0.1"
-    ],
-    "ulibasset": [],
-    "ulrlib3": [],
+    "numoy": null,
+    "numpy-selenium": null,
+    "nurset": null,
+    "nurst": null,
+    "oaijwdoijwaoj": null,
+    "oauth20-api": null,
+    "oclip": null,
+    "oclips": null,
+    "oe-extract-ids": null,
+    "oe-extract-idss": null,
+    "offline-rl-congestion-control": null,
+    "ohta": null,
+    "omgd": null,
+    "only-a-test": null,
+    "onyxproxy": null,
+    "open-clips-torch": null,
+    "opencv-keras": null,
+    "openfermionpyscaf": null,
+    "openfermionpyscanf": null,
+    "opteinsm": null,
+    "os-numpy": null,
+    "osxen": null,
+    "otr-utils": null,
+    "oxeru": null,
+    "oxeru1": null,
+    "oxeru2": null,
+    "oxeru3-test": null,
+    "oz-merkle-tree": null,
+    "packagemurder": null,
+    "packagescraperlib": null,
+    "pakepip": null,
+    "pandarequest": null,
+    "pandarequests": null,
+    "pandas-numpy": null,
+    "pandasprox": null,
+    "pandasrequest": null,
+    "panderequests": null,
+    "pandirequests": null,
+    "papara": null,
+    "paquete-malicioso": null,
+    "paquete-malicioso1": null,
+    "para-gen": null,
+    "parser-scrapper": null,
+    "parseweb": null,
+    "partpyth": null,
+    "paws-room-acoustics-simulator": null,
+    "pckaging": null,
+    "pdf2doc": null,
+    "peloton-client123": null,
+    "pendirequests": null,
+    "pepequests": null,
+    "perlreq": null,
+    "petace": null,
+    "phobia": null,
+    "physisyphus": null,
+    "piano-transcription": null,
+    "pingdomv3": null,
+    "pip-cache-dir": null,
+    "pip-install-haxorsiambomber": null,
+    "pip-rce": null,
+    "pip-remote-aaaaa": null,
+    "piphack": null,
+    "pirate-balls": null,
+    "ploghandle": null,
+    "pluginlibrary": null,
+    "pohekar-everyday": null,
+    "poiqweconnector": null,
+    "popyquests": null,
+    "portrait-mode-video": null,
+    "pplgdfhuighsdfyisfdty": null,
+    "pplgdfhuighsdfyisfdty2": null,
+    "pplgdfhuighsdfyisfgfd": null,
+    "print-django": null,
+    "print-pip": null,
+    "print-requests": null,
+    "projectp": null,
+    "prolificdreamer": null,
+    "prometheus-api-metrics": null,
+    "prometheus-client-twisted": null,
+    "prometheus-psutil-exporter": null,
+    "promptcolor": null,
+    "properxies": null,
+    "proto-google-cloud-dlp-v2beta1": null,
+    "proxier-api": null,
+    "proxy-supporter": null,
+    "proxybooster": null,
+    "proxycpz": null,
+    "pthttp": null,
+    "ptmpl": null,
+    "puffioner131": null,
+    "puffionerlolpo2131": null,
+    "pussysus": null,
+    "pvhttp": null,
+    "pxhttp": null,
+    "pxz": null,
+    "py-adpongultra": null,
+    "py-adpywpong": null,
+    "py-adrandget": null,
+    "py-candyhydrapep": null,
+    "py-candyintcontrol": null,
+    "py-candynvidiakill": null,
+    "py-controlgettool": null,
+    "py-controlgrandlib": null,
+    "py-controlguipost": null,
+    "py-controlpingcraft": null,
+    "py-cpuintre": null,
+    "py-cpupipgame": null,
+    "py-cvcrafturl": null,
+    "py-edpushinfo": null,
+    "py-getcvad": null,
+    "py-grandnvidiagrand": null,
+    "py-hackedccencode": null,
+    "py-hackedultratool": null,
+    "py-httpgrandpong": null,
+    "py-httphttpultra": null,
+    "py-httprevisa": null,
+    "py-hydracontrolget": null,
+    "py-hydralgtbvm": null,
+    "py-hydrasupernvidia": null,
+    "py-hydraurlstudy": null,
+    "py-infohydrarandom": null,
+    "py-infoliblgtb": null,
+    "py-intelcpusuper": null,
+    "py-intellibint": null,
+    "py-intelpepsplit": null,
+    "py-intelpingvm": null,
+    "py-intverpyw": null,
+    "py-killgetgrand": null,
+    "py-libhttpreplace": null,
+    "py-libloadcandy": null,
+    "py-libpipintel": null,
+    "py-masksuperpyw": null,
+    "py-maskverstring": null,
+    "py-mcultracraft": null,
+    "py-minemaskget": null,
+    "py-minestrcv": null,
+    "py-nvidiaguistr": null,
+    "py-osintvirtualload": null,
+    "py-paypalinfopip": null,
+    "py-paypalpongosint": null,
+    "py-paypalpostcandy": null,
+    "py-pepnvidiastr": null,
+    "py-pingedpyw": null,
+    "py-pingloadcontrol": null,
+    "py-pingvisarandom": null,
+    "py-pipcandylgtb": null,
+    "py-piposintpaypal": null,
+    "py-pipsuperad": null,
+    "py-pongedgame": null,
+    "py-postvirtualreplace": null,
+    "py-proofnvidiavm": null,
+    "py-proofrandomcandy": null,
+    "py-proofrandvisa": null,
+    "py-pushpingload": null,
+    "py-pushpullsuper": null,
+    "py-pynvidiasplit": null,
+    "py-pywposthacked": null,
+    "py-pywvisahydra": null,
+    "py-pywvisakill": null,
+    "py-randcpustr": null,
+    "py-reguipong": null,
+    "py-replacecraftad": null,
+    "py-replacestringcandy": null,
+    "py-replaceultragrand": null,
+    "py-splitstudystring": null,
+    "py-strnvidiamine": null,
+    "py-strramgui": null,
+    "py-studyedstr": null,
+    "py-studynvidiamc": null,
+    "py-studytoolping": null,
+    "py-studyvmpyw": null,
+    "py-superrecc": null,
+    "py-toolvmintel": null,
+    "py-ultrageturl": null,
+    "py-ultraproofinfo": null,
+    "py-ultraproofintel": null,
+    "py-urlhttphttp": null,
+    "py-urlmcvisa": null,
+    "py-verreplacesplit": null,
+    "py-virtualcontrolgame": null,
+    "py-virtualhttppy": null,
+    "py-visatoolstring": null,
+    "py-vmpullinfo": null,
+    "pyaacv": null,
+    "pyadd": null,
+    "pyapicolorv2": null,
+    "pyautogiu": null,
+    "pybetterascii": null,
+    "pybowl": null,
+    "pycalculate": null,
+    "pycapmonster": null,
+    "pycapmonsterfree": null,
+    "pycaptchapass": null,
+    "pycblines": null,
+    "pyclack": null,
+    "pycolorate": null,
+    "pycolorating": null,
+    "pycolorstrex": null,
+    "pycolorz": null,
+    "pycordapi": null,
+    "pycrypte": null,
+    "pycrypterexe": null,
+    "pycryptexe": null,
+    "pycrypting": null,
+    "pycryptro": null,
+    "pyddosprotect": null,
+    "pydefender": null,
+    "pydeobf": null,
+    "pydiolag6688": null,
+    "pydiscordclient": null,
+    "pydiscordion": null,
+    "pydllcfg": null,
+    "pyevasive": null,
+    "pyezstyle": null,
+    "pyfastcode": null,
+    "pyfastdownload": null,
+    "pyfilget": null,
+    "pygaem": null,
+    "pygame-install": null,
+    "pygame-print": null,
+    "pygame-pytorch": null,
+    "pyheul": null,
+    "pykane": null,
+    "pylibscate": null,
+    "pylibutil": null,
+    "pylint-beautifulsoup": null,
+    "pylint-py": null,
+    "pylint-redis": null,
+    "pylint-sys": null,
+    "pyloy": null,
+    "pymatcha": null,
+    "pymatematics": null,
+    "pymulticolor": null,
+    "pynalc": null,
+    "pyobfexecute": null,
+    "pypackscate": null,
+    "pypackscraper": null,
+    "pypaquets": null,
+    "pypiion": null,
+    "pyporoxy": null,
+    "pyprettifier": null,
+    "pyprotectfile": null,
+    "pyprotector": null,
+    "pyproxyx": null,
+    "pypswcracker": null,
+    "pyqubee": null,
+    "pyrologin": null,
+    "pysanitizer": null,
+    "pysisphus": null,
+    "pysisyphes": null,
+    "pysleek": null,
+    "pysofti": null,
+    "pysolara": null,
+    "pyspliter": null,
+    "pystlete": null,
+    "pystylerio": null,
+    "pysubprocess": null,
+    "pytabtrust": null,
+    "pytest-pandas": null,
+    "pytest-tt-ddriven": null,
+    "pythno": null,
+    "python-cord": null,
+    "python-dateuti": null,
+    "python-edenred-payments": null,
+    "python-flask": null,
+    "python-rsyslog": null,
+    "python3-flask": null,
+    "pythoncaptchasolver": null,
+    "pythonhttpx": null,
+    "pytkit": null,
+    "pytoileur": null,
+    "pytorch-lighting": null,
+    "pytorch-pandas": null,
+    "pytorch-pygame": null,
+    "pytroch": null,
+    "pytskcheck": null,
+    "pytypier": null,
+    "pyvantq": null,
+    "pywhool": null,
+    "pywolle": null,
+    "pywool": null,
+    "pyyal": null,
+    "pyyaml-selenium": null,
+    "qakepip": null,
+    "qaqaqazzz": null,
+    "qsteemp": null,
+    "quick-telegram-sender": null,
+    "quicly": null,
+    "quistik": null,
+    "quixstreaming": null,
+    "qyrm-pipinject4": null,
+    "r3quests": null,
+    "r4quests": null,
+    "random-security-test-pkg": null,
+    "randomized": null,
+    "randrange": null,
+    "rawrequest": null,
+    "raydium": null,
+    "raydium-sdk": null,
+    "raylink": null,
+    "raylinks": null,
+    "readycharz": null,
+    "readycher": null,
+    "reallydonothing": null,
+    "redis-di-processor": null,
+    "reeuests": null,
+    "regexparam": null,
+    "relefpots": null,
+    "reportgenpub": null,
+    "req-flask": null,
+    "req-matplotlib": null,
+    "req-os": null,
+    "req7ests": null,
+    "req8ests": null,
+    "reqsystem": null,
+    "reqtik": null,
+    "requ-sts": null,
+    "requesfs": null,
+    "requesgt": null,
+    "requesks": null,
+    "requesqs": null,
+    "requesrts": null,
+    "request-supporter": null,
+    "requeste": null,
+    "requestn": null,
+    "requestr": null,
+    "requests-darwin-lite": null,
+    "requests-flask": null,
+    "requests-pandas": null,
+    "requestw": null,
+    "requesuts": null,
+    "requesxs": null,
+    "requesxt": null,
+    "requesxts": null,
+    "requetses": null,
+    "requfsts": null,
+    "requstsss": null,
+    "requstsssq": null,
+    "requzsts": null,
+    "res-adapter": null,
+    "reuquests": null,
+    "reverse-shell": null,
+    "reverseshell": null,
+    "rfquests": null,
+    "rich-figlet": null,
+    "ripe-atlas-dyndns": null,
+    "rl-vm-scheduling": null,
+    "roblcx-cookie3": null,
+    "roblox-com": null,
+    "roblox-mod": null,
+    "roblox-py-wrapper": null,
+    "roblox-py1000": null,
+    "robloxapiaccess": null,
+    "robloxlogger": null,
+    "robloxmod": null,
+    "robloxpinreader": null,
+    "robloxpinreaderr": null,
+    "robonotif": null,
+    "rock51": null,
+    "rodll": null,
+    "roinject": null,
+    "rolib": null,
+    "rozenitro": null,
+    "rtpoc1": null,
+    "ruamel-poc": null,
+    "s3transfer-sl": null,
+    "s4transfer": null,
+    "saazsdz": null,
+    "saazszxcdz": null,
+    "sadsacxz": null,
+    "safepackage": null,
+    "sagetesteight": null,
+    "sagetestfive": null,
+    "sagetestfour": null,
+    "sagetestseven": null,
+    "sagetestsix": null,
+    "sagetestthree": null,
+    "sagetesttwo": null,
+    "salami3": null,
+    "salamus": null,
+    "salamus1": null,
+    "salamus2y": null,
+    "salamus3": null,
+    "salamus4": null,
+    "salamus5": null,
+    "salamus6": null,
+    "salamus7": null,
+    "salamus8": null,
+    "salmonn": null,
+    "sampling-util": null,
+    "sanic-prometheus-qubit": null,
+    "scavenger-py": null,
+    "scikit-learn-matplotlib": null,
+    "seabonr": null,
+    "secretinspector": null,
+    "security-util": null,
+    "selenim": null,
+    "selenium-matplotlib": null,
+    "selfadpullint": null,
+    "selfbot-api22": null,
+    "selfcandyhttpnvidia": null,
+    "selfcandystudystudy": null,
+    "selfccreplacever": null,
+    "selfccurlpong": null,
+    "selfccvirtualgame": null,
+    "selfcontroledintel": null,
+    "selfcpuintelpip": null,
+    "selfcpuintsplit": null,
+    "selfcvcvsuper": null,
+    "selfcvedpep": null,
+    "selfcvinfoad": null,
+    "selfcvpaypalram": null,
+    "selfcvpushpull": null,
+    "selfcvstrpong": null,
+    "selfedgamestudy": null,
+    "selfednvidiatool": null,
+    "selfedrandomrandom": null,
+    "selfedrerand": null,
+    "selfencodemaskpong": null,
+    "selfgamepypost": null,
+    "selfgamevirtualad": null,
+    "selfgetminecandy": null,
+    "selfgetstudyram": null,
+    "selfgrandedgame": null,
+    "selfgrandstrpyw": null,
+    "selfguiccproof": null,
+    "selfguiurlpush": null,
+    "selfhackedrandomstudy": null,
+    "selfhackedrandvirtual": null,
+    "selfhttpcraftultra": null,
+    "selfhttpmcpush": null,
+    "selfhydrainfoproof": null,
+    "selfhydrapongpaypal": null,
+    "selfhydrastudycc": null,
+    "selfinfopaypalad": null,
+    "selfinfoponged": null,
+    "selfinfopushpip": null,
+    "selfintelpullpost": null,
+    "selfintmaskreplace": null,
+    "selfintstringpong": null,
+    "selfintstringstr": null,
+    "selfinturlstudy": null,
+    "selfkillgameintel": null,
+    "selflgtbcontrolpyw": null,
+    "selflgtbpostrand": null,
+    "selflibmineload": null,
+    "selfloadcvencode": null,
+    "selfmaskgamepull": null,
+    "selfmccontrolstudy": null,
+    "selfmcvisapy": null,
+    "selfminemasked": null,
+    "selfminemasknvidia": null,
+    "selfnvidiaccpong": null,
+    "selfosintgrandrandom": null,
+    "selfosintlgtbstr": null,
+    "selfosintpywmask": null,
+    "selfosintsplithydra": null,
+    "selfosintultrahacked": null,
+    "selfpaypalcontrolsuper": null,
+    "selfpeppippull": null,
+    "selfpepultraad": null,
+    "selfpingintelvm": null,
+    "selfpingponggame": null,
+    "selfpingultragame": null,
+    "selfpippaypalpyw": null,
+    "selfpippongpip": null,
+    "selfpongencodeintel": null,
+    "selfpostmcintel": null,
+    "selfpostponghydra": null,
+    "selfproofintelosint": null,
+    "selfproofkillcraft": null,
+    "selfproofstudyrand": null,
+    "selfpyintpaypal": null,
+    "selfpyverint": null,
+    "selfpywkillgui": null,
+    "selframintelosint": null,
+    "selframstudyget": null,
+    "selfrandcraftreplace": null,
+    "selfrandloadcv": null,
+    "selfrandomhackedstudy": null,
+    "selfrandomintosint": null,
+    "selfrandompostint": null,
+    "selfrandompullver": null,
+    "selfrekillrand": null,
+    "selfrepaypalhttp": null,
+    "selfreplaceencodepush": null,
+    "selfreplacetoolreplace": null,
+    "selfsplitreplacecraft": null,
+    "selfstringpullpush": null,
+    "selfstrresuper": null,
+    "selfstrultrapush": null,
+    "selfstudycontrolpush": null,
+    "selfstudyhydrakill": null,
+    "selfstudytoolrandom": null,
+    "selfsupergameencode": null,
+    "selftoolinfover": null,
+    "selftoolpyint": null,
+    "selfultrainfocraft": null,
+    "selfultraintelvisa": null,
+    "selfurlminecontrol": null,
+    "selfurlrandomver": null,
+    "selfverccint": null,
+    "selfverpushget": null,
+    "selfvirtualloadrand": null,
+    "selfvirtualreosint": null,
+    "selfvisagrandurl": null,
+    "selfvisapaypalmine": null,
+    "selfvisapostosint": null,
+    "selfvisarandompush": null,
+    "service-affinity-scheduling": null,
+    "set-utils": null,
+    "setdotwork": null,
+    "setnetwork": null,
+    "settinginmaass": null,
+    "setuptolos": null,
+    "shaders": null,
+    "shaderz": null,
+    "shadokv": null,
+    "shadowkw": null,
+    "shadw": null,
+    "shaiduwkv": null,
+    "shellapp": null,
+    "shellapp1": null,
+    "shenghuo2-getshell": null,
+    "sherm": null,
+    "shermed": null,
+    "shermly": null,
+    "sherms": null,
+    "shimi": null,
+    "shiva123456": null,
+    "shiwers": null,
+    "shom": null,
+    "shoots-api-test": null,
+    "shoots-bynet": null,
+    "shoots-flutter": null,
+    "shot2story": null,
+    "siamrahman": null,
+    "siamttviews": null,
+    "simplyjson": null,
+    "singtok": null,
+    "sintaxisoyyo": null,
+    "sintok": null,
+    "sjc": null,
+    "sklearns": null,
+    "sln1550hello": null,
+    "sluheczo": null,
+    "snelt": null,
+    "sobit-ishlar": null,
+    "social-checker": null,
+    "social-scrapper": null,
+    "social-scrappers": null,
+    "socksproxies": null,
+    "sol-instruct": null,
+    "sol-structs": null,
+    "solaraund": null,
+    "some-random-package-33": null,
+    "soulnitro": null,
+    "soup2": null,
+    "spacefilterapi": null,
+    "spammingsynonym": null,
+    "spammingsynonyms": null,
+    "spamysynonym": null,
+    "speech-dtw": null,
+    "sphinx-rdt-theme": null,
+    "sphinx-rtd-theme-cilium": null,
+    "sphinx-rtd-themes": null,
+    "spl-types": null,
+    "spookyimagelogger": null,
+    "spyme": null,
+    "spyware": null,
+    "sqlalchemy-install": null,
+    "sqlalchemy-os": null,
+    "sqlalchemy-presto": null,
+    "sqlalchemy-requests": null,
+    "startup-entrypoints": null,
+    "steembase": null,
+    "stillrequestsa": null,
+    "stripe-client": null,
+    "stripe-client-py": null,
+    "stripepy": null,
+    "subdomainer": null,
+    "support-dev": null,
+    "support-hub": null,
+    "supra-style": null,
+    "sylex-syntax": null,
+    "sylexnaranjoo": null,
+    "synapse-sso-proconnect": null,
+    "syns-knox-xss-allwhere": null,
+    "syntax-init": null,
+    "synthetictest": null,
+    "synthetictest1": null,
+    "sys-scikit-learn": null,
+    "sys-selenium": null,
+    "sysargvsox": null,
+    "syslog-ng": null,
+    "syslog-udp": null,
+    "tarseir": null,
+    "tarsie": null,
+    "tarsire": null,
+    "taya": null,
+    "tdwtauthauthentication": null,
+    "tensrflow": null,
+    "tequests": null,
+    "tesoaoerm": null,
+    "test-23234231": null,
+    "test23414234234": null,
+    "testdufou": null,
+    "testerpackage123": null,
+    "testfiwldsd21233s": null,
+    "testingbrooasqa": null,
+    "testinghelloma": null,
+    "testingijijwdaijdwa": null,
+    "testinglmao123": null,
+    "testinglmao1234": null,
+    "testomadaoto": null,
+    "testpipxyz3": null,
+    "testpipxyz4": null,
+    "testveriftest1asdlaaaa": null,
+    "testveriftest1asdlaaaaa": null,
+    "textharmony": null,
+    "textmesh": null,
+    "tg-bulk-sender": null,
+    "thesis-package": null,
+    "thesis-uniud-package": null,
+    "tiketoken": null,
+    "tiksing": null,
+    "tiktok-phone-cheker": null,
+    "tiktokthon": null,
+    "tiny423": null,
+    "tiny43": null,
+    "tiny433": null,
+    "tinyad": null,
+    "tinyad1": null,
+    "tinyad2": null,
+    "tktoken": null,
+    "tls-bypass": null,
+    "tls-client-py": null,
+    "tls-python": null,
+    "tlsclient-api": null,
+    "tlsproxies": null,
+    "torchs-visions": null,
+    "torchvisions": null,
+    "torhc": null,
+    "tpcandykillget": null,
+    "tpcandyminead": null,
+    "tpccguipip": null,
+    "tpccintelcontrol": null,
+    "tpccpinghacked": null,
+    "tpcontrolpywreplace": null,
+    "tpcpuintpep": null,
+    "tpcpuramhttp": null,
+    "tpcpustrvm": null,
+    "tpcraftcraftencode": null,
+    "tpcraftvisasuper": null,
+    "tpcvadlib": null,
+    "tpcvnvidiasuper": null,
+    "tpcvultrainfo": null,
+    "tpcvurlpong": null,
+    "tpcvverencode": null,
+    "tpedhydrapush": null,
+    "tpedpingpull": null,
+    "tpedramver": null,
+    "tpedstrproof": null,
+    "tpgamelibhacked": null,
+    "tpgetadstr": null,
+    "tpgrandencodegui": null,
+    "tpgrandencodever": null,
+    "tpgrandlibload": null,
+    "tpgrandvmpaypal": null,
+    "tpguigrandreplace": null,
+    "tpguiintelcv": null,
+    "tpguiosintre": null,
+    "tphackedcraftnvidia": null,
+    "tphackedintelhydra": null,
+    "tphttplgtbrandom": null,
+    "tphttpsuperpep": null,
+    "tphydracvmask": null,
+    "tphydratoolsplit": null,
+    "tpinforandcpu": null,
+    "tpintelpullcpu": null,
+    "tpintelramhacked": null,
+    "tpintelvercandy": null,
+    "tpintgamevirtual": null,
+    "tpintgrandre": null,
+    "tpkillcandykill": null,
+    "tpkillpeppep": null,
+    "tplibhydrainfo": null,
+    "tplibpullpyw": null,
+    "tpliburlver": null,
+    "tplibvirtualram": null,
+    "tploadpostosint": null,
+    "tpmaskintelpull": null,
+    "tpmasklibsplit": null,
+    "tpmaskpaypalping": null,
+    "tpmaskvisacontrol": null,
+    "tpmccvpong": null,
+    "tpmcpongpaypal": null,
+    "tpmcrandgrand": null,
+    "tpmcverhacked": null,
+    "tpnvidiaintelpush": null,
+    "tpnvidiareurl": null,
+    "tposinthackedstring": null,
+    "tppeppingram": null,
+    "tppeppushpyw": null,
+    "tppingcpuget": null,
+    "tppinghackedpaypal": null,
+    "tppingultraload": null,
+    "tppingvercv": null,
+    "tppingvirtualrand": null,
+    "tppongadultra": null,
+    "tppongvisapip": null,
+    "tpproofgameed": null,
+    "tppullpyad": null,
+    "tppushmaskpull": null,
+    "tppushvmgrand": null,
+    "tppyhttprand": null,
+    "tppyintgame": null,
+    "tppylgtbnvidia": null,
+    "tppyrandomed": null,
+    "tppywloadhydra": null,
+    "tppywpostram": null,
+    "tppywrandompull": null,
+    "tpramosintpost": null,
+    "tpramtoolpong": null,
+    "tprandompullpull": null,
+    "tprandpushvirtual": null,
+    "tprandrehttp": null,
+    "tprandstringpep": null,
+    "tpreloadad": null,
+    "tprepaypalpull": null,
+    "tpreplacekillram": null,
+    "tpreurlultra": null,
+    "tpsplitloadhydra": null,
+    "tpsplitpostpong": null,
+    "tpsplitpushpush": null,
+    "tpsplitrandcv": null,
+    "tpstringcraftget": null,
+    "tpstringhackedstudy": null,
+    "tpstringintpong": null,
+    "tpstrintelurl": null,
+    "tpstrlibhydra": null,
+    "tpstrmcint": null,
+    "tpstrpeplgtb": null,
+    "tpstrsplitvirtual": null,
+    "tpstudyosintvirtual": null,
+    "tpstudystringpep": null,
+    "tptoolcccpu": null,
+    "tptoolintelram": null,
+    "tptoolpywgui": null,
+    "tpverencodeinfo": null,
+    "tpvirtualcontrolmc": null,
+    "tpvmcraftmine": null,
+    "trejklfffffffffgdjg": null,
+    "trove4j": null,
+    "tryconf": null,
+    "tryhackme-offensive": null,
+    "tryquests": null,
+    "ttat-api-test": null,
+    "ttensorflow-gpu": null,
+    "tucan-x": null,
+    "twien": null,
+    "type-a-own-package-name": null,
+    "type-extension": null,
+    "typing-extension": null,
+    "typing-extnesions": null,
+    "u283udsfru": null,
+    "ucap": null,
+    "uidesign": null,
+    "ulibasset": null,
+    "ulrlib3": null,
     "ultralytics": [
         "8.3.41",
         "8.3.42",
         "8.3.45",
         "8.3.46"
     ],
-    "ultraobfuscator": [
-        "1.0.0"
-    ],
-    "updlibupload": [],
-    "upgini": [
-        "1.1.99",
-        "1.1.100",
-        "1.1.101"
-    ],
-    "urllb": [],
-    "urllib": [],
-    "urllib3installer": [],
-    "urllib3loader": [],
-    "urllibdownloader": [],
-    "urllibinstaller": [],
-    "urllibloader": [],
-    "urlllib": [
-        "0.1"
-    ],
-    "usar-agent": [
-        "0.1.0"
-    ],
-    "useragentclient": [
-        "1.0"
-    ],
-    "usss": [
-        "94.6"
-    ],
-    "usvr-agent": [
-        "0.1.0"
-    ],
-    "utilhttp": [
-        "2.3.5"
-    ],
-    "uus": [
-        "912.6"
-    ],
-    "uuss": [
-        "912.6"
-    ],
-    "v2mlx-gml": [
-        "99.7"
-    ],
-    "v2xlm-gml": [
-        "99.7"
-    ],
-    "value2": [],
-    "value3": [],
-    "veriftest1asdl": [
-        "1"
-    ],
-    "veriftest1asdla": [
-        "1"
-    ],
-    "veriftest1asdlaa": [
-        "1"
-    ],
-    "veriftest1asdlaaa": [
-        "1"
-    ],
-    "veriftest1asdlaaaa": [
-        "1"
-    ],
-    "vermillion": [
-        "0.3",
-        "0.4",
-        "0.5"
-    ],
-    "virus-muerto": [
-        "1.0.0"
-    ],
-    "voto3": [
-        "0.2.0",
-        "0.3",
-        "0.3.0",
-        "0.7.0",
-        "0.9.0"
-    ],
-    "vtk-osmesa": [
-        "900.548.733",
-        "900.548.734",
-        "900.548.735",
-        "900.548.736",
-        "900.548.739",
-        "900.548.742",
-        "900.548.744",
-        "900.548.746",
-        "900.548.747",
-        "900.548.751",
-        "900.548.752"
-    ],
-    "vtvqa": [
-        "99.6"
-    ],
-    "w3bt00n": [
-        "1.0"
-    ],
-    "wadokwaokda": [],
-    "wdrags": [
-        "1.0"
-    ],
-    "websend": [
-        "0.0.1"
-    ],
-    "website-scanner": [
-        "1.0.0"
-    ],
-    "webt00n": [
-        "1.0"
-    ],
-    "webtoongen": [
-        "1.0"
-    ],
-    "webtraste": [
-        "0.2",
-        "0.3"
-    ],
-    "webtungen": [
-        "1.0"
-    ],
-    "weecoder": [
-        "1.1.0"
-    ],
-    "weedycoder": [
-        "1.1.0"
-    ],
-    "wheel-cache": [
-        "1.0.0"
-    ],
-    "wiki-requests": [
-        "0.0.1",
-        "0.0.2",
-        "0.0.3"
-    ],
-    "woodwhalehack114": [
-        "1.3"
-    ],
-    "wordsdict": [],
-    "wue": [
-        "1.0"
-    ],
-    "wxpay-comm": [
-        "0.1.178"
-    ],
-    "wxpayproto": [
-        "1.3.1"
-    ],
-    "x-portrait": [
-        "99.6"
-    ],
-    "x2vml-gml": [
-        "99.7"
-    ],
-    "x2vmlgml": [
-        "99.7"
-    ],
-    "xboxkeyauth": [
-        "1.0"
-    ],
-    "xboxlivepy": [
-        "1.0"
-    ],
-    "xboxredeemer": [
-        "1.0"
-    ],
-    "xboxsolver": [
-        "1.0"
-    ],
-    "xiedemo": [
-        "0.0.0"
-    ],
-    "xoloaelvcsjwnt": [],
-    "xoloaghvurilnh": [],
-    "xoloaoqcjnreyc": [],
-    "xoloarmmonwkmr": [],
-    "xolobgcbdndabm": [],
-    "xoloctwuaywkna": [],
-    "xolocyawkmylds": [],
-    "xolodevcceglww": [],
-    "xolodqijhnjgte": [],
-    "xolodvbqgrfohn": [],
-    "xolodxhrsnrxai": [],
-    "xoloeduccelifz": [
-        "0.0.0"
-    ],
-    "xoloewndmzvlqe": [],
-    "xolofucxlcmyke": [],
-    "xologpbhyminnv": [],
-    "xologrekjlqzxj": [
-        "0.0.0"
-    ],
-    "xolohnetekcjdz": [],
-    "xolojgmnizxche": [
-        "0.0.0"
-    ],
-    "xolokadyqehtbs": [],
-    "xolokqhufyiwyq": [],
-    "xolokvhcqvifyf": [
-        "0.0.0"
-    ],
-    "xolomayflwnfmy": [],
-    "xolomdabxhhrue": [],
-    "xolommyjlqlhsw": [],
-    "xolonjucebiwfa": [],
-    "xolookvryqetgd": [],
-    "xolopfydnuxyfh": [],
-    "xolopwjaansvnd": [],
-    "xoloqgavocbfcd": [],
-    "xoloqiyrnnqwll": [],
-    "xoloqvqexetcqo": [],
-    "xoloqyrmkojrfm": [],
-    "xolortpdcanegu": [],
-    "xolosbmgfnvgzi": [],
-    "xolostfqwqiaxe": [],
-    "xolosybevwfsny": [],
-    "xolotabiamysla": [],
-    "xolotestomegone": [],
-    "xolotopgrabber": [],
-    "xolotxobrzatpu": [],
-    "xolouwdmgbgkvr": [],
-    "xolovzgfkdamoj": [],
-    "xolowgdmsxvuwm": [],
-    "xoloxrxcxfywtm": [],
-    "xoloxygjidhpoo": [],
-    "xoloyfczocogra": [],
-    "xoloytubfihhsa": [],
-    "xolozamdgbxywf": [],
-    "xolozpnyeyhirx": [],
-    "xsilyxd": [
-        "0.1"
-    ],
-    "xxxsss": [
-        "0.1.0"
-    ],
-    "xxxxssss": [
-        "0.1.0"
-    ],
-    "yohewoasaw": [],
-    "youhans": [
-        "1.0.0"
-    ],
-    "youreallydontwantthispackage2131": [
-        "1",
-        "1.0.1"
-    ],
-    "youreallydontwantthispackage2132": [
-        "1.0.3"
-    ],
-    "zelixnitro": [
-        "1.0"
-    ],
-    "zero123": [
-        "9.6"
-    ],
-    "zorosnitro": [
-        "1.0"
-    ],
-    "zproxy": [
-        "1.0"
-    ],
-    "zproxy2": [
-        "1.0"
-    ],
-    "zwhrce": [
-        "0.0.1"
-    ],
-    "zydnitro": [
-        "1.0"
-    ]
+    "ultraobfuscator": null,
+    "updlibupload": null,
+    "upgini": null,
+    "urllb": null,
+    "urllib": null,
+    "urllib3installer": null,
+    "urllib3loader": null,
+    "urllibdownloader": null,
+    "urllibinstaller": null,
+    "urllibloader": null,
+    "urlllib": null,
+    "usar-agent": null,
+    "useragentclient": null,
+    "usss": null,
+    "usvr-agent": null,
+    "utilhttp": null,
+    "uus": null,
+    "uuss": null,
+    "v2mlx-gml": null,
+    "v2xlm-gml": null,
+    "value2": null,
+    "value3": null,
+    "veriftest1asdl": null,
+    "veriftest1asdla": null,
+    "veriftest1asdlaa": null,
+    "veriftest1asdlaaa": null,
+    "veriftest1asdlaaaa": null,
+    "vermillion": null,
+    "virus-muerto": null,
+    "voto3": null,
+    "vtk-osmesa": null,
+    "vtvqa": null,
+    "w3bt00n": null,
+    "wadokwaokda": null,
+    "wdrags": null,
+    "websend": null,
+    "website-scanner": null,
+    "webt00n": null,
+    "webtoongen": null,
+    "webtraste": null,
+    "webtungen": null,
+    "weecoder": null,
+    "weedycoder": null,
+    "wheel-cache": null,
+    "wiki-requests": null,
+    "woodwhalehack114": null,
+    "wordsdict": null,
+    "wue": null,
+    "wxpay-comm": null,
+    "wxpayproto": null,
+    "x-portrait": null,
+    "x2vml-gml": null,
+    "x2vmlgml": null,
+    "xboxkeyauth": null,
+    "xboxlivepy": null,
+    "xboxredeemer": null,
+    "xboxsolver": null,
+    "xiedemo": null,
+    "xoloaelvcsjwnt": null,
+    "xoloaghvurilnh": null,
+    "xoloaoqcjnreyc": null,
+    "xoloarmmonwkmr": null,
+    "xolobgcbdndabm": null,
+    "xoloctwuaywkna": null,
+    "xolocyawkmylds": null,
+    "xolodevcceglww": null,
+    "xolodqijhnjgte": null,
+    "xolodvbqgrfohn": null,
+    "xolodxhrsnrxai": null,
+    "xoloeduccelifz": null,
+    "xoloewndmzvlqe": null,
+    "xolofucxlcmyke": null,
+    "xologpbhyminnv": null,
+    "xologrekjlqzxj": null,
+    "xolohnetekcjdz": null,
+    "xolojgmnizxche": null,
+    "xolokadyqehtbs": null,
+    "xolokqhufyiwyq": null,
+    "xolokvhcqvifyf": null,
+    "xolomayflwnfmy": null,
+    "xolomdabxhhrue": null,
+    "xolommyjlqlhsw": null,
+    "xolonjucebiwfa": null,
+    "xolookvryqetgd": null,
+    "xolopfydnuxyfh": null,
+    "xolopwjaansvnd": null,
+    "xoloqgavocbfcd": null,
+    "xoloqiyrnnqwll": null,
+    "xoloqvqexetcqo": null,
+    "xoloqyrmkojrfm": null,
+    "xolortpdcanegu": null,
+    "xolosbmgfnvgzi": null,
+    "xolostfqwqiaxe": null,
+    "xolosybevwfsny": null,
+    "xolotabiamysla": null,
+    "xolotestomegone": null,
+    "xolotopgrabber": null,
+    "xolotxobrzatpu": null,
+    "xolouwdmgbgkvr": null,
+    "xolovzgfkdamoj": null,
+    "xolowgdmsxvuwm": null,
+    "xoloxrxcxfywtm": null,
+    "xoloxygjidhpoo": null,
+    "xoloyfczocogra": null,
+    "xoloytubfihhsa": null,
+    "xolozamdgbxywf": null,
+    "xolozpnyeyhirx": null,
+    "xsilyxd": null,
+    "xxxsss": null,
+    "xxxxssss": null,
+    "yohewoasaw": null,
+    "youhans": null,
+    "youreallydontwantthispackage2131": null,
+    "youreallydontwantthispackage2132": null,
+    "zelixnitro": null,
+    "zero123": null,
+    "zorosnitro": null,
+    "zproxy": null,
+    "zproxy2": null,
+    "zwhrce": null,
+    "zydnitro": null
 }

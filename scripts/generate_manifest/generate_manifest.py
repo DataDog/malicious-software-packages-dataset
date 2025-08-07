@@ -3,12 +3,14 @@
 from argparse import ArgumentParser
 import json
 import os
+from pathlib import Path
 import sys
+from typing import Optional
 
-from packaging.version import InvalidVersion, parse as version_parse
+from packaging.version import InvalidVersion, parse as parse_version
 
 
-def generate_manifest(directory: str) -> dict[str, list[str]]:
+def generate_manifest(directory: str) -> dict[str, Optional[list[str]]]:
     def restore_original_name(package_name: str) -> str:
         return package_name[0] + package_name[1:].replace('@', '/')
 
@@ -17,19 +19,22 @@ def generate_manifest(directory: str) -> dict[str, list[str]]:
 
     manifest = {}
 
-    package_dirs = filter(lambda d: d.is_dir(), os.scandir(directory))
-    for package_dir in package_dirs:
-        package_name = restore_original_name(package_dir.name)
-        manifest[package_name] = []
+    for prefix in {"compromised_lib", "malicious_intent"}:
+        for package_dir in filter(lambda d: d.is_dir(), os.scandir(Path(directory) / prefix)):
+            package_name = restore_original_name(package_dir.name)
 
-        version_dirs = filter(lambda d: d.is_dir(), os.scandir(package_dir))
-        for version_dir in version_dirs:
-            package_version = restore_original_version(version_dir.name)
-            manifest[package_name].append(package_version)
-            try:
-                manifest[package_name].sort(key=version_parse)
-            except InvalidVersion:
-                manifest[package_name].sort()
+            if prefix == "malicious_intent":
+                manifest[package_name] = None
+                continue
+            manifest[package_name] = []
+
+            for version_dir in filter(lambda d: d.is_dir(), os.scandir(package_dir)):
+                package_version = restore_original_version(version_dir.name)
+                manifest[package_name].append(package_version)
+                try:
+                    manifest[package_name].sort(key=parse_version)
+                except InvalidVersion:
+                    manifest[package_name].sort()
 
     return {package: manifest[package] for package in sorted(manifest)}
 
