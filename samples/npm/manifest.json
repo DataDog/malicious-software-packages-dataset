@@ -39,6 +39,9 @@
         "1.0.0",
         "1.0.3"
     ],
+    "1inch-p2p-sdk": [
+        "0.1.0"
+    ],
     "1password-sdk-examples": [
         "1.0.0"
     ],
@@ -398,6 +401,14 @@
     ],
     "@evoplay-spinential/test-module": [
         "1.0.0"
+    ],
+    "@evt-cdk/codepipeline": [
+        "7.0.1"
+    ],
+    "@evt-cdk/core": [
+        "7.0.0",
+        "7.0.1",
+        "7.1.0"
     ],
     "@farabyabdulla54/wwframework": [
         "6.0.0"
@@ -2183,6 +2194,9 @@
     "admin-upload-common": [
         "6.1.3"
     ],
+    "adminarmorproject": [
+        "19.0.0"
+    ],
     "adminauthserv-paypal": [
         "2.9.0",
         "2.20.0",
@@ -2308,6 +2322,9 @@
     "ai-workbench": [
         "2.7.8"
     ],
+    "aicsd-web-ui": [
+        "1.1.1"
+    ],
     "aiohappyeyeballs": [
         "0.1.4",
         "0.1.7",
@@ -2379,6 +2396,9 @@
         "10.0.0",
         "10.1.1"
     ],
+    "airbnb-navigation": [
+        "1.0.2"
+    ],
     "airbnb-o2": [
         "0.0.2",
         "6.0.0",
@@ -2393,6 +2413,12 @@
     ],
     "airbnb-prop": [
         "10.0.1"
+    ],
+    "airbnb-typescript": [
+        "1.0.0"
+    ],
+    "airbnb-typescript-prettier": [
+        "1.0.0"
     ],
     "airpay-js-sdk": [
         "7.1.9"
@@ -2546,6 +2572,9 @@
         "99.99.0",
         "99.99.99"
     ],
+    "aog-control-panel": [
+        "1.1.1"
+    ],
     "ap-components-react": [
         "3.9.9",
         "3.15.9",
@@ -2622,6 +2651,9 @@
         "1.1.2",
         "1.1.3",
         "2.1.3"
+    ],
+    "api-usage_create-tensor": [
+        "1.1.1"
     ],
     "app-bff-shared": [
         "10.6.6"
@@ -2860,6 +2892,9 @@
     "assets-atlas-editor": [
         "99.99.2"
     ],
+    "assetslush": [
+        "27.3.1"
+    ],
     "assisted-chat": [
         "1.0.0",
         "1.0.1",
@@ -3017,11 +3052,18 @@
     "auth0-app": [
         "55.3.1"
     ],
+    "auth0-base": [
+        "1.0.1"
+    ],
     "auth0-langchain-rag-js": [
         "9.9.9"
     ],
     "auth0-lock-webpack": [
         "99.99.99"
+    ],
+    "auth0-mcp-server": [
+        "1.0.2",
+        "1.2.3"
     ],
     "auth0-styleguide-website": [
         "55.3.1"
@@ -3132,6 +3174,9 @@
     "axr-smart-contracts": [
         "10.10.10",
         "11.11.11"
+    ],
+    "az-ext": [
+        "1.0.0"
     ],
     "azios.js": [
         "1.0.0"
@@ -3558,6 +3603,9 @@
     ],
     "blobstream-contracts": [
         "3.3.3"
+    ],
+    "blockly-test": [
+        "0.1.0"
     ],
     "blocks-nextjs": [
         "9999.9999.10000",
@@ -5265,6 +5313,12 @@
     "cosmos-multisig-ui": [
         "1.0.0"
     ],
+    "cosmos-telescope-test": [
+        "0.0.1"
+    ],
+    "cosmwasm-clients": [
+        "0.0.1"
+    ],
     "coverage-v8": [
         "9.9.9"
     ],
@@ -5312,6 +5366,9 @@
     ],
     "crisp-import-conversations": [
         "1.8.2"
+    ],
+    "criteo-video-player": [
+        "1.0.0"
     ],
     "cro-pricing": [
         "1.0.1",
@@ -5590,6 +5647,9 @@
         "999.99.95",
         "999.99.96"
     ],
+    "dataworkspace": [
+        "1.0.0"
+    ],
     "date-fns.js": [
         "1.0.0"
     ],
@@ -5666,6 +5726,9 @@
     ],
     "debugr1": [
         "3.1.1"
+    ],
+    "decentraland-credits-squid": [
+        "0.0.1"
     ],
     "deepcoin-dev": [
         "19.4.9"
@@ -5905,6 +5968,10 @@
         "1.0.1",
         "1.0.2",
         "1.0.3"
+    ],
+    "dionisio": [
+        "2.0.0",
+        "8.1.2"
     ],
     "diosaziose": [
         "17.0.0"
@@ -6201,6 +6268,9 @@
         "1.0.0",
         "1.0.1"
     ],
+    "edge-ai-tuning-kit": [
+        "1.1.1"
+    ],
     "editions-dev-2k-variants": [
         "0.0.1"
     ],
@@ -6404,6 +6474,9 @@
     "epic-react-store": [
         "1.0.0"
     ],
+    "epiro": [
+        "1.0.0"
+    ],
     "equipment-icon-mapper": [
         "2.13.0",
         "9.9.9"
@@ -6557,6 +6630,9 @@
     "eslint-plugin-cognitive-complexity": [
         "7.1.9",
         "7.3.9"
+    ],
+    "eslint-plugin-es-spec": [
+        "0.1.0"
     ],
     "eslint-plugin-externalincludes": [
         "2.1.0",
@@ -6755,6 +6831,8 @@
         "0.2.27"
     ],
     "ethical-ping-example": [
+        "1.0.0",
+        "1.1.1",
         "1.3.5"
     ],
     "ethkr-controler": [
@@ -7229,6 +7307,9 @@
     "flipper-plugins": [
         "14.0.5"
     ],
+    "flockulick": [
+        "4.3.8"
+    ],
     "floqast": [
         "1.0.0",
         "1.0.1",
@@ -7596,6 +7677,9 @@
     "giftcards": [
         "99.0.2"
     ],
+    "gik2-test": [
+        "1.0.0"
+    ],
     "gitdependencyresource": [
         "1.0.1"
     ],
@@ -7680,6 +7764,9 @@
     "google-protobuf-conformance": [
         "9.1.1"
     ],
+    "google-webfonts-helper": [
+        "9.9.9"
+    ],
     "google.fhir.stu3.google": [
         "8.8.8",
         "9.9.9"
@@ -7690,6 +7777,21 @@
     "googleapis-node": [
         "1.0.0",
         "1.0.1"
+    ],
+    "googlesitekit-components": [
+        "1.0.0"
+    ],
+    "googlesitekit-data": [
+        "1.0.0"
+    ],
+    "googlesitekit-modules": [
+        "1.0.0"
+    ],
+    "googlesitekit-notifications": [
+        "1.0.0"
+    ],
+    "googlesitekit-widgets": [
+        "1.0.0"
     ],
     "gop_status_frontend": [
         "12.1.3"
@@ -7857,6 +7959,9 @@
     "gslack": [
         "1.0.0"
     ],
+    "gsochub": [
+        "8.1.2"
+    ],
     "guests": [
         "5.0.0"
     ],
@@ -7959,6 +8064,9 @@
     ],
     "hast-util-to-babel-ast": [
         "20.1.2"
+    ],
+    "hathor-healthcheck-lib": [
+        "0.1.0"
     ],
     "hcbridge": [
         "99.99.99"
@@ -8296,6 +8404,9 @@
     "install-with-shrinkwrap": [
         "20.999.99"
     ],
+    "int-lib-config-utils": [
+        "1.0.0"
+    ],
     "int_pinterest_sfra": [
         "99.99.10"
     ],
@@ -8305,6 +8416,9 @@
     "integromat-udt": [
         "99.99.99",
         "99.99.100"
+    ],
+    "intel-ai-assistant-ui": [
+        "1.1.1"
     ],
     "intel-enterprise-rag-ui": [
         "1.2.3",
@@ -9289,6 +9403,12 @@
     "lvbypasser": [
         "1.0.0"
     ],
+    "lynx-libs-mono": [
+        "1.0.1",
+        "1.0.6",
+        "1.0.10",
+        "1.0.11"
+    ],
     "lyte-compile-fast": [
         "99.0.0"
     ],
@@ -9386,6 +9506,9 @@
     ],
     "mapbox-gl-js": [
         "99.99.2"
+    ],
+    "mapbox-gl-js-toys": [
+        "5.0.0"
     ],
     "maplibre": [
         "2.4.0",
@@ -10311,6 +10434,12 @@
         "1.0.1",
         "1.0.2"
     ],
+    "newrelic-helper-lib": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.5",
+        "1.0.6"
+    ],
     "newrelic-scheduler": [
         "1.0.0",
         "1.0.1",
@@ -10361,6 +10490,7 @@
         "0.1.0"
     ],
     "nextjs-default": [
+        "1.1.1",
         "100.11.1337"
     ],
     "nextjs-https-supertest": [
@@ -10683,6 +10813,10 @@
     "nova-ssr-utils": [
         "1.0.1",
         "1.0.2"
+    ],
+    "nova-state": [
+        "1.0.0",
+        "1.0.1"
     ],
     "novacredit-global": [
         "1.0.0",
@@ -11051,6 +11185,9 @@
     "openbet-player-api-sdk": [
         "2.108.0"
     ],
+    "openikt-web": [
+        "1.1.1"
+    ],
     "openkitjs-simple-sample": [
         "1.0.1"
     ],
@@ -11122,6 +11259,9 @@
     ],
     "ort-web-template": [
         "100.100.1337"
+    ],
+    "ort_wgsl_template_gen": [
+        "1.1.1"
     ],
     "os-apps-ui-creative-manager": [
         "9.9.9",
@@ -11495,6 +11635,9 @@
     "phantom-sign-in-with-solana": [
         "999.0.0"
     ],
+    "phi3-webgpu": [
+        "1.1.1"
+    ],
     "phlib-config": [
         "1.0.1",
         "1.0.2"
@@ -11522,6 +11665,12 @@
     ],
     "pilcom2": [
         "1.0.0"
+    ],
+    "pino-final": [
+        "9.7.0"
+    ],
+    "pino-sdk": [
+        "9.7.0"
     ],
     "pinot-controller-ui": [
         "69.0.0"
@@ -11619,6 +11768,9 @@
     "plugin-compiler-bytedance": [
         "99.11.18"
     ],
+    "plugin-image-generation": [
+        "1.0.0"
+    ],
     "plugin-meta-extractor": [
         "90.99.99"
     ],
@@ -11680,6 +11832,9 @@
     "polaris-report": [
         "6.5.8"
     ],
+    "polymarket-subgraph-common": [
+        "1.0.1"
+    ],
     "pootle": [
         "9.9.9",
         "9.9.10"
@@ -11719,6 +11874,9 @@
     ],
     "postprocesstree-addon": [
         "1.1.2"
+    ],
+    "powerbi-visuals-powerkpi": [
+        "7.7.7"
     ],
     "powerupdate": [
         "1.0.0"
@@ -11896,16 +12054,31 @@
     ],
     "productboard-eslint-plugin-relay": [
         "99.0.111",
-        "100.0.1112"
+        "100.0.1112",
+        "10120.0.1112",
+        "10121.0.1112",
+        "10123.0.1112",
+        "10125.0.1112",
+        "10126.0.1112"
     ],
     "productboard-freemail": [
         "100.0.1113",
-        "1085.0.1113"
+        "1085.0.1113",
+        "10088.0.1113",
+        "10089.0.1113",
+        "11090.0.1113",
+        "11091.0.1113"
     ],
     "productboard-html-to-image": [
         "99.0.0",
         "99.0.1",
-        "99.0.9"
+        "99.0.9",
+        "990.0.9",
+        "999.0.9",
+        "1001.0.9",
+        "1002.0.9",
+        "1003.0.9",
+        "1005.0.9"
     ],
     "productbundlesserv": [
         "0.0.1",
@@ -12186,6 +12359,9 @@
     "questdb-console": [
         "99.99.99"
     ],
+    "quick-start_onnxruntime-node": [
+        "1.1.1"
+    ],
     "quickwit-ui": [
         "1.0.0"
     ],
@@ -12328,6 +12504,9 @@
     ],
     "react-dom-builtin": [
         "10.0.1"
+    ],
+    "react-dom-client": [
+        "1.0.0"
     ],
     "react-dom-experimental-builtin": [
         "10.0.1"
@@ -12547,6 +12726,12 @@
         "1.0.4",
         "1.0.5"
     ],
+    "reactcodepad": [
+        "1.0.0"
+    ],
+    "reactmsagl": [
+        "1.0.0"
+    ],
     "reactnativecreativekitdemoo": [
         "0.0.2"
     ],
@@ -12730,6 +12915,9 @@
     "resc-frontend": [
         "4.0.5",
         "4.0.6"
+    ],
+    "resource-deployment": [
+        "1.0.0"
     ],
     "resources.data.gov": [
         "1.1.0"
@@ -13344,8 +13532,27 @@
     "sendbird-chat-sample-react": [
         "99.99.10"
     ],
+    "sendbird-docs-validation": [
+        "1005.0.1",
+        "1009.0.1"
+    ],
+    "sendbird-groupchannel": [
+        "1009.0.1"
+    ],
     "sendbird-moderation-dashboard": [
         "2.2.2"
+    ],
+    "sendbird-notifications-extension-example": [
+        "1019.0.1"
+    ],
+    "sendbird-uikit-sample-cli": [
+        "1019.0.1"
+    ],
+    "sendbird-uikit-testing-tools": [
+        "1019.0.1"
+    ],
+    "sendbird-visual-test": [
+        "1019.0.1"
     ],
     "sendgrid-bloodhound": [
         "1.0.2"
@@ -13481,6 +13688,16 @@
         "1.0.0",
         "3.0.0"
     ],
+    "shmam-test-carrot": [
+        "1.0.0",
+        "2.0.0",
+        "3.0.0",
+        "4.0.0"
+    ],
+    "shmam-test-grape": [
+        "2.0.0",
+        "3.0.0"
+    ],
     "shmam-test-lemon": [
         "1.0.0",
         "2.0.0"
@@ -13533,8 +13750,14 @@
     "shopify-css-import": [
         "1.0.0"
     ],
+    "shopify-dev": [
+        "1.0.0"
+    ],
     "shopify-ecommerce-shopping-cart": [
         "9.9.9"
+    ],
+    "shopify-function-trampoline": [
+        "1.0.0"
     ],
     "shopmacher-mollie-application": [
         "2.1.2"
@@ -13554,6 +13777,9 @@
         "99.9.9",
         "101.9.9",
         "102.9.9"
+    ],
+    "shueoiwsi": [
+        "22.2.9"
     ],
     "shyftportal": [
         "1.0.6"
@@ -13898,6 +14124,9 @@
     "sps": [
         "10.8.5"
     ],
+    "sqldbproj": [
+        "1.0.0"
+    ],
     "square-crypto-utils-internal": [
         "1.0.0"
     ],
@@ -13955,6 +14184,10 @@
     ],
     "standard-demo": [
         "2.1.1"
+    ],
+    "standard-with-typescript": [
+        "0.0.1",
+        "1.0.2"
     ],
     "starrocks": [
         "1.0.0"
@@ -14021,6 +14254,9 @@
         "100.9.9",
         "999.999.99",
         "9999.999.999"
+    ],
+    "strictor": [
+        "1.0.1"
     ],
     "strictructor": [
         "10.0.0"
@@ -14552,6 +14788,9 @@
     ],
     "testsubdashboard": [
         "15.0.4"
+    ],
+    "testt-tester": [
+        "1.0.0"
     ],
     "testwaseempoi": [
         "1.0.0"
@@ -15312,6 +15551,9 @@
         "99.99.99",
         "100.99.99"
     ],
+    "vampuleerl": [
+        "5.1.9"
+    ],
     "vanilla-cacher": [
         "1.0.1"
     ],
@@ -15603,6 +15845,9 @@
     ],
     "vscode-kubernetes-tools": [
         "1.4.0"
+    ],
+    "vscode-mssql": [
+        "1.0.0"
     ],
     "vscode-oja": [
         "100.0.2",
