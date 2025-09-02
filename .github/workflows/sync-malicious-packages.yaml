@@ -37,6 +37,7 @@ jobs:
           aws-region: eu-west-3
           role-to-assume: ${{ secrets.IAM_ROLE_ARN }}
           role-session-name: github-actions
+          role-duration-seconds: 10800 # 3 hours 
 
       - name: Install dependencies
         run: |
