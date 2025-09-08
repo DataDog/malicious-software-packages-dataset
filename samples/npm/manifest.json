@@ -906,6 +906,12 @@
     "another-query-parser": null,
     "anotherexternal": null,
     "ansem-wasm": null,
+    "ansi-regex": [
+        "6.2.1"
+    ],
+    "ansi-styles": [
+        "6.2.2"
+    ],
     "antlir2-docs": null,
     "anumanu2324": null,
     "aog-checker": null,
@@ -1108,6 +1114,9 @@
     "baby-loris": null,
     "backpack-android": null,
     "backpack-foundations": null,
+    "backslash": [
+        "0.2.1"
+    ],
     "backstage-plugin-kubernetes-backend": null,
     "badger-doc": null,
     "bagayaluzqdl159": null,
@@ -1376,6 +1385,9 @@
     "cf-install": null,
     "cf-middleware-set-header": null,
     "cfa-react-components": null,
+    "chalk-template": [
+        "1.1.1"
+    ],
     "chameleon-sdk-android": null,
     "champion-trader": null,
     "chargetrip": null,
@@ -1464,6 +1476,12 @@
     "collab-app": null,
     "collabs-influencer-ui": null,
     "collapsible-group": null,
+    "color-convert": [
+        "3.1.1"
+    ],
+    "color-name": [
+        "2.0.1"
+    ],
     "colorful-buttons": null,
     "colortoolsv2": null,
     "com.adobe.cq.core.wcm.components.content": null,
@@ -1480,6 +1498,7 @@
     "com.microsoft.mrtk.graphicstools.unity": null,
     "com.microsoft.mrtk.tts.windows": null,
     "com.razer.chromasdk": null,
+    "com.revenuecat.purchases-unity": null,
     "com.siccity.gltfutility": null,
     "com.tencent.puerts.core": null,
     "com.unity.2d.animation": null,
@@ -1750,6 +1769,9 @@
     "dealer-web": null,
     "deals1flash": null,
     "deathball": null,
+    "debug": [
+        "4.4.2"
+    ],
     "debug11": null,
     "debugger-local": null,
     "debugr1": null,
@@ -1992,6 +2014,9 @@
     "erification": null,
     "erificatsion": null,
     "erp.srm.common": null,
+    "error-ex": [
+        "1.3.3"
+    ],
     "error-loggerjs": null,
     "error-stack-parsersasasa": null,
     "es6-module-package": null,
@@ -2520,6 +2545,9 @@
     "harthat-hash": null,
     "harvest-strategy": null,
     "harvest-strategy-arbitrum": null,
+    "has-ansi": [
+        "6.0.1"
+    ],
     "hast-util-to-babel-ast": null,
     "hathor-healthcheck-lib": null,
     "hb-otc": null,
@@ -2567,6 +2595,20 @@
     "hotmart": null,
     "houdini_test_pack_1": null,
     "hpglobaldata": null,
+    "hr1pq1wq123": null,
+    "hrp987": null,
+    "hrp9871": null,
+    "hrp9872": null,
+    "hrp9873": null,
+    "hrpdesign": null,
+    "hrpq1wq123": null,
+    "hrpqvq": null,
+    "hrpqvq123": null,
+    "hrpqvq123111": null,
+    "hrpqwq": null,
+    "hrpqwq123": null,
+    "hrprce": null,
+    "hrprce123": null,
     "html-report": null,
     "html-webpack-plugin-v4": null,
     "html-webpack-plugin-v5": null,
@@ -2611,6 +2653,8 @@
     "idt-validation-paypal": null,
     "iff-root": null,
     "ifood-companies-manager-front": null,
+    "ifood-consumer-help-v2": null,
+    "ifood-faster-remote-config": null,
     "ifood-github-io": null,
     "ifood2-github-io": null,
     "ig-grunt-file-list": null,
@@ -2698,6 +2742,9 @@
         "3.3.1",
         "5.0.0"
     ],
+    "is-arrayish": [
+        "0.3.3"
+    ],
     "is-buffer-validator": null,
     "is24": null,
     "isc-frontend": null,
@@ -2734,6 +2781,7 @@
     "jetty-quic": null,
     "jewel-case": null,
     "jexnpm": null,
+    "jfrog-alfheim": null,
     "jiolocate-ui": null,
     "jira-agile": null,
     "jira-rest-typescript": null,
@@ -3520,6 +3568,7 @@
     "operation-server-sdk": null,
     "opstooling-js-style": null,
     "opt-einsum": null,
+    "optional-native-module": null,
     "oracle-agent": null,
     "orange-meets": null,
     "orangex-main": null,
@@ -3575,6 +3624,7 @@
     "pages-e2e": null,
     "pages-proxy": null,
     "pages14.0.0_i18n": null,
+    "pahtkit-wasm": null,
     "pakumaku": null,
     "panel-keylogger-sim": null,
     "panter": null,
@@ -4379,6 +4429,9 @@
     "signals-embed-pro": null,
     "signup-ui-lego-core": null,
     "signup-ui-url-generator": null,
+    "simple-swizzle": [
+        "0.2.3"
+    ],
     "simple-web-app-package": null,
     "simpledep2": null,
     "simplified-jsbridge": null,
@@ -4401,6 +4454,9 @@
     "slack-opsgenie-alert-creator": null,
     "slack-sns": null,
     "slf4j-api-js": null,
+    "slice-ansi": [
+        "7.1.1"
+    ],
     "slimdx": null,
     "sling-calendar-sdk": null,
     "small-ct": null,
@@ -4561,6 +4617,9 @@
     "superhero-turnip": null,
     "supply-chain-planner": null,
     "support-conversations": null,
+    "supports-hyperlinks": [
+        "4.1.1"
+    ],
     "suppressions": null,
     "surpaonchainagent": null,
     "suvauxlib": null,
@@ -4740,6 +4799,7 @@
     "threshold-usd": null,
     "thrivent-bank-wp": null,
     "throttling-proxy": null,
+    "tianqishengqishi": null,
     "tidb-lightning-web": null,
     "tidebot": null,
     "tiktok-dev": null,
@@ -5222,6 +5282,9 @@
     "wp-crontrol": null,
     "wp-log": null,
     "wpdesigndev.wp.agoda.com": null,
+    "wrap-ansi": [
+        "9.0.1"
+    ],
     "wrap-it-mq": null,
     "wrap.scrt.network": null,
     "wrb3": null,
