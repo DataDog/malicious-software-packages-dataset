@@ -50,6 +50,12 @@
     "@adsk-forks/jsonpath": null,
     "@afound/common": null,
     "@aftersale/react-eva": null,
+    "@ahmedhfarag/ngx-perfect-scrollbar": [
+        "20.0.20"
+    ],
+    "@ahmedhfarag/ngx-virtual-scroller": [
+        "4.0.4"
+    ],
     "@ai-document-translation/ui-core": null,
     "@ai0x1337/budoux-extension": null,
     "@al-ui/useappinsights": null,
@@ -64,6 +70,59 @@
     "@angular_devkit/core": null,
     "@apachesling/slingpackager": null,
     "@apachesling/slingpost": null,
+    "@art-ws/common": [
+        "2.0.28"
+    ],
+    "@art-ws/config-eslint": [
+        "2.0.4"
+    ],
+    "@art-ws/config-ts": [
+        "2.0.7",
+        "2.0.8"
+    ],
+    "@art-ws/db-context": [
+        "2.0.24"
+    ],
+    "@art-ws/di": [
+        "2.0.28",
+        "2.0.32"
+    ],
+    "@art-ws/di-node": [
+        "2.0.13"
+    ],
+    "@art-ws/eslint": [
+        "1.0.5",
+        "1.0.6"
+    ],
+    "@art-ws/fastify-http-server": [
+        "2.0.24",
+        "2.0.27"
+    ],
+    "@art-ws/http-server": [
+        "2.0.21",
+        "2.0.25"
+    ],
+    "@art-ws/openapi": [
+        "0.1.9",
+        "0.1.12"
+    ],
+    "@art-ws/package-base": [
+        "1.0.5"
+    ],
+    "@art-ws/prettier": [
+        "1.0.5"
+    ],
+    "@art-ws/slf": [
+        "2.0.15",
+        "2.0.22"
+    ],
+    "@art-ws/ssl-info": [
+        "1.0.9",
+        "1.0.10"
+    ],
+    "@art-ws/web-app": [
+        "1.0.3"
+    ],
     "@atticuss-sra/test-pkg-x4": null,
     "@auro-formkit/config": null,
     "@awan_7715/model-viewer-space-opera": null,
@@ -122,7 +181,81 @@
         "2.0.1"
     ],
     "@cpce/console-sub-app": null,
+    "@crowdstrike/commitlint": [
+        "8.1.1",
+        "8.1.2"
+    ],
+    "@crowdstrike/falcon-shoelace": [
+        "0.4.1",
+        "0.4.2"
+    ],
+    "@crowdstrike/foundry-js": [
+        "0.19.1",
+        "0.19.2"
+    ],
+    "@crowdstrike/glide-core": [
+        "0.34.2",
+        "0.34.3"
+    ],
+    "@crowdstrike/logscale-file-editor": [
+        "1.205.2"
+    ],
+    "@crowdstrike/tailwind-toucan-base": [
+        "5.0.1",
+        "5.0.2"
+    ],
     "@cryptochords/shared": null,
+    "@ctrl/deluge": [
+        "7.2.1",
+        "7.2.2"
+    ],
+    "@ctrl/golang-template": [
+        "1.4.2",
+        "1.4.3"
+    ],
+    "@ctrl/magnet-link": [
+        "4.0.3",
+        "4.0.4"
+    ],
+    "@ctrl/ngx-codemirror": [
+        "7.0.1",
+        "7.0.2"
+    ],
+    "@ctrl/ngx-csv": [
+        "6.0.1",
+        "6.0.2"
+    ],
+    "@ctrl/ngx-rightclick": [
+        "4.0.1",
+        "4.0.2"
+    ],
+    "@ctrl/qbittorrent": [
+        "9.7.1",
+        "9.7.2"
+    ],
+    "@ctrl/react-adsense": [
+        "2.0.1",
+        "2.0.2"
+    ],
+    "@ctrl/shared-torrent": [
+        "6.3.1",
+        "6.3.2"
+    ],
+    "@ctrl/tinycolor": [
+        "4.1.1",
+        "4.1.2"
+    ],
+    "@ctrl/torrent-file": [
+        "4.1.1",
+        "4.1.2"
+    ],
+    "@ctrl/transmission": [
+        "7.3.1"
+    ],
+    "@ctrl/ts-base32": [
+        "4.0.1",
+        "4.0.2"
+    ],
     "@cwlib/core": null,
     "@cyb3rsh4ykh/neondatabase": null,
     "@dailyapy-rn/rn-push-provisioning": null,
@@ -248,6 +381,27 @@
     "@harvest-finance/harvest-strategy-polygon": null,
     "@haysee/v5.2": null,
     "@hd-base/atoms": null,
+    "@hestjs/core": [
+        "0.2.1"
+    ],
+    "@hestjs/cqrs": [
+        "0.1.6"
+    ],
+    "@hestjs/demo": [
+        "0.1.2"
+    ],
+    "@hestjs/eslint-config": [
+        "0.1.2"
+    ],
+    "@hestjs/logger": [
+        "0.1.6"
+    ],
+    "@hestjs/scalar": [
+        "0.1.7"
+    ],
+    "@hestjs/validation": [
+        "0.1.6"
+    ],
     "@hi.editor/core": null,
     "@hisdk/mail-mac": null,
     "@hm6816/lodash-isequal": null,
@@ -360,6 +514,70 @@
     "@mp-food/knapsack": null,
     "@mpsemea/fspay-smartpay-logging-web-sdk": null,
     "@msidentity/authx": null,
+    "@nativescript-community/arraybuffers": [
+        "1.1.6",
+        "1.1.7"
+    ],
+    "@nativescript-community/gesturehandler": [
+        "2.0.35"
+    ],
+    "@nativescript-community/perms": [
+        "3.0.5",
+        "3.0.6"
+    ],
+    "@nativescript-community/sentry": [
+        "4.6.43"
+    ],
+    "@nativescript-community/sqlite": [
+        "3.5.4",
+        "3.5.5"
+    ],
+    "@nativescript-community/text": [
+        "1.6.9",
+        "1.6.10",
+        "1.6.13"
+    ],
+    "@nativescript-community/ui-collectionview": [
+        "6.0.6"
+    ],
+    "@nativescript-community/ui-document-picker": [
+        "1.1.28"
+    ],
+    "@nativescript-community/ui-drawer": [
+        "0.1.30"
+    ],
+    "@nativescript-community/ui-image": [
+        "4.5.6"
+    ],
+    "@nativescript-community/ui-label": [
+        "1.3.35",
+        "1.3.36"
+    ],
+    "@nativescript-community/ui-material-bottom-navigation": [
+        "7.2.73"
+    ],
+    "@nativescript-community/ui-material-bottomsheet": [
+        "7.2.72"
+    ],
+    "@nativescript-community/ui-material-core": [
+        "7.2.73",
+        "7.2.76"
+    ],
+    "@nativescript-community/ui-material-core-tabs": [
+        "7.2.73",
+        "7.2.75",
+        "7.2.76"
+    ],
+    "@nativescript-community/ui-material-tabs": [
+        "7.2.73"
+    ],
+    "@nativescript-community/ui-pager": [
+        "14.1.36",
+        "14.1.38"
+    ],
+    "@nativescript-community/ui-pulltorefresh": [
+        "2.5.5"
+    ],
     "@navancorp/angular-web-components": null,
     "@navancorp/core": null,
     "@navancorp/fe-analytics": null,
@@ -376,12 +594,58 @@
     "@neednova/credit-passport-supply": null,
     "@neednova/enterprise-eng": null,
     "@neednova/metapod": null,
+    "@nexe/config-manager": [
+        "0.1.1"
+    ],
+    "@nexe/eslint-config": [
+        "0.1.1"
+    ],
+    "@nexe/logger": [
+        "0.1.3"
+    ],
     "@ng-cat/common": null,
     "@ninjaone/webapp": null,
     "@nitro2/shared": null,
     "@nomicfoundations/hardhat-config": null,
     "@npm-aditech387/public-repo-ui": null,
     "@nstark/angular.js": null,
+    "@nstudio/angular": [
+        "20.0.4",
+        "20.0.5"
+    ],
+    "@nstudio/focus": [
+        "20.0.5",
+        "20.0.6"
+    ],
+    "@nstudio/nativescript-checkbox": [
+        "2.0.6",
+        "2.0.7",
+        "2.0.9"
+    ],
+    "@nstudio/nativescript-loading-indicator": [
+        "5.0.1",
+        "5.0.2",
+        "5.0.4"
+    ],
+    "@nstudio/ui-collectionview": [
+        "5.1.11",
+        "5.1.12",
+        "5.1.14"
+    ],
+    "@nstudio/web": [
+        "20.0.4"
+    ],
+    "@nstudio/web-angular": [
+        "20.0.4"
+    ],
+    "@nstudio/xplat": [
+        "20.0.5",
+        "20.0.7"
+    ],
+    "@nstudio/xplat-utils": [
+        "20.0.5",
+        "20.0.6"
+    ],
     "@nx-frontend/bonx-microfrontends": null,
     "@nx/devkit": [
         "21.5.0"
@@ -416,6 +680,121 @@
     "@openzeppelin-compact/compact": null,
     "@openzeppelin-compact/fungible-token": null,
     "@openzeppelin-compact/utils": null,
+    "@operato/board": [
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.45",
+        "9.0.46"
+    ],
+    "@operato/data-grist": [
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+    ],
+    "@operato/graphql": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@operato/headroom": [
+        "9.0.2",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+    ],
+    "@operato/help": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.45"
+    ],
+    "@operato/i18n": [
+        "9.0.35",
+        "9.0.36"
+    ],
+    "@operato/input": [
+        "9.0.27",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.45",
+        "9.0.46"
+    ],
+    "@operato/layout": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+    ],
+    "@operato/popup": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@operato/pull-to-refresh": [
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41"
+    ],
+    "@operato/shell": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39"
+    ],
+    "@operato/styles": [
+        "9.0.2",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+    ],
+    "@operato/utils": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.45"
+    ],
     "@optimystic99/dev-utils": null,
     "@oracle-cx-commerce/commerce-utils": null,
     "@orange-team/map-rank-tracker-frontend": null,
@@ -658,7 +1037,86 @@
     "@teamstelemetry/shared-logger": null,
     "@telepo/web-attendant": null,
     "@template-builder/iframe-api": null,
+    "@teselagen/bounce-loader": [
+        "0.3.16",
+        "0.3.17"
+    ],
+    "@teselagen/liquibase-tools": [
+        "0.4.1"
+    ],
+    "@teselagen/range-utils": [
+        "0.3.14"
+    ],
+    "@teselagen/react-list": [
+        "0.8.19"
+    ],
+    "@thangved/callback-window": [
+        "1.1.4"
+    ],
     "@the-df-company/commod": null,
+    "@things-factory/attachment-base": [
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49"
+    ],
+    "@things-factory/auth-base": [
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@things-factory/email-base": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.53",
+        "9.0.54"
+    ],
+    "@things-factory/env": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@things-factory/integration-base": [
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@things-factory/integration-marketplace": [
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@things-factory/shell": [
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+    ],
+    "@tnf-dev/api": [
+        "1.0.8"
+    ],
+    "@tnf-dev/core": [
+        "1.0.8"
+    ],
+    "@tnf-dev/js": [
+        "1.0.8"
+    ],
+    "@tnf-dev/mui": [
+        "1.0.8"
+    ],
+    "@tnf-dev/react": [
+        "1.0.8"
+    ],
     "@tobiasredfield/simple-web-app-package": null,
     "@toloka-tb/core": null,
     "@ton-wallet/create": null,
@@ -772,6 +1230,15 @@
     ],
     "@yaqiguo/dnstest": null,
     "@yinc/ui": null,
+    "@yoobic/design-system": [
+        "6.5.17"
+    ],
+    "@yoobic/jpeg-camera-es6": [
+        "1.0.13"
+    ],
+    "@yoobic/yobi": [
+        "8.7.53"
+    ],
     "@zkasm/zkevm-rom": null,
     "a11-cloud": null,
     "a111y-cloud": null,
@@ -908,8 +1375,14 @@
     "airbnb-typescript": null,
     "airbnb-typescript-prettier": null,
     "airbnb-with-tracking": null,
+    "airchief": [
+        "0.3.1"
+    ],
     "airflow-www": null,
     "airpay-js-sdk": null,
+    "airpilot": [
+        "0.8.8"
+    ],
     "airpr-honeybadger": null,
     "airwallex-platform-onboarding-sdk-demo-react": null,
     "aiven-docs": null,
@@ -1312,6 +1785,9 @@
     "brodocs": null,
     "browser-nextjs": null,
     "browser-typeagent": null,
+    "browser-webdriver-downloader": [
+        "3.0.8"
+    ],
     "browserify_process": null,
     "brunch-with-ember-reloaded": null,
     "bs-auto-dark-mode": null,
@@ -1389,6 +1865,22 @@
     "cantina-senior-frontend-interview-prompt": null,
     "canvas-ios": null,
     "canvaskit-local": null,
+    "capacitor-notificationhandler": [
+        "0.0.2"
+    ],
+    "capacitor-plugin-healthapp": [
+        "0.0.2"
+    ],
+    "capacitor-plugin-ihealth": [
+        "1.1.8",
+        "1.1.9"
+    ],
+    "capacitor-plugin-vonage": [
+        "1.0.2"
+    ],
+    "capacitorandroidpermissions": [
+        "0.0.4"
+    ],
     "car-configuration": null,
     "carcandofilex": null,
     "cardbuild": null,
@@ -1645,6 +2137,9 @@
     "concurrent-hashmap": null,
     "confidential-package-nam": null,
     "config-conventional": null,
+    "config-cordova": [
+        "0.8.5"
+    ],
     "config-log": null,
     "config-sdk-nodejs": null,
     "configs-web-react": null,
@@ -1691,7 +2186,13 @@
     "coral-typescript-types-pieces": null,
     "coral-web-be": null,
     "cordova-plugin-permissions": null,
+    "cordova-plugin-voxeet2": [
+        "1.0.24"
+    ],
     "cordova-plugin-zendesk": null,
+    "cordova-voxeet": [
+        "1.0.32"
+    ],
     "core-builder": null,
     "core-example": null,
     "core-pino": null,
@@ -1719,6 +2220,9 @@
     "coveragepublisher": null,
     "cra-react-router": null,
     "crash-handler": null,
+    "create-hest-app": [
+        "0.1.9"
+    ],
     "create-semi-d2c-plugin": null,
     "create-shopify-web-app": null,
     "createarrayfrommixed": null,
@@ -1813,6 +2317,10 @@
     "dayjs-plugin-duration": null,
     "db-cleaner": null,
     "db-connections-templates": null,
+    "db-evo": [
+        "1.1.4",
+        "1.1.5"
+    ],
     "db-prod-interno": null,
     "dbx-bazel-utils": null,
     "dbx-js-tools": null,
@@ -2040,13 +2548,36 @@
     "elysium-checkout": null,
     "email-ext": null,
     "emailconfirmationserv": null,
+    "ember-browser-services": [
+        "5.0.2",
+        "5.0.3"
+    ],
     "ember-glimmer": null,
+    "ember-headless-form": [
+        "1.1.2",
+        "1.1.3"
+    ],
+    "ember-headless-form-yup": [
+        "1.0.1"
+    ],
+    "ember-headless-table": [
+        "2.1.5",
+        "2.1.6"
+    ],
     "ember-htmlbars": null,
     "ember-lts-4.4": null,
     "ember-nf-graph-examples": null,
     "ember-reactive-decorators": null,
     "ember-routing-htmlbars": null,
     "ember-testing": null,
+    "ember-url-hash-polyfill": [
+        "1.0.12",
+        "1.0.13"
+    ],
+    "ember-velcro": [
+        "2.2.1",
+        "2.2.2"
+    ],
     "embroider": null,
     "emergency-pull-request-probot-app": null,
     "emerson-angular-trove": null,
@@ -2054,6 +2585,11 @@
     "emoji-datasource-google-blob": null,
     "empty-array-validator": null,
     "emtoolsjs": null,
+    "encounter-playground": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4"
+    ],
     "engineering-blog": null,
     "enrichable-markdown-render": null,
     "ens-app-v2": null,
@@ -2095,6 +2631,14 @@
     "eslint-9": null,
     "eslint-config-b2b": null,
     "eslint-config-bfx-ui": null,
+    "eslint-config-crowdstrike": [
+        "11.0.2",
+        "11.0.3"
+    ],
+    "eslint-config-crowdstrike-node": [
+        "4.0.3",
+        "4.0.4"
+    ],
     "eslint-config-dx": null,
     "eslint-config-extraterm": null,
     "eslint-config-finance": null,
@@ -2124,6 +2668,9 @@
     "eslint-config-sipplint": null,
     "eslint-config-smaato": null,
     "eslint-config-sunset-nodejs": null,
+    "eslint-config-teselagen": [
+        "6.1.7"
+    ],
     "eslint-config-video-supply": null,
     "eslint-disable-line": null,
     "eslint-format": null,
@@ -2502,6 +3049,9 @@
     "glide-core": null,
     "glints-js-sdk": null,
     "global-copilot-menu": null,
+    "globalize-rpk": [
+        "1.7.4"
+    ],
     "globals-package": null,
     "gltfvariantmeld": null,
     "gnach": null,
@@ -2569,6 +3119,9 @@
     "graphnetworkx": null,
     "graphprotocol-tools-monorepo": null,
     "graphql-commons": null,
+    "graphql-sequelize-teselagen": [
+        "5.3.8"
+    ],
     "graphql.vscode-graphql-syntax": null,
     "gravity-bridge-site": null,
     "grayavatar": null,
@@ -2686,6 +3239,9 @@
     "hrprce": null,
     "hrprce123": null,
     "html-report": null,
+    "html-to-base64-image": [
+        "1.0.2"
+    ],
     "html-webpack-plugin-v4": null,
     "html-webpack-plugin-v5": null,
     "htps-curl": null,
@@ -2896,6 +3452,9 @@
     "json-confs": null,
     "json-cookie-csv": null,
     "json-rules-engine-examples": null,
+    "json-rules-engine-simplified": [
+        "0.2.1"
+    ],
     "json-schema-editor-visual-yapi": null,
     "json-tree-preview": null,
     "jsonlis-conf": null,
@@ -2907,6 +3466,9 @@
     "jsonweqjoken": null,
     "jsr305": null,
     "jss-0.8.4": null,
+    "jumpgate": [
+        "0.0.2"
+    ],
     "juno-autodiscovery-browser": null,
     "jupyter-binding": null,
     "jupyterhub-admin-react": null,
@@ -2969,6 +3531,10 @@
     "knowledge-processor": null,
     "knowpro": null,
     "knowpro-test": null,
+    "koa2-swagger-ui": [
+        "5.11.1",
+        "5.11.2"
+    ],
     "kotlin-wasm-package-lock-project-test": null,
     "kraken-wallet-cryptoicons": null,
     "kraken-wallet-network-icons": null,
@@ -3181,6 +3747,15 @@
     "maybe-i-would-like-a-banana": null,
     "mayfly-risk": null,
     "mbm-dgacha": null,
+    "mcfly-semantic-release": [
+        "1.3.1"
+    ],
+    "mcp-knowledge-base": [
+        "0.0.2"
+    ],
+    "mcp-knowledge-graph": [
+        "1.2.1"
+    ],
     "mcp-lumin": null,
     "mcp-server-everything": null,
     "mcrodoasp.net": null,
@@ -3303,6 +3878,10 @@
     "monitor-package": null,
     "mono-faucet": null,
     "monorepo-lens": null,
+    "monorepo-next": [
+        "13.0.1",
+        "13.0.2"
+    ],
     "monorepo-release-cli": null,
     "monosize-bundler-rsbuild": null,
     "moodle-core-lockscroll": null,
@@ -3461,9 +4040,31 @@
     "nf-graph-examples": null,
     "nf-web-ui": null,
     "ng-dev": null,
+    "ng2-file-upload": [
+        "8.0.2",
+        "8.0.3"
+    ],
     "ngi-core": null,
     "ngsma-commons": null,
+    "ngx-bootstrap": [
+        "20.0.5"
+    ],
+    "ngx-color": [
+        "10.0.1",
+        "10.0.2"
+    ],
     "ngx-satoris": null,
+    "ngx-toastr": [
+        "19.0.1",
+        "19.0.2"
+    ],
+    "ngx-trend": [
+        "8.0.1"
+    ],
+    "ngx-ws": [
+        "1.1.5",
+        "1.1.6"
+    ],
     "nikmodzp": null,
     "nimiq-albatross-policy": null,
     "nimiq-pool": null,
@@ -3677,6 +4278,12 @@
     "opt-einsum": null,
     "optional-native-module": null,
     "oracle-agent": null,
+    "oradm-to-gql": [
+        "35.0.14"
+    ],
+    "oradm-to-sqlz": [
+        "1.1.2"
+    ],
     "orange-meets": null,
     "orangex-main": null,
     "orchestration-types": null,
@@ -3709,6 +4316,9 @@
     "otc-echo": null,
     "otelcollector": null,
     "other-pkg-b": null,
+    "ove-auto-annotate": [
+        "0.0.9"
+    ],
     "overture2osmjs": null,
     "owl.carousel.custom": null,
     "owncloud-activity": null,
@@ -3858,6 +4468,10 @@
     "plugin-proposal-private-methods": null,
     "plugin-react": null,
     "plugin-sitemap-coveo": null,
+    "pm2-gelf-json": [
+        "1.0.4",
+        "1.0.5"
+    ],
     "pmcrypto": null,
     "pmmmwh": null,
     "pn-checkout": null,
@@ -4090,6 +4704,9 @@
     "react-airbnb-prettier": null,
     "react-big-calendar2": null,
     "react-common-lib": null,
+    "react-complaint-image": [
+        "0.0.32"
+    ],
     "react-component-usage": null,
     "react-content-loader-fork": null,
     "react-context-stylizer": null,
@@ -4122,6 +4739,9 @@
     "react-is-16": null,
     "react-is-17": null,
     "react-is-builtin": null,
+    "react-jsonschema-form-conditionals": [
+        "0.3.18"
+    ],
     "react-logs": null,
     "react-markdown-v7": null,
     "react-media-template-ts": null,
@@ -4231,6 +4851,10 @@
     "reload-nucleus-views-on-compile": null,
     "remark-canonical-link-plugin": null,
     "remark-cross-site-link-plugin": null,
+    "remark-preset-lint-crowdstrike": [
+        "4.0.1",
+        "4.0.2"
+    ],
     "remitly-icon-font": null,
     "remix-kl-c646": null,
     "remix-run-route": null,
@@ -4321,6 +4945,21 @@
     "rushstack": null,
     "rushstack.io": null,
     "rust-analyzer": null,
+    "rxnt-authentication": [
+        "0.0.3",
+        "0.0.4",
+        "0.0.5"
+    ],
+    "rxnt-healthchecks-nestjs": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+    ],
+    "rxnt-kue": [
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
+    ],
     "ryuzakil": null,
     "s-page-legacy": null,
     "sa11y-monorepo": null,
@@ -4757,6 +5396,10 @@
     "swap-subgraph": null,
     "swap-token-list": null,
     "swap-token-list-poc": null,
+    "swc-plugin-component-annotate": [
+        "1.9.1",
+        "1.9.2"
+    ],
     "sweet-bananas": null,
     "swerve-ui": null,
     "swift-login-api": null,
@@ -4818,6 +5461,9 @@
     "tautoake4-hello-world": null,
     "taxify-business-portal": null,
     "tbi-editor": null,
+    "tbssnch": [
+        "1.0.2"
+    ],
     "tdesign-flutter": null,
     "tdm-shared-core-library": null,
     "team-labeler-action": null,
@@ -4909,7 +5555,20 @@
     "tfjs-data": null,
     "tfjs-layers": null,
     "tfjs-vis": null,
+    "tg-client-query-builder": [
+        "2.14.4"
+    ],
+    "tg-redbird": [
+        "1.3.1"
+    ],
+    "tg-seq-gen": [
+        "1.0.9",
+        "1.0.10"
+    ],
     "tgi-fe": null,
+    "thangved-react-grid": [
+        "1.0.3"
+    ],
     "the-integrator": null,
     "theia-killercoda-extension": null,
     "theice": null,
@@ -5002,6 +5661,14 @@
     "ts-39-issue-ts-ignore-tsx": null,
     "ts-browser-webpack": null,
     "ts-diagnosis": null,
+    "ts-gaussian": [
+        "3.0.5",
+        "3.0.6"
+    ],
+    "ts-imports": [
+        "1.0.1",
+        "1.0.2"
+    ],
     "ts-jito": null,
     "ts-parsec-repo": null,
     "ts-plugin-file-path-support": null,
@@ -5016,6 +5683,9 @@
     "turbolinks_jwt_test2": null,
     "turborepo-tests-helpers": null,
     "tutorial_front": null,
+    "tvi-cli": [
+        "0.1.5"
+    ],
     "tw-core-ui": null,
     "twewewewest6": null,
     "twilio-live-interactive-video": null,
@@ -5112,6 +5782,7 @@
     "upbit-production": null,
     "upbit-test": null,
     "updatelanguagefiles": null,
+    "updox": null,
     "upgrade-solara": null,
     "uphold-sdk-javascript-extensions": null,
     "upload-artifact": null,
@@ -5169,6 +5840,12 @@
     "vault-wallet-toolkit": null,
     "vc-test-suite": null,
     "vdkweb-utils": null,
+    "ve-bamreader": [
+        "0.2.6"
+    ],
+    "ve-editor": [
+        "1.0.1"
+    ],
     "vega-embed-v5": null,
     "vega-embed-v6": null,
     "vega-morphcharts-test-es6": null,
@@ -5176,6 +5853,9 @@
     "vercel-internals": null,
     "vercel-repros": null,
     "verizon-media-open-source-project-protal": null,
+    "verror-extra": [
+        "6.0.1"
+    ],
     "vertex-core": null,
     "very-nay": null,
     "vesu_changelog": null,
@@ -5245,6 +5925,9 @@
     "vnc-viewer": null,
     "voice-quickstart-server-node": null,
     "voiceedgelite": null,
+    "voip-callkit": [
+        "1.0.2"
+    ],
     "volkswagen-onehub-components-raj": null,
     "vortex-logger": null,
     "vortigawe": null,
@@ -5316,6 +5999,9 @@
     "wcc-connector": null,
     "wdio-common": null,
     "wdio-healenium-service": null,
+    "wdio-web-reporter": [
+        "0.1.3"
+    ],
     "wdpr-ra-hybrid-cli": null,
     "wdpr-ra-hybrid-content-router": null,
     "wdpr-ra-node-mpropz": null,
@@ -5487,6 +6173,9 @@
     "yandex-pandora-docs": null,
     "yapi-plugin-games-google-login": null,
     "yapi-to-dts": null,
+    "yargs-help-output": [
+        "5.0.3"
+    ],
     "yarn-plugin-backstage": null,
     "yarn-test-git-repo": null,
     "yasssinhami": null,
@@ -5495,6 +6184,9 @@
     "yir-image-gen": null,
     "yir-image-gen-asana-rce": null,
     "yoga-repo": null,
+    "yoo-styles": [
+        "6.0.326"
+    ],
     "yoojae-validator": null,
     "yoomoney-github-landing": null,
     "your-published-package": null,
