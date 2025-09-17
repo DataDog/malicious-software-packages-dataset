@@ -523,7 +523,8 @@
     ],
     "@nativescript-community/perms": [
         "3.0.5",
-        "3.0.6"
+        "3.0.6",
+        "3.0.9"
     ],
     "@nativescript-community/sentry": [
         "4.6.43"
@@ -1037,9 +1038,15 @@
     "@teamstelemetry/shared-logger": null,
     "@telepo/web-attendant": null,
     "@template-builder/iframe-api": null,
+    "@teselagen/bio-parsers": [
+        "0.4.29"
+    ],
     "@teselagen/bounce-loader": [
         "0.3.16",
         "0.3.17"
+    ],
+    "@teselagen/file-utils": [
+        "0.3.21"
     ],
     "@teselagen/liquibase-tools": [
         "0.4.1"
@@ -1049,6 +1056,9 @@
     ],
     "@teselagen/react-list": [
         "0.8.19"
+    ],
+    "@teselagen/sequence-utils": [
+        "0.3.33"
     ],
     "@thangved/callback-window": [
         "1.1.4"
@@ -3453,7 +3463,8 @@
     "json-cookie-csv": null,
     "json-rules-engine-examples": null,
     "json-rules-engine-simplified": [
-        "0.2.1"
+        "0.2.1",
+        "0.2.3"
     ],
     "json-schema-editor-visual-yapi": null,
     "json-tree-preview": null,
@@ -4047,7 +4058,8 @@
     "ngi-core": null,
     "ngsma-commons": null,
     "ngx-bootstrap": [
-        "20.0.5"
+        "20.0.5",
+        "20.0.6"
     ],
     "ngx-color": [
         "10.0.1",
@@ -4282,7 +4294,8 @@
         "35.0.14"
     ],
     "oradm-to-sqlz": [
-        "1.1.2"
+        "1.1.2",
+        "1.1.4"
     ],
     "orange-meets": null,
     "orangex-main": null,
@@ -4705,7 +4718,8 @@
     "react-big-calendar2": null,
     "react-common-lib": null,
     "react-complaint-image": [
-        "0.0.32"
+        "0.0.32",
+        "0.0.34"
     ],
     "react-component-usage": null,
     "react-content-loader-fork": null,
@@ -4740,7 +4754,14 @@
     "react-is-17": null,
     "react-is-builtin": null,
     "react-jsonschema-form-conditionals": [
-        "0.3.18"
+        "0.3.18",
+        "0.3.20"
+    ],
+    "react-jsonschema-form-extras": [
+        "1.0.3"
+    ],
+    "react-jsonschema-rxnt-extras": [
+        "0.4.8"
     ],
     "react-logs": null,
     "react-markdown-v7": null,
@@ -4841,6 +4862,7 @@
     "refreshrewards": null,
     "reftest-helper": null,
     "reftest-helper-for-ae1x": null,
+    "regex-validator-utils": null,
     "rehype-headerless-table-plugin": null,
     "rei-breakpoint-detector": null,
     "rei-session": null,
@@ -5367,6 +5389,7 @@
     "stripe-testfb-v3": null,
     "strmaster-pro": null,
     "struct-logger": null,
+    "strutil-pro": null,
     "strutils-pro": null,
     "studiospanelopsweb": null,
     "studocu-extension-pack": null,
@@ -5516,6 +5539,7 @@
     "testbcms": null,
     "testbyakash2310please": null,
     "testbyakash2310xxxxxxxnowaympasti": null,
+    "testcatplzignore": null,
     "teste-depenconfu": null,
     "testedt": null,
     "testerdexa": null,
