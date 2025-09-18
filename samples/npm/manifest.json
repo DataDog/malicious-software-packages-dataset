@@ -136,6 +136,8 @@
     "@biovia/amd-loader": null,
     "@blocks-shared/desktop-title": null,
     "@bmw-fedev/auth": null,
+    "@bonk-sdk/ipfs": null,
+    "@bonk-sdk/sha256": null,
     "@bugtestester/simple-web-app-package": null,
     "@bytedanc-ad/market-ui-vue2": null,
     "@bytedanc-ad/mui-react": null,
@@ -452,6 +454,7 @@
     "@js-to-lua/lua-conversion-utils": null,
     "@js-to-lua/lua-types": null,
     "@jsonjoy-com/base64": null,
+    "@jupiter-sdk/trade": null,
     "@justworkshr/alma": null,
     "@kamotive/api-file-upload": null,
     "@klarna-travel-platform/travel-booking-shared-types": null,
@@ -743,7 +746,9 @@
         "9.0.42",
         "9.0.43",
         "9.0.45",
-        "9.0.46"
+        "9.0.46",
+        "9.0.47",
+        "9.0.48"
     ],
     "@operato/layout": [
         "9.0.35",
@@ -1274,6 +1279,9 @@
     "account-feapp-commons": null,
     "accumulate-win": null,
     "accumulateinfo": null,
+    "ace-colorpicker-rpk": [
+        "0.0.14"
+    ],
     "ace-tools": null,
     "ace-widgets": null,
     "ach-spa-facephi": null,
@@ -2399,6 +2407,7 @@
     "devops-challenge": null,
     "devopt": null,
     "devpod": null,
+    "dex-creator": null,
     "dex-sample-app": null,
     "dex12212": null,
     "dexa56": null,
@@ -2609,6 +2618,7 @@
     "enterprise-stencil": null,
     "env-platform": null,
     "epam-cdisc-electron": null,
+    "epc-help-widget": null,
     "epc-node-web-client": null,
     "epc-ui-tour": null,
     "epic-debug": null,
@@ -2717,6 +2727,7 @@
     "eslint-plugin-ssc": null,
     "eslint-plugin-unusedvar-fix": null,
     "eslint-plugin-video": null,
+    "eslint-plugin-whatever": null,
     "eslint-plugin-wms": null,
     "eslint-scope-util": null,
     "eslint-tools": null,
@@ -3268,6 +3279,7 @@
     "hubot-currencies": null,
     "hubot-hangouts": null,
     "human-protocol": null,
+    "humhub": null,
     "husky-logger": null,
     "hwidrefresh": null,
     "hybrid-frontend": null,
@@ -3691,6 +3703,8 @@
     "lunasec-go-monorepo": null,
     "lunasec-sdks": null,
     "lvbypasser": null,
+    "lynx-dev": null,
+    "lynx-explorer": null,
     "lynx-libs-mono": null,
     "lyte-compile-fast": null,
     "lz-evm-protocol-v2": null,
@@ -4051,6 +4065,9 @@
     "nf-graph-examples": null,
     "nf-web-ui": null,
     "ng-dev": null,
+    "ng-imports-checker": [
+        "0.0.9"
+    ],
     "ng2-file-upload": [
         "8.0.2",
         "8.0.3"
@@ -4330,7 +4347,8 @@
     "otelcollector": null,
     "other-pkg-b": null,
     "ove-auto-annotate": [
-        "0.0.9"
+        "0.0.9",
+        "0.0.10"
     ],
     "overture2osmjs": null,
     "owl.carousel.custom": null,
@@ -4461,6 +4479,7 @@
     "platform-browser-dynamic": null,
     "platformid": null,
     "platformio": null,
+    "playground_root": null,
     "playwright-1.45": null,
     "playwright-1.46": null,
     "playwright-1.47": null,
@@ -4505,6 +4524,7 @@
     "pootle": null,
     "popper.html": null,
     "pornhub": null,
+    "porscheofficial": null,
     "portal-shell": null,
     "portin": null,
     "posa-loginpage-plugin": null,
@@ -5364,6 +5384,7 @@
     "stencil-cli": null,
     "stencil-module-base": null,
     "storage-atom": null,
+    "storj-satellite": null,
     "stormapp": null,
     "stormapp765": null,
     "stormapptest213": null,
@@ -5377,6 +5398,7 @@
     "strictor": null,
     "strictructor": null,
     "string-easy-assistant": null,
+    "string-mapper": null,
     "string-modifier-utils": null,
     "string-multiutils": null,
     "string-parser-utils": null,
@@ -5406,6 +5428,7 @@
     "sumsub-node-websdk": null,
     "superhero-turnip": null,
     "supply-chain-planner": null,
+    "supply_chain_test_quang": null,
     "support-conversations": null,
     "supports-hyperlinks": [
         "4.1.1"
@@ -5458,6 +5481,7 @@
     "tailwind-base-theme": null,
     "tailwind-class-overrides": null,
     "tailwind-classname-overrides": null,
+    "tailwind-color-icon": null,
     "tailwind-configs": null,
     "tailwind-configs-viewer": null,
     "tailwind-react-mui": null,
@@ -5466,6 +5490,7 @@
     "tailwind-theme-colors": null,
     "tailwindcss-animate-plus": null,
     "tailwindcss-animate-ui": null,
+    "tailwindcss-color-icons-lite": null,
     "taiwinders": null,
     "take2-hello-world": null,
     "take3-hello-world": null,
@@ -5645,6 +5670,7 @@
     "toobit-test": null,
     "tool-commitizen-adapter-xp": null,
     "toolkdvv": null,
+    "top-crawl-agents": null,
     "topper-docs": null,
     "toptal-react-bikes": null,
     "tournament_service": null,
@@ -6105,6 +6131,7 @@
     "widgets-appointmentsmastercatalogtool": null,
     "widgets-mainappointments": null,
     "widgets-networkupdatetool": null,
+    "windap-web": null,
     "winderlingz": null,
     "windows-api-codec-pack": null,
     "windows-confirm": null,
