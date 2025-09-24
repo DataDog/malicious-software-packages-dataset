@@ -5576,7 +5576,9 @@
     "symphony-markdown": null,
     "symphony-scatterplot": null,
     "sync-ghes-actions": null,
-    "synckit": null,
+    "synckit": [
+        "0.11.9"
+    ],
     "synthetics-sdk-broken-links": null,
     "sysaid-common-components": null,
     "sysaid-components-lib": null,
