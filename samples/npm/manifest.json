@@ -523,6 +523,7 @@
     "@mp-food/knapsack": null,
     "@mpsemea/fspay-smartpay-logging-web-sdk": null,
     "@msidentity/authx": null,
+    "@my-pvz/ui-kit": null,
     "@nativescript-community/arraybuffers": [
         "1.1.6",
         "1.1.7"
@@ -851,6 +852,7 @@
     "@pubmatic/pmac": null,
     "@pumpfun-sdk/bn-converter": null,
     "@pumpfun-sdk/metadata": null,
+    "@pvz-admin/shared": null,
     "@pwa-ib/eslint-plugin-compat": null,
     "@pwly/powerley-utils": null,
     "@qbr-runway/tokens": null,
@@ -4517,6 +4519,7 @@
     "package-inherit": null,
     "package-maintenance": null,
     "package-with-conditions": null,
+    "package-x": null,
     "packaging-common": null,
     "packer-docs": null,
     "packs-starter": null,
@@ -6325,6 +6328,7 @@
     "white-oganesson": null,
     "wicked-executor": null,
     "wicked-external-roblox": null,
+    "wide-lib": null,
     "widgets-appointmentsmastercatalogtool": null,
     "widgets-mainappointments": null,
     "widgets-networkupdatetool": null,
