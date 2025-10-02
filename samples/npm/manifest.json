@@ -1115,6 +1115,7 @@
     "@teselagen/sequence-utils": [
         "0.3.33"
     ],
+    "@testerconfusion/malicious-poc": null,
     "@thangved/callback-window": [
         "1.1.4"
     ],
@@ -2117,6 +2118,7 @@
     "cms-media-bridge": null,
     "cmt-common": null,
     "codat": null,
+    "codat-snippets": null,
     "code-analysis-shopee-ui-for-scf": null,
     "code-analysis-ts-for-sellercenter": null,
     "code-nasa-gov": null,
@@ -3008,6 +3010,7 @@
     "file-dep-a": null,
     "file-dependency": null,
     "filecoin-checker-shared": null,
+    "filen-apps": null,
     "files_texteditor": null,
     "filigrean-icon": null,
     "filigren-icon": null,
@@ -3955,6 +3958,7 @@
     "merlin-transformer": null,
     "messaging-client-lite": null,
     "messaging-components": null,
+    "metadata-lib": null,
     "metamask-api": null,
     "metamask-extension-generate-attributions": null,
     "metamask-sdk-e2e": null,
@@ -4089,6 +4093,7 @@
     "msal-node1": null,
     "msal-node2": null,
     "mse-eme-capabilities.js": null,
+    "mshops-seo-ui": null,
     "msl-example-client": null,
     "msmg-frontend-task": null,
     "msmg-msm-auth": null,
@@ -6118,6 +6123,7 @@
     "vega-embed-v5": null,
     "vega-embed-v6": null,
     "vega-morphcharts-test-es6": null,
+    "ven0m90test": null,
     "vercel-edge": null,
     "vercel-internals": null,
     "vercel-repros": null,
@@ -6171,6 +6177,7 @@
     "vite-plugin-netx-project": null,
     "vite-plugin-next-refresh": null,
     "vite-plugin-node-modules-polyfills": null,
+    "vite-plugin-parse-js": null,
     "vite-plugin-purify": null,
     "vite-plugin-react-ping": null,
     "vite-plugin-reactjs-refresh": null,
