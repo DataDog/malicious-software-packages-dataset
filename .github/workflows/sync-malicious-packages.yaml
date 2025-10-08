@@ -19,12 +19,6 @@ jobs:
 
     steps:
 
-      - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
-        id: octo-sts
-        with:
-          scope: DataDog/malicious-software-packages-dataset  # target repository
-          policy: self.open_pr # trust policy in target repo
-
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -52,6 +46,12 @@ jobs:
             python scripts/generate_manifest/generate_manifest.py --output-file $(pwd)/samples/$ecosystem/manifest.json $(pwd)/samples/$ecosystem
           done
           python scripts/update-count.py
+
+      - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
+        id: octo-sts
+        with:
+          scope: DataDog/malicious-software-packages-dataset  # target repository
+          policy: self.open_pr # trust policy in target repo
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
