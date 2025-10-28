@@ -20,7 +20,7 @@ class ECOSYSTEM(Enum):
     The dataset's monitored package ecosystems.
     """
     Npm = "npm"
-    PyPI = "pypi"
+    PyPI = "PyPI"
 
     def __str__(self) -> str:
         """
@@ -122,13 +122,15 @@ class OsvAdvisoriesModel(Model):
             A `list[OsvAdvisoriesModel]` containing OSV advisories in the given `ecosystem`
             that were modified at or after the given `since` datetime.
         """
+        ecosystem_suffix = f"|{str(ecosystem).lower()}"
+
         filter_condition = (
-            cls.package.contains(f"|{ecosystem}") & (cls.timestamp >= since.timestamp())
+            cls.package.contains(ecosystem_suffix) & (cls.timestamp >= since.timestamp())
         )
 
         scan_results = list(cls.scan(filter_condition=filter_condition))
         validated_results = [
-            advisory for advisory in scan_results if advisory.package.endswith(f"|{ecosystem}")
+            advisory for advisory in scan_results if advisory.package.endswith(ecosystem_suffix)
         ]
 
         if len(validated_results) != len(scan_results):
@@ -165,7 +167,7 @@ class TriagedResultsModel(Model):
             the query returned no results.
         """
         def hash_key() -> str:
-            return f"{package}|{ecosystem}"
+            return f"{package}|{str(ecosystem).lower()}"
 
         range_key_condition = cls.attack_id == attack_id
 
