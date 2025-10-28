@@ -6,13 +6,9 @@ claim_pattern:
   event_name: (workflow_dispatch|schedule)
   ref: refs/heads/main
   ref_protected: "true"
-  job_workflow_ref: DataDog/malicious-software-packages-dataset/.github/workflows/sync-malicious-packages.yaml@refs/heads/main
-
-claim_pattern:
-  event_name: (workflow_dispatch|schedule)
-  ref: refs/heads/main
-  ref_protected: "true"
-  job_workflow_ref: DataDog/malicious-software-packages-dataset/.github/workflows/sync-manifest.yaml@refs/heads/main
+  job_workflow_ref:
+    DataDog/malicious-software-packages-dataset/.github/workflows/sync-malicious-packages.yaml@refs/heads/main
+    DataDog/malicious-software-packages-dataset/.github/workflows/sync-manifest.yaml@refs/heads/main
 
 permissions:
   contents: write
