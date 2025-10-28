@@ -37,13 +37,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/sync-malicious-packages/requirements.txt
-          pip install -r scripts/generate_manifest/requirements.txt
 
       - name: Synchronize malicious packages
         run: |
           for ecosystem in pypi npm; do
-            python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination $(pwd)/samples/$ecosystem --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --scan-table ${{ secrets.SCAN_TABLE_NAME }} --triage-table ${{ secrets.TRIAGE_TABLE_NAME }} --ecosystem $ecosystem;
-            python scripts/generate_manifest/generate_manifest.py --output-file $(pwd)/samples/$ecosystem/manifest.json $(pwd)/samples/$ecosystem
+            python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination $(pwd)/samples/$ecosystem --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --scan-table ${{ secrets.SCAN_TABLE_NAME }} --triage-table ${{ secrets.TRIAGE_TABLE_NAME }} --ecosystem $ecosystem
           done
           python scripts/update-count.py
 
