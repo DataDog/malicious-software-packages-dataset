@@ -44,7 +44,7 @@ jobs:
           TRIAGE_TABLE_NAME: ${{ secrets.TRIAGE_TABLE_NAME }}
         run: |
           for ecosystem in pypi npm; do
-            python scripts/sync-manifest/sync_manifest.py --log-level INFO --ecosystem $ecosystem --since $(date -d "1 day ago" +'%Y-%m-%d %H:%M:%S') --input-file $(pwd)/samples/$ecosystem/manifest.json --output-file $(pwd)/samples/$ecosystem/manifest.json
+            python scripts/sync-manifest/sync_manifest.py --log-level INFO --ecosystem $ecosystem --since "$(date -d '1 day ago' +'%Y-%m-%d %H:%M:%S')" --input-file $(pwd)/samples/$ecosystem/manifest.json --output-file $(pwd)/samples/$ecosystem/manifest.json
           done
 
       - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
