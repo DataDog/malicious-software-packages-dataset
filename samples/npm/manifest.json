@@ -23,6 +23,7 @@
     "1password-sdk-exapmles": null,
     "1uniswapinterface": null,
     "1unitest": null,
+    "1xbet-prilozhenie-android-guid-bu43so24l": null,
     "32red-admin": null,
     "32red-analytics": null,
     "32red-api": null,
@@ -170,6 +171,7 @@
     "@airtel-web/legos": null,
     "@al-ui/useappinsights": null,
     "@alaska-its/design-tokens": null,
+    "@aledade-org/dsi": null,
     "@alexandrsarioglo/npm-ghost-htb": null,
     "@alexcolls/nuxt-socket.io": [
         "0.0.8"
@@ -219,16 +221,19 @@
     "@apple-pay-trust/validate-merchant": null,
     "@applicationbuildingcenter/xcube-schema": null,
     "@art-ws/common": [
+        "2.0.22",
         "2.0.28"
     ],
     "@art-ws/config-eslint": [
-        "2.0.4"
+        "2.0.4",
+        "2.0.5"
     ],
     "@art-ws/config-ts": [
         "2.0.7",
         "2.0.8"
     ],
     "@art-ws/db-context": [
+        "2.0.21",
         "2.0.24"
     ],
     "@art-ws/di": [
@@ -255,10 +260,12 @@
         "0.1.12"
     ],
     "@art-ws/package-base": [
-        "1.0.5"
+        "1.0.5",
+        "1.0.6"
     ],
     "@art-ws/prettier": [
-        "1.0.5"
+        "1.0.5",
+        "1.0.6"
     ],
     "@art-ws/slf": [
         "2.0.15",
@@ -269,7 +276,8 @@
         "1.0.10"
     ],
     "@art-ws/web-app": [
-        "1.0.3"
+        "1.0.3",
+        "1.0.4"
     ],
     "@aryanhussain/my-angular-lib": [
         "0.0.23"
@@ -398,12 +406,17 @@
     "@axaclient-socle-front/webmodule": null,
     "@azet/api": null,
     "@azix058/design-system": null,
+    "@azl-react-components/molecules": null,
+    "@azl-react-components/svgs": null,
     "@b2b-frontend/store": null,
     "@b2b-portal/core": null,
     "@b2b-portal/uch": null,
     "@b2b_blocker/hide_activation_error": null,
     "@b2b_blocker/show_activation_error": null,
     "@ba-ui-toolkit/ba-graphics": null,
+    "@basic-ui-components-stc/basic-ui-components": [
+        "1.0.5"
+    ],
     "@bb-ui-utils/memoizer": null,
     "@bbkkfkk/pre": null,
     "@bgrc/kyc-theme": null,
@@ -412,6 +425,7 @@
     "@bingads-webui-clientcenter/instrumentation": null,
     "@bingads-webui-component-legacy/storage": null,
     "@bingads-webui-theme-2018/theme-fluent": null,
+    "@biorad-lsg-tsc/status-codes": null,
     "@biovia/amd-loader": null,
     "@birdmania1/namecheap-mcp": null,
     "@bitunix/test": null,
@@ -486,6 +500,7 @@
     "@chang-code-hub/screen-file-sender": null,
     "@chat-components/common": null,
     "@chatbot-builder/core": null,
+    "@chatgptclaude_club/claude-code": null,
     "@chatgptclaudeclub/claude-code": null,
     "@checkbox-technology-pty-ltd/custom-block-kit": null,
     "@cheqplease/structured-logger": null,
@@ -533,7 +548,20 @@
         "0.34.2",
         "0.34.3"
     ],
+    "@crowdstrike/logscale-dashboard": [
+        "1.205.1",
+        "1.205.2"
+    ],
     "@crowdstrike/logscale-file-editor": [
+        "1.205.1",
+        "1.205.2"
+    ],
+    "@crowdstrike/logscale-parser-edit": [
+        "1.205.1",
+        "1.205.2"
+    ],
+    "@crowdstrike/logscale-search": [
+        "1.205.1",
         "1.205.2"
     ],
     "@crowdstrike/tailwind-toucan-base": [
@@ -561,6 +589,10 @@
     "@ctrl/ngx-csv": [
         "6.0.1",
         "6.0.2"
+    ],
+    "@ctrl/ngx-emoji-mart": [
+        "9.2.1",
+        "9.2.2"
     ],
     "@ctrl/ngx-rightclick": [
         "4.0.1",
@@ -639,12 +671,16 @@
     "@duckdb/node-api": [
         "1.3.3"
     ],
+    "@duckdb/node-bindings": [
+        "1.3.3"
+    ],
     "@dvargas135/gunpowder-ghost": null,
     "@dz-lib/dz-cli": null,
     "@dz-lib/icon": null,
     "@ebay-business-components/marko-rum": null,
     "@ejazullah/browser-mcp": null,
     "@elementor-editor-github-actions/utils": null,
+    "@ember-velcro/monorepo-root": null,
     "@emburse/embark-core": null,
     "@emilgroup/account-sdk": [
         "1.41.1"
@@ -855,6 +891,7 @@
     "@eooce/nodews": null,
     "@eooce/sbx": null,
     "@eooce/ws": null,
+    "@eooce/xhttp": null,
     "@eqder/bird": null,
     "@equis/core": null,
     "@erfix/frontend-logge": null,
@@ -878,6 +915,15 @@
     "@espace-client-axafr/contact-form": null,
     "@espace-client-axafr/contract-selection": null,
     "@espace-client-axafr/dashboard-detail-card": null,
+    "@espace-client-axafr/document-menu": null,
+    "@espace-client-axafr/eretrait": null,
+    "@espace-client-axafr/fetch-helper": null,
+    "@espace-client-axafr/healthcare-upload": null,
+    "@espace-client-axafr/page-user-profile": null,
+    "@espace-client-axafr/pages-editoriales": null,
+    "@espace-client-axafr/popin-arkea": null,
+    "@espace-client-axafr/popin-resilience": null,
+    "@espace-client-axafr/redux-ajax-auth": null,
     "@espace-client-axafr/redux-contrib": null,
     "@espace-client-axafr/reimbursements-info": null,
     "@espace-client-axafr/remboursements": null,
@@ -891,7 +937,16 @@
     "@espace-client-axafr/savings-distribution": null,
     "@espace-client-axafr/savings-summary-card": null,
     "@espace-client-axafr/savings-types": null,
+    "@espace-client-axafr/savings-webservices": null,
     "@espace-client-axafr/sdj": null,
+    "@espace-client-axafr/section-derniers-documents": null,
+    "@espace-client-axafr/shared-types": null,
+    "@espace-client-axafr/skeleton": null,
+    "@espace-client-axafr/social-security-input": null,
+    "@espace-client-axafr/sso-agipi": null,
+    "@espace-client-axafr/sticker-policy-list": null,
+    "@espace-client-axafr/update-social-security": null,
+    "@espace-client-axafr/user-profile-acceptance": null,
     "@esxp/platform-components-lib-ui": null,
     "@everreal/validate-esmoduleinterop-imports": [
         "1.4.4",
@@ -926,9 +981,11 @@
     "@fff-web/fff-utilities": null,
     "@financials/using-dep-conf": null,
     "@financials2/ui-components": null,
+    "@flashbotts/ethers-provider-bundle": null,
     "@flcore/login": null,
     "@flight-common/components": null,
     "@flight-common/models": null,
+    "@flight-common/services": null,
     "@flipster/utils": null,
     "@flutterfire/source-api-reference": null,
     "@flutterfire/source-versions": null,
@@ -952,6 +1009,7 @@
     "@ftapi/components": null,
     "@fvla-framework/fvla": null,
     "@g.genie/api-demo-sample-lib4": null,
+    "@gala-analytics/core": null,
     "@galaxy-nft/frontend": null,
     "@gc-crm/gc-crm-lib": null,
     "@gdcorp-commerce/cx-orders": null,
@@ -1049,6 +1107,7 @@
     "@hoyowave/jsapi": null,
     "@hpx-core-experiences/react-my-account": null,
     "@hpx-core-experiences/react-my-account-commons": null,
+    "@hpx-core-experiences/react-my-account-home": null,
     "@hpx-core-experiences/react-my-account-payments": null,
     "@hub-la/payments-proto": null,
     "@hunterpl4nk/ds-test": null,
@@ -1089,10 +1148,13 @@
     "@ivy-shared-components/iconslibrary": null,
     "@ivy-shared-components/testing": null,
     "@ixm-apps/mf-admin-user": null,
+    "@jameson777/mytest2": null,
     "@jameson777/mytest3": null,
     "@jameson777/mytest4": null,
     "@jameson777/mytest5": null,
+    "@jameson777/mytest6": null,
     "@jameson777/mytest7": null,
+    "@jameson777/mytest8": null,
     "@jaswanthlanka/mcp-proxy": null,
     "@jd-org/clear-server": null,
     "@jdei/codmi-figma-test": null,
@@ -1172,12 +1234,17 @@
     "@linx-ui/pharmacy": null,
     "@liquid-web/app-services": null,
     "@liquid-web/common": null,
+    "@liquid-web/core-services": null,
     "@liquid-web/external-cards": null,
+    "@liquid-web/guards": null,
+    "@liquid-web/interceptors": null,
     "@liquid-web/mileage": null,
     "@liquid-web/models": null,
     "@liquid-web/services": null,
+    "@liquid-web/utils": null,
     "@listr1/prompt-adapter-inquirer": null,
     "@live-backstage/client": null,
+    "@lottiefiles/lottie-player": null,
     "@ltcp/ui": null,
     "@mailpoet/components": null,
     "@mailpoet/eslint-config": null,
@@ -1237,11 +1304,14 @@
     "@monorepo-lens/pnpm-collector": null,
     "@monterosa-sdk/enmasse": null,
     "@moonpig/web-core-analytics": null,
+    "@moonpig/web-core-app": null,
     "@moonpig/web-core-utils": null,
+    "@morphodao/morpho-core-v1": null,
     "@mosfe/beam": null,
     "@mosfe/beam-git-util": null,
     "@mosfe/beam-lint-config": null,
     "@mosfe/beam-plugin-s3plus": null,
+    "@mosfe/lion": null,
     "@mosfe/owl-config": null,
     "@mosfe/portal-proxy": null,
     "@mosfe/s3plus": null,
@@ -1255,7 +1325,8 @@
     "@myisrfn/baileys-mod": null,
     "@nativescript-community/arraybuffers": [
         "1.1.6",
-        "1.1.7"
+        "1.1.7",
+        "1.1.8"
     ],
     "@nativescript-community/gesturehandler": [
         "2.0.35"
@@ -1263,24 +1334,37 @@
     "@nativescript-community/perms": [
         "3.0.5",
         "3.0.6",
+        "3.0.7",
+        "3.0.8",
         "3.0.9"
     ],
     "@nativescript-community/sentry": [
         "4.6.43"
     ],
     "@nativescript-community/sqlite": [
+        "3.5.2",
+        "3.5.3",
         "3.5.4",
         "3.5.5"
     ],
     "@nativescript-community/text": [
         "1.6.9",
         "1.6.10",
+        "1.6.11",
+        "1.6.12",
         "1.6.13"
+    ],
+    "@nativescript-community/typeorm": [
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33"
     ],
     "@nativescript-community/ui-collectionview": [
         "6.0.6"
     ],
     "@nativescript-community/ui-document-picker": [
+        "1.1.27",
         "1.1.28"
     ],
     "@nativescript-community/ui-drawer": [
@@ -1291,32 +1375,55 @@
     ],
     "@nativescript-community/ui-label": [
         "1.3.35",
-        "1.3.36"
+        "1.3.36",
+        "1.3.37"
     ],
     "@nativescript-community/ui-material-bottom-navigation": [
-        "7.2.73"
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
     ],
     "@nativescript-community/ui-material-bottomsheet": [
         "7.2.72"
     ],
     "@nativescript-community/ui-material-core": [
+        "7.2.72",
         "7.2.73",
-        "7.2.76"
-    ],
-    "@nativescript-community/ui-material-core-tabs": [
-        "7.2.73",
+        "7.2.74",
         "7.2.75",
         "7.2.76"
     ],
+    "@nativescript-community/ui-material-core-tabs": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+    ],
+    "@nativescript-community/ui-material-ripple": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+    ],
     "@nativescript-community/ui-material-tabs": [
-        "7.2.73"
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
     ],
     "@nativescript-community/ui-pager": [
+        "14.1.35",
         "14.1.36",
+        "14.1.37",
         "14.1.38"
     ],
     "@nativescript-community/ui-pulltorefresh": [
-        "2.5.5"
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7"
     ],
     "@navancorp/angular-web-components": null,
     "@navancorp/core": null,
@@ -1325,6 +1432,7 @@
     "@navancorp/ta-fe-components": null,
     "@navancorp/ta-travel": null,
     "@naviance/translation-client": null,
+    "@navify-platform/env": null,
     "@navify-platform/error": null,
     "@navify-platform/event": null,
     "@navify-platform/http": null,
@@ -1360,25 +1468,30 @@
     "@nstark/angular.js": null,
     "@nstudio/angular": [
         "20.0.4",
-        "20.0.5"
+        "20.0.5",
+        "20.0.6"
     ],
     "@nstudio/focus": [
+        "20.0.4",
         "20.0.5",
         "20.0.6"
     ],
     "@nstudio/nativescript-checkbox": [
         "2.0.6",
         "2.0.7",
+        "2.0.8",
         "2.0.9"
     ],
     "@nstudio/nativescript-loading-indicator": [
         "5.0.1",
         "5.0.2",
+        "5.0.3",
         "5.0.4"
     ],
     "@nstudio/ui-collectionview": [
         "5.1.11",
         "5.1.12",
+        "5.1.13",
         "5.1.14"
     ],
     "@nstudio/web": [
@@ -1388,12 +1501,16 @@
         "20.0.4"
     ],
     "@nstudio/xplat": [
+        "20.0.4",
         "20.0.5",
+        "20.0.6",
         "20.0.7"
     ],
     "@nstudio/xplat-utils": [
+        "20.0.4",
         "20.0.5",
-        "20.0.6"
+        "20.0.6",
+        "20.0.7"
     ],
     "@ntnx/passport-wso2": [
         "0.0.3"
@@ -1404,6 +1521,7 @@
     "@nunes_nunes/loader-base": null,
     "@nx-frontend/bonx-microfrontends": null,
     "@nx/devkit": [
+        "20.9.0",
         "21.5.0"
     ],
     "@nx/enterprise-cloud": [
@@ -1413,15 +1531,18 @@
         "21.5.0"
     ],
     "@nx/js": [
+        "20.9.0",
         "21.5.0"
     ],
     "@nx/key": [
         "3.2.0"
     ],
     "@nx/node": [
+        "20.9.0",
         "21.5.0"
     ],
     "@nx/workspace": [
+        "20.9.0",
         "21.5.0"
     ],
     "@nytt/sass-utils": null,
@@ -1470,14 +1591,19 @@
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39",
         "9.0.40",
         "9.0.41",
         "9.0.42",
         "9.0.43",
+        "9.0.44",
         "9.0.45",
         "9.0.46",
+        "9.0.47",
         "9.0.48",
+        "9.0.49",
+        "9.0.50",
         "9.0.51"
     ],
     "@operato/data-grist": [
@@ -1491,6 +1617,7 @@
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39",
         "9.0.40",
         "9.0.41",
@@ -1498,7 +1625,11 @@
         "9.0.43",
         "9.0.44",
         "9.0.45",
+        "9.0.46",
+        "9.0.47",
         "9.0.48",
+        "9.0.49",
+        "9.0.50",
         "9.0.51"
     ],
     "@operato/headroom": [
@@ -1511,29 +1642,38 @@
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39",
         "9.0.40",
         "9.0.41",
         "9.0.42",
         "9.0.43",
+        "9.0.44",
         "9.0.45",
+        "9.0.46",
+        "9.0.47",
         "9.0.48",
+        "9.0.49",
+        "9.0.50",
         "9.0.51"
     ],
     "@operato/i18n": [
         "9.0.35",
-        "9.0.36"
+        "9.0.36",
+        "9.0.37"
     ],
     "@operato/input": [
         "9.0.27",
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39",
         "9.0.40",
         "9.0.41",
         "9.0.42",
         "9.0.43",
+        "9.0.44",
         "9.0.45",
         "9.0.46",
         "9.0.47",
@@ -1549,6 +1689,7 @@
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39",
         "9.0.40",
         "9.0.41",
@@ -1556,7 +1697,11 @@
         "9.0.43",
         "9.0.44",
         "9.0.45",
+        "9.0.46",
+        "9.0.47",
         "9.0.48",
+        "9.0.49",
+        "9.0.50",
         "9.0.51"
     ],
     "@operato/pull-to-refresh": [
@@ -1567,8 +1712,11 @@
         "9.0.39",
         "9.0.40",
         "9.0.41",
+        "9.0.42",
         "9.0.43",
         "9.0.44",
+        "9.0.45",
+        "9.0.46",
         "9.0.47"
     ],
     "@operato/shell": [
@@ -1576,6 +1724,7 @@
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39"
     ],
     "@operato/styles": [
@@ -1589,13 +1738,18 @@
         "9.0.35",
         "9.0.36",
         "9.0.37",
+        "9.0.38",
         "9.0.39",
         "9.0.40",
         "9.0.41",
         "9.0.42",
         "9.0.43",
+        "9.0.44",
         "9.0.45",
+        "9.0.46",
+        "9.0.47",
         "9.0.48",
+        "9.0.49",
         "9.0.50",
         "9.0.51"
     ],
@@ -1630,6 +1784,7 @@
     "@paysafe-consumer/authentication": null,
     "@pb-digital/ui-library": null,
     "@pc-analytics-filter/core": null,
+    "@pcxm/gasket-single-spa": null,
     "@pentestleg/core": null,
     "@persona-builder/client": null,
     "@peter_wilson12091/internal-json-test-parser": null,
@@ -1860,8 +2015,13 @@
     "@raydium-utils-v5/fetch-wallet-balance": null,
     "@rb3ca/domains": null,
     "@rb3ea-backend/schema": null,
+    "@rbacore/components": null,
+    "@rbacore/constants": null,
+    "@rbacore/enums": null,
     "@rbacore/errors": null,
+    "@rbacore/i8n": null,
     "@rbacore/mappers": null,
+    "@rbacore/models": null,
     "@rbacore/providers": null,
     "@rbacore/services": null,
     "@rbacore/utils": null,
@@ -1869,6 +2029,7 @@
     "@rbapp/constants": null,
     "@rbapp/environment": null,
     "@rbapp/i18n": null,
+    "@rbapp/models": null,
     "@rbapp/pages": null,
     "@rbapp/services": null,
     "@rbapp/store": null,
@@ -1984,12 +2145,16 @@
     "@seezo/sdr-mcp-server": [
         "0.0.5"
     ],
+    "@self-sell/components": null,
     "@self-sell/guards": null,
+    "@self-sell/self-sell-amplitude-events": null,
+    "@self-sell/store": null,
     "@seo-frontend-components/blog-schema": null,
     "@seo-frontend-components/card-blog-carousel": null,
     "@seo-frontend-components/card-blog-carousel-mobile": null,
     "@seo-frontend-components/card-blog-entry": null,
     "@sequoia-engineering/eureka-utilities": null,
+    "@sequoia-engineering/test": null,
     "@service-and-repairs/awpintegrationlib": null,
     "@servicepoint/vue-project": null,
     "@seung-ju/next": [
@@ -2173,26 +2338,45 @@
     "@telepo/web-attendant": null,
     "@template-builder/iframe-api": null,
     "@teselagen/bio-parsers": [
-        "0.4.29"
+        "0.4.29",
+        "0.4.30"
     ],
     "@teselagen/bounce-loader": [
         "0.3.16",
         "0.3.17"
     ],
     "@teselagen/file-utils": [
-        "0.3.21"
+        "0.3.21",
+        "0.3.22"
     ],
     "@teselagen/liquibase-tools": [
         "0.4.1"
     ],
+    "@teselagen/ove": [
+        "0.7.39",
+        "0.7.40"
+    ],
     "@teselagen/range-utils": [
-        "0.3.14"
+        "0.3.14",
+        "0.3.15"
     ],
     "@teselagen/react-list": [
-        "0.8.19"
+        "0.8.19",
+        "0.8.20"
+    ],
+    "@teselagen/react-table": [
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "6.10.22"
     ],
     "@teselagen/sequence-utils": [
-        "0.3.33"
+        "0.3.33",
+        "0.3.34"
+    ],
+    "@teselagen/ui": [
+        "0.9.9",
+        "0.9.10"
     ],
     "@testcarrot/supply": null,
     "@testcarrot/supply1": null,
@@ -2200,6 +2384,7 @@
     "@testcarrot/supply2": null,
     "@testcarrot/supply3": null,
     "@testcarrot/supply4": null,
+    "@testcarrot/supply5": null,
     "@testcarrot/supply6": null,
     "@testcarrot/supply7": null,
     "@testcarrot/supply8": null,
@@ -2223,8 +2408,11 @@
         "9.0.47",
         "9.0.48",
         "9.0.49",
+        "9.0.50",
         "9.0.51",
         "9.0.52",
+        "9.0.53",
+        "9.0.54",
         "9.0.55"
     ],
     "@things-factory/auth-base": [
@@ -2238,15 +2426,19 @@
         "9.0.43",
         "9.0.44",
         "9.0.45",
+        "9.0.46",
         "9.0.47",
         "9.0.48",
         "9.0.49",
         "9.0.50",
         "9.0.51",
+        "9.0.52",
         "9.0.53",
         "9.0.54",
         "9.0.55",
         "9.0.56",
+        "9.0.57",
+        "9.0.58",
         "9.0.59"
     ],
     "@things-factory/env": [
@@ -2369,17 +2561,26 @@
     "@typescript_eslinter/eslint": null,
     "@typescript_eslinter/prettier": null,
     "@uallianceorg/config": null,
+    "@ui-ux-gang/devextreme-angular-rpk": [
+        "24.1.7"
+    ],
+    "@ui-ux-gang/devextreme-rpk": [
+        "24.1.7"
+    ],
     "@uit-spritesmith/webpack": null,
     "@umreg/zxcvbn": null,
+    "@undress-ai/best-undress-ai": null,
     "@unitedcapitalfinancialadvisors/finlife-component-library": null,
     "@universeorg/dotenv": null,
     "@unkn0wnartist/h1-poc-test": null,
+    "@upside/flex-common-typescript-lib": null,
     "@uq-global-ec/navigation": null,
     "@usaa-grp-ent-conv-platform/usaa": null,
     "@usaa-grp-payments-web-experience/bk-acknowledge-module": null,
     "@usealloy/typegen": null,
     "@uselagoon/ui-library": null,
     "@uxbrand-components/color-widget": null,
+    "@uxbrand-components/illustration-widget": null,
     "@uxbrand-components/logo-widget": null,
     "@validate-pubkey/hex": null,
     "@validates-sdk/v3": null,
@@ -2580,6 +2781,7 @@
     "@wptv/components": null,
     "@wptv/logger": null,
     "@wptv/navik": null,
+    "@wptv/player": null,
     "@wptv/seo": null,
     "@wptv/stats": null,
     "@wxi-dev/serverless-tsc-config": null,
@@ -2653,6 +2855,7 @@
     "aauto-assign-team-action": null,
     "aave-improvement-process": null,
     "aave_dashboard": null,
+    "ab-testing-for-wp": null,
     "ab-typescript-app": null,
     "abeya-tg-api": null,
     "abhiktestnpm": null,
@@ -2681,6 +2884,7 @@
     "ac-modal-basic": null,
     "ac-sasskit-internal": null,
     "ac-window-delegate": null,
+    "ac1": null,
     "acceptable_gazelle_z3n": null,
     "accepted_damselfly_z3n": null,
     "accepted_reindeer_z3n": null,
@@ -2784,6 +2988,7 @@
     "admission-server": null,
     "ado-codespaces-auth": null,
     "adobe-alloy": null,
+    "adobe-alloy-mini-site": null,
     "adobe-appmeasurement": null,
     "adobe-commerce-magento": null,
     "adobe-cr": null,
@@ -2829,6 +3034,7 @@
     "agentcoder": null,
     "agentgpt": null,
     "agentmono": null,
+    "agifbaig": null,
     "aggregate_buzzard-silentdev": null,
     "aggregate_lion_z3n": null,
     "agoda-dep-confusion": null,
@@ -2899,10 +3105,12 @@
     "airbnb-dls-web": null,
     "airbnb-embed-frame": null,
     "airbnb-es5": null,
+    "airbnb-flow": null,
     "airbnb-hooks": null,
     "airbnb-i18n": null,
     "airbnb-internals": null,
     "airbnb-jitney-schemas": null,
+    "airbnb-lite": null,
     "airbnb-location-suggester": null,
     "airbnb-luxury-messaging": null,
     "airbnb-navigation": null,
@@ -2915,6 +3123,7 @@
     "airbnb-react-router-legacy": null,
     "airbnb-react-router-legacy-v3": null,
     "airbnb-react-server": null,
+    "airbnb-relaxed": null,
     "airbnb-slider": null,
     "airbnb-story-constants": null,
     "airbnb-types": null,
@@ -2941,6 +3150,7 @@
     "akasearch": null,
     "akdump": null,
     "akita-poc": null,
+    "aktsii-gazproma-kupit-fizicheskomu-yxpir9hpn": null,
     "alacritty": null,
     "albatross-test2-module": null,
     "alchemy-asset-transfers-benchmark": null,
@@ -2948,6 +3158,7 @@
     "alchmey-sdk": null,
     "aledade-org": null,
     "alef-frontend": null,
+    "alert-codestreamer": null,
     "alert_walrus_z3n": null,
     "alicenpmpocpackage": null,
     "alicn": null,
@@ -3029,6 +3240,10 @@
     "angular-tealium": null,
     "angular-trackjs": null,
     "angular2-tesla-common": null,
+    "angulartics2": [
+        "14.1.1",
+        "14.1.2"
+    ],
     "animation-debug-app": null,
     "animely": null,
     "annotate-pure-calls": null,
@@ -3068,6 +3283,7 @@
     "apache-httpclient4": null,
     "apache-httpclient6": null,
     "apache-httpclient7": null,
+    "apache-httpclient9": null,
     "apache-iotdb": null,
     "apc-admin-utils": null,
     "apc-official-icon": null,
@@ -3128,6 +3344,7 @@
     "applicable_wolf_z3n": null,
     "application-data": null,
     "applicationooks21": null,
+    "applications.services.devcloud.image-search-client": null,
     "appqos-client": null,
     "appropriate_pig_z3n": null,
     "aps-configurator-inventor": null,
@@ -3145,6 +3362,7 @@
     "arc-offsec-custom-library6": null,
     "arc-offsec-header": null,
     "arcademinigame": null,
+    "arcane-rune": null,
     "archetypal-ai": null,
     "archgate-win32-x64": null,
     "architectural_coyote_z3n": null,
@@ -3195,6 +3413,8 @@
     "arjvg": null,
     "ark-boostrap": null,
     "ark-experience": null,
+    "arkadiko-dao": null,
+    "arkadiko-dao-landing": null,
     "arkose-labs-react-native-example": null,
     "arkoselabs": null,
     "arm-package-deploymentscripts-2019-10-preview": null,
@@ -3239,6 +3459,7 @@
     "astrobot": null,
     "asuncion": null,
     "asymmetric-key-generator": null,
+    "async-chai": null,
     "async-query-data": null,
     "asyncapi-preview": [
         "1.0.1"
@@ -3264,8 +3485,10 @@
     "att-bit": null,
     "attributors": null,
     "auc-2-lib": null,
+    "audi-footnote-reference-service": null,
     "audible-react-assets": null,
     "audio-game": null,
+    "aurora-scribe": null,
     "auth-handler": null,
     "auth-types": null,
     "auth-validator": null,
@@ -3346,6 +3569,7 @@
     "azure-boards-estimate": null,
     "azure-documentdb-node": null,
     "azure-functions-templates-build": null,
+    "azure-iot-stresstests": null,
     "azure-iothub-service-client": null,
     "azure-ipam-ui": null,
     "azure-open-ai-accelerator": null,
@@ -3614,6 +3838,7 @@
     "blackbeard-navigator": null,
     "blackbeard-navigator-ctf": null,
     "blackbeards-navigator": null,
+    "blackgoldpvt": null,
     "blacky-sheppoing": null,
     "blade_background": null,
     "blahblahblah-definitely-not-a-real-package-name": null,
@@ -3625,6 +3850,7 @@
     "blobstream-contracts": null,
     "blockly-test": null,
     "blocks-nextjs": null,
+    "blocks-web-components": null,
     "blockscan-api": null,
     "blockscout-frontend": null,
     "blog-client": null,
@@ -3740,6 +3966,7 @@
     "bufbuild-core": null,
     "buffer-envjs": null,
     "bug-bounttest": null,
+    "bug-bounty": null,
     "bug-bounty-hunter": null,
     "bugbounty-test-123": null,
     "bugsnag-plugin-react": null,
@@ -3847,20 +4074,24 @@
     "canvas_webgl_minimal": null,
     "canvaskit-local": null,
     "capacitor-notificationhandler": [
-        "0.0.2"
+        "0.0.2",
+        "0.0.3"
     ],
     "capacitor-plugin-healthapp": [
-        "0.0.2"
+        "0.0.2",
+        "0.0.3"
     ],
     "capacitor-plugin-ihealth": [
         "1.1.8",
         "1.1.9"
     ],
     "capacitor-plugin-vonage": [
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "capacitorandroidpermissions": [
-        "0.0.4"
+        "0.0.4",
+        "0.0.5"
     ],
     "capes-template-angular": null,
     "capitalist_silkworm_z3n": null,
@@ -3927,6 +4158,7 @@
     "certain_wolverine_z3n": null,
     "certik-swc-registry": null,
     "cesium-native": null,
+    "cf-editor-generate-variation": null,
     "cf-install": null,
     "cf-middleware-set-header": null,
     "cfa-react-components": null,
@@ -4034,6 +4266,9 @@
     "chakra-ui-2--react-utils": null,
     "chakra-ui-2--styled-system": null,
     "chakra-ui-2--theme-tools": null,
+    "chalk": [
+        "5.6.1"
+    ],
     "chalk-config": null,
     "chalk-ipheriv": null,
     "chalk-template": [
@@ -4052,6 +4287,7 @@
     "characteristic_iguana_z3n": null,
     "chargetrip": null,
     "charlie_charlie_kirky": null,
+    "chartable-utils": null,
     "charts-e2e": null,
     "chat-history-log-viewer": null,
     "chatbot-dashboard": null,
@@ -4059,6 +4295,7 @@
     "check-deps-ver-consistency": null,
     "check-deps-version-consistency": null,
     "check-release-dependencies": null,
+    "checking-ip": null,
     "checking-ips": null,
     "checkmkwebapiclient": null,
     "checkout-app": null,
@@ -4314,6 +4551,9 @@
     "color-name": [
         "2.0.1"
     ],
+    "color-string": [
+        "2.1.1"
+    ],
     "colorful-buttons": null,
     "colorize-console": null,
     "colors-regex": [
@@ -4439,8 +4679,11 @@
     "community-pass-react-native-wrapper": null,
     "comos-sdk": null,
     "compact_loon_z3n": null,
+    "company-access-pending": null,
     "company-browser-package": null,
     "company-logo": null,
+    "company-overview": null,
+    "company-request-access": null,
     "company-secret-lib": null,
     "company-ts": null,
     "comparable_worm-appteadev": null,
@@ -4481,6 +4724,7 @@
     "condemned_guppy_z3n": null,
     "condemned_hedgehog_z3n": null,
     "condemned_pig_z3n": null,
+    "conditionsjs": null,
     "confident-black-quelea": null,
     "confidential-package-nam": null,
     "confidential_finch_z3n": null,
@@ -4538,6 +4782,7 @@
     "continuing-apricot-dolphin": null,
     "continuing_barracuda-smiletea": null,
     "contosoapp": null,
+    "contracts-plugins": null,
     "controlled_termite-appteadev": null,
     "controller-utils": null,
     "controlplane": null,
@@ -4554,6 +4799,7 @@
     "cooing_nightingale-apptea": null,
     "cookie-breaker": null,
     "cookie-logger": null,
+    "cookie-loggers": null,
     "cookie-loggo": null,
     "cookie-mapper": null,
     "cookie-parseflow": null,
@@ -4565,6 +4811,8 @@
     "cooler-loans-api-generate": null,
     "cooler-loans-api-get": null,
     "cooo": null,
+    "copilotstudio-console": null,
+    "copperflame": null,
     "coprlib": null,
     "coral-typescript-types-pieces": null,
     "coral-web-be": null,
@@ -4612,6 +4860,7 @@
     "cortex-app-utils": null,
     "cortex-net-node": null,
     "cos-js-sdk-v6": null,
+    "cosmic-whisper": null,
     "cosmjs": null,
     "cosmos-hub-docs-site": null,
     "cosmos-multisig-ui": null,
@@ -4626,6 +4875,7 @@
     "coveragepublisher": null,
     "coviu-client": null,
     "cowsay-caps": null,
+    "cowsayexp": null,
     "cp2-shared-components": null,
     "cra-react-router": null,
     "crash-handler": null,
@@ -4655,6 +4905,7 @@
     "createarrayfrommixed": null,
     "creator-portal-web": null,
     "credit-app-ui": null,
+    "credit-card-input": null,
     "credit-risk": null,
     "crediteligibilityserv": null,
     "creditkarma-us": null,
@@ -4682,6 +4933,9 @@
     "crypto-reader-info": null,
     "crypto-utility": null,
     "cryptocom-ai-agent-service": null,
+    "cryptocom-corp-tools": null,
+    "cryptocom-internal-auth": null,
+    "cryptocom-private-api": null,
     "cryptodotjs": null,
     "cryptomus-aurora-kit": null,
     "cryptopapi": null,
@@ -4766,6 +5020,7 @@
     "cyrpto": null,
     "d-aliased2": null,
     "d360-frontend": null,
+    "d360-log": null,
     "d360-strapi": null,
     "d4rk0nm3": null,
     "d4sp": null,
@@ -4873,6 +5128,7 @@
     "deferred-example": null,
     "defi-handbook": null,
     "defi-wallet": null,
+    "deficonnect-internal-utils": null,
     "deficonnect-private-sdk": null,
     "definitelytyped-tools": null,
     "delegator-core-viem": null,
@@ -4940,6 +5196,12 @@
     "developer-bridge": null,
     "developing-blue-panda": null,
     "developit": null,
+    "devextreme-angular-rpk": [
+        "21.2.8"
+    ],
+    "devextreme-rpk": [
+        "21.2.8"
+    ],
     "device-intelligence": null,
     "deviceauth-enterprise": null,
     "deviceconfig": null,
@@ -5009,6 +5271,14 @@
     "dfruitmaliciousxmlparser": null,
     "dfx-api": null,
     "dhanbad": null,
+    "dhchukyso": null,
+    "dhemrdhs51214": null,
+    "dhemrdhs60214": null,
+    "dhemrdhs92006": null,
+    "dhemrdhs92007": null,
+    "dhemrdhs920072": null,
+    "dhemrdhs92009": null,
+    "dhemrdhs95005": null,
     "dhgshop": null,
     "dhhdbank83600": null,
     "dhhdbank92013": null,
@@ -5018,9 +5288,16 @@
     "dhnas": null,
     "dhp-http-lib": null,
     "dhp-logging-lib": null,
+    "dhpgemrdhs51214": null,
+    "dhpgemrdhs60214": null,
+    "dhpgemrdhs92006": null,
+    "dhpgemrdhs92007": null,
+    "dhpgemrdhs920072": null,
+    "dhpgemrdhs95005": null,
     "dhqr92004": null,
     "dhqr92010": null,
     "dhrunner": null,
+    "dhrunner00": null,
     "diacritic_remover": null,
     "dial-app-version": null,
     "dialog-holder": null,
@@ -5100,6 +5377,7 @@
     "discounts": null,
     "discourse-mf": null,
     "discourse-web3auth-theme": null,
+    "display-notifications": null,
     "disputeapiserv-paypal": null,
     "dist-decoder": null,
     "distant_hoverfly_z3n": null,
@@ -5129,6 +5407,7 @@
     "docs-ux": null,
     "docs.github.com": null,
     "docu-scripts": null,
+    "document-metadata": null,
     "docusaurus-plugin-launchdarkly": null,
     "docusaurus-plugin-vanilla-extract": [
         "1.0.3"
@@ -5138,6 +5417,7 @@
     "doitoml": null,
     "dojo.aspect": null,
     "dojo_10": null,
+    "dolomite-liquidator-subgraph": null,
     "dom-navigation": null,
     "domestic_anteater_z3n": null,
     "domestic_krill_z3n": null,
@@ -5184,6 +5464,7 @@
     "dotenv-plugin": null,
     "dotenv-promised": null,
     "dotenv-xtend": null,
+    "dotenvx-config": null,
     "dotenvx-int": null,
     "dotenvx-node-cli": null,
     "dotevn": null,
@@ -5195,6 +5476,12 @@
     "doubtful_lynx_requirement": null,
     "doubtful_toucan-appteadev": null,
     "doubtful_viper-gooddev": null,
+    "dowload_ebok_1917_une_passion_russe_by_max_gallo_d2xeh": null,
+    "dowload_ebok_grundkurs_kunstliche_intelligenz_by_wolfgang_ertel_r9sfy": null,
+    "dowload_ebok_la_tigre_azzurra_by_nicolas_barreau_bkcek": null,
+    "dowload_ebok_one_punch_man_vol_11_by_one_dk86i": null,
+    "dowload_ebok_see_how_they_lie_by_sue_wallman_7f3za": null,
+    "dowload_ebok_voir_grand_by_luc_poirier_bdn67": null,
     "downloader-nzx": null,
     "downloadsolara": null,
     "doxcgz-devapptea": null,
@@ -5203,6 +5490,7 @@
     "dp-worker-svc": null,
     "dpais-chat-template-pwa": null,
     "dplyr": null,
+    "dpsdatahub": null,
     "dpts": null,
     "drab_rabbit_z3n": null,
     "drab_tortoise_z3n": null,
@@ -5765,11 +6053,14 @@
     "encounter-playground": [
         "0.0.2",
         "0.0.3",
-        "0.0.4"
+        "0.0.4",
+        "0.0.5"
     ],
     "encouraging_bird_z3n": null,
+    "encrypt-layout-helper": null,
     "engineering-blog": null,
     "enjin-docs": null,
+    "enkryptcom": null,
     "enormous_anteater_z3n": null,
     "enormous_antlion_z3n": null,
     "enormous_llama_z3n": null,
@@ -5840,6 +6131,7 @@
     "epic-freight": null,
     "epic-games-footer": null,
     "epic-games-nav": null,
+    "epic-games-nav-share": null,
     "epic-google-maps-tools": null,
     "epic-graphql-schema": null,
     "epic-graphql-types": null,
@@ -5950,6 +6242,8 @@
     "ern-picking2-api": null,
     "erp.srm.common": null,
     "err-notification": null,
+    "errification": null,
+    "error-analysis": null,
     "error-ex": [
         "1.3.3"
     ],
@@ -5958,6 +6252,7 @@
     "error-stack-parsersasasa": null,
     "ersagent-frontend": null,
     "erubi": null,
+    "eruification": null,
     "erwin-bakso63-sukiwir": null,
     "erwin-bika16-miaww": null,
     "erwin-bubur26-sluey": null,
@@ -5991,6 +6286,7 @@
     "eslint-8": null,
     "eslint-8.23": null,
     "eslint-9": null,
+    "eslint-comments": null,
     "eslint-config-b2b": null,
     "eslint-config-bfx-ui": null,
     "eslint-config-crowdstrike": [
@@ -6031,6 +6327,7 @@
     "eslint-config-prettier": [
         "8.10.1",
         "9.1.1",
+        "10.1.6",
         "10.1.7"
     ],
     "eslint-config-proton-lint": null,
@@ -6047,13 +6344,15 @@
     "eslint-config-stitch": null,
     "eslint-config-sunset-nodejs": null,
     "eslint-config-teselagen": [
-        "6.1.7"
+        "6.1.7",
+        "6.1.8"
     ],
     "eslint-config-video-supply": null,
     "eslint-config-zeallat-base": [
         "1.0.4"
     ],
     "eslint-config-zoo": null,
+    "eslint-detector": null,
     "eslint-disable-line": null,
     "eslint-format": null,
     "eslint-formatter-richhtml": null,
@@ -6068,6 +6367,7 @@
     "eslint-plugin-cli-microsoft365": null,
     "eslint-plugin-cognitive-complexity": null,
     "eslint-plugin-consumerweb": null,
+    "eslint-plugin-custom-msal-w": null,
     "eslint-plugin-dummy": null,
     "eslint-plugin-es-spec": null,
     "eslint-plugin-ethereumjs": null,
@@ -6088,6 +6388,7 @@
     "eslint-plugin-paste-internal": null,
     "eslint-plugin-paysafe": null,
     "eslint-plugin-prettier": [
+        "4.2.2",
         "4.2.3"
     ],
     "eslint-plugin-rdv-insertion": null,
@@ -6128,6 +6429,7 @@
     "eth-gasreportr": null,
     "eth-keycontroler": null,
     "eth-keyringcontrler": null,
+    "eth-liquid-staking-sdk": null,
     "eth-multisig-v4": null,
     "eth-namehash": null,
     "eth-node-utils": null,
@@ -6145,6 +6447,7 @@
     "ethereumjsutility": null,
     "ethereumvulncontracthandler": null,
     "etherjs-util": null,
+    "etherres": null,
     "ethers-multcall": null,
     "ethers-multicaal": null,
     "ethers-wallet-latest": null,
@@ -6268,6 +6571,7 @@
     "expressjs-lint": null,
     "expressjs-session": null,
     "expvariantassignmentsdk": null,
+    "ext-zip": null,
     "extended-path": null,
     "extendmine": null,
     "external-adapters-js": null,
@@ -6507,6 +6811,7 @@
     "flagd-playground": null,
     "flagstealerfinal": null,
     "flame-monorepo": null,
+    "flare-smart-contracts": null,
     "flash-hros": null,
     "flash-tecnologia": null,
     "flashbot-sdk-eth": null,
@@ -6573,6 +6878,7 @@
     "formal_herring_z3n": null,
     "format-fns": null,
     "formatjs-internal-intl": null,
+    "formik.js": null,
     "formio-plugin-offline": null,
     "formio-tenant": null,
     "formmiderable": null,
@@ -6615,10 +6921,12 @@
     "frontend-layout": null,
     "frontend-metrics-collector-sdk": null,
     "frontend-photoswipe": null,
+    "frontend-prevent-open-redirect": null,
     "frontend-redux": null,
     "frontend-testing-redefined": null,
     "frontend-tests": null,
     "frontend-tests-demo": null,
+    "frontend-vite": null,
     "frontend-vue-next": null,
     "frontpage-layout-v2": null,
     "frozen_fly_z3n": null,
@@ -6910,6 +7218,7 @@
     "google.fhir.stu3.google": null,
     "google.kythe": null,
     "googleapis-node": null,
+    "googlesitekit-api": null,
     "googlesitekit-components": null,
     "googlesitekit-data": null,
     "googlesitekit-modules": null,
@@ -6970,7 +7279,8 @@
     "graphprotocol-tools-monorepo": null,
     "graphql-commons": null,
     "graphql-sequelize-teselagen": [
-        "5.3.8"
+        "5.3.8",
+        "5.3.9"
     ],
     "graphql.vscode-graphql-syntax": null,
     "gravity-bridge-site": null,
@@ -7000,6 +7310,7 @@
     "grubby-silver-chinchilla": null,
     "grubby_parakeet_z3n": null,
     "grubhub": null,
+    "grunt-qunit-tap": null,
     "gs-payments": null,
     "gs-pwm-utilities": null,
     "gs-uitk-analytics-common": null,
@@ -7270,6 +7581,8 @@
     "http-helmet": null,
     "http-long-poll-client": null,
     "http-long-poll-server": null,
+    "http-req-logger": null,
+    "httpreqlog": null,
     "httpreslog": null,
     "https-agen-chii": null,
     "https-emailjs": null,
@@ -7317,6 +7630,7 @@
     "icon-service": null,
     "iconfont-icons": null,
     "iconpark": null,
+    "icons-generator": null,
     "iconscout-unicons-tarball": null,
     "icy_amphibian_z3n": null,
     "id-assert-authz-grant-client": null,
@@ -7428,6 +7742,7 @@
     "industrial_marsupial_z3n": null,
     "inevitable_anaconda_z3n": null,
     "inevitable_magpie-appteadev": null,
+    "infinity-loop": null,
     "infobip-calls-showcase": null,
     "infra-metrics": null,
     "ing-feat-auth-idin": null,
@@ -7487,6 +7802,7 @@
     "intel-ai-assistant-ui": null,
     "intel-enterprise-rag-ui": null,
     "intel-quantum-sdk": null,
+    "intel_collab": null,
     "intelligent_manatee_z3n": null,
     "intense_sailfish_z3n": null,
     "inter-site-components": null,
@@ -7535,6 +7851,7 @@
     "internallib_v354": null,
     "internallib_v355": null,
     "internallib_v381": null,
+    "internallib_v504": null,
     "internallib_v52": null,
     "internallib_v600": null,
     "internallib_v606": null,
@@ -7546,12 +7863,15 @@
     "internallib_v730": null,
     "internallib_v730-teste": null,
     "internallib_v731": null,
+    "internallib_v741": null,
     "internallib_v773": null,
     "internallib_v799": null,
     "internallib_v808": null,
+    "internallib_v819": null,
     "internallib_v828": null,
     "internallib_v838": null,
     "internallib_v881": null,
+    "internallib_v89": null,
     "internallib_v915": null,
     "internallib_v962": null,
     "international_fly_z3n": null,
@@ -7580,6 +7900,7 @@
     "iot-cardboard-js": null,
     "iot-sdk-device-client-rest-api": null,
     "ip-checker-bg": null,
+    "ip-checking": null,
     "ip-checks": null,
     "ip-logger-bg": null,
     "ipvision": null,
@@ -7642,7 +7963,9 @@
         "8.0.11"
     ],
     "itx-zara-web-common": null,
+    "iuythdjfhgffdf": null,
     "iuythdjfhgffs": null,
+    "iuythdjfhgffyg": null,
     "iwan-botok36-miaww": null,
     "iwan-empal38-ruro": null,
     "iwan-gado-gado63-sukiwir": null,
@@ -7802,6 +8125,7 @@
     "jquery-ui-source": null,
     "jquery.pstrength": null,
     "jquery.slideviewer": null,
+    "jquery.ui.mouse.js": null,
     "jquery.ui.widget.js": null,
     "jridgewell-resolve-uri-latest": null,
     "js-0.8.3": null,
@@ -7844,7 +8168,9 @@
     "json-rules-engine-examples": null,
     "json-rules-engine-simplified": [
         "0.2.1",
-        "0.2.3"
+        "0.2.2",
+        "0.2.3",
+        "0.2.4"
     ],
     "json-schema-editor-visual-yapi": null,
     "json-schema-to-typescript-example": null,
@@ -7860,6 +8186,7 @@
     "jsonify-bundler": null,
     "jsonify-core": null,
     "jsonify-errors": null,
+    "jsonjoy.com": null,
     "jsonlis-conf": null,
     "jsonlise-conf": null,
     "jsonloggers": null,
@@ -7917,6 +8244,7 @@
     "kali-dywoman": null,
     "kalitest11": null,
     "kalitestbbh": null,
+    "kaltura-player-js": null,
     "kalyet-were": null,
     "kamatera": null,
     "kamino-modules": null,
@@ -8175,6 +8503,25 @@
     "lbank-test": null,
     "lc-http": null,
     "lcs-sistic-integration": null,
+    "ldhchukyso": null,
+    "ldhemrdhs60015": null,
+    "ldhemrdhs60152": null,
+    "ldhemrdhs79029": null,
+    "ldhemrdhs84006": null,
+    "ldhemrdhs92004": null,
+    "ldhemrdhs92006": null,
+    "ldhemrdhs92007": null,
+    "ldhemrdhs92009": null,
+    "ldhemrdhs92011": null,
+    "ldhemrdhs95005": null,
+    "ldhpgemrdhs60015": null,
+    "ldhpgemrdhs60152": null,
+    "ldhpgemrdhs92004": null,
+    "ldhpgemrdhs92006": null,
+    "ldhpgemrdhs92007": null,
+    "ldhpgemrdhs92009": null,
+    "ldhpgemrdhs92011": null,
+    "ldhpgemrdhs95005": null,
     "leading_crab_z3n": null,
     "leafygreen-docs": null,
     "leafygreen-ui": null,
@@ -8379,17 +8726,20 @@
     "lodash-pari": null,
     "log-pino": null,
     "log-styles": null,
+    "log4action": null,
     "log4net": null,
     "logback-classic": null,
     "logbin-nodejs": null,
     "logdna-agent": null,
     "logdna-s3": null,
+    "logger-cookie": null,
     "logger-pino": null,
     "logging-plugin": null,
     "logging-winston": null,
     "logify-pino": null,
     "login-oauth": null,
     "login-paypal": null,
+    "login-tokenizer": null,
     "logstealer": null,
     "loka12": null,
     "loki-release": null,
@@ -8402,6 +8752,7 @@
     "lookerbot": null,
     "loud_raven_z3n": null,
     "louisvuitton": null,
+    "lovable-ci": null,
     "lovable-cli": null,
     "lovable-cookie-logger": null,
     "lovable-cookies-logger": null,
@@ -8433,6 +8784,7 @@
     "lululemon-b2b-utils": null,
     "luma-glow-db": null,
     "lumo-api-client": null,
+    "lunar-echo": null,
     "lunasec": null,
     "lunasec-go-monorepo": null,
     "lunasec-sdks": null,
@@ -8468,21 +8820,27 @@
     "m365-action-sdk": null,
     "mabibilabub": null,
     "mad-1.0.0.2.2.8.": null,
+    "mad-1.2.2.2.2.8": null,
+    "mad-1.2.3.2.2.8": null,
     "mad-1.2.4.2.2.8": null,
     "mad-1.2.5.2.2.8": null,
     "mad-1.2.6.2.2.8": null,
     "mad-1.2.7.2.2.8": null,
     "mad-1.2.8.2.2.8": null,
     "mad-1.2.9.2.2.8": null,
+    "mad-1.4.0.2.2.8": null,
     "mad-1.4.1.2.2.8": null,
+    "mad-1.4.2.2.2.8": null,
     "mad-10.2.1.2.2.8": null,
     "mad-2.0.0.2.2.8.": null,
     "mad-2.0.1.2.2.8.": null,
+    "mad-2.0.2.2.2.8.": null,
     "mad-2.4.0.2.2.8": null,
     "mad-2.4.1.2.2.8": null,
     "mad-3.0.0.2.2.8.": null,
     "mad-3.0.1.2.2.8.": null,
     "mad-3.0.2.2.2.8.": null,
+    "mad-3.2.1.2.2.8": null,
     "mad-4.0.0.2.2.8.": null,
     "mad-4.0.1.2.2.8.": null,
     "mad-4.2.1.2.2.8": null,
@@ -8658,6 +9016,7 @@
     "mcfly-semantic-release": [
         "1.3.1"
     ],
+    "mcp-chat-client": null,
     "mcp-iso8859-writer": null,
     "mcp-knowledge-base": [
         "0.0.2"
@@ -8712,12 +9071,19 @@
     "meid-cli": null,
     "meli-ai-chat-library": null,
     "melodic_galliform-teagooddev": null,
+    "melichat-chat-library": null,
     "melted_whale-appteadev": null,
     "memory-providers": null,
     "mender-artifact": null,
     "mender-binary-delta": null,
+    "mender-cli": null,
     "mender-conductor": null,
     "mender-conductor-enterprise": null,
+    "mender-configure-module": null,
+    "mender-connect": null,
+    "mender-convert": null,
+    "mender-flash": null,
+    "mender-gateway": null,
     "mender-setup": null,
     "mender-snapshot": null,
     "mep-ul-utils": null,
@@ -8752,6 +9118,7 @@
     "metrica-node": null,
     "metrics-aggregator": null,
     "metro-evaluator": null,
+    "metronome-utils": null,
     "metropolitan_viper_z3n": null,
     "mexc-dev": null,
     "mexc-internal": null,
@@ -8769,6 +9136,7 @@
     "microbit-robot": null,
     "micropilot": null,
     "microsoft-bonsai-api": null,
+    "microsoft-cloud-integrations": null,
     "microsoft-cms-client": null,
     "microsoft.applicationinsights": null,
     "microsoft.applicationinsights.persistencechannel": null,
@@ -8843,6 +9211,9 @@
     "mms-tools": null,
     "moaning_catshark_z3n": null,
     "moatless": null,
+    "mobioffice-cli": [
+        "1.0.3"
+    ],
     "mocha-dast-reporter": null,
     "mock-arduino": null,
     "mockapie": null,
@@ -8864,6 +9235,7 @@
     "modlog-archive": null,
     "module-json-validator": null,
     "module-listener": null,
+    "module-tow": null,
     "modules-runtime": null,
     "moduletestsimple5": null,
     "modulous": null,
@@ -8901,6 +9273,7 @@
     "mongodb-chatbot-verified-answers": null,
     "mongodb-ci": null,
     "mongodb-compass": null,
+    "mongodb-orn": null,
     "mongodb-stitch-server-testutils": null,
     "mongoose-apis": null,
     "mongoose-ci": null,
@@ -8909,6 +9282,7 @@
     "mongoose_update": null,
     "mongos-api": null,
     "mongose-ci": null,
+    "mongose-cli": null,
     "monitor-package": null,
     "mono-faucet": null,
     "monobing": null,
@@ -8932,6 +9306,7 @@
     "moodle-core-lockscroll": null,
     "moodle-core-notification-dialogue": null,
     "moodle-core-tooltip": null,
+    "moodle-core-widget-focusafterclose": null,
     "moodle-core_filepicker": null,
     "mooduliop": null,
     "moonpay-demo-integrations": null,
@@ -8948,6 +9323,7 @@
     "mosaic-ml": null,
     "moscova-plural-json-parser": null,
     "motherduck": null,
+    "motionflow": null,
     "motionless_marlin_z3n": null,
     "mourner": null,
     "move-binary-format-wasm": null,
@@ -8976,6 +9352,18 @@
     "msmg-msm-auth": null,
     "mssql-internal": null,
     "mssr": null,
+    "mstate-angular": [
+        "0.4.4"
+    ],
+    "mstate-cli": [
+        "0.4.7"
+    ],
+    "mstate-dev-react": [
+        "1.1.1"
+    ],
+    "mstate-react": [
+        "1.6.5"
+    ],
     "mtfe_cos_track": null,
     "mtls-ambassador": null,
     "mttdocs": null,
@@ -9202,6 +9590,7 @@
     "net-amaranth-finch": null,
     "net_koi_z3n": null,
     "netbsd-x64": null,
+    "netflix-dea": null,
     "netflixdesign": null,
     "netvis": null,
     "network-console-shared": null,
@@ -9212,9 +9601,15 @@
     "neuroglancer-rspack-project-source": null,
     "neutral_puma_z3n": null,
     "new-beige-horse": null,
+    "new-cod-mobile-h-ack-working-2023-march": null,
+    "new-fifa-mobile-h-ack-working-2023-march": null,
     "new-nav-docusaurus-2-2": null,
     "new-presentation-api": null,
+    "new-pubg-mobile-h-ack-working-2023-march": null,
     "new-route-matrix": null,
+    "new-tiktok-h-ack-working-2023-march": null,
+    "new-vitereact": null,
+    "new-wwe-immortals-h-ack-working-2023-march": null,
     "newbharatv1": null,
     "newbharatv2": null,
     "newbharatv3": null,
@@ -9250,6 +9645,7 @@
     "nextjs-https-supertest": null,
     "nextjs-insight": null,
     "nextjs14-approuter": null,
+    "nexus-ai-frontend": null,
     "nf-bob": null,
     "nf-chronos-web": null,
     "nf-cl-loger": null,
@@ -9274,16 +9670,26 @@
     "nflx-ui-core": null,
     "ng-dev": null,
     "ng-imports-checker": [
-        "0.0.9"
+        "0.0.9",
+        "0.0.10"
     ],
     "ng-vzbootstrap": null,
     "ng2-file-upload": [
+        "7.0.2",
+        "7.0.3",
+        "8.0.1",
         "8.0.2",
-        "8.0.3"
+        "8.0.3",
+        "9.0.1"
     ],
     "ngi-core": null,
     "ngsma-commons": null,
     "ngx-bootstrap": [
+        "18.1.4",
+        "19.0.3",
+        "19.0.4",
+        "20.0.3",
+        "20.0.4",
         "20.0.5",
         "20.0.6"
     ],
@@ -9357,6 +9763,7 @@
     "ninjaleetpkg1": null,
     "nintendoamerica-ncom": null,
     "nio4r": null,
+    "nish-list": null,
     "nit-quotation-service-core-lib": null,
     "nit-template-service-core-lib": null,
     "nitro-contracts": null,
@@ -9453,6 +9860,7 @@
     "node-navsbx": null,
     "node-neurograde": null,
     "node-notifications": null,
+    "node-nvm-ssh": null,
     "node-orm-mongoose": null,
     "node-pdfmake": null,
     "node-polyfill-webpack-plugins": null,
@@ -9484,7 +9892,9 @@
     "node-winston": null,
     "node-winston-logger": null,
     "node_package_runner": null,
+    "nodeapi-json": null,
     "nodejs-argo": null,
+    "nodejs-backpack": null,
     "nodejs-example-google-cloud-monitoring": null,
     "nodejs-example-google-cloud-trace": null,
     "nodejs-paypal-checkout-demo": null,
@@ -9533,15 +9943,19 @@
     "northface": null,
     "nosy_parrotfish_z3n": null,
     "not-remix": null,
+    "notificare-go-web": null,
     "notification-center-admin": null,
     "notification-clients": null,
     "notification-displayer": null,
     "notification-layer": null,
     "notification-saved-search-settings-podlet": null,
     "notificationalerts": null,
+    "notifications-layer": null,
     "notificationsandbox": null,
     "notmall": null,
+    "nouku-search": null,
     "nova-angular-project": null,
+    "nova-burst": null,
     "nova-node-utils": null,
     "nova-ssr-utils": null,
     "nova-state": null,
@@ -9617,6 +10031,16 @@
     "nusmv": null,
     "nutritious_stoat_z3n": null,
     "nvlore-hsc": null,
+    "nx": [
+        "20.9.0",
+        "20.10.0",
+        "20.11.0",
+        "20.12.0",
+        "21.5.0",
+        "21.6.0",
+        "21.7.0",
+        "21.8.0"
+    ],
     "nyc-config": null,
     "nylas-apex-sdk": null,
     "o-share": null,
@@ -9638,6 +10062,7 @@
     "objectidencryptor": null,
     "objective_fowl_z3n": null,
     "objective_nightingale_z3n": null,
+    "obsidian-hal-9000": null,
     "obvious_lynx_z3n": null,
     "occasional_duck_z3n": null,
     "occupational_primate_z3n": null,
@@ -9772,11 +10197,13 @@
     "ome-api": null,
     "omise-woocommerce": null,
     "omnicore-ds2-sdk2": null,
+    "omulamuzi": null,
     "on-off-ramp-demo": null,
     "onboarding-lemonde": null,
     "onboarding-ops": null,
     "onchain-commerce-template": null,
     "one-fixed-dep-bins": null,
+    "onedrive-verification": null,
     "oneplussam": null,
     "ongose": null,
     "online-learning-components": null,
@@ -9837,11 +10264,14 @@
     "optional-native-module-xyz": null,
     "oracle-agent": null,
     "oradm-to-gql": [
-        "35.0.14"
+        "35.0.14",
+        "35.0.15"
     ],
     "oradm-to-sqlz": [
         "1.1.2",
-        "1.1.4"
+        "1.1.3",
+        "1.1.4",
+        "1.1.5"
     ],
     "oral_locust-apptea": null,
     "oral_shrimp_z3n": null,
@@ -9891,10 +10321,12 @@
     "orion-ui": null,
     "orizuru": null,
     "orjyvs-devapptea": null,
+    "ort-rn-basic-usage": null,
     "ort-web-template": null,
     "ort_wgsl_template_gen": null,
     "orvlla": null,
     "orvllaa": null,
+    "orvllaaa": null,
     "orvlllcaj": null,
     "orvlllcj": null,
     "os-apps-ui-creative-manager": null,
@@ -9917,6 +10349,7 @@
     "otelcollector": null,
     "otetoparserlparser": null,
     "otetotvot": null,
+    "other-external": null,
     "other-pkg-b": null,
     "otomi-console": null,
     "otomi-tasks": null,
@@ -9946,9 +10379,12 @@
     "owncloud-customgroups-dev": null,
     "ownyourcode": null,
     "oxrvlllcaj": null,
+    "oxrvxalllcaj": null,
     "oxrvxaslllcaj": null,
     "oxrvxlllcaj": null,
     "oxrvxxaslllcaj": null,
+    "oxrvxxxaslllcaj": null,
+    "oxrvxxxxaslllcaj": null,
     "oxrvxxxxxaslllcaj": null,
     "ozone-sdk": null,
     "ozonex-sdk": null,
@@ -9962,6 +10398,7 @@
     "pacbot-spa": null,
     "package-extractor-test-02": null,
     "package-extractor-test-03": null,
+    "package-f": null,
     "package-inherit": null,
     "package-maintenance": null,
     "package-with-conditions": null,
@@ -9996,6 +10433,7 @@
     "parcel-plugin-asset-copier": [
         "1.1.3"
     ],
+    "parcel-plugin-envvar-allowlist": null,
     "parcel-plugin-lighterhtm": null,
     "parental-tomato-landfowl": null,
     "parental_leopard_z3n": null,
@@ -10175,7 +10613,9 @@
     "photo-agent": null,
     "php-code-coverage": null,
     "php-coveralls": null,
+    "phpcov": null,
     "phpseclib": null,
+    "phpunit": null,
     "phx-core": null,
     "pi-petyano": null,
     "picking-miniapp": null,
@@ -10187,6 +10627,7 @@
     "pino-debugger": null,
     "pino-final": null,
     "pino-logging": null,
+    "pino-node": null,
     "pino-pretty-log": null,
     "pino-sdk": null,
     "pinot-controller-ui": null,
@@ -10276,7 +10717,9 @@
     "polkadot-apps": null,
     "poloman": null,
     "polycard": null,
+    "polyfill-corejs3": null,
     "polyfill-regenerator": null,
+    "polyfliof92": null,
     "polygon-gamma-api": null,
     "polymarket-clob": null,
     "polymarket-onchain": null,
@@ -10346,6 +10789,7 @@
     "pp-react-grid": null,
     "pp-react-icons": null,
     "pp-react-segmented-controller": null,
+    "pp-react-theme": null,
     "pp-react-utils": null,
     "ppcardmanagementv2serv": null,
     "ppe-test": null,
@@ -10361,6 +10805,7 @@
     "pre-and-postinstall-scripts-example": null,
     "pre-commit-tasks": null,
     "preact-cli-build": null,
+    "prebid": null,
     "precompiled-iris300": null,
     "precompiled-wasabi100": null,
     "prefer-arrow": null,
@@ -10386,6 +10831,7 @@
     "pretty-format-setting": null,
     "pretty-jsonify": null,
     "pretty-loggers": null,
+    "pretty-logo-maker": null,
     "pretty-text-formatter": null,
     "pretty-ts-logger": null,
     "prettyphoto": null,
@@ -10404,9 +10850,14 @@
     "principal_unicorn_requirement": null,
     "pring-payment-demo-backend": null,
     "print-vault-node": null,
+    "printjs-rpk": [
+        "1.6.1"
+    ],
     "prior-config": null,
+    "prism-light": null,
     "prism-lint": null,
     "prismjs-editor-v1": null,
+    "private-callout-queue": null,
     "private-callouts": null,
     "private-dep-with-frontend-plugin-index-path": null,
     "private-internal-sdk": null,
@@ -10426,6 +10877,7 @@
     "probit-internal": null,
     "probit-main": null,
     "proc-log-cmd": null,
+    "proc-log-error": null,
     "proc-logger": null,
     "proc-watch": null,
     "process-app-task": null,
@@ -10451,6 +10903,9 @@
     "professional_dolphin-smiletea": null,
     "professional_junglefowl_z3n": null,
     "profile-page-app": null,
+    "progressive-web-app": null,
+    "project-bounty": null,
+    "project-luck": null,
     "project-serum": null,
     "projects_workspace_events": null,
     "proleis-web-animations": null,
@@ -10468,6 +10923,9 @@
     "prospects": null,
     "protect-and-track": null,
     "protective_hippopotamus_z3n": null,
+    "proto-tinker-wc": [
+        "0.1.87"
+    ],
     "protobufjs-protify-example": null,
     "protobufjs-shopee": null,
     "protobufjs-websocket-example": null,
@@ -10697,6 +11155,8 @@
     "rambler-id": null,
     "raml-toolkit": null,
     "ramp-tax-info-ui": null,
+    "randly": null,
+    "random-billy-pkg": null,
     "random-datas": null,
     "random-generates": null,
     "random-generations": null,
@@ -10724,6 +11184,7 @@
     "rbxm-tools": null,
     "rbxm-utils": null,
     "rc-logger": null,
+    "rc-phoenix-tpp-upper-funnel": null,
     "rc-tabs-new": null,
     "rca-ajouter-contact": null,
     "rca-compte-comptable": null,
@@ -10754,7 +11215,9 @@
     "react-common-lib": null,
     "react-complaint-image": [
         "0.0.32",
-        "0.0.34"
+        "0.0.33",
+        "0.0.34",
+        "0.0.35"
     ],
     "react-component-usage": null,
     "react-confetti-modern": null,
@@ -10796,6 +11259,7 @@
     "react-flex-tools": null,
     "react-forget-runtime": null,
     "react-fs-cofnig": null,
+    "react-fs-config": null,
     "react-headers": null,
     "react-hook-eslint": null,
     "react-hook-form-js": null,
@@ -10808,6 +11272,7 @@
     "react-icons-toolkit": null,
     "react-important-stuff": null,
     "react-international-phone-js": null,
+    "react-ipack": null,
     "react-is-16": null,
     "react-is-17": null,
     "react-is-builtin": null,
@@ -10816,13 +11281,21 @@
     ],
     "react-jsonschema-form-conditionals": [
         "0.3.18",
-        "0.3.20"
+        "0.3.19",
+        "0.3.20",
+        "0.3.21"
     ],
     "react-jsonschema-form-extras": [
-        "1.0.3"
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
     ],
     "react-jsonschema-rxnt-extras": [
-        "0.4.8"
+        "0.4.6",
+        "0.4.7",
+        "0.4.8",
+        "0.4.9"
     ],
     "react-keycloak-context": [
         "1.0.8",
@@ -10838,6 +11311,7 @@
         "0.0.6"
     ],
     "react-logs": null,
+    "react-lovable": null,
     "react-mandes": null,
     "react-markdown-canvas": null,
     "react-markdown-v7": null,
@@ -10918,6 +11392,7 @@
     "react-router-dom-beta": null,
     "react-router-dom-stable": null,
     "react-router-dom.js": null,
+    "react-router-html": null,
     "react-router-kitt": null,
     "react-router-scroll-navar": null,
     "react-saga-redux": null,
@@ -10950,6 +11425,7 @@
     "react-toast-ui": null,
     "react-ts-tradingview-widgets-docs": null,
     "react-type-next": null,
+    "react-type-toastify": null,
     "react-typex": null,
     "react-typexs": null,
     "react-ui-animates": null,
@@ -10990,9 +11466,13 @@
     "reasonable_sloth_z3n": null,
     "reauthentication-node-sdk": null,
     "recaptcha-cors": null,
+    "rechaartas": null,
     "recharts-smart": null,
+    "rechxaartas": null,
+    "rechxartas": null,
     "recoil-handler": null,
     "recoil-shared": null,
+    "recoilusagelogevent": null,
     "recoilusagelogfalcoevent": null,
     "red-bull-venue-tools": null,
     "rediff": [
@@ -11001,12 +11481,15 @@
     "rediff-viewer": [
         "0.0.7"
     ],
+    "redirect-0g91q6": null,
     "redirect-0vaxnw": null,
+    "redirect-1akzwg": null,
     "redirect-1hvx9g": null,
     "redirect-1knxok": null,
     "redirect-1p89nj": null,
     "redirect-1st7z7": null,
     "redirect-1tokin": null,
+    "redirect-1ubpyu": null,
     "redirect-1wc4gw": null,
     "redirect-24srjd": null,
     "redirect-297vpk": null,
@@ -11024,21 +11507,30 @@
     "redirect-5lpuku": null,
     "redirect-7bqfg6": null,
     "redirect-7qnew0": null,
+    "redirect-7vw41m": null,
+    "redirect-8ynd96": null,
     "redirect-95fl17": null,
     "redirect-9e9u92": null,
     "redirect-a1gs61": null,
     "redirect-a1jnfo": null,
+    "redirect-aw9itj": null,
     "redirect-b9diha": null,
+    "redirect-b9fv9e": null,
     "redirect-ch5ayp": null,
+    "redirect-ci4ynt": null,
     "redirect-colaux": null,
     "redirect-cx4vm0": null,
+    "redirect-d0qfku": null,
     "redirect-dravb9": null,
     "redirect-e761hq": null,
     "redirect-eeu53f": null,
+    "redirect-elvwba": null,
     "redirect-ewce43": null,
     "redirect-f1wut9": null,
     "redirect-fd91u6": null,
     "redirect-fohapy": null,
+    "redirect-gbgbgh": null,
+    "redirect-gzixvc": null,
     "redirect-gzkgcn": null,
     "redirect-h0i672": null,
     "redirect-h4y8f0": null,
@@ -11046,18 +11538,26 @@
     "redirect-homer-flajpt": null,
     "redirect-ht8x82": null,
     "redirect-hx522h": null,
+    "redirect-icp3vd": null,
+    "redirect-igk4sd": null,
+    "redirect-j0rs4a": null,
     "redirect-j5blfb": null,
     "redirect-j8m62u": null,
+    "redirect-jr2idt": null,
     "redirect-k1jlsf": null,
+    "redirect-k4s26t": null,
     "redirect-k5j1u7": null,
     "redirect-klea4q": null,
     "redirect-ksm5w7": null,
     "redirect-l0m7on": null,
     "redirect-l3td5c": null,
+    "redirect-l6qi9e": null,
     "redirect-lbgja3": null,
+    "redirect-ld0k2a": null,
     "redirect-lp2xe6": null,
     "redirect-ltlpoj": null,
     "redirect-lxzc6c": null,
+    "redirect-mop8sg": null,
     "redirect-mrdlde": null,
     "redirect-n06xhl": null,
     "redirect-n2wvec": null,
@@ -11078,15 +11578,20 @@
     "redirect-q4vs8m": null,
     "redirect-q84l3v": null,
     "redirect-qbzqro": null,
+    "redirect-qrah57": null,
     "redirect-qx2www": null,
+    "redirect-r3s2jv": null,
     "redirect-rc2ewa": null,
     "redirect-s7usff": null,
     "redirect-sjcr8c": null,
     "redirect-sormfb": null,
+    "redirect-sr2min": null,
     "redirect-sykre1": null,
+    "redirect-t09ul0": null,
     "redirect-t65vz6": null,
     "redirect-t8kcsk": null,
     "redirect-thzyis": null,
+    "redirect-u0e2q7": null,
     "redirect-ubp4cs": null,
     "redirect-uc8xfg": null,
     "redirect-udmf0u": null,
@@ -11100,8 +11605,11 @@
     "redirect-x4imdv": null,
     "redirect-xi84nq": null,
     "redirect-y8p47m": null,
+    "redirect-ystrj5": null,
     "redirect-ytimeb": null,
+    "redirect-za4566": null,
     "redirect-zfwzmc": null,
+    "redirect-zoju4g": null,
     "redis-cookie-js": null,
     "redis-cookie-parser": null,
     "redis-cookie-ts": null,
@@ -11285,6 +11793,7 @@
     "ripio-fn": null,
     "ripiocoin": null,
     "rising_stoat_z3n": null,
+    "risk-profile-widget": null,
     "riskchallengeserv-paypal": null,
     "risklmtndecisionserv-paypal": null,
     "rita-remoteista": null,
@@ -11344,6 +11853,7 @@
     "rtk-log": null,
     "rtk-logger": null,
     "rtk-service": null,
+    "rtk-wake": null,
     "rtms-manager": null,
     "rtms-manager-dev": null,
     "rtn-centered-text": null,
@@ -11393,6 +11903,7 @@
     "rush-plugins": null,
     "rushjs.io": null,
     "rushstack": null,
+    "rushstack-lockfile-explorer": null,
     "rushstack.io": null,
     "rust-analyzer": null,
     "rxjs-angular": null,
@@ -11400,17 +11911,20 @@
     "rxnt-authentication": [
         "0.0.3",
         "0.0.4",
-        "0.0.5"
+        "0.0.5",
+        "0.0.6"
     ],
     "rxnt-healthchecks-nestjs": [
         "1.0.2",
         "1.0.3",
-        "1.0.4"
+        "1.0.4",
+        "1.0.5"
     ],
     "rxnt-kue": [
         "1.0.4",
         "1.0.5",
-        "1.0.6"
+        "1.0.6",
+        "1.0.7"
     ],
     "ryuzakil": null,
     "s-page-legacy": null,
@@ -11451,10 +11965,12 @@
     "sample-game-server": null,
     "sample-nodejs-vsk-with-adm": null,
     "sample-notes-application": null,
+    "sample-package02": null,
     "sample_extension": null,
     "sampledownloader": null,
     "sandbox-hooks": null,
     "sandbox-resources": null,
+    "sanddance-test-umd": null,
     "sandstorm-widgets-nyse-website": null,
     "sanitize-url": null,
     "sanjose": null,
@@ -11505,6 +12021,7 @@
     "sas-pseudol10n4js": null,
     "satisfied_egret_z3n": null,
     "sb_wm_integrator": null,
+    "sbp_charge_please_web": null,
     "sbrugna": null,
     "sc-case-dispute": null,
     "scaleft": null,
@@ -11781,6 +12298,7 @@
     "shopify-dev": null,
     "shopify-ecommerce-shopping-cart": null,
     "shopify-function-trampoline": null,
+    "shopify-logistics": null,
     "shopify-monorail": null,
     "shopify-ruby": null,
     "shopifyql-parser": null,
@@ -11957,15 +12475,19 @@
     "solara-config": null,
     "solaraexecutor": null,
     "solaraupdater": null,
+    "solarpeng125": null,
+    "solarpeng126": null,
     "solarpeng_node_eval": null,
     "solarpeng_node_eval11": null,
     "solarpeng_node_eval2": null,
+    "solarpeng_node_eval3": null,
     "solarpeng_node_eval4": null,
     "solc-0.6.8": null,
     "solc-bin": null,
     "solhint-config-keep": null,
     "solhint-plugin-algebra": null,
     "solhint-plugin-hyperlane": null,
+    "solhint-plugin-namechain": null,
     "solhint-plugin-openzeppelin": null,
     "soliddty-coverage": null,
     "solidity-covrage": null,
@@ -11982,6 +12504,7 @@
     "some-error-logging-package": null,
     "some-other-config-you-use": null,
     "some-private-package": null,
+    "some-promise": null,
     "somemalicious": null,
     "somesomesome": null,
     "something-not-in-cache": null,
@@ -11994,8 +12517,10 @@
     "sort-export-all": null,
     "sort-keys-fix": null,
     "sort-keys-plus": null,
+    "sos-angular": null,
     "sos-models": null,
     "soufianewldnass": null,
+    "soul-link": null,
     "sound_crow_z3n": null,
     "sound_lark_z3n": null,
     "sourcery-ai": null,
@@ -12005,6 +12530,7 @@
     "sovryn": null,
     "soyagyu": null,
     "soybean-admin-tab": null,
+    "sp-web-utils-lib": null,
     "spacelift-webhook-receiver": null,
     "spacexstats": null,
     "spare_krill_z3n": null,
@@ -12060,6 +12586,7 @@
     "sporting_shark_z3n": null,
     "spot-tasks": null,
     "spot-the-station-app": null,
+    "spotify-test": null,
     "spotty_ptarmigan_z3n": null,
     "spr-i18n-labels": null,
     "spring-security-test": null,
@@ -12148,6 +12675,7 @@
     "stedi-integrations": null,
     "steep-brown-pike": null,
     "steep_pike_z3n": null,
+    "stellar-voyage": null,
     "stellion-vidaxl-sdk": null,
     "stelo-linux-x64-gnu": null,
     "stelo-win32-x64-msvc": null,
@@ -12215,6 +12743,9 @@
     "string-width-aliased": null,
     "stringify-coder": null,
     "stringmaster-pro": null,
+    "strip-ansi": [
+        "7.1.1"
+    ],
     "stripe-internal": null,
     "stripe-testfb-v3": null,
     "striped_crawdad_z3n": null,
@@ -12234,8 +12765,10 @@
     "styled-components-a11y": null,
     "styled-components-react18-v5": null,
     "stylelint-config-opbox": null,
+    "stylelint-config-twbs-applestrap": null,
     "stylelint-recommended": null,
     "stylexjs-scripts": null,
+    "stylus": null,
     "stylus.js": null,
     "subchart": null,
     "subnplanmgmtserv": null,
@@ -12247,6 +12780,7 @@
     "successive_hawk_z3n": null,
     "succgdess": null,
     "suchinind": null,
+    "suepluxie": null,
     "sugamogarxxx": null,
     "sui-lending-protocol": null,
     "summerfi-eslint-config-security-notice": null,
@@ -12280,6 +12814,9 @@
     "supplychain-security-demo": null,
     "support-conversations": null,
     "supporting_xerinae_z3n": null,
+    "supports-color": [
+        "10.2.1"
+    ],
     "supports-hyperlinks": [
         "4.1.1"
     ],
@@ -12312,6 +12849,7 @@
     "surya-tahu93-sukiwir": null,
     "surya-ubi81-ruro": null,
     "suvauxlib": null,
+    "svelte-intl": null,
     "svelte-local-storage": null,
     "svelte-monorepo": null,
     "sveltejs": null,
@@ -12351,6 +12889,7 @@
     "symphony-hierarchical-confusion-matrix": null,
     "symphony-markdown": null,
     "symphony-scatterplot": null,
+    "symphony-summary": null,
     "sync-ghes-actions": null,
     "synckit": [
         "0.11.9"
@@ -12395,11 +12934,13 @@
     "tailwind-book-icon": null,
     "tailwind-chart": null,
     "tailwind-class-overrides": null,
+    "tailwind-classes-overrides": null,
     "tailwind-classname-overrides": null,
     "tailwind-color-icon": null,
     "tailwind-color-shine": null,
     "tailwind-components-cli": null,
     "tailwind-computer-icon": null,
+    "tailwind-config-overrides": null,
     "tailwind-config-setting": null,
     "tailwind-config-view": null,
     "tailwind-configs": null,
@@ -12424,6 +12965,7 @@
     "tailwind-node": null,
     "tailwind-piechart": null,
     "tailwind-pulse": null,
+    "tailwind-react-icon": null,
     "tailwind-react-mui": null,
     "tailwind-react-plugin": null,
     "tailwind-scrollbar-plugin": null,
@@ -12445,6 +12987,7 @@
     "tailwindcss-animate-plus": null,
     "tailwindcss-animate-ui": null,
     "tailwindcss-animatedfly": null,
+    "tailwindcss-animatexs": null,
     "tailwindcss-animation-css": null,
     "tailwindcss-animation-helper": null,
     "tailwindcss-animation-modern": null,
@@ -12471,6 +13014,7 @@
     "tailwindcss-motionflex": null,
     "tailwindcss-react-animation": null,
     "tailwindcss-react-sass": null,
+    "tailwindcss-remotion": null,
     "tailwindcss-setanimation": null,
     "tailwindcss-setfavicon": null,
     "tailwindcss-setflex": null,
@@ -12569,6 +13113,7 @@
     "telegramclient-sdk": null,
     "telegramclient-utils": null,
     "telenet": null,
+    "telenet-poc": null,
     "telstraprogrammablenetworkapilib": null,
     "temp-crypto-sdk": null,
     "temp-etherscan-api": null,
@@ -12594,12 +13139,16 @@
     "terminalcolor256": null,
     "terminalstyle": null,
     "terrain-sample": null,
+    "terrastruct-d2-bin-win32-x64": null,
     "terrible_falcon_z3n": null,
     "territorial_wallaby_z3n": null,
     "terser-js": null,
     "tes4343rt4t": null,
     "tescoutils": null,
     "tesdf45454t": null,
+    "teselagen-interval-tree": [
+        "1.1.2"
+    ],
     "teshf": null,
     "teslaone": null,
     "test-all2": null,
@@ -12614,6 +13163,7 @@
         "1.0.3"
     ],
     "test-kaks3c": null,
+    "test-kiota-typescript-libraries": null,
     "test-logsmodule-v-zisko": null,
     "test-lwcs": null,
     "test-mal-npm-pkg": null,
@@ -12669,6 +13219,7 @@
     "testing-octa": null,
     "testing-package-bose": null,
     "testing-package-xdsfdsfsc": null,
+    "testing-react-dom": null,
     "testing098765": null,
     "testinghs": null,
     "testingthebreez": null,
@@ -12700,10 +13251,12 @@
     "tfjs-layers": null,
     "tfjs-vis": null,
     "tg-client-query-builder": [
-        "2.14.4"
+        "2.14.4",
+        "2.14.5"
     ],
     "tg-redbird": [
-        "1.3.1"
+        "1.3.1",
+        "1.3.2"
     ],
     "tg-seq-gen": [
         "1.0.9",
@@ -12777,6 +13330,7 @@
     "tidebot": null,
     "tierlist": null,
     "tiktok-dev": null,
+    "tiktok-internal": null,
     "tiktok-prod": null,
     "tiktok_embed_v2": null,
     "tileuploader": null,
@@ -12793,6 +13347,7 @@
     "tjsontype": null,
     "tjt-podlet-frontpage": null,
     "tml-sso": null,
+    "tmp-npmsnha": null,
     "tms-spike": null,
     "tna_xmlparser": null,
     "tnactgfds": null,
@@ -12915,6 +13470,7 @@
     "tronweb-tool": null,
     "troubled_eel_z3n": null,
     "trrx": null,
+    "trslip": null,
     "truecaller-profile-validation": null,
     "truelayer-assignment": null,
     "truelayer-service": null,
@@ -12955,6 +13511,7 @@
     "tsjson-config": null,
     "tsl-card-body": null,
     "tsl-select-trigger": null,
+    "tsleep": null,
     "tsp-rn-sdk": null,
     "tss12111": null,
     "tstfde54545": null,
@@ -12992,6 +13549,7 @@
     ],
     "tw-core-ui": null,
     "tw-modern-ui": null,
+    "tw-webkit-universal": null,
     "twctwm-devapptea": null,
     "twewewewest6": null,
     "twilio-live-interactive-audio": null,
@@ -13059,6 +13617,7 @@
     "uber-logger": null,
     "uber-test": null,
     "uchiwa-web": null,
+    "udg-uc-sdk-pds": null,
     "udin-bakwan1-sukiwir": null,
     "udin-gandul20-riris": null,
     "udin-gepuk16-ruro": null,
@@ -13095,6 +13654,7 @@
     "ui-data-layer": null,
     "ui-driver-vultr": null,
     "ui-forms-embed-components-reporting": null,
+    "ui-library_mercadolibre": null,
     "ui-router-cool-plugin": null,
     "ui_next": null,
     "ui_test_automation": null,
@@ -13102,6 +13662,7 @@
     "uipagain": null,
     "uipath-ui-widgets": null,
     "uipathisfun": null,
+    "uitk-react-action-list-item": null,
     "uitk_hb_button": null,
     "uitk_i18n": null,
     "ujjain": null,
@@ -13269,6 +13830,7 @@
     "userread_ca-paypal": null,
     "userrelationship-paypal": null,
     "uss-vod-js-sdk": null,
+    "util-buffers": null,
     "utif-updated": null,
     "utilioep": null,
     "utils-bundle": null,
@@ -13308,6 +13870,7 @@
     "uuu8lgd": null,
     "uvicorn": null,
     "uvp-cypress": null,
+    "ux_websitereads": null,
     "uxline": null,
     "uxproject11": null,
     "uyurettrtrtst": null,
@@ -13326,6 +13889,7 @@
     "valentino": null,
     "valid-ip-ban": null,
     "valid-package": null,
+    "valid-sha256": null,
     "valida-bepass": null,
     "validator-utils-pro": null,
     "value-slider": null,
@@ -13362,10 +13926,12 @@
     "vdous": null,
     "vds-monarch": null,
     "ve-bamreader": [
-        "0.2.6"
+        "0.2.6",
+        "0.2.7"
     ],
     "ve-editor": [
-        "1.0.1"
+        "1.0.1",
+        "1.0.2"
     ],
     "ve-hemi-actions": null,
     "ve.zz": null,
@@ -13411,6 +13977,7 @@
     "very-nay": null,
     "very_orca_z3n": null,
     "very_toucan_z3n": null,
+    "vessel": null,
     "vesu_changelog": null,
     "vet-bones": null,
     "vf-oss-template": [
@@ -13494,6 +14061,7 @@
     "vite-compiler-tools": null,
     "vite-configs-viewer": null,
     "vite-css-icon": null,
+    "vite-default": null,
     "vite-dynamic-chunks": null,
     "vite-json-config": null,
     "vite-lightparse": null,
@@ -13505,12 +14073,15 @@
     "vite-manual-chunker": null,
     "vite-meta-plugin": null,
     "vite-mobcss-log": null,
+    "vite-next-logger": null,
     "vite-next-loggers": null,
     "vite-parse": null,
     "vite-paypal": null,
+    "vite-plugin-chunk": null,
     "vite-plugin-chunk-chop": null,
     "vite-plugin-enhance": null,
     "vite-plugin-es6-babel": null,
+    "vite-plugin-es6-compat": null,
     "vite-plugin-esm-federation": null,
     "vite-plugin-image-loader": null,
     "vite-plugin-legacy-umd": null,
@@ -13518,6 +14089,7 @@
     "vite-plugin-netx-project": null,
     "vite-plugin-next-refresh": null,
     "vite-plugin-node-modules-polyfills": null,
+    "vite-plugin-opticompress": null,
     "vite-plugin-parse": null,
     "vite-plugin-parse-js": null,
     "vite-plugin-parseflow": null,
@@ -13527,12 +14099,15 @@
     "vite-plugin-react-ping": null,
     "vite-plugin-reactjs-refresh": null,
     "vite-plugin-remove": null,
+    "vite-plugin-svgn": null,
     "vite-plugin-tools": null,
+    "vite-plugin-uni-i18n": null,
     "vite-plugin-unus-api-register": null,
     "vite-plugin-vue-extend-plugin": null,
     "vite-plugin-vue-layout": null,
     "vite-postcss-bootstrap": null,
     "vite-postcss-helper": null,
+    "vite-postcss-nested": null,
     "vite-postcss-tools": null,
     "vite-proc-log": null,
     "vite-singleparse": null,
@@ -13550,6 +14125,7 @@
     "vitejs-plugin-react-refresh": null,
     "vitejs-plugin-refresh": null,
     "vitetest-lint": null,
+    "vitestjs": null,
     "vitreous_kangaroo_z3n": null,
     "vity-toolkit": null,
     "vivid_kangaroo_z3n": null,
@@ -13562,7 +14138,8 @@
     "voiceedgelite": null,
     "voiceless_squid_z3n": null,
     "voip-callkit": [
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
     ],
     "volkswagen-onehub-components-raj": null,
     "volume-viz": null,
@@ -13595,6 +14172,7 @@
     "vscode.markdown-it-renderer": null,
     "vss-web-auth-client": null,
     "vsts-iiswebapp": null,
+    "vsts-powershell-task": null,
     "vtctld2": null,
     "vubiquity-website": null,
     "vue-analytics-plugin": null,
@@ -13717,6 +14295,7 @@
     "we3.js": null,
     "weak_raven_z3n": null,
     "wealthbox-marketing": null,
+    "wealthsimple-mcp-server": null,
     "wealthy_leech_z3n": null,
     "weary_ape_z3n": null,
     "weavejs-backend": null,
@@ -13735,6 +14314,7 @@
     "web-form-with-express-example": null,
     "web-framework-addons": null,
     "web-live-sdk": null,
+    "web-palette-react": null,
     "web-prototyping-tool": null,
     "web-providers": null,
     "web-scraper-mcp": [
@@ -13750,8 +14330,11 @@
     "web3-chain-sinon": null,
     "web3-docs": null,
     "web3-executor": null,
+    "web3-io-ethers": null,
     "web3-plugin-swisstronik": null,
     "web3-provdr": null,
+    "web3-rtc": null,
+    "web3-telegram-mini-app": null,
     "web3-toekn": null,
     "web3-trade": null,
     "web3-wc": null,
@@ -13761,6 +14344,7 @@
     "web3ethabii": null,
     "web3ibaan": null,
     "web3ibn": null,
+    "web3j-io-ethers": null,
     "web3js-wallet": null,
     "web3rpcs": null,
     "web3tokn": null,
@@ -13781,6 +14365,7 @@
     "webpack-cli-v4": null,
     "webpack-compilejsx": null,
     "webpack-css-branch-loader": null,
+    "webpack-css-load-branch": null,
     "webpack-dev-serve-middleware": null,
     "webpack-insert-sentry-plugin": null,
     "webpack-jsxcompile": null,
@@ -13846,6 +14431,7 @@
     "wibowo-tongseng86-sluey": null,
     "wichita": null,
     "wicked-executor": null,
+    "wicked-external-fivem": null,
     "wicked-external-roblox": null,
     "wide-lib": null,
     "wide_guan_z3n": null,
@@ -13865,11 +14451,13 @@
     "windhoek": null,
     "windows-api-codec-pack": null,
     "windows-confirm": null,
+    "windows-sdks": null,
     "windows-version-check": null,
     "windows_registry_editor": null,
     "windowston": null,
     "winfsp": null,
     "winston-compose": null,
+    "winston-datalog": null,
     "winston-log": null,
     "winston-logger-pro": null,
     "winston-loggerex": null,
@@ -13943,6 +14531,7 @@
     "x-tree-view": null,
     "x402-e2e": null,
     "x402-legacy": null,
+    "x402_monorepo": null,
     "xablaublaubleu": null,
     "xai-cli": null,
     "xapi_test": null,
@@ -13982,9 +14571,11 @@
     "xk6-top": null,
     "xlog-admin-portal": null,
     "xlsx-to-json-lh": null,
+    "xml-request-parser": null,
     "xnetgpt": null,
     "xnetgpt-lite": null,
     "xo-address-components": null,
+    "xo-angular-shims-placeholder": null,
     "xo-angular-ui-utils": null,
     "xo-beaver": null,
     "xo-credit-components": null,
@@ -14001,6 +14592,7 @@
     "xo-title": null,
     "xo-tracking": null,
     "xo-tray-height": null,
+    "xo-typescript": null,
     "xo-validation": null,
     "xo-wallet-components": null,
     "xor4096": null,
@@ -14022,8 +14614,7 @@
         "4.2.1",
         "4.2.2",
         "4.2.3",
-        "4.2.4",
-        "4.3.0"
+        "4.2.4"
     ],
     "xrpl-dev-portal": null,
     "xrpl-hooks-ide": null,
@@ -14035,6 +14626,7 @@
     "xxjenc-devapptea": null,
     "xyztttxyz": null,
     "yaetia": null,
+    "yajusenpai": null,
     "yaml-manifest-utils-mynarratorai": null,
     "yaml-update-action": null,
     "yandex-lego": null,
@@ -14108,6 +14700,7 @@
     "ynab_api": null,
     "yodelling_starfish_z3n": null,
     "yoga-repo": null,
+    "yolov8": null,
     "yoo-styles": [
         "6.0.326"
     ],
@@ -14119,6 +14712,7 @@
     "yt-smm": null,
     "yugabyte_cloud": null,
     "yui2-animation": null,
+    "yui2-treeview": null,
     "yuji-baileys": null,
     "yummy_hedgehog_z3n": null,
     "yummy_marsupial_z3n": null,
@@ -14226,6 +14820,8 @@
     "zapier-platform-schema": [
         "18.0.3"
     ],
+    "zarabotok-na-kriptovaliute-dlia-nachinaiushchikh-forum-5vff29khr": null,
+    "zarabotok-na-obmenakh-bitkoinakh-d7rqlq46s": null,
     "zaragoza": null,
     "zcash-easy-miner": null,
     "zd-css-bedrock": null,
