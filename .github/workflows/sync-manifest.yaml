@@ -3,7 +3,7 @@ name: Synchronize manifests
 on:
   workflow_dispatch: {} # allows manual trigger
   schedule:
-  - cron: '0 9 * * 1-5' # every weekday at 9 UTC
+  - cron: '0 9-17/2 * * 1-5' # every 2 hours between 9h and 17h (UTC) on weekdays
 
 
 permissions:
@@ -39,6 +39,9 @@ jobs:
           pip install -r scripts/sync-manifest/requirements.txt
 
       - name: Synchronize manifests
+        env:
+          OSV_TABLE_NAME: ${{ secrets.OSV_TABLE_NAME }}
+          TRIAGE_TABLE_NAME: ${{ secrets.TRIAGE_TABLE_NAME }}
         run: |
           for ecosystem in pypi npm; do
             python scripts/sync-manifest/sync_manifest.py --log-level INFO --ecosystem $ecosystem --since $(date -d "1 day ago" +'%Y-%m-%d %H:%M:%S') --input-file $(pwd)/samples/$ecosystem/manifest.json --output-file $(pwd)/samples/$ecosystem/manifest.json
