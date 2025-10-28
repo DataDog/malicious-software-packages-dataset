@@ -1,0 +1,68 @@
+name: Synchronize manifests
+
+on:
+  workflow_dispatch: {} # allows manual trigger
+  schedule:
+  - cron: '0 9 * * 1-5' # every weekday at 9 UTC
+
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write
+
+jobs:
+  synchronize-manifests:
+    name: 'Synchronize manifests'
+    runs-on: ubuntu-latest
+    environment: Main
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-west-3
+          role-to-assume: ${{ secrets.IAM_ROLE_ARN }}
+          role-session-name: github-actions
+          role-duration-seconds: 10800 # 3 hours 
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/sync-manifest/requirements.txt
+
+      - name: Synchronize manifests
+        run: |
+          for ecosystem in pypi npm; do
+            python scripts/sync-manifest/sync_manifest.py --log-level INFO --ecosystem $ecosystem --since $(date -d "1 day ago" +'%Y-%m-%d %H:%M:%S') --input-file $(pwd)/samples/$ecosystem/manifest.json --output-file $(pwd)/samples/$ecosystem/manifest.json
+          done
+
+      - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
+        id: octo-sts
+        with:
+          scope: DataDog/malicious-software-packages-dataset  # target repository
+          policy: self.open_pr # trust policy in target repo
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          add-paths: |
+            samples/
+          commit-message: "Auto-synchronize dataset manifests"
+          delete-branch: true
+          title: "[Bot] Auto-synchronize dataset manifests"
+          labels: sync
+          branch-suffix: timestamp
+          token: ${{ steps.octo-sts.outputs.token }}
+          reviewers: |
+            christophetd
+            sobregosodd
+            ikretz
+            tesnim5hamdouni
