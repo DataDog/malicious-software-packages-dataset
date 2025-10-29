@@ -1,0 +1,3 @@
+packaging
+pynamodb
+typing-extensions
