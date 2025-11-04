@@ -1628,6 +1628,7 @@
         "6.2.2"
     ],
     "antlir2-docs": null,
+    "antora-navigator-extension": null,
     "anumanu2324": null,
     "anypoint-cli-api-project": null,
     "aog-checker": null,
@@ -3513,6 +3514,7 @@
     "frontend-testing-redefined": null,
     "frontend-tests": null,
     "frontend-tests-demo": null,
+    "frontend-vue-next": null,
     "ft-flow": null,
     "fulfillment-auth-widget": null,
     "fulfillment-common": null,
