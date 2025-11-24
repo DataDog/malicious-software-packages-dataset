@@ -135,6 +135,9 @@
     ],
     "@asarioglo/ect-472839": null,
     "@asarioglo/npm-ghost-htb": null,
+    "@asyncapi/php-template": [
+        "0.1.1"
+    ],
     "@atticuss-sra/test-pkg-x4": null,
     "@auro-formkit/config": null,
     "@aviatrixdev/flight-suit": null,
@@ -314,6 +317,12 @@
     "@elementor-editor-github-actions/utils": null,
     "@emburse/embark-core": null,
     "@energysolutions/mylib": null,
+    "@ensdomains/ensjs": [
+        "4.0.3"
+    ],
+    "@ensdomains/react-ens-address": [
+        "0.0.32"
+    ],
     "@eooce/idx": null,
     "@eooce/sbx": null,
     "@eooce/ws": null,
@@ -905,6 +914,9 @@
     "@plentific/dashboard": null,
     "@pmm-ux/asset-uploader": null,
     "@poclabs/exo-phanto": null,
+    "@posthog/agent": [
+        "1.24.1"
+    ],
     "@profmego/alipay-babyblue": null,
     "@prompt-sync/v2": null,
     "@ps-i18/i18-utils": null,
@@ -918,6 +930,27 @@
     "@pwly/powerley-utils": null,
     "@pwnedshell/nn": null,
     "@qbr-runway/tokens": null,
+    "@quick-start-soft/quick-document-translator": [
+        "1.4.2511142126"
+    ],
+    "@quick-start-soft/quick-git-clean-markdown": [
+        "1.4.2511142126"
+    ],
+    "@quick-start-soft/quick-markdown": [
+        "1.4.2511142126"
+    ],
+    "@quick-start-soft/quick-markdown-compose": [
+        "1.4.2506300029"
+    ],
+    "@quick-start-soft/quick-markdown-translator": [
+        "1.4.2509202331"
+    ],
+    "@quick-start-soft/quick-remove-image-background": [
+        "1.4.2511142126"
+    ],
+    "@quick-start-soft/quick-task-refine": [
+        "1.4.2511142126"
+    ],
     "@ra-web-tech-ui-toolkit/common-utils": null,
     "@rashidazarang/airtable-mcp": null,
     "@raydium-utils-v5/fetch-wallet-balance": null,
@@ -1413,6 +1446,25 @@
     "@yoobic/yobi": [
         "8.7.53"
     ],
+    "@zapier/ai-actions-react": [
+        "0.1.12",
+        "0.1.13"
+    ],
+    "@zapier/mcp-integration": [
+        "3.0.1",
+        "3.0.2"
+    ],
+    "@zapier/secret-scrubber": [
+        "1.1.4"
+    ],
+    "@zapier/stubtree": [
+        "0.1.2",
+        "0.1.3"
+    ],
+    "@zapier/zapier-sdk": [
+        "0.15.5",
+        "0.15.6"
+    ],
     "@zkasm/zkevm-rom": null,
     "a11-cloud": null,
     "a111y-cloud": null,
@@ -1558,6 +1610,7 @@
     "airbnb-base-hf": null,
     "airbnb-base-typescript-prettier": null,
     "airbnb-bev": null,
+    "airbnb-blueimp-file-upload": null,
     "airbnb-booking": null,
     "airbnb-bootstrap-data": null,
     "airbnb-calendar": null,
@@ -3233,6 +3286,9 @@
         "6.1.7"
     ],
     "eslint-config-video-supply": null,
+    "eslint-config-zeallat-base": [
+        "1.0.4"
+    ],
     "eslint-disable-line": null,
     "eslint-format": null,
     "eslint-formatter-richhtml": null,
@@ -4544,6 +4600,9 @@
     "mangadex-archive-torrent-processor": null,
     "mangeto": null,
     "manifold-website": null,
+    "manual-billing-system-miniapp-api": [
+        "1.3.1"
+    ],
     "mapbox-demo-components": null,
     "mapbox-gl-js": null,
     "mapbox-gl-js-toys": null,
@@ -6886,6 +6945,9 @@
         "1.0.2"
     ],
     "tchap-landing-page": null,
+    "tcsp": [
+        "2.0.2"
+    ],
     "tdesign-flutter": null,
     "tdm-shared-core-library": null,
     "team-labeler-action": null,
@@ -7776,6 +7838,17 @@
     "zama1.js": null,
     "zano_ui": null,
     "zap_contracts": null,
+    "zapier-platform-cli": [
+        "18.0.2",
+        "18.0.3"
+    ],
+    "zapier-platform-core": [
+        "18.0.2",
+        "18.0.3"
+    ],
+    "zapier-platform-schema": [
+        "18.0.3"
+    ],
     "zcash-easy-miner": null,
     "zd-css-bedrock": null,
     "zdachboost": null,
