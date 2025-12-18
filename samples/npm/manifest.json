@@ -3067,6 +3067,7 @@
     "chai-promise-chain": null,
     "chai-promise-suite": null,
     "chai-promised-chain": null,
+    "chai-promised-chains": null,
     "chai-proxify": null,
     "chai-proxy": null,
     "chai-status": null,
@@ -7057,6 +7058,7 @@
     "plugin-meta-extractor": null,
     "plugin-proposal-private-methods": null,
     "plugin-react": null,
+    "plugin-senna": null,
     "plugin-sitemap-coveo": null,
     "pluxee-design-system": null,
     "pm2-gelf-json": [
@@ -9458,6 +9460,7 @@
     "xablaublaubleu": null,
     "xapi_test": null,
     "xavialonzo": null,
+    "xbox-bottomnav": null,
     "xboxlive-auth": null,
     "xdater": null,
     "xeno-api": null,
