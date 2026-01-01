@@ -339,6 +339,7 @@
     "@bmw-fedev/auth": null,
     "@bonk-sdk/ipfs": null,
     "@bonk-sdk/sha256": null,
+    "@brokenzzz/garfish": null,
     "@browserbasehq/bb9": [
         "1.2.21"
     ],
@@ -1279,6 +1280,7 @@
     "@pluxee-design-system/core": null,
     "@pmm-ux/asset-uploader": null,
     "@poclabs/exo-phanto": null,
+    "@polystream/streaming": null,
     "@posthog/agent": [
         "1.24.1"
     ],
@@ -2690,6 +2692,7 @@
     "babel-plugin-styled-componentsss": null,
     "babel-plugin-transform-vuex-analysis": null,
     "babel-preset-app": null,
+    "babel-preset-ibm-cloud-cognitive": null,
     "baby-electron": null,
     "baby-electrona": null,
     "baby-loris": null,
@@ -4333,6 +4336,8 @@
     "ens-app-v2": null,
     "ens-austt": null,
     "ent-esign-newweb": null,
+    "ent-file-upload-widget-v2": null,
+    "ent-profile-unauth-msr-stop": null,
     "ent-profile-unauth-stop": null,
     "enterprise-stencil": null,
     "env-app": null,
@@ -5581,6 +5586,7 @@
     "jenkins-trigger-actio": null,
     "jenkins-trigger-action": null,
     "jenkinslogger": null,
+    "jest-config-ibm-cloud-cognitive": null,
     "jest-hoist": null,
     "jestjs": null,
     "jet-os-detection": null,
@@ -6793,6 +6799,11 @@
     "oft-evm": null,
     "ohhttpstubs": null,
     "oj-odcs-category-selector": null,
+    "oj-sp-about-page": null,
+    "oj-sp-common": null,
+    "oj-sp-common-strings": null,
+    "oj-sp-css-additions": null,
+    "oj-sp-messages-banner": null,
     "okt-scripts": null,
     "okta-help": null,
     "okta-react-router-6": [
@@ -9125,6 +9136,7 @@
         "1.0.1"
     ],
     "url-project": null,
+    "usaa-authentication-mocks": null,
     "usage-tracker-secured": null,
     "usb_dev": null,
     "usdc.js": null,
@@ -9345,6 +9357,7 @@
     "vscode-resources": null,
     "vscode-spring-initializr": null,
     "vscode-tcf-debug": null,
+    "vscode-ui5-language-assistant": null,
     "vscode-websearchforcopilot": null,
     "vscode.markdown-it-renderer": null,
     "vss-web-auth-client": null,
@@ -9374,6 +9387,7 @@
     "vvite-plugin-react-ping": null,
     "vwa-visualizer": null,
     "vyre-utils": null,
+    "wac-react-relay": null,
     "wagmi-toolkits": null,
     "wallet-adapter-demo": null,
     "wallet-connector-rce": null,
