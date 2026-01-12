@@ -3,7 +3,7 @@ import re
 from glob import glob
 from pathlib import Path
 
-num_samples = len(glob('samples/**/*.zip', recursive=True))
+num_samples = len(glob('samples/**/*.zip', recursive=True)) + len(glob('samples/ide_extensions/**/*.vsix', recursive=True))
 readme_path = Path(os.path.join(
   os.path.basename(os.path.abspath( __file__ )), '..', 'README.md'
 )).resolve()
