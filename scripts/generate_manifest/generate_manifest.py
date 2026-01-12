@@ -28,13 +28,20 @@ def generate_manifest(directory: str) -> dict[str, Optional[list[str]]]:
                 continue
             manifest[package_name] = []
 
-            for version_dir in filter(lambda d: d.is_dir(), os.scandir(package_dir)):
-                package_version = restore_original_version(version_dir.name)
-                manifest[package_name].append(package_version)
-                try:
-                    manifest[package_name].sort(key=parse_version)
-                except InvalidVersion:
-                    manifest[package_name].sort()
+            # Try .vsix files first (IDE extensions), then directories (npm/PyPI)
+            vsix_files = list(Path(package_dir.path).glob('*.vsix'))
+            if vsix_files:
+                for vsix_file in vsix_files:
+                    manifest[package_name].append(vsix_file.stem)
+            else:
+                for version_dir in filter(lambda d: d.is_dir(), os.scandir(package_dir)):
+                    package_version = restore_original_version(version_dir.name)
+                    manifest[package_name].append(package_version)
+            
+            try:
+                manifest[package_name].sort(key=parse_version)
+            except InvalidVersion:
+                manifest[package_name].sort()
 
     return {package: manifest[package] for package in sorted(manifest)}
 
