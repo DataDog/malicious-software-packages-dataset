@@ -6024,6 +6024,7 @@
     "lit-3": null,
     "live-canvas-tests": null,
     "livingdesign-components": null,
+    "lj-wp": null,
     "llamaindex-js": null,
     "llm-oracle": null,
     "lme4": null,
@@ -6593,6 +6594,8 @@
     "nextcloud1": null,
     "nextcloud2": null,
     "nextcloudpi": null,
+    "nextiva-dot-com": null,
+    "nextiva-partners-microsite": null,
     "nextjs-app-router": null,
     "nextjs-default": null,
     "nextjs-edge": null,
@@ -9161,6 +9164,7 @@
     "turbo-monorepo": null,
     "turbolinks_jwt_test2": null,
     "turborepo-tests-helpers": null,
+    "tutor_table": null,
     "tutorial_front": null,
     "tvi-cli": [
         "0.1.5"
