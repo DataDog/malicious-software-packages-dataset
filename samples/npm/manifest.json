@@ -132,6 +132,7 @@
     "@add-wallet-exchange/type-api-data": null,
     "@ads-core/types": null,
     "@adsk-forks/jsonpath": null,
+    "@aetherz/auth-connections": null,
     "@afound/common": null,
     "@aftersale/react-eva": null,
     "@ahmedhfarag/ngx-perfect-scrollbar": [
@@ -4977,6 +4978,7 @@
     "flight-suit": null,
     "flight_lab_control": null,
     "flipper-plugins": null,
+    "flockiali": null,
     "flockulick": null,
     "floqast": null,
     "florida.js": null,
@@ -5372,6 +5374,7 @@
     "helloworldmyworld": null,
     "helm-charts-monorepo": null,
     "helosifjowe2342": null,
+    "hemi-btc-staking-actions": null,
     "hemi-tunnel-actions": null,
     "hemi-viem-stake-actions": null,
     "hermes-inspector-msggen": null,
@@ -6256,6 +6259,7 @@
     "mcfly-semantic-release": [
         "1.3.1"
     ],
+    "mcp-iso8859-writer": null,
     "mcp-knowledge-base": [
         "0.0.2"
     ],
@@ -7050,6 +7054,8 @@
     "openzeppelin-contracts-5.0.2": null,
     "operaextensions.js": null,
     "operation-server-sdk": null,
+    "operni": null,
+    "opresc": null,
     "opstooling-js-style": null,
     "opt-einsum": null,
     "opti-tools": null,
@@ -7196,6 +7202,7 @@
     "patch-package-lucky-video": null,
     "patternfly-4": null,
     "patternfly-build": null,
+    "pay-by-bank-dashboard-server": null,
     "pay-gateway": null,
     "pay-internal": null,
     "pay-reconciler": null,
@@ -9980,6 +9987,7 @@
     "z-object": null,
     "z-sub": null,
     "z0ra-helper": null,
+    "zabittest11": null,
     "zaf_sdk_repl_app": null,
     "zaggletech": null,
     "zalf22ausi8": null,
