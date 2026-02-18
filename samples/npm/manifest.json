@@ -358,6 +358,7 @@
     "@bmw-fedev/auth": null,
     "@bonk-sdk/ipfs": null,
     "@bonk-sdk/sha256": null,
+    "@bookings.microsoft.com/s": null,
     "@brokenzzz/garfish": null,
     "@browserbasehq/bb9": [
         "1.2.21"
