@@ -3192,6 +3192,7 @@
     "cfruitmaliciousxmlparser": null,
     "chai-as-advanced": null,
     "chai-as-approved": null,
+    "chai-as-constrained": null,
     "chai-as-deploy": null,
     "chai-as-deployed": null,
     "chai-as-enhanced": null,
@@ -7904,6 +7905,7 @@
     "react-dom.js": null,
     "react-domain-components": null,
     "react-dropzone-log": null,
+    "react-dropzone-truffle": null,
     "react-element-prompt-inspector": [
         "0.1.18"
     ],
