@@ -378,6 +378,7 @@
     "@bs58-utils/wrapper": null,
     "@bugdtest/test1": null,
     "@bugtestester/simple-web-app-package": null,
+    "@builderius/ai-builder": null,
     "@bytedanc-ad/market-ui-vue2": null,
     "@bytedanc-ad/mui-react": null,
     "@bytedanc-ad/mui-vue3": null,
@@ -4086,6 +4087,7 @@
     "dstny": null,
     "dstny-utils": null,
     "dt-adoptionoverview-extension": null,
+    "dt-fe-t2d-marketplace": null,
     "dt-frontend-utils": null,
     "dt-retag-lib": null,
     "dubbo-js-private-workspace": null,
@@ -5812,6 +5814,7 @@
     "ipvision": null,
     "ipvision-selfcare": null,
     "irb": null,
+    "iron-demo-helpers": null,
     "iron-github-io": null,
     "iron-shield-miniapp": [
         "0.0.2"
@@ -6122,6 +6125,7 @@
         "1.0.2"
     ],
     "langflow-api-chat": null,
+    "langmail-win32-x64-msvc": null,
     "language-babel": null,
     "language-capirca": null,
     "language-common": null,
@@ -6508,6 +6512,7 @@
     "microbit-robot": null,
     "micropilot": null,
     "microsoft-bonsai-api": null,
+    "microsoft-cms-client": null,
     "microsoft.applicationinsights": null,
     "microsoft.applicationinsights.persistencechannel": null,
     "microsoft.applicationinsights.windowsapps": null,
@@ -6700,6 +6705,7 @@
     "mv-basico": null,
     "mv-fe-scss": null,
     "mv-hosp": null,
+    "mvn-runtime": null,
     "mw-frontend-utils": null,
     "mw-proto-ts": null,
     "mws-common-ui": null,
@@ -8439,6 +8445,7 @@
     "salli-tg-api": null,
     "sally-fn": null,
     "samba-core": null,
+    "sample-custom-component": null,
     "sample-game-server": null,
     "sample-nodejs-vsk-with-adm": null,
     "sample-notes-application": null,
@@ -9389,6 +9396,7 @@
         "1.0.3"
     ],
     "the-integrator": null,
+    "the-storyverse": null,
     "theia-killercoda-extension": null,
     "theice": null,
     "theme-check-vscode": null,
