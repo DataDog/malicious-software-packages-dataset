@@ -20,7 +20,11 @@ def generate_manifest(directory: str) -> dict[str, Optional[list[str]]]:
     manifest = {}
 
     for prefix in {"compromised_lib", "malicious_intent"}:
-        for package_dir in filter(lambda d: d.is_dir(), os.scandir(Path(directory) / prefix)):
+        samples_dir = Path(directory) / prefix
+        if not samples_dir.is_dir():
+            continue
+
+        for package_dir in filter(lambda d: d.is_dir(), os.scandir(samples_dir)):
             package_name = restore_original_name(package_dir.name)
 
             if prefix == "malicious_intent":
