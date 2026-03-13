@@ -520,6 +520,7 @@
     "@dappaoffc/baileys-mod": null,
     "@dbtw/mfe-gateway": null,
     "@demoability/loadgen-core": null,
+    "@depro-tech/cortana-md": null,
     "@depro0x/despicable-me": null,
     "@deputyapp/copilot2": null,
     "@dev-blinq/cucumber-js": [
@@ -530,6 +531,8 @@
     ],
     "@devgandhi/cpp": null,
     "@didi-pebble/pblint": null,
+    "@dinzid04/baileys": null,
+    "@dinzid04/libsignal-node": null,
     "@discord-external/activity-iframe-sdk": null,
     "@domons/test": null,
     "@dompubsub/dompubsub": null,
@@ -805,6 +808,7 @@
     "@ifelsedeveloper/protocol-contracts-svm-idl": [
         "0.1.2"
     ],
+    "@iflow-mcp/watercrawl-watercrawl-mcp": null,
     "@igain/react-app": null,
     "@ikarem/telemetry": null,
     "@ikeacn/ui": null,
@@ -3736,6 +3740,7 @@
     "cors-tool": null,
     "cors-validator": null,
     "corsair-module": null,
+    "cortana-md-bot": null,
     "cortex-app-tutorial": null,
     "cortex-app-utils": null,
     "cortex-net-node": null,
@@ -9614,6 +9619,7 @@
     "themeone-event": null,
     "themeone-utils": null,
     "themes-nunjucks-service": null,
+    "theta-sdk": null,
     "theta-tv-charts": null,
     "third-party-dep-a": null,
     "third-party-dep-b": null,
@@ -10318,6 +10324,7 @@
     "wg-fps-stats": null,
     "whaletail": null,
     "what_type_of_self_indulgent_sub-par_challenge_is_this": null,
+    "whatsapp-core-auth-drzak": null,
     "whatsapp-flows-endpoint": null,
     "whatsapp-sdk-docs": null,
     "whatwg-node": null,
