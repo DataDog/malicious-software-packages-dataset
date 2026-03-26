@@ -1646,6 +1646,7 @@
     ],
     "@rev-security/identity-rev": null,
     "@revvity-signals/chemdraw-js": null,
+    "@rexorg/config": null,
     "@riag-libs/pattern-library-react-hooks": null,
     "@roku-web-ui/header": null,
     "@roku-web-ui/kitchensink-ui-base": null,
@@ -2067,6 +2068,7 @@
     "@uit-spritesmith/webpack": null,
     "@umreg/zxcvbn": null,
     "@unitedcapitalfinancialadvisors/finlife-component-library": null,
+    "@universeorg/dotenv": null,
     "@unkn0wnartist/h1-poc-test": null,
     "@uq-global-ec/navigation": null,
     "@usaa-grp-ent-conv-platform/usaa": null,
@@ -2327,6 +2329,7 @@
         "0.15.5",
         "0.15.6"
     ],
+    "@zecho/baileys-mod": null,
     "@zkasm/zkevm-rom": null,
     "@zuora-marketing/linting": null,
     "@zuora-marketing/zuora-marketing-website": null,
@@ -2567,6 +2570,7 @@
     "alinet-w": null,
     "all-star-2019": null,
     "all.en.js": null,
+    "allergan": null,
     "allonzydoctor": null,
     "allow-deny": null,
     "alpha-replicator": null,
@@ -3373,6 +3377,7 @@
     "chai-tools": null,
     "chai-type": null,
     "chai-types": null,
+    "chai-use-chain": null,
     "chai-utils": null,
     "chain-argon": null,
     "chain-cli-promised": null,
@@ -6401,6 +6406,7 @@
     "lerna-monorepo2": null,
     "less-rhino": null,
     "let1x4": null,
+    "levex-refa": null,
     "levidtcppe-levi-icons": null,
     "levitate-check-imports": null,
     "lezer-promql-tree-viz": null,
@@ -6763,6 +6769,7 @@
     "metro-evaluator": null,
     "mexc-dev": null,
     "mexc-internal": null,
+    "mexc-utils-helper": null,
     "mfe-react-bridge": null,
     "mgzfakee": null,
     "mhnumjp": null,
@@ -7495,6 +7502,7 @@
     "old-mpl-token-metadata": null,
     "old-react-chat": null,
     "olivergreen": null,
+    "omaronsec": null,
     "ome-api": null,
     "omise-woocommerce": null,
     "omnicore-ds2-sdk2": null,
@@ -9128,6 +9136,7 @@
     "simple-swizzle": [
         "0.2.3"
     ],
+    "simple-util-kit": null,
     "simple-web-app-package": null,
     "simpledep2": null,
     "simplerequestnode": null,
@@ -9725,6 +9734,7 @@
     "test-topdev-logger-v3": null,
     "test-utils-bundle": null,
     "test-website-hashroute": null,
+    "test1sharp": null,
     "test23112222-api": [
         "1.0.1"
     ],
@@ -9964,6 +9974,7 @@
     "trusted-firmware-a": null,
     "ts-39-issue-ts-ignore-tsx": null,
     "ts-big-number": null,
+    "ts-bign": null,
     "ts-browser-webpack": null,
     "ts-diagnosis": null,
     "ts-gaussian": [
