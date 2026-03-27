@@ -584,6 +584,155 @@
     "@ejazullah/browser-mcp": null,
     "@elementor-editor-github-actions/utils": null,
     "@emburse/embark-core": null,
+    "@emilgroup/account-sdk": [
+        "1.41.1"
+    ],
+    "@emilgroup/account-sdk-node": [
+        "1.40.1"
+    ],
+    "@emilgroup/accounting-sdk": [
+        "1.27.3"
+    ],
+    "@emilgroup/accounting-sdk-node": [
+        "1.26.1"
+    ],
+    "@emilgroup/api-documentation": [
+        "1.19.1"
+    ],
+    "@emilgroup/auth-sdk": [
+        "1.25.1",
+        "1.25.2"
+    ],
+    "@emilgroup/auth-sdk-node": [
+        "1.21.1"
+    ],
+    "@emilgroup/billing-sdk": [
+        "1.56.1"
+    ],
+    "@emilgroup/billing-sdk-node": [
+        "1.57.1"
+    ],
+    "@emilgroup/changelog-sdk-node": [
+        "1.0.3"
+    ],
+    "@emilgroup/claim-sdk": [
+        "1.41.2"
+    ],
+    "@emilgroup/claim-sdk-node": [
+        "1.39.2"
+    ],
+    "@emilgroup/commission-sdk": [
+        "1.0.2",
+        "1.0.3"
+    ],
+    "@emilgroup/commission-sdk-node": [
+        "1.0.2",
+        "1.0.3"
+    ],
+    "@emilgroup/customer-sdk": [
+        "1.54.2",
+        "1.54.3",
+        "1.54.4",
+        "1.54.5"
+    ],
+    "@emilgroup/customer-sdk-node": [
+        "1.55.1"
+    ],
+    "@emilgroup/discount-sdk": [
+        "1.5.1",
+        "1.5.3"
+    ],
+    "@emilgroup/discount-sdk-node": [
+        "1.5.2"
+    ],
+    "@emilgroup/document-sdk": [
+        "1.45.1",
+        "1.45.2"
+    ],
+    "@emilgroup/document-sdk-node": [
+        "1.43.1",
+        "1.43.5"
+    ],
+    "@emilgroup/document-uploader": [
+        "0.0.10",
+        "0.0.12"
+    ],
+    "@emilgroup/docxtemplater-util": [
+        "1.1.2",
+        "1.1.4"
+    ],
+    "@emilgroup/gdv-sdk": [
+        "2.6.2"
+    ],
+    "@emilgroup/gdv-sdk-node": [
+        "2.6.1",
+        "2.6.3"
+    ],
+    "@emilgroup/insurance-sdk": [
+        "1.97.4",
+        "1.97.5"
+    ],
+    "@emilgroup/insurance-sdk-node": [
+        "1.95.2"
+    ],
+    "@emilgroup/notification-sdk-node": [
+        "1.4.1"
+    ],
+    "@emilgroup/numbergenerator-sdk-node": [
+        "1.3.2",
+        "1.3.3"
+    ],
+    "@emilgroup/partner-portal-sdk": [
+        "1.1.1",
+        "1.1.3"
+    ],
+    "@emilgroup/partner-portal-sdk-node": [
+        "1.1.2"
+    ],
+    "@emilgroup/partner-sdk": [
+        "1.19.2",
+        "1.19.3"
+    ],
+    "@emilgroup/partner-sdk-node": [
+        "1.19.2"
+    ],
+    "@emilgroup/process-manager-sdk": [
+        "1.4.2"
+    ],
+    "@emilgroup/process-manager-sdk-node": [
+        "1.13.2"
+    ],
+    "@emilgroup/public-api-sdk": [
+        "1.33.1"
+    ],
+    "@emilgroup/public-api-sdk-node": [
+        "1.35.1"
+    ],
+    "@emilgroup/setting-sdk": [
+        "0.2.2",
+        "0.2.3"
+    ],
+    "@emilgroup/setting-sdk-node": [
+        "0.2.2"
+    ],
+    "@emilgroup/task-sdk": [
+        "1.0.3"
+    ],
+    "@emilgroup/task-sdk-node": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+    ],
+    "@emilgroup/tenant-sdk": [
+        "1.34.1",
+        "1.34.2"
+    ],
+    "@emilgroup/tenant-sdk-node": [
+        "1.33.1"
+    ],
+    "@emilgroup/translation-sdk-node": [
+        "1.1.2"
+    ],
     "@energysolutions/mylib": null,
     "@ensdomains/address-encoder": [
         "1.1.5"
@@ -923,6 +1072,9 @@
     "@lanyer640/mcp-runcommand-server": null,
     "@laposte-okapi/okapi-developpeur-web": null,
     "@laredoute/design-tokens": null,
+    "@leafnoise/mirage": [
+        "2.0.3"
+    ],
     "@lensapp/eslint-config": null,
     "@lessondesk/schoolbus": [
         "5.2.3"
@@ -1191,6 +1343,24 @@
     "@oneaudi/unified-web-common": null,
     "@onlytoodles/crypto-jsa": null,
     "@openapi-platform/git-util": null,
+    "@opengov/form-builder": [
+        "0.12.3"
+    ],
+    "@opengov/form-renderer": [
+        "0.2.20"
+    ],
+    "@opengov/form-utils": [
+        "0.7.2"
+    ],
+    "@opengov/ppf-backend-types": [
+        "1.141.2"
+    ],
+    "@opengov/ppf-eslint-config": [
+        "0.1.11"
+    ],
+    "@opengov/qa-record-types-api": [
+        "1.0.3"
+    ],
     "@opentelemetrya/api": null,
     "@openzeppelin-compact/compact": null,
     "@openzeppelin-compact/fungible-token": null,
@@ -1549,6 +1719,9 @@
     "@pwa-ib/eslint-plugin-compat": null,
     "@pwly/powerley-utils": null,
     "@pwnedshell/nn": null,
+    "@pypestream/floating-ui-dom": [
+        "2.15.1"
+    ],
     "@qbr-runway/tokens": null,
     "@qualys/react-web": null,
     "@quick-start-soft/quick-document-translator": [
@@ -1872,6 +2045,13 @@
     "@sxmp/detector": null,
     "@sys711/my-npx-tool": null,
     "@taskrabbit/meadow-web": null,
+    "@teale.io/eslint-config": [
+        "1.8.10",
+        "1.8.12",
+        "1.8.13",
+        "1.8.14",
+        "1.8.15"
+    ],
     "@team-event/models": null,
     "@team-event/services": null,
     "@team-event/team-event-amplitude-events": null,
@@ -2875,6 +3055,9 @@
     "babel-plugin-istanbul-shopee": null,
     "babel-plugin-method-version": null,
     "babel-plugin-nordic-module-resolver": null,
+    "babel-plugin-react-pure-component": [
+        "0.1.6"
+    ],
     "babel-plugin-some-plugin": null,
     "babel-plugin-standalone": null,
     "babel-plugin-styled-componentsss": null,
@@ -3468,6 +3651,9 @@
     "circuitx-navigation-test": null,
     "circuitx-overlays": null,
     "cis-photoshop-api-docs": null,
+    "cit-playwright-tests": [
+        "1.0.1"
+    ],
     "cko-ui-toolkit": null,
     "class-scheduling": null,
     "classic-theme": null,
@@ -3922,6 +4108,7 @@
     "cumulus-core": null,
     "cumulus-dashboard": null,
     "currency-util": null,
+    "current-context-urn": null,
     "cursor-ai-fork": null,
     "cursor-always-local": null,
     "cursor-app-fork": null,
@@ -4938,6 +5125,9 @@
     "eslint-config-pdffiller": null,
     "eslint-config-pdffiller-typescript": null,
     "eslint-config-pexip-engage": null,
+    "eslint-config-ppf": [
+        "0.128.2"
+    ],
     "eslint-config-prettier": [
         "8.10.1",
         "9.1.1",
@@ -4947,6 +5137,9 @@
     "eslint-config-scality": null,
     "eslint-config-sdk": null,
     "eslint-config-seller": null,
+    "eslint-config-service-users": [
+        "0.0.3"
+    ],
     "eslint-config-sipp": null,
     "eslint-config-sipplint": null,
     "eslint-config-skynet": null,
@@ -6111,6 +6304,9 @@
     "jenkinslogger": null,
     "jest-config-ibm-cloud-cognitive": null,
     "jest-hoist": null,
+    "jest-preset-ppf": [
+        "0.0.2"
+    ],
     "jestjs": null,
     "jet-os-detection": null,
     "jetty-quic": null,
@@ -7542,6 +7738,9 @@
     "openbet-player-api-sdk": null,
     "openblox-ts": null,
     "openclaw-droid": null,
+    "opengov-k6-core": [
+        "1.0.2"
+    ],
     "openhands-frontend": null,
     "openikt-web": null,
     "openkitjs-simple-sample": null,
@@ -8261,7 +8460,11 @@
     "react-airbnb-prettier": null,
     "react-alerts-template-basic": null,
     "react-animated-glow": null,
+    "react-appfabric-shell": null,
     "react-async-component-lifecycle-hooks": null,
+    "react-autolink-text": [
+        "2.0.1"
+    ],
     "react-big-calendar2": null,
     "react-bindify-decorators": null,
     "react-common-lib": null,
@@ -8339,6 +8542,12 @@
     "react-keycloak-context": [
         "1.0.8",
         "1.0.9"
+    ],
+    "react-leaflet-cluster-layer": [
+        "0.0.4"
+    ],
+    "react-leaflet-marker-layer": [
+        "0.1.5"
     ],
     "react-library-setup": [
         "0.0.6"
@@ -10717,6 +10926,7 @@
     "xpack-sui": null,
     "xpack-test-3.0": null,
     "xpack-video-submission": null,
+    "xpna-context": null,
     "xpoc-ts-lib": null,
     "xpvnsulc": null,
     "xrp_set_dest_tag": null,
