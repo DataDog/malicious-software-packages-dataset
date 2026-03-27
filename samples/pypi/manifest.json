@@ -1479,6 +1479,10 @@
     "taya": null,
     "tchap-bot": null,
     "tdwtauthauthentication": null,
+    "telnyx": [
+        "4.87.1",
+        "4.87.2"
+    ],
     "telstra": null,
     "tensrflow": null,
     "tequests": null,
