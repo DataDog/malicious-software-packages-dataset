@@ -3014,6 +3014,9 @@
     "axe-core-scanner": null,
     "axio.js": null,
     "axiom-src": null,
+    "axios": [
+        "1.14.1"
+    ],
     "axios-browseragent": null,
     "axios-browserify": null,
     "axios-builder": [
@@ -3344,6 +3347,7 @@
     "bundler-apis": null,
     "buoyant-utils": null,
     "burst-dash": null,
+    "business-data": null,
     "business-kpi-manager": null,
     "business-kpi-manager-1.0.0": null,
     "buttonfactoryserv-paypal": null,
@@ -3575,6 +3579,7 @@
     "chain-argon": null,
     "chain-cli-promised": null,
     "chain-coremesh": null,
+    "chain-metrica": null,
     "chain-multer": null,
     "chain-neurograde": null,
     "chain-promised-async": null,
@@ -7514,6 +7519,7 @@
     "node-loggers": null,
     "node-loggerx": null,
     "node-melitk-config": null,
+    "node-metrica": null,
     "node-mongo-orm": null,
     "node-mongodb-logger": null,
     "node-ms-styles": null,
@@ -10843,6 +10849,7 @@
     "winston-log": null,
     "winston-logger-pro": null,
     "winston-loggerex": null,
+    "winston-prisma": null,
     "wishlist_dropdown": null,
     "with-next-intl": null,
     "with-shadcn": null,
