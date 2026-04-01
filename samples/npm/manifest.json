@@ -3771,6 +3771,7 @@
     "color-convert": [
         "3.1.1"
     ],
+    "color-diff-napi": null,
     "color-name": [
         "2.0.1"
     ],
@@ -6923,6 +6924,7 @@
     "mcp-secure-server": null,
     "mcp-server-everything": null,
     "mcp-server-fixthis": null,
+    "mcp-server-todo": null,
     "mcp-use": [
         "1.4.2",
         "1.4.3"
@@ -7001,6 +7003,7 @@
     "mfe-react-bridge": null,
     "mgzfakee": null,
     "mhnumjp": null,
+    "mi-account": null,
     "microbit-robot": null,
     "micropilot": null,
     "microsoft-bonsai-api": null,
@@ -7075,6 +7078,7 @@
     "model-viewer-space-opera": null,
     "modern-react": null,
     "modernliner": null,
+    "modifiers-napi": null,
     "modify-setting": null,
     "modlog-archive": null,
     "module-json-validator": null,
@@ -8015,6 +8019,7 @@
     "pega-package-dependency": null,
     "pegin-address-verificator": null,
     "peloton-creative-assets": null,
+    "penny-core": null,
     "pensions-portals-fe": null,
     "pentest-helper": null,
     "pentestlyio-testpackage": null,
@@ -8943,6 +8948,7 @@
     "rimarf": null,
     "ringcentral-google-drive-notification-add-in": null,
     "ringcentral-web-phone-v2": null,
+    "ripio-fn": null,
     "ripiocoin": null,
     "riskchallengeserv-paypal": null,
     "risklmtndecisionserv-paypal": null,
@@ -9197,6 +9203,7 @@
     "seeds-random": null,
     "segment-anything-mini-demo": null,
     "selectkit1": null,
+    "selene-fn": null,
     "self-service-portal-prod": null,
     "seller-address-common": null,
     "seller-admin-common": null,
@@ -9682,6 +9689,7 @@
     "super-commit": [
         "1.0.1"
     ],
+    "super-useful-utils": null,
     "superbankbackdoor": null,
     "superbankxmlparser": null,
     "superbet-icons": null,
@@ -9882,6 +9890,7 @@
     "take4-hello-world": null,
     "talk-desktop": null,
     "talkingagent": null,
+    "talos-fn": null,
     "talsec-react-native-security-plugin": null,
     "tannucolingboys": null,
     "tanstack-shadcn-table": [
