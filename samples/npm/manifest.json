@@ -3918,6 +3918,7 @@
         "1.0.5"
     ],
     "compound-design-tokens": null,
+    "comprs-win32-x64-msvc": null,
     "compute-file-server": null,
     "comstrap": null,
     "concurrent-hashmap": null,
@@ -4041,6 +4042,7 @@
     "couplus-cli": null,
     "coverage-v8": null,
     "coveragepublisher": null,
+    "coviu-client": null,
     "cowsay-caps": null,
     "cp2-shared-components": null,
     "cra-react-router": null,
@@ -7010,6 +7012,11 @@
     "mexc-internal": null,
     "mexc-utils-helper": null,
     "mfe-react-bridge": null,
+    "mgc": [
+        "1.2.1",
+        "1.2.3",
+        "1.2.4"
+    ],
     "mgzfakee": null,
     "mhnumjp": null,
     "mi-account": null,
