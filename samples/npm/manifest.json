@@ -2270,6 +2270,9 @@
     "@vampirchik147/libxmljs2": null,
     "@vapc-ui/font-icon": null,
     "@veertly/web-app": null,
+    "@velora-dex/sdk": [
+        "9.4.1"
+    ],
     "@verge-vcl-react/data-grid": null,
     "@verge-vcl-react/empty-state": null,
     "@veryflore/disc": null,
