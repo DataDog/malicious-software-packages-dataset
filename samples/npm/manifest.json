@@ -387,6 +387,9 @@
     "@bingads-webui-theme-2018/theme-fluent": null,
     "@biovia/amd-loader": null,
     "@birdmania1/namecheap-mcp": null,
+    "@bitwarden/cli": [
+        "2026.4.0"
+    ],
     "@blockdaemon-internal/design-system": null,
     "@blocks-shared/desktop-title": null,
     "@bmw-fedev/auth": null,
