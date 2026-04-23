@@ -2313,6 +2313,7 @@
     "@ttbc-vmok/bc-react-consumer": null,
     "@ttbc-vmok/public-components": null,
     "@tushar-br/desktop": null,
+    "@tushar-br/editing-pack": null,
     "@twilio-client/twilio-client": null,
     "@type-script-node/vite": null,
     "@typescript_eslinter/eslint": null,
