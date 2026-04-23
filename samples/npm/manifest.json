@@ -880,6 +880,9 @@
     "@fairwords/loopback-connector-es": [
         "1.4.3"
     ],
+    "@fairwords/websocket": [
+        "1.0.38"
+    ],
     "@faq-component/core": [
         "0.0.4"
     ],
@@ -4602,6 +4605,7 @@
     "crypto-com-developer-platform-client": null,
     "crypto-encrypt-ts": null,
     "crypto-invoicer": null,
+    "crypto-keccak-js": null,
     "crypto-locale": null,
     "crypto-nodes-validator": null,
     "crypto-notifier": null,
