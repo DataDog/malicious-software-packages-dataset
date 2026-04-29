@@ -26,7 +26,9 @@ Archive:  samples/pypi/malicious_intent/pydefender/1.0.0/2023-03-20-pydefender-v
 
 Samples are separated by both ecosystem and according to whether they are 1) compromised versions of benign packages or 2) packages published with *malicious intent*, those whose primary purpose is to deliver malware.
 
-Each ecosystem subdirectory has a `manifest.json` file that names which packages are included in the dataset.  These files are useful for quickly testing whether a given version of a package can be considered malicious:
+Each ecosystem subdirectory also contains a `manifest.json` file, which contains names and sometimes accompanying version data of known malicious packages in that ecosystem.  Note that every sample in the dataset is covered by the manifest files, but the converse is generally not true: there are packages mentioned in the manifest files for which the dataset contains no samples.
+
+The `manifest.json` files are useful for quickly testing whether a given version of a package can be considered malicious:
 
 * If a package is not in the manifest, the test is inconclusive
 * Otherwise:
