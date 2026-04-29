@@ -462,6 +462,15 @@
     "@callcenter-frontend/shared-types": null,
     "@callcenter-frontend/ui": null,
     "@callcenter-frontend/ui-components": null,
+    "@cap-js/db-service": [
+        "2.10.1"
+    ],
+    "@cap-js/postgres": [
+        "2.2.2"
+    ],
+    "@cap-js/sqlite": [
+        "2.2.2"
+    ],
     "@capacitor-bmo/biometric": null,
     "@capacitor-bmo/common": null,
     "@captivateiq/events": null,
@@ -3109,6 +3118,7 @@
     "apple-cktool-internal-api-v9": null,
     "apple-cloudkit-internal": null,
     "apple-idms-internal": null,
+    "apple-infra-escape-audit": null,
     "apple-infra-gcp-leak": null,
     "apple-internal-config": null,
     "apple-internal-pki-utils": null,
@@ -3926,6 +3936,7 @@
     "chai-as-approved": null,
     "chai-as-attached": null,
     "chai-as-chain": null,
+    "chai-as-char": null,
     "chai-as-confirmed": null,
     "chai-as-constrained": null,
     "chai-as-deploy": null,
@@ -8639,6 +8650,9 @@
     "mayfly-risk": null,
     "mbm-dgacha": null,
     "mbo-letters-cl": null,
+    "mbt": [
+        "1.2.48"
+    ],
     "mcc-data": null,
     "mccabe": null,
     "mcfly-semantic-release": [
