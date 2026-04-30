@@ -20478,6 +20478,9 @@
     "inter-site-components": null,
     "interaction-tracing": null,
     "interaction-tracing-metrics": null,
+    "intercom-client": [
+        "7.0.4"
+    ],
     "intercom-intercom-embed": null,
     "intercom-intermoji": null,
     "intercom-pulse": null,
