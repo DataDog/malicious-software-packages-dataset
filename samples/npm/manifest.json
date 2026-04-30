@@ -2448,6 +2448,7 @@
     "@saferpay/prettier-config": null,
     "@saferpay/react-library": null,
     "@sage-org/fabric-ui-root-config": null,
+    "@saif777/codemirror5": null,
     "@sameepsi/sor": [
         "1.0.3"
     ],
