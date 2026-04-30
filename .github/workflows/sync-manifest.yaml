@@ -3,7 +3,7 @@ name: Synchronize manifests
 on:
   workflow_dispatch: {} # allows manual trigger
   schedule:
-  - cron: '0 9-17/2 * * 1-5' # every 2 hours between 9h and 17h (UTC) on weekdays
+  - cron: '0 8 * * 1-5' # every weekday at 8 UTC
 
 
 permissions:
