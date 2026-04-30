@@ -62,7 +62,8 @@ class TriagedResultsModel(Model):
     attack_id = NumberAttribute(range_key=True)
     compromised_lib = BooleanAttribute(null=True)
     malicious_versions: ListAttribute[UnicodeAttribute] = ListAttribute()
-    updated_at = NumberAttribute()
+    created_at = NumberAttribute()
+    updated_at = NumberAttribute(null=True)
 
     def get_ecosystem_package(self) -> tuple[ECOSYSTEM, str]:
         """
@@ -94,10 +95,12 @@ class TriagedResultsModel(Model):
             A `list[TriagedResultsModel]` containing triage records in the given `ecosystem`
             that were modified at or after the given `since` datetime.
         """
+        since_timestamp = since.timestamp()
         ecosystem_suffix = f"|{str(ecosystem).lower()}"
 
         filter_condition = (
-            cls.package.contains(ecosystem_suffix) & (cls.updated_at >= since.timestamp())
+            cls.package.contains(ecosystem_suffix)
+            & ((cls.updated_at >= since_timestamp) | (cls.created_at >= since_timestamp))
         )
 
         scan_results = list(cls.scan(filter_condition=filter_condition))
