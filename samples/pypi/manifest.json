@@ -739,6 +739,10 @@
     "licensemonitor": null,
     "lightgboost": null,
     "lightgmb": null,
+    "lightning": [
+        "2.6.2",
+        "2.6.3"
+    ],
     "lightseeq": null,
     "lightseqe": null,
     "lightsequ": null,
