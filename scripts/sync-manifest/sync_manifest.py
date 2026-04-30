@@ -32,7 +32,7 @@ A malicious packages dataset manifest mapping package names to affected versions
 
 def sync_manifest(input_manifest: Manifest, ecosystem: ECOSYSTEM, since: datetime) -> Manifest:
     """
-    Synchronize an input manifest with the latest advisory content.
+    Synchronize an input manifest with the latest triage content.
 
     Args:
         `input_manifest`: The input `Manifest` to be synchronized.
@@ -45,27 +45,25 @@ def sync_manifest(input_manifest: Manifest, ecosystem: ECOSYSTEM, since: datetim
     """
     output_manifest = {package: versions for package, versions in input_manifest.items()}
 
-    advisories = OsvAdvisoriesModel.scan_latest_advisories(ecosystem, since)
+    triage_records = TriagedResultsModel.scan_latest_records(ecosystem, since)
 
-    for advisory in advisories:
-        _, package = advisory.get_ecosystem_package()
-        attack_id = int(advisory.attack_id)
+    for triage_record in triage_records:
+        _, package = triage_record.get_ecosystem_package()
 
-        triaged_result = TriagedResultsModel.query_triaged_result(ecosystem, package, attack_id)
-        if triaged_result and triaged_result.compromised_lib:
-            affected_versions = advisory.get_affected_versions()
-            if not affected_versions:
+        if triage_record.compromised_lib:
+            if not triage_record.malicious_versions:
                 log.warning(
-                    f"OSV advisory for compromised lib {ecosystem}|{package} lists no affected versions"
+                    f"Triage record for compromised lib {ecosystem}|{package} contains no affected versions"
                 )
 
             try:
-                affected_versions.sort(key=parse_version)
+                triage_record.malicious_versions.sort(key=parse_version)
             except Exception as e:
                 log.warning(f"Failed to semantically sort affected versions of package {package}: {e}")
-                affected_versions.sort()
+                triage_record.malicious_versions.sort()
 
-            output_manifest[package] = affected_versions
+            output_manifest[package] = triage_record.malicious_versions
+
         else:
             output_manifest[package] = None
 

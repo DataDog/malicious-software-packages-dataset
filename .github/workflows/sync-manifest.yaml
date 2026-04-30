@@ -40,7 +40,6 @@ jobs:
 
       - name: Synchronize manifests
         env:
-          OSV_TABLE_NAME: ${{ secrets.OSV_TABLE_NAME }}
           TRIAGE_TABLE_NAME: ${{ secrets.TRIAGE_TABLE_NAME }}
         run: |
           for ecosystem in pypi npm; do
