@@ -4,7 +4,7 @@
   <img src="./image.png" height="400" />
 </p>
 
-This repository is an **open-source dataset of <span id="num-samples">26198</span> malicious software packages** (and counting) identified by Datadog, as part of our security research efforts in software supply-chain security. Most of the malicious packages have been identified by [GuardDog](https://github.com/DataDog/guarddog).
+This repository is an **open-source dataset of <span id="num-samples">26197</span> malicious software packages** (and counting) identified by Datadog, as part of our security research efforts in software supply-chain security. Most of the malicious packages have been identified by [GuardDog](https://github.com/DataDog/guarddog).
 
 Current ecosystems:
 - npm
@@ -26,7 +26,9 @@ Archive:  samples/pypi/malicious_intent/pydefender/1.0.0/2023-03-20-pydefender-v
 
 Samples are separated by both ecosystem and according to whether they are 1) compromised versions of benign packages or 2) packages published with *malicious intent*, those whose primary purpose is to deliver malware.
 
-Each ecosystem subdirectory has a `manifest.json` file that names which packages are included in the dataset.  These files are useful for quickly testing whether a given version of a package can be considered malicious:
+Each ecosystem subdirectory also contains a `manifest.json` file, which contains names and sometimes accompanying version data of known malicious packages in that ecosystem.  Note that every sample in the dataset is covered by the manifest files, but the converse is generally not true: there are packages mentioned in the manifest files for which the dataset contains no samples.
+
+The `manifest.json` files are useful for quickly testing whether a given version of a package can be considered malicious:
 
 * If a package is not in the manifest, the test is inconclusive
 * Otherwise:
