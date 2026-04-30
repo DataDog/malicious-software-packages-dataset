@@ -12,7 +12,7 @@ from typing import Optional, TypeAlias
 
 from packaging.version import parse as parse_version
 
-from model import ECOSYSTEM, OsvAdvisoriesModel, TriagedResultsModel
+from model import ECOSYSTEM, TriagedResultsModel
 
 log = logging.getLogger(__name__)
 
