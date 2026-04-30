@@ -100,7 +100,7 @@ class TriagedResultsModel(Model):
 
         filter_condition = (
             cls.package.contains(ecosystem_suffix)
-            & (cls.updated_at >= since_timestamp | cls.created_at >= since_timestamp)
+            & ((cls.updated_at >= since_timestamp) | (cls.created_at >= since_timestamp))
         )
 
         scan_results = list(cls.scan(filter_condition=filter_condition))
