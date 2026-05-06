@@ -83,7 +83,8 @@ def query_and_download_items(ecosystem, cutoff_date, dest, scan_table, triage_ta
       try:
         # Download the folder from S3
         s3_url = f"s3://{s3_bucket}/{ecosystem}/{scan_datetime}/{package_name}/{package_version}/"
-        subprocess.run(['aws', 's3', 'sync', s3_url, tempdir], check=True, capture_output=True)
+        command = ['aws', 's3', 'sync', s3_url, tempdir]
+        subprocess.run(command, check=True, capture_output=True)
       except subprocess.CalledProcessError as e:
         print("Unable to download: " + str(e))
         print("Command: " + " ".join(command))
