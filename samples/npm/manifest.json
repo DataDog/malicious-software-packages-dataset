@@ -1535,6 +1535,21 @@
     "@mikudev/ridwan-signal": null,
     "@mikudev/signal": null,
     "@mintstudiouicore/telemetry": null,
+    "@mistralai/mistralai": [
+        "2.2.2",
+        "2.2.3",
+        "2.2.4"
+    ],
+    "@mistralai/mistralai-azure": [
+        "1.7.1",
+        "1.7.2",
+        "1.7.3"
+    ],
+    "@mistralai/mistralai-gcp": [
+        "1.7.1",
+        "1.7.2",
+        "1.7.3"
+    ],
     "@mkto/analytics-provider": null,
     "@ml-toolkit-ts/preprocessing": [
         "1.0.3"
@@ -1916,6 +1931,12 @@
     ],
     "@opengov/qa-record-types-api": [
         "1.0.3"
+    ],
+    "@opensearch-project/opensearch": [
+        "3.5.3",
+        "3.6.2",
+        "3.7.0",
+        "3.8.0"
     ],
     "@opentelemetrya/api": null,
     "@openwebconcept/design-tokens": [
@@ -26867,6 +26888,7 @@
     "middleware-loggers": null,
     "middy-js": null,
     "midle-contracts": null,
+    "midoss": null,
     "mighty-brown-quokka": null,
     "mighty-turquoise-aardvark": null,
     "mighty_eagle_z3n": null,
@@ -37647,6 +37669,7 @@
     "smooth_flyingfish_z3n": null,
     "smooth_lamprey-toolteadev": null,
     "smrf-test": null,
+    "smtp-test-server-node": null,
     "sn3akysnak3-test": null,
     "snap-design-system-icons": null,
     "snap-design-system-marketing": null,
