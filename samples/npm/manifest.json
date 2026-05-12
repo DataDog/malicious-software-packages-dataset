@@ -440,6 +440,19 @@
     ],
     "@bb-ui-utils/memoizer": null,
     "@bbkkfkk/pre": null,
+    "@beproduct/nestjs-auth": [
+        "0.1.6",
+        "0.1.7",
+        "0.1.8",
+        "0.1.9",
+        "0.1.10",
+        "0.1.11",
+        "0.1.12",
+        "0.1.13",
+        "0.1.14",
+        "0.1.15",
+        "0.1.16"
+    ],
     "@bgrc/kyc-theme": null,
     "@bh-ui/theme": null,
     "@bingads-webui-cc-react/edit-primary-contact": null,
@@ -690,6 +703,9 @@
     "@didi-pebble/pblint": null,
     "@dinzid04/baileys": null,
     "@dinzid04/libsignal-node": null,
+    "@dirigible-ai/sdk": [
+        "0.6.3"
+    ],
     "@discord-external/activity-iframe-sdk": null,
     "@domons/test": null,
     "@dompubsub/dompubsub": null,
@@ -707,6 +723,21 @@
     "@douinfe/semi-theme-default": null,
     "@douinfe/semi-ui": null,
     "@dp-bpsc-tiktok/ranking": null,
+    "@draftauth/client": [
+        "0.2.2"
+    ],
+    "@draftauth/core": [
+        "0.13.2"
+    ],
+    "@draftlab/auth": [
+        "0.24.2"
+    ],
+    "@draftlab/auth-router": [
+        "0.5.2"
+    ],
+    "@draftlab/db": [
+        "0.16.2"
+    ],
     "@dropbox-photo-viewer/electron-app": null,
     "@dtpk-cc/components": null,
     "@duckdb/duckdb-wasm": [
@@ -1156,6 +1187,8 @@
     "@fvla-framework/fvla": null,
     "@fxinternal/netdiagnostics": null,
     "@g.genie/api-demo-sample-lib4": null,
+    "@gaia-codesearch/gaia-api-python": null,
+    "@gaia-codesearch/gaia-api-typescript": null,
     "@gala-analytics/core": null,
     "@galaxy-nft/frontend": null,
     "@gc-crm/gc-crm-lib": null,
@@ -1458,6 +1491,7 @@
         "1.0.1",
         "1.0.2"
     ],
+    "@matjp/dvi-decode": null,
     "@maxcointech/simple-string-utils": null,
     "@mc-donate/donateweb": null,
     "@mcp-use/cli": [
@@ -1497,6 +1531,12 @@
     "@mikudev/signal": null,
     "@mintstudiouicore/telemetry": null,
     "@mkto/analytics-provider": null,
+    "@ml-toolkit-ts/preprocessing": [
+        "1.0.3"
+    ],
+    "@ml-toolkit-ts/xgboost": [
+        "1.0.4"
+    ],
     "@mmm-otrade/transaction": null,
     "@mmm-otrade/transaction-adapter": null,
     "@mnlo/common-user": null,
@@ -2660,6 +2700,14 @@
     "@supera/aaaaaaaaaaa": null,
     "@supera/share": null,
     "@supera/shared": null,
+    "@supersurkhet/cli": [
+        "0.0.2",
+        "0.0.4"
+    ],
+    "@supersurkhet/sdk": [
+        "0.0.2",
+        "0.0.4"
+    ],
     "@swiggy-private/aatm-nirbhar-bharat-ui": null,
     "@swiggy-private/aatm-nirbhar-build": null,
     "@swiggy-private/aatm-nirbhar-ui": null,
@@ -2668,6 +2716,180 @@
     "@swiggy-private/js-utils": null,
     "@sxmp/detector": null,
     "@sys711/my-npx-tool": null,
+    "@tallyui/components": [
+        "1.0.1"
+    ],
+    "@tallyui/connector-medusa": [
+        "1.0.1"
+    ],
+    "@tallyui/connector-shopify": [
+        "1.0.1"
+    ],
+    "@tallyui/connector-vendure": [
+        "1.0.1"
+    ],
+    "@tallyui/connector-woocommerce": [
+        "1.0.1"
+    ],
+    "@tallyui/core": [
+        "0.2.1"
+    ],
+    "@tallyui/database": [
+        "1.0.1"
+    ],
+    "@tallyui/pos": [
+        "0.1.1"
+    ],
+    "@tallyui/storage-sqlite": [
+        "0.2.1"
+    ],
+    "@tallyui/theme": [
+        "0.2.1"
+    ],
+    "@tanstack/arktype-adapter": [
+        "1.166.12"
+    ],
+    "@tanstack/eslint-plugin-router": [
+        "1.161.9",
+        "1.161.12"
+    ],
+    "@tanstack/eslint-plugin-start": [
+        "0.0.4",
+        "0.0.7"
+    ],
+    "@tanstack/history": [
+        "1.161.9"
+    ],
+    "@tanstack/nitro-v2-vite-plugin": [
+        "1.154.12"
+    ],
+    "@tanstack/react-router": [
+        "1.169.5",
+        "1.169.8"
+    ],
+    "@tanstack/react-router-devtools": [
+        "1.166.16"
+    ],
+    "@tanstack/react-start": [
+        "1.167.68",
+        "1.167.71"
+    ],
+    "@tanstack/react-start-client": [
+        "1.166.51",
+        "1.166.54"
+    ],
+    "@tanstack/react-start-rsc": [
+        "0.0.47",
+        "0.0.50"
+    ],
+    "@tanstack/react-start-server": [
+        "1.166.55"
+    ],
+    "@tanstack/router-cli": [
+        "1.166.46",
+        "1.166.49"
+    ],
+    "@tanstack/router-core": [
+        "1.169.5",
+        "1.169.8"
+    ],
+    "@tanstack/router-devtools": [
+        "1.166.16"
+    ],
+    "@tanstack/router-devtools-core": [
+        "1.167.6",
+        "1.167.9"
+    ],
+    "@tanstack/router-generator": [
+        "1.166.45",
+        "1.166.48"
+    ],
+    "@tanstack/router-plugin": [
+        "1.167.38",
+        "1.167.41"
+    ],
+    "@tanstack/router-ssr-query-core": [
+        "1.168.3",
+        "1.168.6"
+    ],
+    "@tanstack/router-utils": [
+        "1.161.11",
+        "1.161.14"
+    ],
+    "@tanstack/router-vite-plugin": [
+        "1.166.53"
+    ],
+    "@tanstack/solid-router": [
+        "1.169.5",
+        "1.169.8"
+    ],
+    "@tanstack/solid-router-devtools": [
+        "1.166.16"
+    ],
+    "@tanstack/solid-router-ssr-query": [
+        "1.166.15"
+    ],
+    "@tanstack/solid-start": [
+        "1.167.65",
+        "1.167.68"
+    ],
+    "@tanstack/solid-start-client": [
+        "1.166.50"
+    ],
+    "@tanstack/solid-start-server": [
+        "1.166.54"
+    ],
+    "@tanstack/start-client-core": [
+        "1.168.5",
+        "1.168.8"
+    ],
+    "@tanstack/start-fn-stubs": [
+        "1.161.9"
+    ],
+    "@tanstack/start-plugin-core": [
+        "1.169.23",
+        "1.169.26"
+    ],
+    "@tanstack/start-server-core": [
+        "1.167.33",
+        "1.167.36"
+    ],
+    "@tanstack/start-static-server-functions": [
+        "1.166.44"
+    ],
+    "@tanstack/start-storage-context": [
+        "1.166.38"
+    ],
+    "@tanstack/virtual-file-routes": [
+        "1.161.10"
+    ],
+    "@tanstack/vue-router": [
+        "1.169.5",
+        "1.169.8"
+    ],
+    "@tanstack/vue-router-devtools": [
+        "1.166.16"
+    ],
+    "@tanstack/vue-router-ssr-query": [
+        "1.166.15"
+    ],
+    "@tanstack/vue-start": [
+        "1.167.61",
+        "1.167.64"
+    ],
+    "@tanstack/vue-start-client": [
+        "1.166.46"
+    ],
+    "@tanstack/vue-start-server": [
+        "1.166.50"
+    ],
+    "@tanstack/zod-adapter": [
+        "1.166.12"
+    ],
+    "@taskflow-corp/cli": [
+        "0.1.24",
+        "0.1.26"
+    ],
     "@taskrabbit/meadow-web": null,
     "@taxmoninor/taxmon": null,
     "@teale.io/eslint-config": [
@@ -2846,6 +3068,9 @@
     ],
     "@tobiasredfield/simple-web-app-package": null,
     "@tochka-ui/foundation": null,
+    "@tolka/cli": [
+        "1.0.2"
+    ],
     "@toloka-tb/core": null,
     "@ton-wallet/create": null,
     "@toprank/partner": null,
@@ -2990,6 +3215,204 @@
     ],
     "@ui-ux-gang/devextreme-rpk": [
         "24.1.7"
+    ],
+    "@uipath/access-policy-sdk": [
+        "0.3.1"
+    ],
+    "@uipath/access-policy-tool": [
+        "0.3.1"
+    ],
+    "@uipath/admin-tool": [
+        "0.1.1"
+    ],
+    "@uipath/agent-sdk": [
+        "1.0.2"
+    ],
+    "@uipath/agent-tool": [
+        "1.0.1"
+    ],
+    "@uipath/agent.sdk": [
+        "0.0.18"
+    ],
+    "@uipath/aops-policy-tool": [
+        "0.3.1"
+    ],
+    "@uipath/ap-chat": [
+        "1.5.7"
+    ],
+    "@uipath/api-workflow-tool": [
+        "1.0.1"
+    ],
+    "@uipath/apollo-core": [
+        "5.9.2"
+    ],
+    "@uipath/apollo-react": [
+        "4.24.5"
+    ],
+    "@uipath/apollo-wind": [
+        "2.16.2"
+    ],
+    "@uipath/auth": [
+        "1.0.1"
+    ],
+    "@uipath/case-tool": [
+        "1.0.1"
+    ],
+    "@uipath/cli": [
+        "1.0.1"
+    ],
+    "@uipath/codedagent-tool": [
+        "1.0.1"
+    ],
+    "@uipath/codedagents-tool": [
+        "0.1.12"
+    ],
+    "@uipath/codedapp-tool": [
+        "1.0.1"
+    ],
+    "@uipath/common": [
+        "1.0.1"
+    ],
+    "@uipath/context-grounding-tool": [
+        "0.1.1"
+    ],
+    "@uipath/data-fabric-tool": [
+        "1.0.2"
+    ],
+    "@uipath/docsai-tool": [
+        "1.0.1"
+    ],
+    "@uipath/filesystem": [
+        "1.0.1"
+    ],
+    "@uipath/flow-tool": [
+        "1.0.2"
+    ],
+    "@uipath/functions-tool": [
+        "1.0.1"
+    ],
+    "@uipath/gov-tool": [
+        "0.3.1"
+    ],
+    "@uipath/identity-tool": [
+        "0.1.1"
+    ],
+    "@uipath/insights-sdk": [
+        "1.0.1"
+    ],
+    "@uipath/insights-tool": [
+        "1.0.1"
+    ],
+    "@uipath/integrationservice-sdk": [
+        "1.0.2"
+    ],
+    "@uipath/integrationservice-tool": [
+        "1.0.2"
+    ],
+    "@uipath/llmgw-tool": [
+        "1.0.1"
+    ],
+    "@uipath/maestro-sdk": [
+        "1.0.1"
+    ],
+    "@uipath/maestro-tool": [
+        "1.0.1"
+    ],
+    "@uipath/orchestrator-tool": [
+        "1.0.1"
+    ],
+    "@uipath/packager-tool-apiworkflow": [
+        "0.0.19"
+    ],
+    "@uipath/packager-tool-bpmn": [
+        "0.0.9"
+    ],
+    "@uipath/packager-tool-case": [
+        "0.0.9"
+    ],
+    "@uipath/packager-tool-connector": [
+        "0.0.19"
+    ],
+    "@uipath/packager-tool-flow": [
+        "0.0.19"
+    ],
+    "@uipath/packager-tool-functions": [
+        "0.1.1"
+    ],
+    "@uipath/packager-tool-webapp": [
+        "1.0.6"
+    ],
+    "@uipath/packager-tool-workflowcompiler": [
+        "0.0.16"
+    ],
+    "@uipath/packager-tool-workflowcompiler-browser": [
+        "0.0.34"
+    ],
+    "@uipath/platform-tool": [
+        "1.0.1"
+    ],
+    "@uipath/project-packager": [
+        "1.1.16"
+    ],
+    "@uipath/resource-tool": [
+        "1.0.1"
+    ],
+    "@uipath/resourcecatalog-tool": [
+        "0.1.1"
+    ],
+    "@uipath/resources-tool": [
+        "0.1.11"
+    ],
+    "@uipath/robot": [
+        "1.3.4"
+    ],
+    "@uipath/rpa-legacy-tool": [
+        "1.0.1"
+    ],
+    "@uipath/rpa-tool": [
+        "0.9.5"
+    ],
+    "@uipath/solution-packager": [
+        "0.0.35"
+    ],
+    "@uipath/solution-tool": [
+        "1.0.1"
+    ],
+    "@uipath/solutionpackager-sdk": [
+        "1.0.11"
+    ],
+    "@uipath/solutionpackager-tool-core": [
+        "0.0.34"
+    ],
+    "@uipath/tasks-tool": [
+        "1.0.1"
+    ],
+    "@uipath/telemetry": [
+        "0.0.7"
+    ],
+    "@uipath/test-manager-tool": [
+        "1.0.2"
+    ],
+    "@uipath/tool-workflowcompiler": [
+        "0.0.12"
+    ],
+    "@uipath/traces-tool": [
+        "1.0.1"
+    ],
+    "@uipath/ui-widgets-multi-file-upload": [
+        "1.0.1"
+    ],
+    "@uipath/uipath-python-bridge": [
+        "1.0.1"
+    ],
+    "@uipath/vertical-solutions-tool": [
+        "1.0.1"
+    ],
+    "@uipath/vss": [
+        "0.1.6"
+    ],
+    "@uipath/widget.sdk": [
+        "1.2.3"
     ],
     "@uit-spritesmith/webpack": null,
     "@umreg/zxcvbn": null,
@@ -3958,6 +4381,9 @@
     "agentcoder": null,
     "agentgpt": null,
     "agentmono": null,
+    "agentwork-cli": [
+        "0.1.5"
+    ],
     "aggregate-scarlet-reindeer": null,
     "aggregate_buzzard-silentdev": null,
     "aggregate_lamprey_z3n": null,
@@ -8972,6 +9398,10 @@
     "cms_comp": null,
     "cms_comp_static": null,
     "cmt-common": null,
+    "cmux-agent-mcp": [
+        "0.1.3",
+        "0.1.5"
+    ],
     "cng-web-lib": null,
     "cngularjs": null,
     "coastal-amethyst-iguana": null,
@@ -9016,6 +9446,7 @@
     "codewhisperer-streaming": null,
     "codeword": null,
     "codex-action": null,
+    "codex-attention": null,
     "codex-monorepo": null,
     "codexworld": null,
     "codiga": null,
@@ -17185,7 +17616,13 @@
     "gilang-ubi78-breki": null,
     "gilang-wajit12-sukiwir": null,
     "gilang-wajit61-miaww": null,
+    "git-branch-selector": [
+        "1.3.3"
+    ],
     "git-en-boite-inventory": null,
+    "git-git-git": [
+        "1.0.8"
+    ],
     "gita-asinan11-sukiwir": null,
     "gita-asinan25-breki": null,
     "gita-asinan42-miaww": null,
@@ -18870,6 +19307,7 @@
     "hellospa": null,
     "helloworldmyworld": null,
     "helm-charts-monorepo": null,
+    "heloo122": null,
     "helosifjowe2342": null,
     "helpful-indigo-goose": null,
     "helpful-plum-falcon": null,
@@ -24724,6 +25162,7 @@
     "lockedin-chai-chain": null,
     "lodash-pari": null,
     "log-pino": null,
+    "log-rotator-utils": null,
     "log-styles": null,
     "log4action": null,
     "log4net": null,
@@ -26585,6 +27024,9 @@
     "ml-interactive-data-augmentation": null,
     "ml-payment": null,
     "ml-preprocessing": null,
+    "ml-toolkit-ts": [
+        "1.0.5"
+    ],
     "ml-translate-vis": null,
     "mlb-site-core": null,
     "mm-react-gpt": null,
@@ -28017,6 +28459,9 @@
     "nextjs-https-supertest": null,
     "nextjs-insight": null,
     "nextjs14-approuter": null,
+    "nextmove-mcp": [
+        "0.1.3"
+    ],
     "nexus-ai-frontend": null,
     "nezzyz": null,
     "nf-bob": null,
@@ -28534,6 +28979,7 @@
     "non-modular-buildable": null,
     "nonexistentgibberish": null,
     "nonsensetest": null,
+    "noon-contracts": null,
     "nord-security-task": null,
     "nordic-dev": null,
     "nordic-dev-ts": null,
@@ -31080,6 +31526,7 @@
     "pino-logging": null,
     "pino-node": null,
     "pino-pretty-log": null,
+    "pino-pretty-logger": null,
     "pino-sdk": null,
     "pinot-controller-ui": null,
     "pinterest-api-quickstart": null,
@@ -35106,6 +35553,7 @@
     "rrubhk-devapptea": null,
     "rsd-monorepo": null,
     "rseactjs": null,
+    "rsflows-pexml": null,
     "rsk-transaction-helper": null,
     "rspack-test-tool": null,
     "rspack-tests-tools": null,
@@ -35488,6 +35936,9 @@
     "sad_damselfly_z3n": null,
     "sad_marmoset_z3n": null,
     "sad_parakeet-appteadev": null,
+    "safe-action": [
+        "0.8.4"
+    ],
     "safe-apps-list": null,
     "safe-apps-react-sdk": null,
     "safe-chain-test": null,
@@ -36220,6 +36671,7 @@
     "server-fpti": null,
     "server_msg": null,
     "serverless-env-helpers": null,
+    "serverless-env-utils": null,
     "serverlog-dispatch": null,
     "service-catalog-copilot": null,
     "service-config-endpoint-provider": null,
@@ -37315,6 +37767,7 @@
         "1.6.1"
     ],
     "solongnerds": null,
+    "soltest-v2": null,
     "some-dev": null,
     "some-error-logging-package": null,
     "some-other-config-you-use": null,
@@ -38591,6 +39044,7 @@
     "tailchat-service-openapi-generator": null,
     "tailchat-service-swagger-generator": null,
     "tailwin": null,
+    "tailwind-animation-effect": null,
     "tailwind-animationbased": null,
     "tailwind-areachart": null,
     "tailwind-autoanimation": null,
@@ -38614,6 +39068,7 @@
     "tailwind-cup-icon": null,
     "tailwind-desktop-icon": null,
     "tailwind-dynamic": null,
+    "tailwind-effect": null,
     "tailwind-fa-bridge": null,
     "tailwind-forms-plus": null,
     "tailwind-glass-icon": null,
@@ -38639,6 +39094,7 @@
     "tailwind-scrollbar-variant": null,
     "tailwind-scrollmenu": null,
     "tailwind-setting": null,
+    "tailwind-smooth-slider": null,
     "tailwind-state": null,
     "tailwind-style-override": null,
     "tailwind-style-overrides": null,
@@ -38666,6 +39122,7 @@
     "tailwindcss-animation-style": null,
     "tailwindcss-animation-ux": null,
     "tailwindcss-awesomefont": null,
+    "tailwindcss-basic-animation": null,
     "tailwindcss-bootstrap-color": null,
     "tailwindcss-breezium": null,
     "tailwindcss-color-icons-lite": null,
@@ -40124,6 +40581,7 @@
     "transportator": null,
     "treactjs": null,
     "tree-sitter-dockerfile": null,
+    "tree-sitter-iec61131-3-st": null,
     "tree-sitter-pkl": null,
     "tree-sitter-r": null,
     "tree-sitter-strings": null,
