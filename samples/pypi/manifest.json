@@ -514,6 +514,9 @@
     "graphene-arangodb": null,
     "groq-mcp": null,
     "grpc-google-bigtable-v2": null,
+    "guardrails-ai": [
+        "0.10.1"
+    ],
     "gui-build": null,
     "gym-reschdule-combination": null,
     "h8shdf89d": null,
@@ -809,6 +812,9 @@
     "milleday": null,
     "mirrorbot": null,
     "mirtos": null,
+    "mistralai": [
+        "2.4.6"
+    ],
     "mjrl": null,
     "mkdsli": null,
     "ml-linear-regression-lib": null,
