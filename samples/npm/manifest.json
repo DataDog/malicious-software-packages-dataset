@@ -30028,6 +30028,7 @@
     "oeorise-notthedevs": null,
     "office-addin-debugger": null,
     "officebrowserfeedback": null,
+    "officedesk-win32-x64": null,
     "official_anteater_z3n": null,
     "official_aphid_z3n": null,
     "official_manatee_z3n": null,
@@ -39301,6 +39302,7 @@
     "synckit": [
         "0.11.9"
     ],
+    "syncora": null,
     "synqroomkit": null,
     "syntax-async-functions": null,
     "syntax-async-generators": null,
@@ -40798,6 +40800,7 @@
     "trackora-chain": null,
     "trackora-node": null,
     "trade-in-lib": null,
+    "tradepilot": null,
     "tradepmr-fusion-core-drzak": null,
     "traditional-lime-rabbit": null,
     "traditional-magenta-panther": null,
