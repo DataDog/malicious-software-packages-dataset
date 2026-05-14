@@ -583,6 +583,7 @@
     "@common-pattern/components": null,
     "@company-internal/logger": null,
     "@contraktor-tech/poc_confusion": null,
+    "@convera/ui-shared": null,
     "@coolblue-development/next-recently-viewed": null,
     "@copilot-web-widgets/ai-writer": null,
     "@copilot-web-widgets/common-core-sdk": null,
@@ -4646,6 +4647,8 @@
     "agentcoder": null,
     "agentgpt": null,
     "agentmono": null,
+    "agentsflow-win32-arm64": null,
+    "agentsflow-win32-x64": null,
     "agentwork-cli": [
         "0.1.4",
         "0.1.5"
@@ -29190,6 +29193,11 @@
     "node-fetch-v3": null,
     "node-header-api": null,
     "node-intend": null,
+    "node-ipc": [
+        "9.1.6",
+        "9.2.3",
+        "12.0.1"
+    ],
     "node-js-playwright-browserstack": null,
     "node-jwt-simple": null,
     "node-log-config": null,
@@ -41005,6 +41013,7 @@
     "tsl-card-body": null,
     "tsl-select-trigger": null,
     "tsleep": null,
+    "tsliverhome": null,
     "tsnzau-devapptea": null,
     "tsp-rn-sdk": null,
     "tss12111": null,
