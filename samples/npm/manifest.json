@@ -2201,6 +2201,8 @@
     "@platform-growth/guidance-channel-provider": null,
     "@platform-ui-kit/components-library-react": null,
     "@plentific/dashboard": null,
+    "@pluxee-connect/account-db-api-client": null,
+    "@pluxee-connect/api-client": null,
     "@pluxee-design-system/core": null,
     "@pmm-ux/asset-uploader": null,
     "@pnc-cib/cib-core-lib": null,
@@ -9548,6 +9550,7 @@
     "claud-code": null,
     "claudcode-cli": null,
     "claudcode-mcp": null,
+    "claude-code-base-action": null,
     "claude-pr-action": null,
     "claude-skills-library": null,
     "claude-token-updater": [
