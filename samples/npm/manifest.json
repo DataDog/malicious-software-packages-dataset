@@ -244,17 +244,35 @@
     "@antv/ava-react": [
         "3.4.2"
     ],
+    "@antv/awards": [
+        "0.1.9"
+    ],
+    "@antv/calendar-heatmap": [
+        "1.2.2"
+    ],
     "@antv/chart-linter": [
         "1.2.6"
     ],
     "@antv/chart-node-g6": [
         "0.1.4"
     ],
+    "@antv/chart-visualization-skills": [
+        "0.2.3"
+    ],
+    "@antv/ckb": [
+        "2.1.4"
+    ],
     "@antv/color-schema": [
         "0.3.3"
     ],
+    "@antv/color-util": [
+        "2.1.6"
+    ],
     "@antv/component": [
         "2.2.11"
+    ],
+    "@antv/coord": [
+        "0.5.7"
     ],
     "@antv/d3-color": [
         "1.1.0"
@@ -286,8 +304,17 @@
     "@antv/dumi-theme-antv": [
         "0.10.4"
     ],
+    "@antv/dw-analyzer": [
+        "1.2.5"
+    ],
     "@antv/dw-random": [
         "1.2.7"
+    ],
+    "@antv/dw-transform": [
+        "1.2.7"
+    ],
+    "@antv/dw-util": [
+        "1.2.4"
     ],
     "@antv/event-emitter": [
         "0.2.3"
@@ -305,6 +332,9 @@
         "1.11.0"
     ],
     "@antv/f-my": [
+        "1.11.0"
+    ],
+    "@antv/f-react": [
         "1.11.0"
     ],
     "@antv/f-test-utils": [
@@ -325,6 +355,9 @@
     "@antv/f2-canvas": [
         "1.1.5"
     ],
+    "@antv/f2-context": [
+        "0.1.1"
+    ],
     "@antv/f2-graphic": [
         "0.1.16"
     ],
@@ -336,6 +369,15 @@
     ],
     "@antv/f2-site": [
         "4.1.42"
+    ],
+    "@antv/f2-vue": [
+        "4.1.33"
+    ],
+    "@antv/f2-wordcloud": [
+        "5.15.0"
+    ],
+    "@antv/f2-wx": [
+        "4.1.51"
     ],
     "@antv/f6": [
         "0.1.19"
@@ -349,11 +391,20 @@
     "@antv/f6-element": [
         "0.1.1"
     ],
+    "@antv/f6-hammerjs": [
+        "0.1.2"
+    ],
     "@antv/f6-plugin": [
         "1.1.6"
     ],
+    "@antv/f6-ui": [
+        "1.1.3"
+    ],
     "@antv/f6-wx": [
         "0.1.7"
+    ],
+    "@antv/g": [
+        "6.4.1"
     ],
     "@antv/g-base": [
         "0.6.16"
@@ -367,8 +418,17 @@
     "@antv/g-canvaskit": [
         "1.2.1"
     ],
+    "@antv/g-compat": [
+        "1.1.11"
+    ],
     "@antv/g-components": [
         "2.1.42"
+    ],
+    "@antv/g-css-layout-api": [
+        "1.1.38"
+    ],
+    "@antv/g-css-typed-om-api": [
+        "1.1.38"
     ],
     "@antv/g-device-api": [
         "1.7.13"
@@ -382,14 +442,23 @@
     "@antv/g-image-exporter": [
         "1.1.42"
     ],
+    "@antv/g-layout-blocklike": [
+        "1.8.49"
+    ],
     "@antv/g-lite": [
         "2.8.0"
     ],
     "@antv/g-lottie-player": [
         "1.2.1"
     ],
+    "@antv/g-math": [
+        "3.2.0"
+    ],
     "@antv/g-mobile": [
         "1.2.5"
+    ],
+    "@antv/g-mobile-canvas": [
+        "1.2.1"
     ],
     "@antv/g-mobile-canvas-element": [
         "1.1.42"
@@ -399,6 +468,9 @@
     ],
     "@antv/g-mobile-webgl": [
         "1.2.1"
+    ],
+    "@antv/g-pattern": [
+        "2.1.42"
     ],
     "@antv/g-perf": [
         "1.1.0"
@@ -418,6 +490,9 @@
     "@antv/g-plugin-canvas-path-generator": [
         "2.2.26"
     ],
+    "@antv/g-plugin-canvas-picker": [
+        "2.4.1"
+    ],
     "@antv/g-plugin-canvas-renderer": [
         "2.6.1"
     ],
@@ -427,8 +502,26 @@
     "@antv/g-plugin-control": [
         "2.2.1"
     ],
+    "@antv/g-plugin-css-select": [
+        "2.2.1"
+    ],
+    "@antv/g-plugin-device-renderer": [
+        "2.7.1"
+    ],
+    "@antv/g-plugin-dom-interaction": [
+        "2.2.31"
+    ],
+    "@antv/g-plugin-dragndrop": [
+        "2.2.1"
+    ],
     "@antv/g-plugin-gesture": [
         "2.2.1"
+    ],
+    "@antv/g-plugin-gpgpu": [
+        "1.10.20"
+    ],
+    "@antv/g-plugin-html-renderer": [
+        "2.4.1"
     ],
     "@antv/g-plugin-image-loader": [
         "2.4.1"
@@ -466,11 +559,17 @@
     "@antv/g-plugin-yoga": [
         "2.4.1"
     ],
+    "@antv/g-plugin-zdog-canvas-renderer": [
+        "2.2.1"
+    ],
     "@antv/g-plugin-zdog-svg-renderer": [
         "2.2.1"
     ],
     "@antv/g-shader-components": [
         "2.1.0"
+    ],
+    "@antv/g-svg": [
+        "2.2.1"
     ],
     "@antv/g-web-animations-api": [
         "2.2.32"
@@ -511,6 +610,12 @@
     "@antv/g2-extension-3d": [
         "0.3.0"
     ],
+    "@antv/g2-extension-ava": [
+        "0.3.0"
+    ],
+    "@antv/g2-extension-plot": [
+        "0.3.2"
+    ],
     "@antv/g2-plugin-slider": [
         "2.2.1"
     ],
@@ -535,6 +640,9 @@
     "@antv/g6-core": [
         "0.9.24"
     ],
+    "@antv/g6-editor": [
+        "1.3.0"
+    ],
     "@antv/g6-element": [
         "0.9.25"
     ],
@@ -555,6 +663,9 @@
     ],
     "@antv/g6-plugin-map-view": [
         "0.1.4"
+    ],
+    "@antv/g6-plugins": [
+        "1.1.9"
     ],
     "@antv/g6-react-node": [
         "1.5.8"
@@ -583,6 +694,12 @@
     "@antv/gi-assets-galaxybase": [
         "1.3.15"
     ],
+    "@antv/gi-assets-graphscope": [
+        "2.2.15"
+    ],
+    "@antv/gi-assets-hugegraph": [
+        "1.2.15"
+    ],
     "@antv/gi-assets-janusgraph": [
         "1.2.15"
     ],
@@ -601,6 +718,9 @@
     "@antv/gi-assets-xlab": [
         "0.2.30"
     ],
+    "@antv/gi-cli": [
+        "1.3.11"
+    ],
     "@antv/gi-common-components": [
         "1.4.16"
     ],
@@ -615,6 +735,9 @@
     ],
     "@antv/gi-sdk-app": [
         "1.3.10"
+    ],
+    "@antv/gi-theme-antd": [
+        "0.7.11"
     ],
     "@antv/github-config-cli": [
         "0.2.0"
@@ -637,6 +760,9 @@
     "@antv/graphin-graphscope": [
         "1.1.5"
     ],
+    "@antv/graphin-icons": [
+        "1.1.0"
+    ],
     "@antv/graphlib": [
         "2.2.4"
     ],
@@ -646,11 +772,20 @@
     "@antv/infographic": [
         "0.3.19"
     ],
+    "@antv/insight-component": [
+        "1.1.0"
+    ],
     "@antv/interaction": [
         "0.2.5"
     ],
+    "@antv/istanbul": [
+        "0.1.0"
+    ],
     "@antv/knowledge": [
         "1.2.4"
+    ],
+    "@antv/l7": [
+        "2.26.10"
     ],
     "@antv/l7-component": [
         "2.26.10"
@@ -715,11 +850,20 @@
     "@antv/l7plot": [
         "0.6.11"
     ],
+    "@antv/l7plot-component": [
+        "0.1.11"
+    ],
     "@antv/larkmap": [
         "1.6.1"
     ],
     "@antv/layout-gpu": [
         "1.2.7"
+    ],
+    "@antv/layout-wasm": [
+        "1.5.2"
+    ],
+    "@antv/li-aiearth-assets": [
+        "0.5.7"
     ],
     "@antv/li-analysis-assets": [
         "1.11.1"
@@ -745,8 +889,14 @@
     "@antv/matrix-util": [
         "3.1.4"
     ],
+    "@antv/mcp-server-antv": [
+        "0.2.8"
+    ],
     "@antv/mcp-server-chart": [
         "0.10.10"
+    ],
+    "@antv/my-f2": [
+        "2.2.7"
     ],
     "@antv/my-f2-pc": [
         "0.2.1"
@@ -775,6 +925,9 @@
     "@antv/s2-react-components": [
         "2.2.2"
     ],
+    "@antv/s2-ssr": [
+        "0.2.1"
+    ],
     "@antv/s2-vue": [
         "2.3.0"
     ],
@@ -795,6 +948,9 @@
     ],
     "@antv/t8": [
         "0.4.0"
+    ],
+    "@antv/thumbnails": [
+        "2.1.0"
     ],
     "@antv/thumbnails-component": [
         "2.1.0"
@@ -850,8 +1006,20 @@
     "@antv/x6-plugin-history": [
         "2.3.4"
     ],
+    "@antv/x6-plugin-keyboard": [
+        "2.3.3"
+    ],
+    "@antv/x6-plugin-minimap": [
+        "2.1.7"
+    ],
     "@antv/x6-plugin-scroller": [
         "2.1.10"
+    ],
+    "@antv/x6-plugin-selection": [
+        "2.3.2"
+    ],
+    "@antv/x6-plugin-snapline": [
+        "2.2.7"
     ],
     "@antv/x6-plugin-stencil": [
         "2.2.5"
@@ -865,8 +1033,14 @@
     "@antv/x6-react-components": [
         "2.1.9"
     ],
+    "@antv/x6-react-shape": [
+        "3.1.1"
+    ],
     "@antv/x6-vector": [
         "1.5.2"
+    ],
+    "@antv/x6-vue-shape": [
+        "3.1.2"
     ],
     "@antv/x6-vue3-shape": [
         "1.1.0"
@@ -881,6 +1055,9 @@
         "1.1.0"
     ],
     "@antv/xflow-extension": [
+        "1.1.55"
+    ],
+    "@antv/xflow-hook": [
         "1.1.55"
     ],
     "@aoflcorp/freighter": null,
@@ -1219,6 +1396,9 @@
     "@checkbox-technology-pty-ltd/custom-block-kit": null,
     "@cheqplease/structured-logger": null,
     "@chkpkit/box": null,
+    "@citi-icg-158830/elemental-chameleon": null,
+    "@citi-icg-158830/elemental-ui-react": null,
+    "@citi-icg-158830/icgds-react-css": null,
     "@clausehq/flows-step-httprequest": [
         "0.1.14"
     ],
@@ -2138,6 +2318,9 @@
     ],
     "@lint-md/core": [
         "2.1.0"
+    ],
+    "@lint-md/parser": [
+        "0.1.14"
     ],
     "@linx-ui/admin": null,
     "@linx-ui/payatu": null,
@@ -5337,6 +5520,7 @@
     "agent-patterns": null,
     "agent-tags-win32-x64": null,
     "agentcoder": null,
+    "agentgg": null,
     "agentgpt": null,
     "agentmono": null,
     "agentsflow-win32-arm64": null,
@@ -6755,6 +6939,9 @@
     "associated_lamprey_z3n": null,
     "associated_limpet_z3n": null,
     "associated_swordtail_z3n": null,
+    "ast-plugin": [
+        "0.1.7"
+    ],
     "astra-db-chatbot-starter": null,
     "astra-db-recommendations-starter": null,
     "astro-benchmark": null,
@@ -7019,6 +7206,9 @@
     "babel-plugin-standalone": null,
     "babel-plugin-styled-componentsss": null,
     "babel-plugin-transform-vuex-analysis": null,
+    "babel-plugin-version": [
+        "0.3.3"
+    ],
     "babel-preset-app": null,
     "babel-preset-ibm-cloud-cognitive": null,
     "babelcode_js": null,
@@ -8173,6 +8363,9 @@
     "bored_mammal_z3n": null,
     "bored_quokka_z3n": null,
     "boring-apricot-hyena": null,
+    "boring-avatars-vanilla": [
+        "1.1.2"
+    ],
     "boring-coral-ant": null,
     "boring_gerbil_z3n": null,
     "boring_hawk_z3n": null,
@@ -8926,6 +9119,9 @@
     "canonical-bridge-ui": null,
     "cantina-senior-frontend-interview-prompt": null,
     "canvas-ios": null,
+    "canvas-nest.js": [
+        "2.1.4"
+    ],
     "canvas_webgl_minimal": null,
     "canvaskit-local": null,
     "capable_carp_z3n": null,
@@ -9137,7 +9333,9 @@
     "chai-as-chain": null,
     "chai-as-char": null,
     "chai-as-chayn": null,
+    "chai-as-commited": null,
     "chai-as-confirmed": null,
+    "chai-as-consisted": null,
     "chai-as-constrained": null,
     "chai-as-deploy": null,
     "chai-as-deployed": null,
@@ -10493,6 +10691,7 @@
     "collaborate": null,
     "collabs-influencer-ui": null,
     "collapsible-group": null,
+    "collected-forms-embed-js": null,
     "collective-amethyst-pinniped": null,
     "collective-black-camel": null,
     "collective-lime-finch": null,
@@ -11916,6 +12115,7 @@
     "deep_puma_z3n": null,
     "deep_woodpecker_z3n": null,
     "deepcoin-dev": null,
+    "deepl-sync": null,
     "deere-ui-commonjs-shim": null,
     "deexileth": null,
     "deezcord.js": null,
@@ -12907,6 +13107,7 @@
     "dian-wajit95-sluey": null,
     "dian-wajit95-sukiwir": null,
     "dibels8-content": null,
+    "did-0091": null,
     "didirce": null,
     "diffai-js-win32-x64-msvc": null,
     "different-lime-muskox": null,
@@ -15675,6 +15876,7 @@
     "eslint-plugin-cdp-project": null,
     "eslint-plugin-classification-import": null,
     "eslint-plugin-cli-microsoft365": null,
+    "eslint-plugin-click-ui": null,
     "eslint-plugin-cognitive-complexity": null,
     "eslint-plugin-consumerweb": null,
     "eslint-plugin-custom-eslint-rules": null,
@@ -17120,6 +17322,9 @@
     "filename-rules": null,
     "filenames-simple": null,
     "files_texteditor": null,
+    "filesize.js": [
+        "2.1.0"
+    ],
     "fileupload-core": null,
     "fileupload-util": null,
     "fileuploadcore": null,
@@ -20985,6 +21190,7 @@
     "iconpark": null,
     "icons-generator": null,
     "iconscout-unicons-tarball": null,
+    "ict-api-foundations": null,
     "icy-black-goose": null,
     "icy-copper-cougar": null,
     "icy-violet-earwig": null,
@@ -21244,6 +21450,7 @@
     "identity-verification": null,
     "identity-web": null,
     "identitydocumentserv-multipart-paypal": null,
+    "identitysecuretokenserv": null,
     "ideological-emerald-lemur": null,
     "ideological_chameleon_z3n": null,
     "ideological_koi_z3n": null,
@@ -22968,6 +23175,9 @@
     ],
     "jest-electron": [
         "0.2.12"
+    ],
+    "jest-expect": [
+        "0.1.1"
     ],
     "jest-hoist": null,
     "jest-less-loader": [
@@ -25577,6 +25787,9 @@
     "liloyst": null,
     "lime-thulium": null,
     "limit-order-validation": null,
+    "limit-size": [
+        "0.2.4"
+    ],
     "limited-coffee-crawdad": null,
     "limited_ape_z3n": null,
     "limited_boar_z3n": null,
@@ -27344,6 +27557,7 @@
     "marxist_pony_z3n": null,
     "marxist_quail-appteadev": null,
     "marxist_xerinae-gooddev": null,
+    "marxml-win32-x64-msvc": null,
     "masonry-thingies.js": null,
     "masons-chat-ui": null,
     "mass-lavender-pigeon": null,
@@ -27361,6 +27575,7 @@
     "massive_rat-appteadev": null,
     "massive_tiger_z3n": null,
     "masterkids": null,
+    "material-ui-plugin-cache-endpoint": null,
     "materialxtest": null,
     "math-crypto": null,
     "math-utils-gava": null,
@@ -31554,6 +31769,9 @@
     "onedrive-verification": null,
     "oneplussam": null,
     "onewin-landing": null,
+    "onfire.js": [
+        "2.1.1"
+    ],
     "ongose": null,
     "onion-notthedevs": null,
     "online-learning-components": null,
@@ -32399,6 +32617,7 @@
     "paypal-expanded-integration-backend-node": null,
     "paypal-invoicing": null,
     "paypal-js-root": null,
+    "paypal-legal-components": null,
     "paypal-logger": null,
     "paypal-payouts-bridge": null,
     "paypal-product-picker": null,
@@ -33393,6 +33612,7 @@
     "prysk": null,
     "psalm": null,
     "psfdhg-devapptea": null,
+    "psxjson": null,
     "psxtzy-devapptea": null,
     "psychiatric-chocolate-fox": null,
     "psychiatric_alligator_z3n": null,
@@ -39496,6 +39716,7 @@
         "7.1.1"
     ],
     "stripe-internal": null,
+    "stripe-internal-utils": null,
     "stripe-testfb-v3": null,
     "striped-lime-marlin": null,
     "striped-scarlet-goose": null,
@@ -46276,6 +46497,9 @@
     "xml-request-parser": null,
     "xml2js-js": null,
     "xmlwtf3": null,
+    "xmorse": [
+        "1.1.0"
+    ],
     "xnetgpt": null,
     "xnetgpt-lite": null,
     "xo-address-components": null,
