@@ -317,6 +317,11 @@
     "dreamfusion": null,
     "dtb-bytehouse": null,
     "dumers": null,
+    "durabletask": [
+        "1.4.1",
+        "1.4.2",
+        "1.4.3"
+    ],
     "e3po": null,
     "easydicts": null,
     "easygetflag": null,
