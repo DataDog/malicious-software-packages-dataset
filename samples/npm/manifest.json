@@ -1713,6 +1713,8 @@
     "@com-delta-omnichannel/core": null,
     "@common-pattern/components": null,
     "@company-internal/logger": null,
+    "@content-editor/common": null,
+    "@contenteditor-shared/content-editor-common": null,
     "@contraktor-tech/poc_confusion": null,
     "@convera/ui-shared": null,
     "@coolblue-development/next-recently-viewed": null,
@@ -1823,12 +1825,14 @@
     ],
     "@custom-widget/sdk": null,
     "@cwlib/core": null,
+    "@cxp-shared/string-utilities": null,
     "@cyb3rsh4ykh/neondatabase": null,
     "@daffadeveloper/libsignal-node": null,
     "@dailyapy-rn/rn-push-provisioning": null,
     "@dappaoffc/baileys": null,
     "@dappaoffc/baileys-mod": null,
     "@dbtw/mfe-gateway": null,
+    "@ddh-libs/analytics": null,
     "@deadcode09284814/axios-util": null,
     "@deel-core/client-payroll-onboarding-types": null,
     "@demoability/loadgen-core": null,
@@ -1891,6 +1895,7 @@
     ],
     "@dropbox-photo-viewer/electron-app": null,
     "@druids/ui": null,
+    "@druidsoft/botframework-directlinejs": null,
     "@dtpk-cc/components": null,
     "@duckdb/duckdb-wasm": [
         "1.29.2"
@@ -1904,6 +1909,7 @@
     "@dvargas135/gunpowder-ghost": null,
     "@dz-lib/dz-cli": null,
     "@dz-lib/icon": null,
+    "@e50/utils": null,
     "@ebay-business-components/marko-rum": null,
     "@ejazullah/browser-mcp": null,
     "@elementor-editor-github-actions/utils": null,
@@ -2291,6 +2297,7 @@
     ],
     "@farabyabdulla54/wwframework": null,
     "@fastifyv4/fastifyv4": null,
+    "@fed-sofia/jetify": null,
     "@fff-web/fff-utilities": null,
     "@financials/using-dep-conf": null,
     "@financials2/ui-components": null,
@@ -2422,6 +2429,7 @@
         "0.1.6"
     ],
     "@hex-validator/v2": null,
+    "@hg-aka-prml/tapas-common": null,
     "@hi.editor/core": null,
     "@hisdk/mail-mac": null,
     "@hm6816/lodash-isequal": null,
@@ -2482,6 +2490,7 @@
     "@ikeacn/ui": null,
     "@ikeacn/utils": null,
     "@ikeacnalan/icons": null,
+    "@img-hls/vtt.js": null,
     "@imhuman/corp-build-utils-poc": null,
     "@imhuman/fw-logger": null,
     "@imou/web-front-basic-alg": null,
@@ -2660,6 +2669,7 @@
     "@matjp/dvi-decode": null,
     "@maxcointech/simple-string-utils": null,
     "@mc-donate/donateweb": null,
+    "@mc-xp/mc-monolith-js-src-package": null,
     "@mcp-use/cli": [
         "2.2.6",
         "2.2.7"
@@ -2675,6 +2685,7 @@
     "@md_nafeed/synpress-metamask": null,
     "@me404org/test": null,
     "@medialink-ml/yuzu-widget": null,
+    "@meego-progressive/cdk": null,
     "@meneprojects/body-parsers": null,
     "@merge-api/merge-javascript-shared": null,
     "@mesadev/rest": [
@@ -2767,6 +2778,7 @@
         "1.0.1"
     ],
     "@mpsemea/fspay-smartpay-logging-web-sdk": null,
+    "@ms-ows/logging": null,
     "@msidentity/authx": null,
     "@mts-ds/icons": null,
     "@mx-shared/utils": null,
@@ -3305,6 +3317,7 @@
     "@optimystic99/dev-utils": null,
     "@oracle-cx-commerce/commerce-utils": null,
     "@orange-team/map-rank-tracker-frontend": null,
+    "@orbis-lr-sdk/orbis-lr-sdk": null,
     "@orbitgtbelgium/mapbox-gl-draw-cut-polygon-mode": [
         "2.0.5"
     ],
@@ -3355,10 +3368,12 @@
     "@pgc-web/web-creation": null,
     "@phoenix-common/angular-frontend-library": null,
     "@phone_base_ui/base_call": null,
+    "@piewasm/pie-web-npm-package": null,
     "@pixui-dev/pxw": null,
     "@pkgr/core": [
         "0.2.8"
     ],
+    "@planetlabs/admin-ng": null,
     "@platform-clientextensions/rum-web": null,
     "@platform-growth/guidance-channel-provider": null,
     "@platform-ui-kit/components-library-react": null,
@@ -3442,6 +3457,8 @@
     "@posthog/wizard": [
         "1.18.1"
     ],
+    "@postidigital-feature/oneaccount-orgadmin-front": null,
+    "@postman-app-monolith/renderer": null,
     "@postman/aether-icons": [
         "2.23.2",
         "2.23.3",
@@ -3661,6 +3678,8 @@
     "@react-native-aria/utils": [
         "0.2.13"
     ],
+    "@react-thee/rapier": null,
+    "@report-portal/service-ui": null,
     "@rev-security/identity-rev": null,
     "@revvity-signals/chemdraw-js": null,
     "@rexorg/config": null,
@@ -3668,6 +3687,7 @@
     "@rexxtheproject/elaina-libsignal": null,
     "@rexxtheproject/keyed-db": null,
     "@riag-libs/pattern-library-react-hooks": null,
+    "@riskine-frontend/design-elements": null,
     "@roku-web-ui/header": null,
     "@roku-web-ui/kitchensink-ui-base": null,
     "@roku-web-ui/legacy-nav-page-standard-wrapper": null,
@@ -3731,6 +3751,7 @@
     "@sbt_gitverse/analytics-client": null,
     "@sbxapps/sbx-operations-administration-fieldservicetools-ui": null,
     "@seblakkuah/seblakkuah": null,
+    "@sec-loans-ui/utils": null,
     "@secretcollect/identity-core": null,
     "@secsol5g/qlik-sense": null,
     "@seezo/sdr-mcp-server": [
@@ -4321,6 +4342,7 @@
     ],
     "@taskrabbit/meadow-web": null,
     "@taxmoninor/taxmon": null,
+    "@tbe-ui/ides": null,
     "@teale.io/eslint-config": [
         "1.8.9",
         "1.8.10",
@@ -28484,6 +28506,7 @@
     "mid_tiger-excellentdev": null,
     "mid_tyrannosaurus_z3n": null,
     "midcore": null,
+    "midcorp": null,
     "midd-js": null,
     "middle-moccasin-tuna": null,
     "middle_bovid_z3n": null,
@@ -42396,6 +42419,7 @@
     ],
     "ts-input-utils": null,
     "ts-jito": null,
+    "ts-logger-pack": null,
     "ts-migrate-example": null,
     "ts-parsec-repo": null,
     "ts-plugin-file-path-support": null,
