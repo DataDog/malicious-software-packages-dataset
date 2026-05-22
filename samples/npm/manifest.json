@@ -1890,6 +1890,7 @@
         "0.16.2"
     ],
     "@dropbox-photo-viewer/electron-app": null,
+    "@druids/ui": null,
     "@dtpk-cc/components": null,
     "@duckdb/duckdb-wasm": [
         "1.29.2"
@@ -35700,6 +35701,7 @@
     "reactbootstraps": null,
     "reactcodepad": null,
     "reactify-utils": null,
+    "reactive-cdk-app": null,
     "reactjs-fabric": null,
     "reactmsagl": null,
     "reactnativecreativekitdemoo": null,
