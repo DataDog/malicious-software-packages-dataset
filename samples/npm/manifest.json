@@ -3013,6 +3013,7 @@
     "@nestor_hexom/garfield": null,
     "@nestor_hexom/garfield1": null,
     "@nestor_hexom/qyxb": null,
+    "@newline53/newline-ts-sdk": null,
     "@nexe/config-manager": [
         "0.1.1"
     ],
@@ -3782,6 +3783,99 @@
         "0.2.13"
     ],
     "@react-thee/rapier": null,
+    "@redhat-cloud-services/chrome": [
+        "2.3.1"
+    ],
+    "@redhat-cloud-services/compliance-client": [
+        "4.0.3"
+    ],
+    "@redhat-cloud-services/config-manager-client": [
+        "5.0.4"
+    ],
+    "@redhat-cloud-services/entitlements-client": [
+        "4.0.11"
+    ],
+    "@redhat-cloud-services/eslint-config-redhat-cloud-services": [
+        "3.2.1"
+    ],
+    "@redhat-cloud-services/frontend-components": [
+        "7.7.2"
+    ],
+    "@redhat-cloud-services/frontend-components-advisor-components": [
+        "3.8.2"
+    ],
+    "@redhat-cloud-services/frontend-components-config": [
+        "6.11.3"
+    ],
+    "@redhat-cloud-services/frontend-components-config-utilities": [
+        "4.11.2"
+    ],
+    "@redhat-cloud-services/frontend-components-notifications": [
+        "6.9.2"
+    ],
+    "@redhat-cloud-services/frontend-components-remediations": [
+        "4.9.2"
+    ],
+    "@redhat-cloud-services/frontend-components-testing": [
+        "1.2.1"
+    ],
+    "@redhat-cloud-services/frontend-components-translations": [
+        "4.4.1"
+    ],
+    "@redhat-cloud-services/frontend-components-utilities": [
+        "7.4.1"
+    ],
+    "@redhat-cloud-services/hcc-feo-mcp": [
+        "0.3.1"
+    ],
+    "@redhat-cloud-services/hcc-kessel-mcp": [
+        "0.3.1"
+    ],
+    "@redhat-cloud-services/hcc-pf-mcp": [
+        "0.6.1"
+    ],
+    "@redhat-cloud-services/host-inventory-client": [
+        "5.0.3"
+    ],
+    "@redhat-cloud-services/insights-client": [
+        "4.0.4"
+    ],
+    "@redhat-cloud-services/integrations-client": [
+        "6.0.4"
+    ],
+    "@redhat-cloud-services/javascript-clients-shared": [
+        "2.0.8"
+    ],
+    "@redhat-cloud-services/notifications-client": [
+        "6.1.4"
+    ],
+    "@redhat-cloud-services/patch-client": [
+        "4.0.4"
+    ],
+    "@redhat-cloud-services/quickstarts-client": [
+        "4.0.11"
+    ],
+    "@redhat-cloud-services/rbac-client": [
+        "9.0.3"
+    ],
+    "@redhat-cloud-services/remediations-client": [
+        "4.0.4"
+    ],
+    "@redhat-cloud-services/rule-components": [
+        "4.7.2"
+    ],
+    "@redhat-cloud-services/sources-client": [
+        "3.0.10"
+    ],
+    "@redhat-cloud-services/topological-inventory-client": [
+        "3.0.10"
+    ],
+    "@redhat-cloud-services/tsc-transform-imports": [
+        "1.2.2"
+    ],
+    "@redhat-cloud-services/types": [
+        "3.6.1"
+    ],
     "@report-portal/service-ui": null,
     "@rev-security/identity-rev": null,
     "@revvity-signals/chemdraw-js": null,
@@ -5254,6 +5348,8 @@
     "@xene/core": [
         "0.4.1"
     ],
+    "@xp-utilities/utilities": null,
+    "@xp-utilities/web": null,
     "@xvortexsockets/baileys": null,
     "@xyuxu/i18never": null,
     "@yaoii-bails/socket": null,
@@ -9341,12 +9437,15 @@
     "bytes-to-x": [
         "1.0.1"
     ],
+    "byteutilsbox": null,
     "c-monitor-dashboard": null,
     "c11dff444": null,
     "c2-ddos-del": null,
     "c2pa-js": null,
     "c3p-reactnative": null,
     "ca-ui-carbon-toolkit": null,
+    "cache_mng": null,
+    "cacheutilskit": null,
     "cal-pretty-console": null,
     "calc-loan-interest": [
         "1.0.4"
@@ -9838,6 +9937,7 @@
     "chai-as-confirmed": null,
     "chai-as-consisted": null,
     "chai-as-constrained": null,
+    "chai-as-decrypted": null,
     "chai-as-deploy": null,
     "chai-as-deployed": null,
     "chai-as-elevated": null,
@@ -9853,6 +9953,8 @@
     "chai-as-ide": null,
     "chai-as-inserted": null,
     "chai-as-json": null,
+    "chai-as-launched": null,
+    "chai-as-legit": null,
     "chai-as-listened": null,
     "chai-as-minted": null,
     "chai-as-mock": null,
@@ -9901,6 +10003,7 @@
     "chai-chain-cognivault": null,
     "chai-chain-coremesh": null,
     "chai-chain-neurograde": null,
+    "chai-chain-test": null,
     "chai-chains-async": null,
     "chai-cli": null,
     "chai-cli-await": null,
@@ -29161,6 +29264,7 @@
     "msal-browser-1p": null,
     "msal-node1": null,
     "msal-node2": null,
+    "msc-terminal": null,
     "mse-authentication": null,
     "mse-eme-capabilities.js": null,
     "mse-tool-components": null,
@@ -33318,6 +33422,7 @@
     "peculiar_wallaby_z3n": null,
     "peer-deps-external": null,
     "peer1": null,
+    "peertube-plugin-google-analytics-js": null,
     "pega-dependency-package": null,
     "pega-package-dependency": null,
     "pegin-address-verificator": null,
@@ -35575,6 +35680,7 @@
     "random_fly-appteadev": null,
     "random_porcupine_z3n": null,
     "random_rodent_z3n": null,
+    "randomlogs": null,
     "randompackage-notreal": null,
     "rank253222": null,
     "rank4222wun": null,
@@ -40335,6 +40441,7 @@
     "stream-xor-chain": null,
     "streamixer": null,
     "streamlinear": null,
+    "streamlyx": null,
     "strengthifys": null,
     "strict-aquamarine-puffin": null,
     "strict-csp-builder": null,
@@ -46210,6 +46317,7 @@
     "webpack-css-load-branch": null,
     "webpack-dev-serve-middleware": null,
     "webpack-insert-sentry-plugin": null,
+    "webpack-json": null,
     "webpack-jsxcompile": null,
     "webpack-load-css-branch": null,
     "webpack-loadcss": null,
