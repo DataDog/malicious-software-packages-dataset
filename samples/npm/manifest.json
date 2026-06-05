@@ -2366,6 +2366,9 @@
     "@evo-tech/backoffice-test-api": null,
     "@evoja-web/react-login": null,
     "@evoja-web/redaction": null,
+    "@evolvconsulting/evolv-coder-lite": [
+        "1.2.0"
+    ],
     "@evoplay-spinential/test-module": null,
     "@evt-cdk/codepipeline": null,
     "@evt-cdk/core": null,
@@ -2600,6 +2603,9 @@
     "@ivy-shared-components/testing": null,
     "@ixm-apps/mf-admin-user": null,
     "@izumiswap/sdk": null,
+    "@jagreehal/workflow": [
+        "1.16.1"
+    ],
     "@jameson777/mytest2": null,
     "@jameson777/mytest3": null,
     "@jameson777/mytest4": null,
@@ -5118,6 +5124,12 @@
     "@validates-sdk/v3": null,
     "@vampirchik147/libxmljs2": null,
     "@vapc-ui/font-icon": null,
+    "@vapi-ai/server-sdk": [
+        "0.11.1",
+        "0.11.2",
+        "1.2.1",
+        "1.2.2"
+    ],
     "@varsityvibe/utils": [
         "5.0.6"
     ],
@@ -6368,6 +6380,12 @@
     "ai-playground": null,
     "ai-plugin-template": null,
     "ai-protocol": null,
+    "ai-sdk-ollama": [
+        "0.13.1",
+        "1.1.1",
+        "2.2.1",
+        "3.8.5"
+    ],
     "ai-workbench": null,
     "aicp-tracker": null,
     "aicsd-web-ui": null,
@@ -7622,6 +7640,175 @@
     "autoprifixir": null,
     "autopush-manager": null,
     "autoshipment-public-front": null,
+    "autotel": [
+        "2.26.4",
+        "3.4.3"
+    ],
+    "autotel-adapters": [
+        "0.3.5"
+    ],
+    "autotel-audit": [
+        "0.1.15"
+    ],
+    "autotel-aws": [
+        "0.13.10"
+    ],
+    "autotel-backends": [
+        "2.12.26"
+    ],
+    "autotel-cli": [
+        "0.8.14"
+    ],
+    "autotel-cloudflare": [
+        "2.18.16"
+    ],
+    "autotel-devtools": [
+        "0.1.1",
+        "1.0.4",
+        "2.1.1",
+        "3.0.2",
+        "4.0.1",
+        "5.1.1",
+        "6.1.2"
+    ],
+    "autotel-drizzle": [
+        "0.0.27"
+    ],
+    "autotel-edge": [
+        "3.16.13"
+    ],
+    "autotel-eventcatalog": [
+        "1.0.1",
+        "2.0.1",
+        "3.0.1",
+        "4.0.2",
+        "5.0.1"
+    ],
+    "autotel-hono": [
+        "0.4.26"
+    ],
+    "autotel-mcp": [
+        "0.1.14",
+        "2.0.1",
+        "3.0.1",
+        "4.0.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1",
+        "9.0.1",
+        "10.0.1",
+        "11.0.1",
+        "13.0.1",
+        "14.0.1",
+        "15.0.2",
+        "16.0.1",
+        "17.0.2",
+        "18.0.1",
+        "19.0.1",
+        "20.0.1",
+        "21.1.1",
+        "22.0.1",
+        "23.0.1",
+        "24.0.1",
+        "25.0.1",
+        "26.0.2",
+        "27.0.1",
+        "28.0.3"
+    ],
+    "autotel-mcp-instrumentation": [
+        "29.0.2",
+        "30.0.5",
+        "31.0.1",
+        "32.0.1",
+        "33.0.2",
+        "34.0.1"
+    ],
+    "autotel-mongoose": [
+        "0.0.3",
+        "1.0.2",
+        "2.0.5",
+        "3.0.1",
+        "4.0.1",
+        "5.0.2",
+        "6.0.1"
+    ],
+    "autotel-pact": [
+        "0.2.2",
+        "1.0.3"
+    ],
+    "autotel-playwright": [
+        "0.4.32"
+    ],
+    "autotel-plugins": [
+        "0.19.26"
+    ],
+    "autotel-sentry": [
+        "0.5.13"
+    ],
+    "autotel-subscribers": [
+        "4.1.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1",
+        "9.0.1",
+        "10.0.1",
+        "11.0.1",
+        "12.0.1",
+        "13.0.1",
+        "14.1.1",
+        "15.0.1",
+        "16.0.2",
+        "17.0.1",
+        "18.0.3",
+        "19.0.1",
+        "20.0.1",
+        "21.0.1",
+        "22.0.2",
+        "23.0.2",
+        "24.0.1",
+        "25.0.1",
+        "26.0.1",
+        "27.0.2",
+        "28.0.2",
+        "29.0.6",
+        "30.0.4",
+        "31.1.4"
+    ],
+    "autotel-tanstack": [
+        "1.13.27"
+    ],
+    "autotel-terminal": [
+        "2.1.1",
+        "3.0.1",
+        "4.0.2",
+        "5.0.1",
+        "6.0.3",
+        "7.0.1",
+        "8.0.1",
+        "9.0.1",
+        "10.0.2",
+        "11.0.1",
+        "12.0.1",
+        "13.0.1",
+        "14.0.1",
+        "15.0.2",
+        "16.0.2",
+        "17.0.10",
+        "18.0.4",
+        "19.0.8",
+        "20.0.2",
+        "21.0.1",
+        "22.0.2",
+        "23.0.3"
+    ],
+    "autotel-vitest": [
+        "0.4.26"
+    ],
+    "autotel-web": [
+        "1.12.2"
+    ],
     "available-lavender-pheasant": null,
     "available-moccasin-gorilla": null,
     "available_anglerfish_z3n": null,
@@ -7653,6 +7840,121 @@
     "avishkar": null,
     "avocado-notthedevs": null,
     "avx-web-build": null,
+    "awaitly": [
+        "1.33.3"
+    ],
+    "awaitly-analyze": [
+        "0.24.2",
+        "1.1.1",
+        "2.0.1",
+        "3.0.1",
+        "4.0.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1"
+    ],
+    "awaitly-libsql": [
+        "0.1.1",
+        "1.0.1",
+        "2.0.1",
+        "3.0.1",
+        "4.0.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1",
+        "9.0.1",
+        "10.0.1",
+        "11.0.1",
+        "12.0.1",
+        "13.0.1",
+        "14.0.1",
+        "15.0.1",
+        "16.0.1",
+        "17.0.1",
+        "18.1.1",
+        "19.0.1",
+        "20.0.1",
+        "21.0.1",
+        "22.0.1"
+    ],
+    "awaitly-mongo": [
+        "0.1.1",
+        "1.0.1",
+        "2.0.1",
+        "3.0.1",
+        "4.0.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1",
+        "9.1.1",
+        "10.0.1",
+        "11.0.1",
+        "12.0.1",
+        "13.0.1",
+        "14.0.1",
+        "15.0.1",
+        "16.0.1",
+        "17.0.1",
+        "18.0.1",
+        "19.1.1",
+        "20.0.1",
+        "21.0.1",
+        "22.0.1",
+        "23.0.1"
+    ],
+    "awaitly-postgres": [
+        "0.1.1",
+        "1.0.1",
+        "2.0.1",
+        "3.0.2",
+        "4.0.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1",
+        "9.0.1",
+        "10.0.1",
+        "11.0.1",
+        "12.0.1",
+        "13.0.1",
+        "14.0.1",
+        "15.0.1",
+        "16.0.1",
+        "17.0.1",
+        "18.0.1",
+        "19.1.1",
+        "20.0.1",
+        "21.0.1",
+        "22.0.1",
+        "23.0.1"
+    ],
+    "awaitly-visualizer": [
+        "1.0.1",
+        "2.0.2",
+        "3.0.1",
+        "4.0.1",
+        "5.0.1",
+        "6.0.1",
+        "7.0.1",
+        "8.0.1",
+        "9.0.1",
+        "10.0.1",
+        "11.0.1",
+        "12.0.1",
+        "13.0.1",
+        "14.0.1",
+        "15.0.1",
+        "16.0.1",
+        "17.0.1",
+        "18.1.1",
+        "19.0.1",
+        "20.0.2",
+        "21.0.1",
+        "22.0.2"
+    ],
     "awake_aardvark-appteadev": null,
     "awake_bison_z3n": null,
     "awake_dragonfly_z3n": null,
@@ -14691,6 +14993,9 @@
     "eerie_scorpion_z3n": null,
     "efergvthdaadgfhrgewsfqwf": null,
     "eff-minifeapp": null,
+    "effect-analyzer": [
+        "0.3.1"
+    ],
     "effective-aquamarine-boa": null,
     "effective-peach-gayal": null,
     "effective-plum-frog": null,
@@ -16518,6 +16823,10 @@
     "eslint-oldest": null,
     "eslint-parser-vue": null,
     "eslint-plugin-add-display-name": null,
+    "eslint-plugin-awaitly": [
+        "0.17.1",
+        "1.0.1"
+    ],
     "eslint-plugin-cdp-project": null,
     "eslint-plugin-classification-import": null,
     "eslint-plugin-cli-microsoft365": null,
@@ -16529,6 +16838,18 @@
     "eslint-plugin-dummy": null,
     "eslint-plugin-es-spec": null,
     "eslint-plugin-ethereumjs": null,
+    "eslint-plugin-executable-stories-jest": [
+        "1.2.1",
+        "2.1.8"
+    ],
+    "eslint-plugin-executable-stories-playwright": [
+        "1.2.1",
+        "2.1.8"
+    ],
+    "eslint-plugin-executable-stories-vitest": [
+        "1.2.1",
+        "2.1.8"
+    ],
     "eslint-plugin-externalincludes": null,
     "eslint-plugin-foody-custom": null,
     "eslint-plugin-fuel-react": null,
@@ -16878,6 +17199,54 @@
     "exclusive_yak_z3n": null,
     "exclusivemaximum": null,
     "exclusiveminimum": null,
+    "executable-stories-cypress": [
+        "3.1.1",
+        "4.0.1",
+        "5.0.1",
+        "6.1.1",
+        "7.0.3",
+        "8.3.2"
+    ],
+    "executable-stories-demo": [
+        "0.1.11"
+    ],
+    "executable-stories-formatters": [
+        "0.11.2"
+    ],
+    "executable-stories-init": [
+        "0.1.2"
+    ],
+    "executable-stories-jest": [
+        "3.1.1",
+        "4.0.1",
+        "5.0.1",
+        "6.1.1",
+        "7.0.3",
+        "8.3.2"
+    ],
+    "executable-stories-mcp": [
+        "0.3.3"
+    ],
+    "executable-stories-playwright": [
+        "3.1.1",
+        "4.0.1",
+        "5.0.1",
+        "6.1.1",
+        "7.0.3",
+        "8.4.3"
+    ],
+    "executable-stories-react": [
+        "0.1.7"
+    ],
+    "executable-stories-vitest": [
+        "2.0.1",
+        "3.1.1",
+        "4.0.1",
+        "5.0.1",
+        "6.1.1",
+        "7.0.3",
+        "8.3.3"
+    ],
     "exiouss": null,
     "existdb-node": null,
     "existing_aardwolf_z3n": null,
@@ -20146,6 +20515,7 @@
     "govuk_frontend_alpha": null,
     "goworker": null,
     "gpt-pilot": null,
+    "gpt-sdk": null,
     "gql-test-client": null,
     "grab-service-worker": null,
     "grabathon-5.0": null,
@@ -21204,6 +21574,7 @@
     "hello-1st-anni": null,
     "hello-arc-windows": null,
     "hello-world-npm-demo-example": null,
+    "hello244a": null,
     "hellosign-embed-with-dbx-file": null,
     "hellospa": null,
     "helloworldmyworld": null,
@@ -21693,7 +22064,9 @@
     "hotline-frontend": null,
     "hotmart": null,
     "houdini-core-win32-x64": null,
+    "houdini-react-wasm": null,
     "houdini-react-win32-x64": null,
+    "houdini-svelte-wasm": null,
     "houdini_test_pack_1": null,
     "hover-design-prototype": [
         "0.0.5"
@@ -21734,6 +22107,9 @@
     "http-long-poll-client": null,
     "http-long-poll-server": null,
     "http-req-logger": null,
+    "http-uploader-dev": [
+        "1.0.7"
+    ],
     "httpness": [
         "1.0.2"
     ],
@@ -28270,6 +28646,7 @@
     "marxist_quail-appteadev": null,
     "marxist_xerinae-gooddev": null,
     "marxml-win32-x64-msvc": null,
+    "mason4agents-win32-x64": null,
     "masonry-thingies.js": null,
     "masons-chat-ui": null,
     "mass-lavender-pigeon": null,
@@ -29255,6 +29632,12 @@
     "motionless_marlin_z3n": null,
     "motionless_parakeet_z3n": null,
     "motionless_shrew-apptea": null,
+    "mountly": [
+        "0.2.2"
+    ],
+    "mountly-tailwind": [
+        "0.1.3"
+    ],
     "mourner": null,
     "move-binary-format-wasm": null,
     "moythh-devapp": null,
@@ -30915,6 +31298,25 @@
     "node-denv": null,
     "node-dlls": null,
     "node-elm-stdio": null,
+    "node-env-resolver": [
+        "6.5.1"
+    ],
+    "node-env-resolver-aws": [
+        "9.1.2",
+        "10.0.1",
+        "11.0.1",
+        "12.0.1"
+    ],
+    "node-env-resolver-dotenvx": [
+        "1.0.1",
+        "2.0.1"
+    ],
+    "node-env-resolver-nextjs": [
+        "7.4.2"
+    ],
+    "node-env-resolver-vite": [
+        "2.4.2"
+    ],
     "node-express-demo": null,
     "node-facebook-messenger-api": null,
     "node-fetch-v3": null,
@@ -38693,6 +39095,7 @@
     "sendbird-uikit-testing-tools": null,
     "sendbird-visual-test": null,
     "sendgrid-bloodhound": null,
+    "sendgrid-sdk": null,
     "sendinblue2019": null,
     "sendmoneyserv": null,
     "senior-blue-yak": null,
@@ -43070,6 +43473,7 @@
     "twilio-live-interactive-video": null,
     "twilio-react": null,
     "twilio-realtime": null,
+    "twilio-sdk": null,
     "twilio-voice-react-native-reference-server": null,
     "twilio.github.io": null,
     "twine-to-yoto": null,
@@ -46981,6 +47385,9 @@
     "wpe-php-compat1mm": null,
     "wqajsn-devapp": null,
     "wraith-of-war": null,
+    "wrangler-deploy": [
+        "1.5.5"
+    ],
     "wrankas-notthedevs": null,
     "wrap-ansi": [
         "9.0.1"
