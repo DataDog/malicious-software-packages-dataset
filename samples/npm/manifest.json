@@ -2638,6 +2638,9 @@
     "@kiukicom/sidebar": null,
     "@kiwiiw/ez-lib": null,
     "@kjma/mailcraft": null,
+    "@klapp-login-platform/native-sdk": null,
+    "@klapp-login-platform/oidc": null,
+    "@klapp-login-platform/routes": null,
     "@klarna-travel-platform/travel-booking-shared-types": null,
     "@kodane/patch-manager": null,
     "@komoot/kvstore": null,
@@ -2782,6 +2785,7 @@
     "@medialink-ml/yuzu-widget": null,
     "@meego-progressive/cdk": null,
     "@meneprojects/body-parsers": null,
+    "@mep-exp/api-tools": null,
     "@merge-api/merge-javascript-shared": null,
     "@mesadev/rest": [
         "0.28.3"
@@ -9660,6 +9664,7 @@
     "bufbuild-core": null,
     "buffer-envjs": null,
     "buffer-util-extend": null,
+    "buffer-utilities": null,
     "bug-bounttest": null,
     "bug-bounty": null,
     "bug-bounty-hunter": null,
@@ -11385,6 +11390,7 @@
     "classical_rattlesnake_z3n": null,
     "classical_urial-apptea": null,
     "classlink": null,
+    "classwind-utils": null,
     "claud-code": null,
     "claudcode-cli": null,
     "claudcode-mcp": null,
@@ -20335,6 +20341,7 @@
     "github-action-for-generator": [
         "2.1.27"
     ],
+    "github-archiver": null,
     "github-badge-bot": null,
     "github-datasource": null,
     "github-script": null,
@@ -33197,6 +33204,7 @@
     "os-apps-ui-placement-manager": null,
     "os-apps-ui-portal": null,
     "os-apps-ui-traffic-manager": null,
+    "os-ulid-void": null,
     "osae": null,
     "osc-datagrid-validator": null,
     "osd_tp_custom_visualizations": null,
@@ -36003,6 +36011,7 @@
     "quintessential_pike_z3n": null,
     "quintessential_ptarmigan-tool": null,
     "quintessential_tiglon_z3n": null,
+    "quirky-token": null,
     "quixotic-plum-lion": null,
     "quixotic-purple-shrew": null,
     "quixotic_cicada-notthedev": null,
@@ -39381,6 +39390,7 @@
     "shopee-ui": null,
     "shopee-ui-automatic-import-loader": null,
     "shopee-ui-react4": null,
+    "shopify-app-bridge-internal": null,
     "shopify-app-extension-template": null,
     "shopify-app-react-router": null,
     "shopify-css-import": null,
@@ -45994,6 +46004,7 @@
     "voiceless_toucan_z3n": null,
     "voiceless_tuna_z3n": null,
     "voiceless_wren_z3n": null,
+    "void-ulid": null,
     "vointea": null,
     "voinzaril": null,
     "voip-callkit": [
