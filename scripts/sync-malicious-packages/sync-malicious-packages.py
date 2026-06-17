@@ -1,4 +1,5 @@
 from argparse import ArgumentParser
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from decimal import Context
 import os
@@ -15,6 +16,15 @@ boto3.dynamodb.types.DYNAMODB_CONTEXT = Context(prec=100)
 
 
 NPM_SECURITY_VERSION = "0.0.1-security"
+
+# Number of packages to download (and zip) concurrently. Each download spawns an
+# `aws s3 sync` subprocess, so the work is I/O-bound and benefits from parallelism.
+# Overridable via the SYNC_DOWNLOAD_CONCURRENCY environment variable.
+DOWNLOAD_CONCURRENCY = int(os.environ.get("SYNC_DOWNLOAD_CONCURRENCY", "16"))
+
+# Number of DynamoDB parallel-scan segments. A value <= 1 falls back to a single sequential
+# scan. Overridable via the SYNC_SCAN_SEGMENTS environment variable.
+SCAN_TOTAL_SEGMENTS = int(os.environ.get("SYNC_SCAN_SEGMENTS", "16"))
 
 
 def parse_arguments():
@@ -42,24 +52,22 @@ def query_and_download_items(ecosystem, cutoff_date, dest, scan_table, triage_ta
     ":cutoff_timestamp": since_timestamp
   }
   scan_results = perform_table_scan(scan_table, scan_query, scan_values)
-  
+
+  # Fetch every compromised-lib package once, instead of querying the triage table per
+  # package (which adds a DynamoDB round-trip for each of potentially thousands of items).
+  compromised_libs = fetch_compromised_libs(triage_table, ecosystem)
+
   print(f"Syncing samples of {len(scan_results)} packages")
+
+  pending = []
+  seen_sample_paths = set()
   for item in scan_results:
     package_name = item["package_name"].removeprefix("npm|")
     package_version = item["package_version"]
     if package_name != item["package_name"] and package_version.startswith(NPM_SECURITY_VERSION):
       continue
 
-    # Determine whether this package is a compromised lib and classify the sample accordingly
-    triage_query_key = "package = :package"
-    triage_query_filter = "compromised_lib = :true"
-    triage_query_values = {
-      ":package": f"{package_name}|{ecosystem}",
-      ":true": True,
-    }
-    triage_results = perform_table_query(triage_table, triage_query_key, triage_query_filter, triage_query_values)
-
-    sample_kind = "compromised_lib" if triage_results else "malicious_intent"
+    sample_kind = "compromised_lib" if f"{package_name}|{ecosystem}" in compromised_libs else "malicious_intent"
 
     # `@` is used in place of `/` in forming directory names because it is unambiguously
     # as a replacement character (used for manifest computation) and is already used in
@@ -78,60 +86,102 @@ def query_and_download_items(ecosystem, cutoff_date, dest, scan_table, triage_ta
     if sample_path.is_file():
       continue
 
-    print(f"Downloading files for {package_name}-v{package_version}")
-    with TemporaryDirectory() as tempdir:
-      try:
-        # Download the folder from S3
-        s3_url = f"s3://{s3_bucket}/{ecosystem}/{scan_datetime}/{package_name}/{package_version}/"
-        subprocess.run(['aws', 's3', 'sync', s3_url, tempdir], check=True, capture_output=True)
-      except subprocess.CalledProcessError as e:
-        print("Unable to download: " + str(e))
-        print("Command: " + " ".join(command))
-        print(e.stderr)
-        exit(1)
+    # Guard against duplicate scan rows for the same sample, so two threads never race
+    # to write the same archive.
+    if sample_path in seen_sample_paths:
+      continue
+    seen_sample_paths.add(sample_path)
 
-      Path(sample_directory).mkdir(parents=True, exist_ok=True)
+    s3_url = f"s3://{s3_bucket}/{ecosystem}/{scan_datetime}/{package_name}/{package_version}/"
+    pending.append((package_name, package_version, sample_directory, sample_path, s3_url))
 
-      # We spawn zip because no way to encrypt with the standard ZipFile library...
-      command = ["zip", "--encrypt", "-r", "-P", "infected", sample_path, tempdir]
+  failures = 0
+  with ThreadPoolExecutor(max_workers=DOWNLOAD_CONCURRENCY) as executor:
+    futures = {
+      executor.submit(download_and_zip_sample, dest, *work): work
+      for work in pending
+    }
+    for future in as_completed(futures):
+      package_name, package_version, *_ = futures[future]
       try:
-        subprocess.run(command, check=True, capture_output=True, cwd=dest)
-      except subprocess.CalledProcessError as e:
-        print("Unable to ZIP: " + str(e))
-        print(e.stderr)
-        exit(1)
-      print(f"Wrote new ZIP file {sample_path}")
+        future.result()
+      except Exception as e:
+        # A single package failing to download (e.g. a transient S3 error or a missing
+        # prefix) should not abort the whole sync. Log it and keep going, but report the
+        # failure count to the caller so CI can surface it.
+        failures += 1
+        print(f"Skipping {package_name}-v{package_version}: {e}")
+
+  if failures:
+    print(f"Finished with {failures} package(s) that could not be synced")
+
+  return failures
+
+
+def download_and_zip_sample(dest, package_name, package_version, sample_directory, sample_path, s3_url):
+  print(f"Downloading files for {package_name}-v{package_version}")
+  with TemporaryDirectory() as tempdir:
+    try:
+      subprocess.run(['aws', 's3', 'sync', s3_url, tempdir], check=True, capture_output=True)
+    except subprocess.CalledProcessError as e:
+      raise RuntimeError(f"unable to download {s3_url}: {e.stderr.decode(errors='replace')}") from e
+
+    Path(sample_directory).mkdir(parents=True, exist_ok=True)
+
+    # We spawn zip because no way to encrypt with the standard ZipFile library...
+    command = ["zip", "--encrypt", "-r", "-P", "infected", str(sample_path), tempdir]
+    try:
+      subprocess.run(command, check=True, capture_output=True, cwd=dest)
+    except subprocess.CalledProcessError as e:
+      raise RuntimeError(f"unable to zip {sample_path}: {e.stderr.decode(errors='replace')}") from e
+    print(f"Wrote new ZIP file {sample_path}")
+
+
+def fetch_compromised_libs(triage_table: str, ecosystem: str) -> set:
+  """Return the set of `package|ecosystem` keys flagged as compromised libraries.
+
+  This is a single scan of the triage table, replacing a per-package query that
+  otherwise runs once for every malicious package in the scan results.
+  """
+  results = perform_table_scan(
+    triage_table,
+    "compromised_lib = :true",
+    {":true": True},
+  )
+  return {item["package"] for item in results if item["package"].endswith(f"|{ecosystem}")}
 
 
 def perform_table_scan(table_name: str, filter_expr: str, expr_attr_values: Optional[dict]) -> list:
-  table = boto3.resource("dynamodb").Table(table_name)
-
   scan_args = {
     "FilterExpression": filter_expr,
   }
   if expr_attr_values:
       scan_args["ExpressionAttributeValues"] = expr_attr_values
 
-  return _perform_table_operation(table.scan, scan_args)
+  if SCAN_TOTAL_SEGMENTS <= 1:
+    table = boto3.resource("dynamodb").Table(table_name)
+    return _perform_table_operation(table.scan, scan_args)
+
+  # DynamoDB parallel scan: split the table into independent segments scanned concurrently.
+  # A full-table scan with a FilterExpression reads every item server-side, so without this it
+  # is the slowest part of the sync. boto3 resources are not thread-safe, so each worker builds
+  # its own session.
+  results = []
+  with ThreadPoolExecutor(max_workers=SCAN_TOTAL_SEGMENTS) as executor:
+    futures = [
+      executor.submit(_scan_segment, table_name, scan_args, segment, SCAN_TOTAL_SEGMENTS)
+      for segment in range(SCAN_TOTAL_SEGMENTS)
+    ]
+    for future in futures:
+      results.extend(future.result())
+  return results
 
 
-def perform_table_query(
-  table_name: str,
-  key_condition_expr: str,
-  filter_expr: Optional[str],
-  expr_attr_values: Optional[dict]
-) -> list:
-  table = boto3.resource("dynamodb").Table(table_name)
+def _scan_segment(table_name: str, scan_args: dict, segment: int, total_segments: int) -> list:
+  table = boto3.Session().resource("dynamodb").Table(table_name)
+  segment_args = {**scan_args, "Segment": segment, "TotalSegments": total_segments}
+  return _perform_table_operation(table.scan, segment_args)
 
-  query_args = {
-    "KeyConditionExpression": key_condition_expr,
-  }
-  if filter_expr:
-      query_args["FilterExpression"] = filter_expr
-  if expr_attr_values:
-      query_args["ExpressionAttributeValues"] = expr_attr_values
-
-  return _perform_table_operation(table.query, query_args)
 
 def _perform_table_operation(operation, args: dict) -> list:
   results = []
@@ -153,7 +203,7 @@ def _perform_table_operation(operation, args: dict) -> list:
 
 if __name__ == "__main__":
     args = parse_arguments()
-    query_and_download_items(
+    failures = query_and_download_items(
       args.ecosystem,
       args.since,
       args.destination,
@@ -161,3 +211,6 @@ if __name__ == "__main__":
       args.triage_table,
       args.s3_bucket
     )
+    # Exit non-zero so CI surfaces partial failures, while still having attempted every package.
+    if failures:
+      exit(1)
