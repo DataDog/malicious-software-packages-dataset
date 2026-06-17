@@ -2785,6 +2785,9 @@
     "@mastra/agent-browser": [
         "0.3.2"
     ],
+    "@mastra/agent-builder": [
+        "1.0.42"
+    ],
     "@mastra/agentcore": [
         "0.2.2"
     ],
