@@ -42,17 +42,13 @@ jobs:
 
       - name: Synchronize malicious packages
         run: |
-          sync_failed=0
+          # The sync is atomic: the script exits non-zero if any package fails, which (under
+          # the default `bash -e`) aborts the job before PR creation. Either it fully succeeds
+          # and opens a PR, or it fails with no PR.
           for ecosystem in pypi npm; do
-            # Run every ecosystem even if one reports failures, so a problem syncing pypi
-            # does not block the (much larger) npm sync.
-            python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination $(pwd)/samples/$ecosystem --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --scan-table ${{ secrets.SCAN_TABLE_NAME }} --triage-table ${{ secrets.TRIAGE_TABLE_NAME }} --ecosystem $ecosystem || sync_failed=1
+            python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination $(pwd)/samples/$ecosystem --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --scan-table ${{ secrets.SCAN_TABLE_NAME }} --triage-table ${{ secrets.TRIAGE_TABLE_NAME }} --ecosystem $ecosystem
           done
           python scripts/update-count.py
-          # Fail the job (and skip PR creation) if any package failed, after having attempted
-          # every ecosystem so all failures show up in a single run. The sync is atomic: it
-          # either fully succeeds and opens a PR, or fails with no PR.
-          exit $sync_failed
 
       - uses: DataDog/dd-octo-sts-action@08f2144903ced3254a3dafec2592563409ba2aa0 # v1.0.1
         id: octo-sts
