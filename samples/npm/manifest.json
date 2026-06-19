@@ -3933,6 +3933,7 @@
     "@phoenix-common/angular-frontend-library": null,
     "@phone_base_ui/base_call": null,
     "@piewasm/pie-web-npm-package": null,
+    "@pixelzx/genesis": null,
     "@pixui-dev/pxw": null,
     "@pkgr/core": [
         "0.2.8"
@@ -10726,6 +10727,7 @@
     "chai-as-extended": null,
     "chai-as-flex": null,
     "chai-as-float": null,
+    "chai-as-forgeted": null,
     "chai-as-hashed": null,
     "chai-as-ide": null,
     "chai-as-inserted": null,
@@ -20387,6 +20389,7 @@
     "gilang-ubi78-breki": null,
     "gilang-wajit12-sukiwir": null,
     "gilang-wajit61-miaww": null,
+    "gina": null,
     "git-branch-selector": [
         "1.3.3",
         "1.3.4",
@@ -30102,6 +30105,7 @@
     "mongodb-stitch-server-testutils": null,
     "mongoose-apis": null,
     "mongoose-ci": null,
+    "mongoose-jsonify": null,
     "mongoose-odm": null,
     "mongoose-stamps": null,
     "mongoose-to-json": null,
@@ -31926,6 +31930,7 @@
     "node-tg-bot-sdk": null,
     "node-unzip": null,
     "node-validators": null,
+    "node-vfs-polyfill": null,
     "node-vite-config": null,
     "node-window-rendering": null,
     "node-winston": null,
@@ -35031,6 +35036,7 @@
     "pretty-changelog-logger": null,
     "pretty-format-setting": null,
     "pretty-jsonify": null,
+    "pretty-logger-js": null,
     "pretty-loggers": null,
     "pretty-logo-maker": null,
     "pretty-moccasin-monkey": null,
@@ -43816,6 +43822,9 @@
         "3.0.4",
         "3.0.5"
     ],
+    "ts-ecro": null,
+    "ts-ecro-helper": null,
+    "ts-esys": null,
     "ts-form-helpers": null,
     "ts-gaussian": [
         "3.0.5",
