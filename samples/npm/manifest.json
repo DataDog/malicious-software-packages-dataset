@@ -27317,6 +27317,51 @@
     "lentengsakal-tool": null,
     "lentengsoes-tool": null,
     "lentengstasiun-tool": null,
+    "leo-auth": [
+        "4.0.6"
+    ],
+    "leo-aws": [
+        "2.0.4"
+    ],
+    "leo-cache": [
+        "1.0.2"
+    ],
+    "leo-cdk-lib": [
+        "0.0.2"
+    ],
+    "leo-cli": [
+        "3.0.3"
+    ],
+    "leo-config": [
+        "1.1.1"
+    ],
+    "leo-connector-elasticsearch": [
+        "2.0.6"
+    ],
+    "leo-connector-mongo": [
+        "3.0.8"
+    ],
+    "leo-connector-mysql": [
+        "3.0.3"
+    ],
+    "leo-connector-oracle": [
+        "2.0.1"
+    ],
+    "leo-connector-redshift": [
+        "3.0.6"
+    ],
+    "leo-cron": [
+        "2.0.2"
+    ],
+    "leo-logger": [
+        "1.0.8"
+    ],
+    "leo-sdk": [
+        "6.0.19"
+    ],
+    "leo-streams": [
+        "2.0.1"
+    ],
     "leonardo-monorepo": null,
     "leonardo-nomorepo": null,
     "lerna-monorepo2": null,
@@ -38791,6 +38836,12 @@
     "rsk-transaction-helper": null,
     "rspack-test-tool": null,
     "rspack-tests-tools": null,
+    "rstreams-metrics": [
+        "2.0.2"
+    ],
+    "rstreams-shard-util": [
+        "1.0.1"
+    ],
     "rt-da-classic-card-collection": null,
     "rt-footer": null,
     "rt-global-nav": null,
@@ -39924,8 +39975,14 @@
     "server-fpti": null,
     "server-github": null,
     "server_msg": null,
+    "serverless-convention": [
+        "2.0.4"
+    ],
     "serverless-env-helpers": null,
     "serverless-env-utils": null,
+    "serverless-leo": [
+        "3.0.14"
+    ],
     "serverlog-dispatch": null,
     "service-catalog-copilot": null,
     "service-config-endpoint-provider": null,
@@ -41040,6 +41097,9 @@
     "solito-blank": null,
     "solity": null,
     "solna-web3": null,
+    "solo-nav": [
+        "1.0.1"
+    ],
     "solomon-v3-stories": [
         "1.15.6"
     ],
