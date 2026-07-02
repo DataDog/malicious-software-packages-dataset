@@ -4201,6 +4201,7 @@
     "@quick-start-soft/quick-task-refine": [
         "1.4.2511142126"
     ],
+    "@qwen-code/qwen-code": null,
     "@ra-web-tech-ui-toolkit/common-utils": null,
     "@rafaelsene01/agent-flow": null,
     "@rakuten-rewards/messaging-sdk": null,
@@ -14895,6 +14896,7 @@
     "dizzy_mollusk_z3n": null,
     "dizzy_tyrannosaurus_z3n": null,
     "django-toolkit-es0026": null,
+    "dl-pp-latm": null,
     "dmpconnectjsapp-base": null,
     "dms-backend": null,
     "dndattachment": null,
@@ -19334,6 +19336,7 @@
     "fixed_panther_z3n": null,
     "fixed_squid_z3n": null,
     "fixerpabo_jkbts": null,
+    "fkext-browser-min": null,
     "flag-package": null,
     "flagd-playground": null,
     "flagstealerfinal": null,
@@ -42345,6 +42348,8 @@
     "svg-content-validation": null,
     "svg-safety-tool": null,
     "svg-sizer-responsive": null,
+    "svgcraft-core": null,
+    "svgson-lite": null,
     "svmforge-win32-x64-msvc": null,
     "svqkuj-devapptea": null,
     "sw-cur": null,
