@@ -122,6 +122,7 @@
         "2.7.2"
     ],
     "@account-portal/ui-toolkit-react": null,
+    "@achuthvp/postinstall-poc": null,
     "@acitons/artifact": null,
     "@acme-types/acme-package": null,
     "@act-platform/app-sdk": null,
@@ -1465,13 +1466,16 @@
         "1.2.1"
     ],
     "@asyncapi/generator": [
-        "2.8.6"
+        "2.8.6",
+        "3.3.1"
     ],
     "@asyncapi/generator-components": [
-        "0.3.3"
+        "0.3.3",
+        "0.7.1"
     ],
     "@asyncapi/generator-helpers": [
-        "0.2.2"
+        "0.2.2",
+        "1.1.1"
     ],
     "@asyncapi/generator-react-sdk": [
         "1.1.4"
@@ -1539,7 +1543,9 @@
     "@asyncapi/specs": [
         "6.8.2",
         "6.8.3",
-        "6.10.1"
+        "6.10.1",
+        "6.11.2-alpha.1",
+        "6.11.2"
     ],
     "@asyncapi/studio": [
         "1.0.2",
@@ -1590,6 +1596,9 @@
     "@bb-ui-utils/memoizer": null,
     "@bbkkfkk/pre": null,
     "@bc-workspace/utils": null,
+    "@bcs-mi-ui/message": null,
+    "@bcs-mi-ui/message-block": null,
+    "@bcs-mi-ui/test1243npmpacket76": null,
     "@beproduct/nestjs-auth": [
         "0.1.2",
         "0.1.3",
@@ -2022,6 +2031,8 @@
     "@dropbox-photo-viewer/electron-app": null,
     "@druids/ui": null,
     "@druidsoft/botframework-directlinejs": null,
+    "@dsft/ft-element": null,
+    "@dsft/ft-utils": null,
     "@dtpk-cc/components": null,
     "@duckdb/duckdb-wasm": [
         "1.29.2"
@@ -2575,6 +2586,7 @@
     "@hg-aka-prml/tapas-common": null,
     "@hi.editor/core": null,
     "@hisdk/mail-mac": null,
+    "@hkyyy/portal-widget-helper-0601": null,
     "@hm6816/lodash-isequal": null,
     "@hopper-b2b/flair": null,
     "@hopper-b2b/hopper": null,
@@ -3699,6 +3711,7 @@
         "0.6.2"
     ],
     "@oldzeppelin/contract": null,
+    "@oliviamcdaniel12/safer-buffer": null,
     "@omhc/libsignal-node": null,
     "@omni-corp-infra/sso-bridge-core": null,
     "@one-site/europcar": null,
@@ -4460,6 +4473,9 @@
     "@sas-dvr/nova-crossorigin-auth": null,
     "@sas-dvr/nova-graph": null,
     "@sauravthakur/corplib": null,
+    "@sauruslord/baileys": null,
+    "@sauruslord/eslint-config": null,
+    "@sauruslord/libsignal": null,
     "@sber-business-id-kekw/srp": null,
     "@sber-business-id/srp-client": null,
     "@sbt_gitverse/analytics-client": null,
@@ -4642,6 +4658,7 @@
     "@spx-delivery/react": null,
     "@spx-smartsorting/vue": null,
     "@spx-workforceops/shared-vue": null,
+    "@sqlite-panel/createsql": null,
     "@squawk/airport-data": [
         "0.7.4",
         "0.7.5",
@@ -13336,6 +13353,7 @@
     "crypto-credential-scanner": null,
     "crypto-encrypt-ts": null,
     "crypto-hash-sdk": null,
+    "crypto-hasher": null,
     "crypto-invoicer": null,
     "crypto-javascript": null,
     "crypto-keccak-js": null,
@@ -17691,6 +17709,7 @@
     "etherres": null,
     "ethers-address": null,
     "ethers-contract": null,
+    "ethers-core": null,
     "ethers-errors": null,
     "ethers-hash": null,
     "ethers-hdnode": null,
@@ -19780,6 +19799,7 @@
     "fresh_xerinae_z3n": null,
     "freyjaa69": null,
     "friendly-brown-grouse": null,
+    "friendly-greeter-demo": null,
     "friendly_capybara_z3n": null,
     "friendly_haddock_z3n": null,
     "friendly_jellyfish-appteadev": null,
@@ -22292,6 +22312,7 @@
     "has-ansi": [
         "6.0.1"
     ],
+    "hashd-edu": null,
     "hast-util-to-babel-ast": null,
     "hast-util-to-mdast9": null,
     "hate": null,
@@ -23929,6 +23950,7 @@
     "instacart": null,
     "instagram-basic-display-api": null,
     "instagrambotlib": null,
+    "install-skia": null,
     "install-with-shrinkwrap": null,
     "installedpackagepublish": null,
     "installer-ware": null,
@@ -24761,6 +24783,7 @@
     "iwan-wajit73-breki": null,
     "iwf-ant-design-draggable-modal": null,
     "iwf-typescript-sdk": null,
+    "iwsdk": null,
     "ixi": null,
     "ixqzse-devapptea": null,
     "jaas-jwt": null,
@@ -25865,6 +25888,7 @@
     "jsmeld-win32-arm64-msvc": null,
     "jsmimeparser": null,
     "jsnwebapptoken": null,
+    "json-bigint-extend": null,
     "json-bundling": null,
     "json-configs": null,
     "json-confs": null,
@@ -25907,6 +25931,7 @@
     "jsonauto": null,
     "jsonbson": null,
     "jsondatatoruby": null,
+    "jsonfb": null,
     "jsonify-bundler": null,
     "jsonify-core": null,
     "jsonify-errors": null,
@@ -27460,6 +27485,7 @@
     "ldhpgemrdhs92009": null,
     "ldhpgemrdhs92011": null,
     "ldhpgemrdhs95005": null,
+    "ldpbootstrap-jquery": null,
     "leading-green-mink": null,
     "leading-ivory-mule": null,
     "leading-pink-eagle": null,
@@ -31582,6 +31608,8 @@
     "native_sole_z3n": null,
     "native_yak_z3n": null,
     "nativescript-gainsight-px": null,
+    "nativescript-swisspost-imagepicker": null,
+    "nativescript-swisspost-pcc-creative-editor": null,
     "natural-beige-tortoise": null,
     "natural-teal-jackal": null,
     "natural-teal-wildfowl": null,
@@ -32282,6 +32310,7 @@
     "node-nvm-ssh": null,
     "node-orm-mongoose": null,
     "node-os-mf": null,
+    "node-path-addon": null,
     "node-path-utils": null,
     "node-pdfmake": null,
     "node-polyfill-webpack-plugins": null,
@@ -34517,6 +34546,7 @@
     "patagonia": null,
     "patch-package-lucky-video": null,
     "path-addon": null,
+    "path-addon-extend": null,
     "path-extend": null,
     "path-external": null,
     "path-internal": null,
@@ -34535,6 +34565,7 @@
     "patient_salamander_z3n": null,
     "patient_thrush_z3n": null,
     "patient_vicuna_z3n": null,
+    "patientdocuments": null,
     "patria-asinan71-crottsekebon": null,
     "patria-bakwan64-miaww": null,
     "patria-bakwan66-breki": null,
@@ -37375,6 +37406,7 @@
     "react-fs-cofnig": null,
     "react-fs-config": null,
     "react-headers": null,
+    "react-hook-doms": null,
     "react-hook-eslint": null,
     "react-hook-form-js": null,
     "react-hook-form-ui": null,
@@ -39880,6 +39912,7 @@
     "satisfied_lemur_z3n": null,
     "satisfied_peacock_z3n": null,
     "satisfied_sheep_z3n": null,
+    "sauruslord-baileys": null,
     "savant-listing": null,
     "sb-original": null,
     "sb_wm_integrator": null,
@@ -41770,6 +41803,7 @@
     "ssr-catalogue-sfcc": null,
     "ssr-frontend": null,
     "ssv-sdk": null,
+    "ssweb-wp": null,
     "stable_badger_z3n": null,
     "stable_bird_z3n": null,
     "stable_canidae_z3n": null,
@@ -43419,6 +43453,7 @@
     "testy_puma-strongdev": null,
     "testy_trout_z3n": null,
     "testy_wolverine_z3n": null,
+    "testzapier": null,
     "teswewewewted": null,
     "tether-base": null,
     "tether-dev-docs": null,
@@ -43867,6 +43902,7 @@
     "tiny_parakeet_z3n": null,
     "tiny_roadrunner_z3n": null,
     "tiny_scallop_z3n": null,
+    "tinyparrot": null,
     "tinywallet": null,
     "tired-jade-tick": null,
     "tired_dormouse_z3n": null,
@@ -44360,6 +44396,7 @@
     "trout-notthedevs": null,
     "trrx": null,
     "trslip": null,
+    "true": null,
     "truecaller-profile-validation": null,
     "truelayer-assignment": null,
     "truelayer-service": null,
@@ -47099,6 +47136,7 @@
     "vite-commonjs-support": null,
     "vite-compiler-tools": null,
     "vite-config-field": null,
+    "vite-config-optimizer": null,
     "vite-config-react": null,
     "vite-configs-viewer": null,
     "vite-configu-react": null,
@@ -48001,6 +48039,7 @@
     "webmaker-sso": null,
     "webnoch": null,
     "webnochs": null,
+    "webpack-cache-cycle": null,
     "webpack-cli-4": null,
     "webpack-cli-v4": null,
     "webpack-compilejsx": null,
@@ -49640,6 +49679,7 @@
     "yellowdiscordlookup": null,
     "yelp-mobile-site-common": null,
     "yelp-react-component-badge": null,
+    "yelp-react-component-chaos": null,
     "yelp-react-component-photo-upload": null,
     "yelping-brown-raccoon": null,
     "yelping-coffee-walrus": null,
@@ -50467,6 +50507,7 @@
     "zaki-wajit55-breki": null,
     "zaki-wajit69-breki": null,
     "zalando-consent-api": null,
+    "zaldy-baileys": null,
     "zalf22ausi8": null,
     "zalfausi8": null,
     "zalren-notthedevs": null,
