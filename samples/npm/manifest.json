@@ -1644,6 +1644,7 @@
     "@bitwarden/cli": [
         "2026.4.0"
     ],
+    "@blackbelt-technology/pi-agent-dashboard": null,
     "@blockdaemon-internal/design-system": null,
     "@blocks-shared/desktop-title": null,
     "@bmw-fedev/auth": null,
@@ -3703,6 +3704,7 @@
     "@nytt/sass-utils": null,
     "@od-react/od-react-test": null,
     "@odoreltd/osiris-api": null,
+    "@offa/offa-uwk": null,
     "@okdev/boiler_plate": null,
     "@oku-ui/accordion": [
         "0.6.2"
@@ -5202,6 +5204,7 @@
     "@teiron-inc/app": null,
     "@teiron-inc/app-react": null,
     "@teiron-inc/audio-player": null,
+    "@tekionai/mcp-client": null,
     "@telekom-wfa/auth-core": null,
     "@telepo/web-attendant": null,
     "@template-builder/iframe-api": null,
@@ -7117,6 +7120,7 @@
     "aktsii-gazproma-kupit-fizicheskomu-yxpir9hpn": null,
     "alacritty": null,
     "alaran-notthedevs": null,
+    "alb-lambda-cdk": null,
     "albatross-test2-module": null,
     "alchemy-asset-transfers-benchmark": null,
     "alchemy-web3-webpack-example": null,
@@ -7195,6 +7199,7 @@
     "alone_tapir_z3n": null,
     "alone_tarsier_z3n": null,
     "alone_warbler_z3n": null,
+    "alpha-helper": null,
     "alpha-replicator": null,
     "alpine-csp": null,
     "alright-jade-armadillo": null,
@@ -11075,6 +11080,7 @@
     "chai-guard": null,
     "chai-iotype": null,
     "chai-jsons": null,
+    "chai-leaf": null,
     "chai-lite-lib": null,
     "chai-max": null,
     "chai-min": null,
@@ -24321,6 +24327,7 @@
     "ios-signing-common": null,
     "iosysredis": null,
     "iot-cardboard-js": null,
+    "iot-kfh-s3": null,
     "iot-sdk-device-client-rest-api": null,
     "ip-checker-bg": null,
     "ip-checking": null,
@@ -38117,6 +38124,8 @@
     "relative_swordfish_z3n": null,
     "relative_tortoise_z3n": null,
     "relative_toucan-smiletea": null,
+    "relativity-foundation-core": null,
+    "relativity-pdfjs-dist": null,
     "relaxed-tan-clam": null,
     "relaxed_barnacle_z3n": null,
     "relaxed_crab_z3n": null,
@@ -42404,6 +42413,7 @@
     "supply_chain_supplyer": null,
     "supply_chain_test_quang": null,
     "supplychain-security-demo": null,
+    "supplyhub": null,
     "support-conversations": null,
     "supportgameapp": null,
     "supporting-moccasin-thrush": null,
@@ -42961,6 +42971,7 @@
     "tailwindcss-fontawesome": null,
     "tailwindcss-fonts-bundler": null,
     "tailwindcss-form-bundler": null,
+    "tailwindcss-form-components": null,
     "tailwindcss-forms": null,
     "tailwindcss-forms-animation": null,
     "tailwindcss-forms-bundler": null,
@@ -45806,6 +45817,7 @@
     "updox": null,
     "upgrade-solara": null,
     "uphold-sdk-javascript-extensions": null,
+    "upjsma": null,
     "upload-artifact": null,
     "upload-to-play-store": [
         "1.0.1"
