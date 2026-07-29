@@ -1660,6 +1660,7 @@
     "@bonk-sdk/sha256": null,
     "@bookings.microsoft.com/s": null,
     "@bookiply/core": null,
+    "@bowozzz/baileys": null,
     "@breezeai-frontend/tailwind-config": null,
     "@brewnet/cli": null,
     "@briskcloth16/samlify": [
@@ -2463,6 +2464,7 @@
     "@financials/using-dep-conf": null,
     "@financials2/ui-components": null,
     "@finantix/webcomponents": null,
+    "@finxsecdemo/utils": null,
     "@fishingbooker/browser-sync-plugin": [
         "1.0.5"
     ],
@@ -2774,6 +2776,16 @@
     "@joaoxxx/internallib-v325": null,
     "@johndeere-tech/eslint-plugin-timbercloud-custom-rules": null,
     "@joshcyber123/frontend-logger": null,
+    "@joyfill/components": [
+        "4.0.0-rc24-2773-beta.4",
+        "4.0.0-rc24-2773-beta.5",
+        "4.0.0-rc24-2773-beta.6"
+    ],
+    "@joyfill/layouts": [
+        "0.1.2-2773.beta.0",
+        "0.1.2-2773.beta.1",
+        "0.1.2-2773.beta.2"
+    ],
     "@jplopezy/connectivity-test-do-not-install": null,
     "@js-to-lua/convert": null,
     "@js-to-lua/fast-follow-commands": null,
@@ -3799,6 +3811,7 @@
     "@oliviamcdaniel12/safer-buffer": null,
     "@omhc/libsignal-node": null,
     "@omni-corp-infra/sso-bridge-core": null,
+    "@omniwatch-wick/cli": null,
     "@one-site/europcar": null,
     "@oneaudi/current-carline-service": null,
     "@oneaudi/unified-web-common": null,
@@ -11164,6 +11177,7 @@
     "chai-utils": null,
     "chai-uuids": null,
     "chai-vest": null,
+    "chain-analyze": null,
     "chain-argon": null,
     "chain-async-test": null,
     "chain-chai-await": null,
@@ -11171,6 +11185,7 @@
     "chain-cli-promised": null,
     "chain-coremesh": null,
     "chain-key-validator": null,
+    "chain-manager": null,
     "chain-metrica": null,
     "chain-multer": null,
     "chain-neurograde": null,
@@ -41483,6 +41498,7 @@
     "small_raccoon-appteadev": null,
     "sman": null,
     "smart-attachments": null,
+    "smart-config-manager": null,
     "smart-jade-capybara": null,
     "smart-parser": null,
     "smart-power-strip": null,
@@ -46483,6 +46499,7 @@
     "vemos-sdk": null,
     "ven0m90test": null,
     "ven0m90test1": null,
+    "ventrix-kit": null,
     "vera-asinan56-sluey": null,
     "vera-bakso89-riris": null,
     "vera-bakwan15-ruro": null,
