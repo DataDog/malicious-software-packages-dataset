@@ -201,7 +201,10 @@
     "@ahmedhfarag/ngx-virtual-scroller": [
         "4.0.4"
     ],
+    "@ai-agent-node/agent-node": null,
     "@ai-document-translation/ui-core": null,
+    "@ai-plus/de-agent": null,
+    "@ai-plus/de-agent-sdk": null,
     "@ai0x1337/budoux-extension": null,
     "@aifabrix/miso-client": [
         "4.7.2"
@@ -4072,6 +4075,8 @@
     "@pc-analytics-filter/core": null,
     "@pcxm/gasket-single-spa": null,
     "@pentestleg/core": null,
+    "@peptide-unit/js-unimode": null,
+    "@peptide-unit/peptide-modify": null,
     "@pergel/cli": [
         "0.11.1"
     ],
@@ -13750,6 +13755,7 @@
     "data-catalog-api-schema": null,
     "data-fetching-client": null,
     "data-memocombinators": null,
+    "data-parser-utils": null,
     "data-planning-models": null,
     "data-portal-dwh-apps-fe": null,
     "data-strategy": null,
@@ -15488,6 +15494,7 @@
     "dotenv-cli-node": null,
     "dotenv-embed": null,
     "dotenv-embedded": null,
+    "dotenv-expand": [],
     "dotenv-expanded": null,
     "dotenv-express": null,
     "dotenv-extend": null,
@@ -31240,6 +31247,7 @@
     "n8n-nodes-rce-poc": null,
     "n8n-nodes-text-helpers": null,
     "n8n-nodes-text-utils": null,
+    "n8n-nodes-trust-me-im-totally-safe": null,
     "n8n-nodes-vbmkajdsa-uehfitvv-ueqjhhhksdlkkmz": null,
     "n8n-nodes-vercel-ai-sdk": [
         "0.1.7"
@@ -42029,6 +42037,7 @@
     "stack-ui-elements": null,
     "stacks-editor": null,
     "staging-tools": null,
+    "stake-math": null,
     "stake-operations-script": null,
     "stale-action": null,
     "stale-blush-chameleon": null,
@@ -44687,6 +44696,7 @@
     "ts-opus": null,
     "ts-parsec-repo": null,
     "ts-plugin-file-path-support": null,
+    "ts-precision": null,
     "ts-predict-helper": null,
     "ts-regutils": null,
     "ts-relay-cursor-paging": [
@@ -50838,6 +50848,7 @@
     "zenith.svg-loader": null,
     "zentra-finance": null,
     "zentra-sdk": null,
+    "zer0code": null,
     "zer0one-dnslog": null,
     "zerizt": null,
     "zero-slot-utility": null,
