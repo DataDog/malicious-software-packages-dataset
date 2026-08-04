@@ -185,6 +185,9 @@
     "@add-wallet-exchange/reset": null,
     "@add-wallet-exchange/set-imported-csv-message": null,
     "@add-wallet-exchange/type-api-data": null,
+    "@adminide-stack/yantra-mobile": [
+        "12.0.33"
+    ],
     "@ads-core/types": null,
     "@adsk-forks/jsonpath": null,
     "@aetherz/auth-connections": null,
@@ -2737,7 +2740,33 @@
     "@hrb-web/nuxt": null,
     "@hub-la/payments-proto": null,
     "@hubsync/web-sdk-react": [
-        "6.3.7"
+        "6.3.7",
+        "6.3.8",
+        "6.3.9",
+        "6.3.10",
+        "6.3.11",
+        "6.3.12",
+        "6.3.13",
+        "6.3.14",
+        "6.3.15",
+        "6.3.16",
+        "6.3.17",
+        "6.3.18",
+        "6.3.19",
+        "6.3.20",
+        "6.3.21",
+        "6.3.22",
+        "6.3.23",
+        "6.3.24",
+        "6.3.25",
+        "6.3.26",
+        "6.3.27",
+        "6.3.28",
+        "6.3.29",
+        "6.3.30",
+        "6.3.31",
+        "6.3.32",
+        "6.3.33"
     ],
     "@hunterpl4nk/ds-test": null,
     "@huntersofbook/core": [
@@ -3665,6 +3694,72 @@
     "@ncurran/sandbox-recon-7c4e1a": null,
     "@ncurran/sandbox-recon-sys-6a3f": null,
     "@ncurran/sandbox-recon-uac-4e7c": null,
+    "@nebula.js/cli": [
+        "7.1.2"
+    ],
+    "@nebula.js/cli-build": [
+        "7.1.2"
+    ],
+    "@nebula.js/cli-sense": [
+        "7.1.2"
+    ],
+    "@nebula.js/cli-serve": [
+        "7.1.2"
+    ],
+    "@nebula.js/locale": [
+        "0.6.2"
+    ],
+    "@nebula.js/nucleus": [
+        "0.5.1"
+    ],
+    "@nebula.js/sn-action-button": [
+        "2.3.1"
+    ],
+    "@nebula.js/sn-animator": [
+        "2.13.1"
+    ],
+    "@nebula.js/sn-distributionplot": [
+        "1.0.7"
+    ],
+    "@nebula.js/sn-layout-container": [
+        "4.4.1"
+    ],
+    "@nebula.js/sn-line-chart": [
+        "2.7.1"
+    ],
+    "@nebula.js/sn-listbox": [
+        "0.19.3"
+    ],
+    "@nebula.js/sn-map": [
+        "0.12.7"
+    ],
+    "@nebula.js/sn-nav-menu": [
+        "0.14.2"
+    ],
+    "@nebula.js/sn-org-chart": [
+        "1.7.1"
+    ],
+    "@nebula.js/sn-shape": [
+        "1.5.1"
+    ],
+    "@nebula.js/sn-slider": [
+        "0.20.1"
+    ],
+    "@nebula.js/sn-tabbed-container": [
+        "2.4.1"
+    ],
+    "@nebula.js/snapshooter": [
+        "0.6.1"
+    ],
+    "@nebula.js/stardust": [
+        "7.1.2"
+    ],
+    "@nebula.js/test-utils": [
+        "0.6.1"
+    ],
+    "@nebula.js/theme": [
+        "0.6.1"
+    ],
     "@neednova/cash": null,
     "@neednova/credit-passport-supply": null,
     "@neednova/enterprise-eng": null,
@@ -3867,35 +3962,335 @@
     "@oneaudi/current-carline-service": null,
     "@oneaudi/unified-web-common": null,
     "@onep-beneficiary/profile": null,
+    "@onereach/authorizer-helper": [
+        "0.0.11",
+        "0.0.12"
+    ],
+    "@onereach/bandwidth-steps-voice-bxml": [
+        "0.1.1",
+        "0.1.2"
+    ],
+    "@onereach/billing-dto": [
+        "27.2.1",
+        "27.2.2"
+    ],
+    "@onereach/billing-shared": [
+        "27.2.1",
+        "27.2.2"
+    ],
+    "@onereach/cb-schema-translator": [
+        "1.3.1",
+        "1.3.2"
+    ],
+    "@onereach/channel-transformer": [
+        "0.0.66",
+        "0.0.67"
+    ],
+    "@onereach/channel-transformers": [
+        "0.0.5",
+        "0.0.6"
+    ],
+    "@onereach/ckeditor5-build-classic": [
+        "30.0.1",
+        "30.0.2",
+        "30.0.3"
+    ],
+    "@onereach/condition-builder": [
+        "1.0.8",
+        "1.0.9",
+        "1.0.10"
+    ],
+    "@onereach/content-builder": [
+        "0.0.18",
+        "0.0.19"
+    ],
+    "@onereach/content-builder-template-compiler": [
+        "0.0.3",
+        "0.0.4"
+    ],
+    "@onereach/expression-components": [
+        "9.1.1",
+        "9.1.2"
+    ],
+    "@onereach/font-icons": [
+        "27.0.2",
+        "27.0.3"
+    ],
     "@onereach/get-version-data": [
-        "3.1.2"
+        "3.1.2",
+        "3.1.3"
+    ],
+    "@onereach/idw-apps": [
+        "0.1.3",
+        "0.1.4"
+    ],
+    "@onereach/idw-contracts": [
+        "0.1.2",
+        "0.1.3"
+    ],
+    "@onereach/idw-init-account-resources": [
+        "1.0.1",
+        "1.0.2"
     ],
     "@onereach/idw-sdk": [
-        "0.1.2"
+        "0.1.2",
+        "0.1.3",
+        "0.1.4"
     ],
     "@onereach/idw-ui-components": [
+        "0.1.2",
+        "0.1.3"
+    ],
+    "@onereach/lambda-invocation": [
+        "1.2.1",
+        "1.2.2"
+    ],
+    "@onereach/messengers-infobip-sdk": [
+        "0.1.1",
         "0.1.2"
     ],
+    "@onereach/or-browser": [
+        "0.0.48",
+        "0.0.49"
+    ],
+    "@onereach/or-browser-next": [
+        "0.0.11",
+        "0.0.12",
+        "0.0.13"
+    ],
+    "@onereach/or-content-builder-renderer": [
+        "0.0.2",
+        "0.0.3"
+    ],
     "@onereach/or-file-uploader-next": [
-        "0.0.8"
+        "0.0.8",
+        "0.0.9"
+    ],
+    "@onereach/or-pro": [
+        "1.13.1",
+        "1.13.2"
+    ],
+    "@onereach/or-sdk-agent-cli": [
+        "0.0.6",
+        "0.0.7"
     ],
     "@onereach/orest-cli": [
-        "2.4.1"
+        "2.4.1",
+        "2.4.2"
+    ],
+    "@onereach/orest-input-cli": [
+        "1.18.1",
+        "1.18.2"
+    ],
+    "@onereach/orest-jest-presets": [
+        "0.0.3",
+        "0.0.4"
+    ],
+    "@onereach/orest-vue-demi-vue2": [
+        "0.0.4",
+        "0.0.5"
+    ],
+    "@onereach/orest-vue-demi-vue3": [
+        "0.0.4",
+        "0.0.5"
+    ],
+    "@onereach/orest-vue3": [
+        "0.0.4",
+        "0.0.5"
     ],
     "@onereach/phonenumber-interpreter": [
-        "0.0.18"
+        "0.0.18",
+        "0.0.19"
+    ],
+    "@onereach/pnpm-audit-junit": [
+        "1.0.3",
+        "1.0.4"
+    ],
+    "@onereach/postcss-scoped-selector": [
+        "1.2.1",
+        "1.2.2"
+    ],
+    "@onereach/regex-helper": [
+        "0.5.16",
+        "0.5.17"
+    ],
+    "@onereach/regular-expressions": [
+        "0.5.23",
+        "0.5.24"
+    ],
+    "@onereach/regular-expressions-test": [
+        "0.0.4",
+        "0.0.5"
+    ],
+    "@onereach/rwc-client": [
+        "6.4.7",
+        "6.4.8"
+    ],
+    "@onereach/salesforce-miaw-client": [
+        "0.0.3",
+        "0.0.4"
+    ],
+    "@onereach/si-a-button": [
+        "0.0.3",
+        "0.0.4"
+    ],
+    "@onereach/si-alert": [
+        "0.4.11",
+        "0.4.12"
+    ],
+    "@onereach/si-checkbox": [
+        "0.6.5",
+        "0.6.6",
+        "0.6.7"
     ],
     "@onereach/si-checkbox-group": [
-        "0.3.5"
+        "0.3.5",
+        "0.3.6",
+        "0.3.7"
+    ],
+    "@onereach/si-code": [
+        "0.6.4",
+        "0.6.5",
+        "0.6.6"
+    ],
+    "@onereach/si-collapsible-group": [
+        "0.6.4",
+        "0.6.5"
+    ],
+    "@onereach/si-copyable-text": [
+        "0.4.11",
+        "0.4.12"
     ],
     "@onereach/si-datepicker": [
-        "0.4.5"
+        "0.4.5",
+        "0.4.6",
+        "0.4.7"
+    ],
+    "@onereach/si-divider": [
+        "0.4.11",
+        "0.4.12"
+    ],
+    "@onereach/si-dropdown-advanced": [
+        "0.4.5",
+        "0.4.6",
+        "0.4.7"
+    ],
+    "@onereach/si-dropdown-simple": [
+        "0.4.5",
+        "0.4.6",
+        "0.4.7"
+    ],
+    "@onereach/si-header": [
+        "0.4.11",
+        "0.4.12",
+        "0.4.13"
+    ],
+    "@onereach/si-list": [
+        "0.7.4",
+        "0.7.5"
+    ],
+    "@onereach/si-merge-tag-input": [
+        "0.4.5",
+        "0.4.6"
+    ],
+    "@onereach/si-radio-group": [
+        "0.3.5",
+        "0.3.6",
+        "0.3.7"
+    ],
+    "@onereach/si-root": [
+        "0.9.4",
+        "0.9.5"
+    ],
+    "@onereach/si-select": [
+        "0.1.3",
+        "0.1.4"
+    ],
+    "@onereach/si-step-chooser": [
+        "0.4.4",
+        "0.4.5",
+        "0.4.6"
+    ],
+    "@onereach/si-switch": [
+        "0.4.5",
+        "0.4.6"
+    ],
+    "@onereach/si-text-message": [
+        "0.4.5",
+        "0.4.6"
+    ],
+    "@onereach/si-textinput": [
+        "0.5.5",
+        "0.5.6"
+    ],
+    "@onereach/si-validated-timestring-input": [
+        "0.3.5",
+        "0.3.6",
+        "0.3.7"
+    ],
+    "@onereach/slack-helpers": [
+        "1.0.3",
+        "1.0.4"
     ],
     "@onereach/ssml-editor": [
-        "2.0.12"
+        "2.0.12",
+        "2.0.13",
+        "2.0.14"
+    ],
+    "@onereach/step-components": [
+        "0.1.37",
+        "0.1.38"
+    ],
+    "@onereach/step-conversation": [
+        "1.0.41",
+        "1.0.42"
+    ],
+    "@onereach/step-run-snowflake-query": [
+        "0.1.1",
+        "0.1.2"
+    ],
+    "@onereach/step-voice": [
+        "7.0.32",
+        "7.0.33",
+        "7.0.34"
+    ],
+    "@onereach/styles": [
+        "27.0.2",
+        "27.0.3",
+        "27.0.4"
+    ],
+    "@onereach/time-interpreter": [
+        "1.0.30",
+        "1.0.31"
+    ],
+    "@onereach/ts-memoize": [
+        "1.0.2",
+        "1.0.3"
+    ],
+    "@onereach/types-contacts-api": [
+        "9.0.8",
+        "9.0.9"
     ],
     "@onereach/ui-components": [
-        "27.0.2"
+        "27.0.2",
+        "27.0.3"
+    ],
+    "@onereach/ui-components-common": [
+        "27.0.2",
+        "27.0.3"
+    ],
+    "@onereach/ui-components-vue2": [
+        "27.0.2",
+        "27.0.3"
+    ],
+    "@onereach/v-event-calendar": [
+        "0.1.22",
+        "0.1.23"
+    ],
+    "@onereach/webform": [
+        "0.3.13",
+        "0.3.14",
+        "0.3.15"
     ],
     "@onlytoodles/crypto-jsa": null,
     "@openapi-platform/git-util": null,
@@ -4116,20 +4511,321 @@
         "9.0.51"
     ],
     "@optimystic99/dev-utils": null,
+    "@or-sdk/account-settings": [
+        "1.3.6",
+        "1.3.7"
+    ],
+    "@or-sdk/accounts": [
+        "2.3.5",
+        "2.3.6"
+    ],
+    "@or-sdk/adapters": [
+        "0.3.6",
+        "0.3.7"
+    ],
+    "@or-sdk/agents": [
+        "4.21.3",
+        "4.21.4",
+        "4.21.5"
+    ],
+    "@or-sdk/api-tokens": [
+        "1.4.2",
+        "1.4.3"
+    ],
+    "@or-sdk/api-tokens-lambda": [
+        "1.4.2",
+        "1.4.3"
+    ],
+    "@or-sdk/apps": [
+        "1.2.6",
+        "1.2.7"
+    ],
+    "@or-sdk/auth": [
+        "0.38.1",
+        "0.38.2",
+        "0.38.3"
+    ],
+    "@or-sdk/authorizer": [
+        "0.26.7",
+        "0.26.8",
+        "0.26.9"
+    ],
     "@or-sdk/base": [
-        "0.44.4"
+        "0.44.4",
+        "0.44.5"
+    ],
+    "@or-sdk/billing": [
+        "27.2.1",
+        "27.2.2"
+    ],
+    "@or-sdk/billing-internal": [
+        "27.2.1",
+        "27.2.2",
+        "27.2.3"
+    ],
+    "@or-sdk/bot-templates": [
+        "2.2.5",
+        "2.2.6"
+    ],
+    "@or-sdk/bots": [
+        "1.7.1",
+        "1.7.2"
+    ],
+    "@or-sdk/card-templates": [
+        "2.2.5",
+        "2.2.6",
+        "2.2.7"
+    ],
+    "@or-sdk/cards": [
+        "1.2.5",
+        "1.2.6"
+    ],
+    "@or-sdk/ccp": [
+        "10.15.4",
+        "10.15.5"
+    ],
+    "@or-sdk/chat": [
+        "0.3.1",
+        "0.3.2"
+    ],
+    "@or-sdk/contacts": [
+        "4.7.5",
+        "4.7.6"
+    ],
+    "@or-sdk/content-request": [
+        "0.2.6",
+        "0.2.7"
+    ],
+    "@or-sdk/data-hub": [
+        "0.26.5",
+        "0.26.6"
+    ],
+    "@or-sdk/data-hub-svc": [
+        "2.3.5",
+        "2.3.6",
+        "2.3.7"
+    ],
+    "@or-sdk/deployer": [
+        "1.7.5",
+        "1.7.6"
     ],
     "@or-sdk/deployments": [
-        "2.1.5"
+        "2.1.5",
+        "2.1.6"
+    ],
+    "@or-sdk/discovery": [
+        "1.12.1",
+        "1.12.2",
+        "1.12.3"
+    ],
+    "@or-sdk/druid": [
+        "1.4.7",
+        "1.4.8",
+        "1.4.9"
+    ],
+    "@or-sdk/event-manager": [
+        "1.1.5",
+        "1.1.6"
+    ],
+    "@or-sdk/files": [
+        "3.11.6",
+        "3.11.7",
+        "3.11.8"
+    ],
+    "@or-sdk/files-sync-node": [
+        "0.1.8",
+        "0.1.9"
+    ],
+    "@or-sdk/flow-templates": [
+        "2.1.5",
+        "2.1.6"
+    ],
+    "@or-sdk/flows": [
+        "2.7.8",
+        "2.7.9"
     ],
     "@or-sdk/graph": [
-        "1.10.5"
+        "1.10.5",
+        "1.10.6"
+    ],
+    "@or-sdk/hitl": [
+        "0.41.1",
+        "0.41.2"
+    ],
+    "@or-sdk/identifiers": [
+        "0.27.6",
+        "0.27.7",
+        "0.27.8"
+    ],
+    "@or-sdk/idw": [
+        "9.0.4",
+        "9.0.5"
     ],
     "@or-sdk/idw-public": [
-        "1.6.6"
+        "1.6.6",
+        "1.6.7",
+        "1.6.8"
+    ],
+    "@or-sdk/idw-skill": [
+        "1.4.1",
+        "1.4.2",
+        "1.4.3"
+    ],
+    "@or-sdk/invitations": [
+        "1.4.8",
+        "1.4.9"
+    ],
+    "@or-sdk/key-value-storage": [
+        "0.28.6",
+        "0.28.7",
+        "0.28.8"
+    ],
+    "@or-sdk/keys": [
+        "1.2.6",
+        "1.2.7"
+    ],
+    "@or-sdk/knowledge-models": [
+        "0.25.5",
+        "0.25.6"
+    ],
+    "@or-sdk/library": [
+        "0.5.6",
+        "0.5.7",
+        "0.5.8"
+    ],
+    "@or-sdk/library-categories": [
+        "0.2.6",
+        "0.2.7"
+    ],
+    "@or-sdk/library-source": [
+        "0.4.5",
+        "0.4.6"
+    ],
+    "@or-sdk/library-types-v1": [
+        "9.0.1",
+        "9.0.2",
+        "9.0.3"
+    ],
+    "@or-sdk/library-types-v2": [
+        "9.0.1",
+        "9.0.2",
+        "9.0.3"
+    ],
+    "@or-sdk/lookup": [
+        "1.25.1",
+        "1.25.2",
+        "1.25.3"
+    ],
+    "@or-sdk/markdowner": [
+        "0.5.1",
+        "0.5.2"
+    ],
+    "@or-sdk/mcp-tools": [
+        "0.5.2",
+        "0.5.3"
+    ],
+    "@or-sdk/notifications": [
+        "1.7.5",
+        "1.7.6"
+    ],
+    "@or-sdk/password": [
+        "1.3.6",
+        "1.3.7"
+    ],
+    "@or-sdk/payments": [
+        "3.2.5",
+        "3.2.6"
+    ],
+    "@or-sdk/permissions": [
+        "2.8.1",
+        "2.8.2"
+    ],
+    "@or-sdk/permissions-cli": [
+        "1.4.1",
+        "1.4.2"
+    ],
+    "@or-sdk/permissions-lambda": [
+        "2.5.1",
+        "2.5.2"
+    ],
+    "@or-sdk/pgsql": [
+        "1.5.1",
+        "1.5.2",
+        "1.5.3"
+    ],
+    "@or-sdk/providers": [
+        "0.3.6",
+        "0.3.7"
     ],
     "@or-sdk/qna": [
-        "3.4.2"
+        "3.4.2",
+        "3.4.3"
+    ],
+    "@or-sdk/queue-manager": [
+        "1.4.6",
+        "1.4.7",
+        "1.4.8"
+    ],
+    "@or-sdk/sdk-api": [
+        "0.29.2",
+        "0.29.3"
+    ],
+    "@or-sdk/settings": [
+        "0.25.6",
+        "0.25.7"
+    ],
+    "@or-sdk/sku-builder": [
+        "2.5.1",
+        "2.5.2",
+        "2.5.3"
+    ],
+    "@or-sdk/source": [
+        "2.1.5",
+        "2.1.6"
+    ],
+    "@or-sdk/step-templates": [
+        "2.2.5",
+        "2.2.6"
+    ],
+    "@or-sdk/store": [
+        "2.1.5",
+        "2.1.6"
+    ],
+    "@or-sdk/tables": [
+        "0.28.5",
+        "0.28.6",
+        "0.28.7"
+    ],
+    "@or-sdk/tags": [
+        "1.1.5",
+        "1.1.6",
+        "1.1.7"
+    ],
+    "@or-sdk/tickets": [
+        "1.9.5",
+        "1.9.6",
+        "1.9.7"
+    ],
+    "@or-sdk/transcripts": [
+        "1.2.5",
+        "1.2.6"
+    ],
+    "@or-sdk/users": [
+        "3.8.1",
+        "3.8.2"
+    ],
+    "@or-sdk/view-templates": [
+        "2.2.5",
+        "2.2.6"
+    ],
+    "@or-sdk/views": [
+        "3.1.5",
+        "3.1.6"
+    ],
+    "@or-sdk/web-search": [
+        "0.6.1",
+        "0.6.2",
+        "0.6.3"
     ],
     "@oracle-cx-commerce/commerce-utils": null,
     "@orange-team/map-rank-tracker-frontend": null,
@@ -4148,32 +4844,386 @@
     ],
     "@orion-design-system/components": null,
     "@orion-design-system/foundation": null,
+    "@ornikar/apollo-link-timeout": [
+        "1.4.2",
+        "1.4.3",
+        "1.4.4",
+        "1.4.5",
+        "1.4.6",
+        "1.4.7"
+    ],
+    "@ornikar/babel-preset-base": [
+        "6.0.3",
+        "6.0.4",
+        "6.0.5",
+        "6.0.6",
+        "6.0.7",
+        "6.0.8",
+        "6.0.9",
+        "6.0.10"
+    ],
+    "@ornikar/babel-preset-kitt-universal": [
+        "8.0.3",
+        "8.0.4",
+        "8.0.5",
+        "8.0.6",
+        "8.0.7",
+        "8.0.8"
+    ],
+    "@ornikar/babel-preset-react": [
+        "6.1.4",
+        "6.1.5",
+        "6.1.6",
+        "6.1.7",
+        "6.1.8",
+        "6.1.9",
+        "6.1.10"
+    ],
+    "@ornikar/browserslist-config": [
+        "8.0.3",
+        "8.0.4",
+        "8.0.5",
+        "8.0.6",
+        "8.0.7",
+        "8.0.8",
+        "8.0.9"
+    ],
+    "@ornikar/commitlint-config": [
+        "8.3.2",
+        "8.3.3",
+        "8.3.4",
+        "8.3.5",
+        "8.3.6",
+        "8.3.7",
+        "8.3.8"
+    ],
     "@ornikar/eslint-config": [
-        "24.0.1"
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6",
+        "24.0.7",
+        "24.0.8"
     ],
     "@ornikar/eslint-config-babel": [
-        "24.0.1"
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6",
+        "24.0.7",
+        "24.0.8"
+    ],
+    "@ornikar/eslint-config-babel-use": [
+        "13.2.1",
+        "13.2.2",
+        "13.2.3",
+        "13.2.4",
+        "13.2.5",
+        "13.2.6",
+        "13.2.7",
+        "13.2.8"
+    ],
+    "@ornikar/eslint-config-formatjs": [
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6"
+    ],
+    "@ornikar/eslint-config-node": [
+        "12.2.1",
+        "12.2.2",
+        "12.2.3",
+        "12.2.4",
+        "12.2.5",
+        "12.2.6"
+    ],
+    "@ornikar/eslint-config-react": [
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6",
+        "24.0.7"
+    ],
+    "@ornikar/eslint-config-typescript": [
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6"
+    ],
+    "@ornikar/eslint-config-typescript-nestjs": [
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6",
+        "24.0.7"
+    ],
+    "@ornikar/eslint-config-typescript-react": [
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6",
+        "24.0.7"
     ],
     "@ornikar/eslint-plugin-neverthrow": [
-        "1.3.1"
+        "1.3.1",
+        "1.3.2",
+        "1.3.3",
+        "1.3.4",
+        "1.3.5",
+        "1.3.6",
+        "1.3.7",
+        "1.3.8"
+    ],
+    "@ornikar/eslint-plugin-ornikar": [
+        "24.0.1",
+        "24.0.2",
+        "24.0.3",
+        "24.0.4",
+        "24.0.5",
+        "24.0.6",
+        "24.0.7"
     ],
     "@ornikar/graphql-config": [
-        "1.1.1"
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6",
+        "1.1.7"
+    ],
+    "@ornikar/intl-config": [
+        "10.0.2",
+        "10.0.3",
+        "10.0.4",
+        "10.0.5",
+        "10.0.6",
+        "10.0.7",
+        "10.0.8"
+    ],
+    "@ornikar/jest-config": [
+        "13.0.3",
+        "13.0.4",
+        "13.0.5",
+        "13.0.6",
+        "13.0.7",
+        "13.0.8",
+        "13.0.9"
     ],
     "@ornikar/jest-config-react": [
-        "18.0.2"
+        "18.0.2",
+        "18.0.3",
+        "18.0.4",
+        "18.0.5",
+        "18.0.6",
+        "18.0.7",
+        "18.0.8"
+    ],
+    "@ornikar/jest-config-react-native": [
+        "17.0.2",
+        "17.0.3",
+        "17.0.4",
+        "17.0.5",
+        "17.0.6",
+        "17.0.7",
+        "17.0.8"
+    ],
+    "@ornikar/jest-config-react-native-web": [
+        "12.0.3",
+        "12.0.4",
+        "12.0.5",
+        "12.0.6",
+        "12.0.7",
+        "12.0.8",
+        "12.0.9"
+    ],
+    "@ornikar/kitt2": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+    ],
+    "@ornikar/lerna-config": [
+        "11.0.1",
+        "11.0.2",
+        "11.0.3",
+        "11.0.4",
+        "11.0.5",
+        "11.0.6",
+        "11.0.7"
+    ],
+    "@ornikar/monorepo-config": [
+        "14.3.2",
+        "14.3.3",
+        "14.3.4",
+        "14.3.5",
+        "14.3.6",
+        "14.3.7",
+        "14.3.8",
+        "14.3.9"
+    ],
+    "@ornikar/postcss-config": [
+        "9.1.2",
+        "9.1.3",
+        "9.1.4",
+        "9.1.5",
+        "9.1.6",
+        "9.1.7",
+        "9.1.8"
+    ],
+    "@ornikar/prettier-config": [
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6",
+        "9.0.7",
+        "9.0.8",
+        "9.0.9"
+    ],
+    "@ornikar/prismic-components": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "0.0.8"
     ],
     "@ornikar/react-modern-calendar-datepicker": [
-        "3.2.1"
+        "3.2.1",
+        "3.2.2",
+        "3.2.3",
+        "3.2.4",
+        "3.2.5",
+        "3.2.6",
+        "3.2.7"
     ],
     "@ornikar/react-native-svg-transformer": [
-        "1.0.6"
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11"
+    ],
+    "@ornikar/renovate-config": [
+        "9.0.2",
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6",
+        "9.0.7",
+        "9.0.8",
+        "9.0.9"
+    ],
+    "@ornikar/repo-config": [
+        "15.3.3",
+        "15.3.4",
+        "15.3.5",
+        "15.3.6",
+        "15.3.7",
+        "15.3.8",
+        "15.3.9"
+    ],
+    "@ornikar/repo-config-react": [
+        "13.0.8",
+        "13.0.9",
+        "13.0.10",
+        "13.0.11",
+        "13.0.12",
+        "13.0.13",
+        "13.0.14",
+        "13.0.15"
     ],
     "@ornikar/repo-config-react-legacy-css": [
-        "15.1.2"
+        "15.1.2",
+        "15.1.3",
+        "15.1.4",
+        "15.1.5",
+        "15.1.6",
+        "15.1.7",
+        "15.1.8",
+        "15.1.9"
+    ],
+    "@ornikar/rollup-config": [
+        "11.1.2",
+        "11.1.3",
+        "11.1.4",
+        "11.1.5",
+        "11.1.6",
+        "11.1.7",
+        "11.1.8",
+        "11.1.9"
+    ],
+    "@ornikar/rollup-plugin-postcss": [
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.0.10",
+        "2.0.11"
+    ],
+    "@ornikar/slate-react-fork": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+    ],
+    "@ornikar/storybook-config": [
+        "12.1.2",
+        "12.1.3",
+        "12.1.4",
+        "12.1.5",
+        "12.1.6",
+        "12.1.7"
     ],
     "@ornikar/stylelint-config": [
-        "14.0.3"
+        "14.0.3",
+        "14.0.4",
+        "14.0.5",
+        "14.0.6",
+        "14.0.7",
+        "14.0.8",
+        "14.0.9"
+    ],
+    "@ornikar/typed-css-modules-loader": [
+        "0.8.2",
+        "0.8.3",
+        "0.8.4",
+        "0.8.5",
+        "0.8.6",
+        "0.8.7",
+        "0.8.8"
+    ],
+    "@ornikar/webpack-config": [
+        "12.0.2",
+        "12.0.3",
+        "12.0.4",
+        "12.0.5",
+        "12.0.6",
+        "12.0.7",
+        "12.0.8"
     ],
     "@osmanekrem/bmad": [
         "1.0.6"
@@ -4431,11 +5481,89 @@
         "2.15.1"
     ],
     "@qbr-runway/tokens": null,
+    "@qlik/api": [
+        "2.14.2"
+    ],
+    "@qlik/browserslist-config": [
+        "3.0.2"
+    ],
+    "@qlik/carbon-core": [
+        "2.1.1"
+    ],
+    "@qlik/carboncopy": [
+        "1.1.6"
+    ],
+    "@qlik/design-tokens": [
+        "1.3.13"
+    ],
     "@qlik/dts-bundler": [
         "2.0.3"
     ],
+    "@qlik/embed-react": [
+        "2.5.3"
+    ],
+    "@qlik/embed-runtime": [
+        "1.6.4"
+    ],
+    "@qlik/embed-svelte": [
+        "1.1.4"
+    ],
+    "@qlik/embed-web-components": [
+        "1.7.3"
+    ],
+    "@qlik/eslint-config": [
+        "2.0.20"
+    ],
+    "@qlik/eslint-config-base": [
+        "0.1.1"
+    ],
+    "@qlik/eslint-config-react": [
+        "0.1.1"
+    ],
+    "@qlik/eslint-config-svelte": [
+        "0.1.1"
+    ],
+    "@qlik/eslint-config-vue": [
+        "0.1.1"
+    ],
+    "@qlik/nebula-table-utils": [
+        "2.6.9"
+    ],
+    "@qlik/oxfmt-config": [
+        "0.1.6"
+    ],
+    "@qlik/oxlint-config": [
+        "0.7.2"
+    ],
+    "@qlik/prettier-config": [
+        "1.0.3"
+    ],
+    "@qlik/react-native-simple-grid": [
+        "1.5.5"
+    ],
+    "@qlik/runtime-module-loader": [
+        "1.5.1"
+    ],
+    "@qlik/sdk": [
+        "0.28.1"
+    ],
+    "@qlik/sprout-design-docs": [
+        "1.0.2"
+    ],
     "@qlik/sprout-gesture": [
         "0.0.13"
+    ],
+    "@qlik/sprout-icons": [
+        "0.12.3"
+    ],
+    "@qlik/sprout-react": [
+        "6.45.3"
+    ],
+    "@qlik/sprout-react-table": [
+        "0.16.7"
+    ],
+    "@qlik/tsconfig": [
+        "1.0.3"
     ],
     "@qualys/react-web": null,
     "@quick-start-soft/quick-document-translator": [
@@ -4748,44 +5876,1475 @@
     "@servicepoint/vue-project": null,
     "@serviceshub/x-web-core": null,
     "@servicetitan/acquisition-functions": [
-        "5.22.1"
+        "5.22.1",
+        "5.22.2",
+        "5.22.3",
+        "5.22.4",
+        "5.22.5",
+        "5.22.6",
+        "5.22.7"
+    ],
+    "@servicetitan/admin-layout": [
+        "2.4.3",
+        "2.4.4",
+        "2.4.5",
+        "2.4.6",
+        "2.4.7",
+        "2.4.8"
+    ],
+    "@servicetitan/admin-sql-table": [
+        "1.0.14",
+        "1.0.15",
+        "1.0.16",
+        "1.0.17",
+        "1.0.18",
+        "1.0.19"
+    ],
+    "@servicetitan/ajax-handlers": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/anvil-css-utilities": [
+        "14.5.4",
+        "14.5.5",
+        "14.5.6",
+        "14.5.7",
+        "14.5.8",
+        "14.5.9"
+    ],
+    "@servicetitan/anvil-fonts": [
+        "14.5.4",
+        "14.5.5",
+        "14.5.6",
+        "14.5.7",
+        "14.5.8",
+        "14.5.9"
+    ],
+    "@servicetitan/anvil-icon": [
+        "0.5.1",
+        "0.5.2",
+        "0.5.3",
+        "0.5.4",
+        "0.5.5",
+        "0.5.6"
+    ],
+    "@servicetitan/anvil-icons": [
+        "14.5.4",
+        "14.5.5",
+        "14.5.6",
+        "14.5.7",
+        "14.5.8",
+        "14.5.9"
+    ],
+    "@servicetitan/anvil-react": [
+        "0.11.3",
+        "0.11.4",
+        "0.11.5",
+        "0.11.6",
+        "0.11.7",
+        "0.11.8"
+    ],
+    "@servicetitan/anvil-themes": [
+        "14.5.4",
+        "14.5.5",
+        "14.5.6",
+        "14.5.7",
+        "14.5.8",
+        "14.5.9",
+        "14.5.10"
+    ],
+    "@servicetitan/anvil-token": [
+        "0.4.1",
+        "0.4.2",
+        "0.4.3",
+        "0.4.4",
+        "0.4.5",
+        "0.4.6",
+        "0.4.7"
+    ],
+    "@servicetitan/anvil2": [
+        "3.9.1",
+        "3.9.2",
+        "3.9.3",
+        "3.9.4",
+        "3.9.5",
+        "3.9.6"
+    ],
+    "@servicetitan/anvil2-codemods": [
+        "0.11.2",
+        "0.11.3",
+        "0.11.4",
+        "0.11.5",
+        "0.11.6",
+        "0.11.7",
+        "0.11.8"
+    ],
+    "@servicetitan/anvil2-ext-atlas": [
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "4.0.5",
+        "4.0.6",
+        "4.0.7"
     ],
     "@servicetitan/anvil2-ext-charts": [
-        "0.2.4"
+        "0.2.4",
+        "0.2.5",
+        "0.2.6",
+        "0.2.7",
+        "0.2.8",
+        "0.2.9"
+    ],
+    "@servicetitan/anvil2-ext-common": [
+        "0.7.1",
+        "0.7.2",
+        "0.7.3",
+        "0.7.4",
+        "0.7.5",
+        "0.7.6"
+    ],
+    "@servicetitan/anvil2-ext-mwv": [
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "0.0.8",
+        "0.0.9",
+        "0.0.10"
+    ],
+    "@servicetitan/anvil2-illustrations": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+    ],
+    "@servicetitan/anvil2-mcp": [
+        "0.0.9",
+        "0.0.10",
+        "0.0.11",
+        "0.0.12",
+        "0.0.13",
+        "0.0.14"
+    ],
+    "@servicetitan/assist-ui": [
+        "2.1.1",
+        "2.1.2",
+        "2.1.3",
+        "2.1.4",
+        "2.1.5",
+        "2.1.6"
+    ],
+    "@servicetitan/assist-utils": [
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6",
+        "1.1.7"
+    ],
+    "@servicetitan/carto-charts-core": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "0.0.8"
+    ],
+    "@servicetitan/carto-charts-react": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7"
+    ],
+    "@servicetitan/carto-charts-rn": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7"
+    ],
+    "@servicetitan/carto-react-kit": [
+        "0.8.4",
+        "0.8.5",
+        "0.8.6",
+        "0.8.7",
+        "0.8.8",
+        "0.8.9",
+        "0.8.10"
+    ],
+    "@servicetitan/carto-rn-kit": [
+        "0.0.10",
+        "0.0.11",
+        "0.0.12",
+        "0.0.13",
+        "0.0.14",
+        "0.0.15"
+    ],
+    "@servicetitan/carto-tokens": [
+        "0.3.1",
+        "0.3.2",
+        "0.3.3",
+        "0.3.4",
+        "0.3.5",
+        "0.3.6"
+    ],
+    "@servicetitan/component-usage": [
+        "28.5.1",
+        "28.5.2",
+        "28.5.3",
+        "28.5.4",
+        "28.5.5",
+        "28.5.6",
+        "28.5.7"
     ],
     "@servicetitan/confirm": [
-        "41.3.1"
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/confirm-navigation": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/contentful": [
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "0.0.8"
+    ],
+    "@servicetitan/contentful-proxy": [
+        "1.1.12",
+        "1.1.13",
+        "1.1.14",
+        "1.1.15",
+        "1.1.16",
+        "1.1.17"
+    ],
+    "@servicetitan/cp-api": [
+        "1.115.1",
+        "1.115.2",
+        "1.115.3",
+        "1.115.4",
+        "1.115.5",
+        "1.115.6"
+    ],
+    "@servicetitan/cp-mfe": [
+        "1.115.1",
+        "1.115.2",
+        "1.115.3",
+        "1.115.4",
+        "1.115.5",
+        "1.115.6"
+    ],
+    "@servicetitan/cp-mfe-dev": [
+        "1.115.1",
+        "1.115.2",
+        "1.115.3",
+        "1.115.4",
+        "1.115.5",
+        "1.115.6"
+    ],
+    "@servicetitan/cp-react-hooks": [
+        "1.115.1",
+        "1.115.2",
+        "1.115.3",
+        "1.115.4",
+        "1.115.5",
+        "1.115.6",
+        "1.115.7"
+    ],
+    "@servicetitan/cp-ui": [
+        "1.115.1",
+        "1.115.2",
+        "1.115.3",
+        "1.115.4",
+        "1.115.5",
+        "1.115.6"
+    ],
+    "@servicetitan/culture": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/data-query": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/datadog-rum": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/datetime-utils": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
     ],
     "@servicetitan/design-system": [
-        "14.5.4"
+        "14.5.4",
+        "14.5.5",
+        "14.5.6",
+        "14.5.7",
+        "14.5.8",
+        "14.5.9",
+        "14.5.10"
+    ],
+    "@servicetitan/docs-anvil-uikit-contrib": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/docs-uikit": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/document-title": [
+        "2.4.1",
+        "2.4.2",
+        "2.4.3",
+        "2.4.4",
+        "2.4.5",
+        "2.4.6"
+    ],
+    "@servicetitan/dte-pdf-editor": [
+        "1.76.1",
+        "1.76.2",
+        "1.76.3",
+        "1.76.4",
+        "1.76.5",
+        "1.76.6"
+    ],
+    "@servicetitan/dte-unlayer": [
+        "0.150.1",
+        "0.150.2",
+        "0.150.3",
+        "0.150.4",
+        "0.150.5",
+        "0.150.6"
+    ],
+    "@servicetitan/eh-module-communication": [
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.2.4",
+        "0.2.5",
+        "0.2.6"
+    ],
+    "@servicetitan/error-boundary": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/eslint-config": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/eslint-plugin": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/eslint-plugin-decorators-declare": [
+        "12.8.15",
+        "12.8.16",
+        "12.8.17",
+        "12.8.18",
+        "12.8.19",
+        "12.8.20"
+    ],
+    "@servicetitan/eslint-plugin-folder-schema": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
     ],
     "@servicetitan/eslint-plugin-mobx-6": [
-        "12.8.15"
+        "12.8.15",
+        "12.8.16",
+        "12.8.17",
+        "12.8.18",
+        "12.8.19",
+        "12.8.20"
+    ],
+    "@servicetitan/eslint-plugin-processors-stub": [
+        "12.8.15",
+        "12.8.16",
+        "12.8.17",
+        "12.8.18",
+        "12.8.19",
+        "12.8.20"
+    ],
+    "@servicetitan/examples": [
+        "1.2.5",
+        "1.2.6",
+        "1.2.7",
+        "1.2.8",
+        "1.2.9",
+        "1.2.10"
     ],
     "@servicetitan/feature-spotlight": [
-        "3.9.1"
+        "3.9.1",
+        "3.9.2",
+        "3.9.3",
+        "3.9.4",
+        "3.9.5",
+        "3.9.6"
+    ],
+    "@servicetitan/folder-lint": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/forge": [
+        "0.5.1",
+        "0.5.2",
+        "0.5.3",
+        "0.5.4",
+        "0.5.5",
+        "0.5.6"
+    ],
+    "@servicetitan/form": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/form-state": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/grid": [
+        "0.0.63",
+        "0.0.64",
+        "0.0.65",
+        "0.0.66",
+        "0.0.67",
+        "0.0.68"
+    ],
+    "@servicetitan/hammer-icon": [
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6"
+    ],
+    "@servicetitan/hammer-react": [
+        "1.42.2",
+        "1.42.3",
+        "1.42.4",
+        "1.42.5",
+        "1.42.6",
+        "1.42.7"
+    ],
+    "@servicetitan/hammer-token": [
+        "3.1.1",
+        "3.1.2",
+        "3.1.3",
+        "3.1.4",
+        "3.1.5",
+        "3.1.6"
+    ],
+    "@servicetitan/hash-browser-router": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/help-center": [
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13"
+    ],
+    "@servicetitan/html-sketchapp": [
+        "4.2.8",
+        "4.2.9",
+        "4.2.10",
+        "4.2.11",
+        "4.2.12",
+        "4.2.13"
+    ],
+    "@servicetitan/install": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/intl": [
+        "7.2.1",
+        "7.2.2",
+        "7.2.3",
+        "7.2.4",
+        "7.2.5",
+        "7.2.6",
+        "7.2.7"
+    ],
+    "@servicetitan/json-render-react": [
+        "0.4.6",
+        "0.4.7",
+        "0.4.8",
+        "0.4.9",
+        "0.4.10",
+        "0.4.11"
     ],
     "@servicetitan/kendo-theme": [
-        "0.0.27"
+        "0.0.27",
+        "0.0.28",
+        "0.0.29",
+        "0.0.30",
+        "0.0.31",
+        "0.0.32"
+    ],
+    "@servicetitan/ko-bridge": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/launchdarkly-service": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6",
+        "38.1.7"
+    ],
+    "@servicetitan/lazy-module": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/ld-type-generator": [
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.2.4",
+        "0.2.5",
+        "0.2.6"
+    ],
+    "@servicetitan/line-item-editor": [
+        "1.5.1",
+        "1.5.2",
+        "1.5.3",
+        "1.5.4",
+        "1.5.5",
+        "1.5.6"
+    ],
+    "@servicetitan/link-item": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/log-service": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
     ],
     "@servicetitan/marketing-direct-mail-components": [
-        "20.1.1"
+        "20.1.1",
+        "20.1.2",
+        "20.1.3",
+        "20.1.4",
+        "20.1.5",
+        "20.1.6"
+    ],
+    "@servicetitan/marketing-email-components": [
+        "20.2.3",
+        "20.2.4",
+        "20.2.5",
+        "20.2.6",
+        "20.2.7",
+        "20.2.8",
+        "20.2.9"
+    ],
+    "@servicetitan/marketing-form": [
+        "0.1.2",
+        "0.1.3",
+        "0.1.4",
+        "0.1.5",
+        "0.1.6",
+        "0.1.7"
+    ],
+    "@servicetitan/marketing-global-route": [
+        "1.14.1",
+        "1.14.2",
+        "1.14.3",
+        "1.14.4",
+        "1.14.5",
+        "1.14.6"
+    ],
+    "@servicetitan/marketing-integration-widgets": [
+        "1.0.40",
+        "1.0.41",
+        "1.0.42",
+        "1.0.43",
+        "1.0.44",
+        "1.0.45"
+    ],
+    "@servicetitan/marketing-route": [
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6"
+    ],
+    "@servicetitan/marketing-ui": [
+        "9.3.1",
+        "9.3.2",
+        "9.3.3",
+        "9.3.4",
+        "9.3.5",
+        "9.3.6",
+        "9.3.7"
+    ],
+    "@servicetitan/marketing-widgets": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+    ],
+    "@servicetitan/measure-sheet-data": [
+        "2.6.1",
+        "2.6.2",
+        "2.6.3",
+        "2.6.4",
+        "2.6.5",
+        "2.6.6"
+    ],
+    "@servicetitan/mfe-quick-actions": [
+        "0.5.49",
+        "0.5.50",
+        "0.5.51",
+        "0.5.52",
+        "0.5.53",
+        "0.5.54",
+        "0.5.55"
+    ],
+    "@servicetitan/micro-frontend": [
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "0.0.8",
+        "0.0.9"
+    ],
+    "@servicetitan/microfront": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7"
+    ],
+    "@servicetitan/microfront-auth": [
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "0.0.8",
+        "0.0.9",
+        "0.0.10"
+    ],
+    "@servicetitan/microfront-tests": [
+        "0.0.11",
+        "0.0.12",
+        "0.0.13",
+        "0.0.14",
+        "0.0.15",
+        "0.0.16"
+    ],
+    "@servicetitan/microfront-utils": [
+        "1.4.1",
+        "1.4.2",
+        "1.4.3",
+        "1.4.4",
+        "1.4.5",
+        "1.4.6"
+    ],
+    "@servicetitan/modularpayments-webfields": [
+        "1.0.53",
+        "1.0.54",
+        "1.0.55",
+        "1.0.56",
+        "1.0.57",
+        "1.0.58"
+    ],
+    "@servicetitan/moneyout-api-client": [
+        "1.29.1",
+        "1.29.2",
+        "1.29.3",
+        "1.29.4",
+        "1.29.5",
+        "1.29.6"
+    ],
+    "@servicetitan/mpa-components": [
+        "2.5.1",
+        "2.5.2",
+        "2.5.3",
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7"
+    ],
+    "@servicetitan/navigation": [
+        "14.1.1",
+        "14.1.2",
+        "14.1.3",
+        "14.1.4",
+        "14.1.5",
+        "14.1.6"
+    ],
+    "@servicetitan/notifications": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6"
+    ],
+    "@servicetitan/onboarding-ui": [
+        "18.5.1",
+        "18.5.2",
+        "18.5.3",
+        "18.5.4",
+        "18.5.5",
+        "18.5.6"
+    ],
+    "@servicetitan/quick-actions": [
+        "1.15.2",
+        "1.15.3",
+        "1.15.4",
+        "1.15.5",
+        "1.15.6",
+        "1.15.7"
+    ],
+    "@servicetitan/react-hooks": [
+        "7.7.1",
+        "7.7.2",
+        "7.7.3",
+        "7.7.4",
+        "7.7.5",
+        "7.7.6"
+    ],
+    "@servicetitan/react-ioc": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/responsive": [
+        "6.1.1",
+        "6.1.2",
+        "6.1.3",
+        "6.1.4",
+        "6.1.5",
+        "6.1.6"
+    ],
+    "@servicetitan/restrict-imports": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
+    ],
+    "@servicetitan/schema-comparison": [
+        "0.1.3",
+        "0.1.4",
+        "0.1.5",
+        "0.1.6",
+        "0.1.7",
+        "0.1.8"
+    ],
+    "@servicetitan/skeleton": [
+        "9.2.4",
+        "9.2.5",
+        "9.2.6",
+        "9.2.7",
+        "9.2.8",
+        "9.2.9"
+    ],
+    "@servicetitan/standalone-core-feature-gates": [
+        "1.11.4",
+        "1.11.5",
+        "1.11.6",
+        "1.11.7",
+        "1.11.8",
+        "1.11.9"
+    ],
+    "@servicetitan/standalone-feature-flags": [
+        "2.3.2",
+        "2.3.3",
+        "2.3.4",
+        "2.3.5",
+        "2.3.6",
+        "2.3.7"
     ],
     "@servicetitan/standalone-root": [
-        "1.11.3"
+        "1.11.3",
+        "1.11.4",
+        "1.11.5",
+        "1.11.6",
+        "1.11.7",
+        "1.11.8"
+    ],
+    "@servicetitan/standalone-tm-api": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6"
+    ],
+    "@servicetitan/standalone-ui": [
+        "2.2.4",
+        "2.2.5",
+        "2.2.6",
+        "2.2.7",
+        "2.2.8",
+        "2.2.9"
+    ],
+    "@servicetitan/startup": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
     ],
     "@servicetitan/startup-jest": [
-        "2.2.1"
+        "2.2.1",
+        "2.2.2",
+        "2.2.3",
+        "2.2.4",
+        "2.2.5",
+        "2.2.6",
+        "2.2.7"
+    ],
+    "@servicetitan/startup-mfe-compat": [
+        "0.5.1",
+        "0.5.2",
+        "0.5.3",
+        "0.5.4",
+        "0.5.5",
+        "0.5.6"
+    ],
+    "@servicetitan/startup-utils": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
     ],
     "@servicetitan/stylelint-config": [
-        "38.1.1"
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6"
     ],
-    "@servicetitan/suppress-warnings": null,
+    "@servicetitan/suppress-warnings": [
+        "0.0.1",
+        "0.0.1-security",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "10.0.0",
+        "10.0.0-alpha.0",
+        "10.0.1",
+        "10.0.2",
+        "10.0.3",
+        "10.0.4",
+        "10.0.5",
+        "10.0.6",
+        "10.0.7",
+        "10.0.8",
+        "10.0.9",
+        "10.1.0",
+        "10.1.1",
+        "10.1.2",
+        "10.2.0",
+        "10.2.2",
+        "10.3.0",
+        "10.4.2",
+        "10.5.0",
+        "10.5.1",
+        "10.5.2",
+        "11.0.0",
+        "12.0.0",
+        "12.0.1",
+        "12.0.2",
+        "12.0.3",
+        "12.1.1",
+        "12.2.0",
+        "12.3.0",
+        "12.4.0",
+        "12.6.0",
+        "12.7.0",
+        "12.8.0",
+        "12.8.1",
+        "12.8.10",
+        "12.8.11",
+        "12.8.12",
+        "12.8.13",
+        "12.8.14",
+        "12.8.3",
+        "12.8.4",
+        "12.8.5",
+        "12.8.6",
+        "12.8.7",
+        "12.8.8",
+        "12.8.8-patch.1",
+        "12.8.8-patch.2",
+        "12.8.9",
+        "13.0.0",
+        "13.0.1",
+        "13.0.2",
+        "13.0.3",
+        "13.0.4",
+        "14.0.0",
+        "14.1.0",
+        "14.1.1",
+        "14.2.0",
+        "14.2.1",
+        "14.3.0",
+        "15.0.0",
+        "16.0.0",
+        "16.0.1",
+        "16.0.2",
+        "16.1.0",
+        "17.0.0",
+        "17.0.1",
+        "17.1.0",
+        "17.1.1",
+        "17.2.0",
+        "17.2.1",
+        "17.3.0",
+        "17.3.1",
+        "17.3.2",
+        "17.4.0",
+        "17.5.0",
+        "17.5.1",
+        "17.5.3",
+        "17.5.4",
+        "17.5.5",
+        "17.5.6",
+        "18.0.0",
+        "18.1.0",
+        "19.0.0",
+        "19.1.0",
+        "19.2.0",
+        "19.3.0",
+        "19.4.0",
+        "20.0.0",
+        "20.0.1",
+        "20.1.0",
+        "20.2.0",
+        "21.0.0",
+        "21.1.0",
+        "21.10.0",
+        "21.2.0",
+        "21.3.0",
+        "21.3.1",
+        "21.3.2",
+        "21.4.0",
+        "21.4.1",
+        "21.5.0",
+        "21.6.0",
+        "21.7.0",
+        "21.7.1",
+        "21.7.2",
+        "21.7.3",
+        "21.8.0",
+        "21.9.0",
+        "22.0.0",
+        "22.0.1",
+        "22.0.2",
+        "22.0.3",
+        "22.0.4",
+        "22.0.5",
+        "22.1.0",
+        "22.10.0",
+        "22.11.0",
+        "22.12.0",
+        "22.13.0",
+        "22.14.0",
+        "22.15.0",
+        "22.16.0",
+        "22.17.0",
+        "22.18.0",
+        "22.19.0",
+        "22.2.0",
+        "22.2.1",
+        "22.20.0",
+        "22.21.0",
+        "22.3.0",
+        "22.4.0",
+        "22.5.0",
+        "22.5.1",
+        "22.6.0",
+        "22.6.1",
+        "22.7.0",
+        "22.8.0",
+        "22.8.1",
+        "22.8.2",
+        "22.9.0",
+        "23.0.0",
+        "23.1.0",
+        "23.2.0",
+        "23.2.1",
+        "23.2.2",
+        "23.2.3",
+        "23.3.0",
+        "23.4.0",
+        "23.5.0",
+        "23.5.1",
+        "23.5.2",
+        "23.6.0",
+        "24.0.0",
+        "24.0.1",
+        "24.0.3",
+        "24.0.4",
+        "24.1.0",
+        "24.1.1",
+        "24.1.2",
+        "24.1.3",
+        "24.2.0",
+        "24.3.0",
+        "24.4.0",
+        "25.0.0",
+        "25.1.0",
+        "26.0.0",
+        "26.0.1",
+        "26.0.2",
+        "26.1.0",
+        "26.2.0",
+        "26.3.0",
+        "26.4.0",
+        "27.0.0",
+        "27.1.0",
+        "27.1.1",
+        "27.2.0",
+        "27.2.1",
+        "27.4.0",
+        "28.0.0",
+        "28.1.0",
+        "28.1.1",
+        "28.2.0",
+        "28.3.0",
+        "28.3.1",
+        "28.3.2",
+        "28.3.3",
+        "28.4.0",
+        "28.5.0",
+        "29.0.0",
+        "30.0.0",
+        "30.1.0",
+        "30.1.1",
+        "30.2.0",
+        "30.2.1",
+        "30.3.0",
+        "31.0.0",
+        "31.1.0",
+        "31.2.0",
+        "31.3.0",
+        "31.3.1",
+        "31.3.2",
+        "31.5.0",
+        "31.5.1",
+        "31.6.0",
+        "32.0.0",
+        "32.0.1",
+        "32.2.0",
+        "32.3.0",
+        "32.3.1",
+        "32.3.2",
+        "32.4.0",
+        "32.5.0",
+        "32.6.0",
+        "32.7.0",
+        "33.0.0",
+        "33.0.1",
+        "33.1.0",
+        "34.0.1",
+        "34.1.0",
+        "34.2.0",
+        "34.3.0",
+        "35.0.0",
+        "35.3.0",
+        "36.0.0",
+        "36.1.0",
+        "36.1.1",
+        "36.4.0",
+        "38.1.0",
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6",
+        "4.0.0",
+        "4.0.1",
+        "4.0.3",
+        "4.1.1",
+        "4.1.2",
+        "4.1.3",
+        "4.2.0",
+        "4.3.0",
+        "4.3.1",
+        "4.4.0",
+        "4.4.1",
+        "4.4.3",
+        "4.4.4",
+        "4.4.5",
+        "4.4.6",
+        "5.0.0",
+        "5.0.1",
+        "5.1.0",
+        "5.1.10",
+        "5.1.11",
+        "5.1.2",
+        "5.1.3",
+        "5.1.4",
+        "5.1.5",
+        "5.1.6",
+        "5.1.7",
+        "5.1.8",
+        "5.1.9",
+        "5.2.0",
+        "5.2.1",
+        "5.2.2",
+        "5.2.3",
+        "5.2.4",
+        "5.3.0",
+        "5.3.1",
+        "5.3.2",
+        "5.3.3",
+        "5.3.4",
+        "6.0.0",
+        "6.0.1",
+        "6.0.2",
+        "6.1.0",
+        "6.2.0",
+        "6.2.1",
+        "6.3.0",
+        "6.4.0",
+        "7.0.0",
+        "8.0.0",
+        "8.0.1",
+        "8.1.0",
+        "8.1.1",
+        "9.0.1",
+        "9.0.3",
+        "9.0.4",
+        "9.1.0",
+        "9.1.1",
+        "9.10.0",
+        "9.11.0",
+        "9.11.1",
+        "9.11.2",
+        "9.11.3",
+        "9.11.4",
+        "9.11.5",
+        "9.2.0",
+        "9.4.0",
+        "9.4.1",
+        "9.4.2",
+        "9.4.3",
+        "9.4.4",
+        "9.5.0",
+        "9.5.1",
+        "9.6.0",
+        "9.7.0",
+        "9.8.0",
+        "9.8.1",
+        "9.8.2",
+        "9.8.3",
+        "9.8.4",
+        "9.8.5",
+        "9.8.6",
+        "9.9.0"
+    ],
+    "@servicetitan/table": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6",
+        "41.3.7"
+    ],
+    "@servicetitan/tanstack-query-mobx": [
+        "6.2.1",
+        "6.2.2",
+        "6.2.3",
+        "6.2.4",
+        "6.2.5",
+        "6.2.6",
+        "6.2.7"
+    ],
+    "@servicetitan/temporal-lite": [
+        "3.4.1",
+        "3.4.2",
+        "3.4.3",
+        "3.4.4",
+        "3.4.5",
+        "3.4.6",
+        "3.4.7"
+    ],
+    "@servicetitan/testing-library": [
+        "6.6.1",
+        "6.6.2",
+        "6.6.3",
+        "6.6.4",
+        "6.6.5",
+        "6.6.6",
+        "6.6.7"
+    ],
+    "@servicetitan/thoughtspot-theme": [
+        "1.7.1",
+        "1.7.2",
+        "1.7.3",
+        "1.7.4",
+        "1.7.5",
+        "1.7.6"
+    ],
+    "@servicetitan/time-zones": [
+        "3.8.1",
+        "3.8.2",
+        "3.8.3",
+        "3.8.4",
+        "3.8.5",
+        "3.8.6"
+    ],
+    "@servicetitan/titan-chat-ui": [
+        "7.1.3",
+        "7.1.4",
+        "7.1.5",
+        "7.1.6",
+        "7.1.7",
+        "7.1.8",
+        "7.1.9"
+    ],
+    "@servicetitan/titan-chat-ui-anvil2": [
+        "9.0.1",
+        "9.0.2",
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6",
+        "9.0.7"
+    ],
+    "@servicetitan/titan-chat-ui-common": [
+        "9.0.1",
+        "9.0.2",
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6",
+        "9.0.7"
+    ],
+    "@servicetitan/titan-chat-ui-cypress": [
+        "2.1.3",
+        "2.1.4",
+        "2.1.5",
+        "2.1.6",
+        "2.1.7",
+        "2.1.8"
+    ],
     "@servicetitan/titan-chatbot-api": [
-        "9.0.1"
+        "9.0.1",
+        "9.0.2",
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6",
+        "9.0.7"
+    ],
+    "@servicetitan/titan-chatbot-client": [
+        "2.1.3",
+        "2.1.4",
+        "2.1.5",
+        "2.1.6",
+        "2.1.7",
+        "2.1.8"
+    ],
+    "@servicetitan/titan-chatbot-ui": [
+        "7.1.3",
+        "7.1.4",
+        "7.1.5",
+        "7.1.6",
+        "7.1.7",
+        "7.1.8"
+    ],
+    "@servicetitan/titan-chatbot-ui-anvil2": [
+        "9.0.1",
+        "9.0.2",
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6",
+        "9.0.7"
     ],
     "@servicetitan/titan-chatbot-ui-cypress": [
-        "9.0.1"
+        "9.0.1",
+        "9.0.2",
+        "9.0.3",
+        "9.0.4",
+        "9.0.5",
+        "9.0.6"
+    ],
+    "@servicetitan/tokens": [
+        "12.9.1",
+        "12.9.2",
+        "12.9.3",
+        "12.9.4",
+        "12.9.5",
+        "12.9.6",
+        "12.9.7"
+    ],
+    "@servicetitan/toolbelt-shared-registry": [
+        "1.14.1",
+        "1.14.2",
+        "1.14.3",
+        "1.14.4",
+        "1.14.5",
+        "1.14.6"
+    ],
+    "@servicetitan/uikit-docs": [
+        "22.11.1",
+        "22.11.2",
+        "22.11.3",
+        "22.11.4",
+        "22.11.5",
+        "22.11.6"
+    ],
+    "@servicetitan/unit-tests": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7"
+    ],
+    "@servicetitan/va-mfe-loader": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6"
+    ],
+    "@servicetitan/web-components": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6",
+        "38.1.7"
+    ],
+    "@servicetitan/widget-platform": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3",
+        "5.6.4",
+        "5.6.5",
+        "5.6.6"
+    ],
+    "@servicetitan/widget-platform-monolith": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3",
+        "5.6.4",
+        "5.6.5",
+        "5.6.6",
+        "5.6.7"
     ],
     "@seung-ju/next": [
         "0.0.2"
@@ -5942,6 +8501,12 @@
         "1.2.3"
     ],
     "@uit-spritesmith/webpack": null,
+    "@umacloud/cli-linux-musl-arm64": [
+        "1.0.74"
+    ],
+    "@umacloud/cli-linux-x64": [
+        "1.0.74"
+    ],
     "@umreg/zxcvbn": null,
     "@undress-ai/best-undress-ai": null,
     "@unitedcapitalfinancialadvisors/finlife-component-library": null,
@@ -9006,6 +11571,18 @@
     "babel-compile-templates": null,
     "babel-plugin-error-context": null,
     "babel-plugin-istanbul-shopee": null,
+    "babel-plugin-linaria-css-to-undefined": [
+        "0.3.1",
+        "0.3.2",
+        "0.3.3",
+        "0.3.4",
+        "0.3.5",
+        "0.3.6",
+        "0.3.7",
+        "0.3.8",
+        "0.3.9",
+        "0.3.17"
+    ],
     "babel-plugin-method-version": null,
     "babel-plugin-nordic-module-resolver": null,
     "babel-plugin-react-pure-component": [
@@ -13331,6 +15908,11 @@
     "controversial_sawfish_z3n": null,
     "controversial_stingray_z3n": null,
     "controversial_swan_z3n": null,
+    "conv-context-next": [
+        "1.0.5",
+        "1.0.7",
+        "1.0.10"
+    ],
     "convec": null,
     "convenient-orange-aphid": null,
     "convenient_dingo_z3n": null,
@@ -16072,6 +18654,22 @@
     "edenx": null,
     "edge-ai-tuning-kit": null,
     "edgeone": null,
+    "editable-contracts": [
+        "0.0.12",
+        "0.0.13",
+        "0.0.14",
+        "0.0.15",
+        "0.0.16",
+        "0.0.17",
+        "0.0.18",
+        "0.0.19",
+        "0.0.20",
+        "0.0.21",
+        "0.0.22",
+        "0.0.23",
+        "0.0.24",
+        "0.0.25"
+    ],
     "editions-dev-2k-variants": null,
     "editions-dev-workshop": null,
     "editor-devel": null,
@@ -17981,6 +20579,22 @@
         "2.1.8"
     ],
     "eslint-plugin-externalincludes": null,
+    "eslint-plugin-folder-schema": [
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.15",
+        "1.0.16",
+        "1.0.17",
+        "1.0.18",
+        "1.0.19"
+    ],
     "eslint-plugin-foody-custom": null,
     "eslint-plugin-fuel-react": null,
     "eslint-plugin-fulfillment-lint": null,
@@ -18263,6 +20877,11 @@
     "example-fastify-api": null,
     "example-fastify-web": null,
     "example-infinite-scroll": null,
+    "example-js-project": [
+        "1.0.6",
+        "1.0.8",
+        "1.0.11"
+    ],
     "example-marko-webpack": null,
     "example-nestjs-api": null,
     "example-third-party-queries-caching": null,
@@ -20020,6 +22639,22 @@
     "focusnode": null,
     "focusync-custom-controls": null,
     "foke": null,
+    "folder-lint": [
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.15",
+        "1.0.16",
+        "1.0.17",
+        "1.0.18",
+        "1.0.19"
+    ],
     "following-plum-planarian": null,
     "following_alligator_z3n": null,
     "following_antlion_z3n": null,
@@ -20247,6 +22882,19 @@
     "frontend-js-state-web": null,
     "frontend-layout": null,
     "frontend-metrics-collector-sdk": null,
+    "frontend-orb": [
+        "4.4.1",
+        "4.4.2",
+        "4.4.3",
+        "4.4.4",
+        "4.4.5",
+        "4.4.6",
+        "4.4.7",
+        "4.4.8",
+        "4.4.9",
+        "4.4.10",
+        "4.4.18"
+    ],
     "frontend-photoswipe": null,
     "frontend-prevent-open-redirect": null,
     "frontend-redux": null,
@@ -22447,6 +25095,9 @@
     "hamburg": null,
     "hamburger-notthedevs": null,
     "haml-jst-loader": null,
+    "hamus.js": [
+        "0.4.1"
+    ],
     "hanafi-asinan28-miaww": null,
     "hanafi-bakso40-ruro": null,
     "hanafi-bakso76-riris": null,
@@ -23351,6 +26002,9 @@
     "http-helmet": null,
     "http-long-poll-client": null,
     "http-long-poll-server": null,
+    "http-metrics-middleware": [
+        "2.2.2"
+    ],
     "http-req-logger": null,
     "http-uploader-dev": [
         "1.0.7"
@@ -32073,6 +34727,17 @@
     "national_wombat_z3n": null,
     "native-bottom-sheet": null,
     "native-component-list": null,
+    "native-frontend-orb": [
+        "1.1.4",
+        "1.1.5",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8",
+        "1.1.9",
+        "1.1.10",
+        "1.1.11",
+        "1.1.19"
+    ],
     "native-integration": null,
     "native-preview": null,
     "native-rabobank": null,
@@ -35518,6 +38183,12 @@
     "pi-supersafety": null,
     "pian": null,
     "piao": null,
+    "picasso-plugin-hammer": [
+        "2.11.6"
+    ],
+    "picasso.js": [
+        "2.11.6"
+    ],
     "picking-miniapp": null,
     "picl-server": null,
     "piclite": [
@@ -35676,8 +38347,30 @@
     "pngularjs": null,
     "pnp-resume": null,
     "pnpm-workspaces": null,
+    "pob-test-package-in-monorepo": [
+        "5.2.1",
+        "5.2.2",
+        "5.2.3",
+        "5.2.4",
+        "5.2.5",
+        "5.2.6",
+        "5.2.7",
+        "5.2.8",
+        "5.2.9",
+        "5.2.16"
+    ],
     "pob-test-typescript-package-in-monorepo": [
-        "4.2.1"
+        "4.2.1",
+        "4.2.2",
+        "4.2.3",
+        "4.2.4",
+        "4.2.5",
+        "4.2.6",
+        "4.2.7",
+        "4.2.8",
+        "4.2.9",
+        "4.2.10",
+        "4.2.17"
     ],
     "pobreiaia22": null,
     "pobreiaia33": null,
@@ -37266,6 +39959,15 @@
     "qingdao": null,
     "qiot": null,
     "qjakal-devapptea": null,
+    "qlik-chart-modules": [
+        "1.1.1"
+    ],
+    "qlik-modifiers": [
+        "0.10.1"
+    ],
+    "qlik-object-conversion": [
+        "0.17.2"
+    ],
     "qlkube": null,
     "qlkube-docs": null,
     "qnnkan-devapp": null,
@@ -40041,6 +42743,13 @@
     "rushstack.io": null,
     "rust-analyzer": null,
     "rveactjs": null,
+    "rwc-client": [
+        "0.29.12",
+        "0.29.14",
+        "0.29.16",
+        "0.29.18",
+        "0.29.19"
+    ],
     "rweactjs": null,
     "rxeactjs": null,
     "rxjs-angular": null,
@@ -40847,6 +43556,9 @@
     "serve-static-corell": null,
     "server-fpti": null,
     "server-github": null,
+    "server-hemera-mongo": [
+        "0.0.12"
+    ],
     "server_msg": null,
     "serverless-convention": [
         "2.0.4"
@@ -41850,6 +44562,9 @@
     "smooth_lamprey-toolteadev": null,
     "smrf-test": null,
     "smtp-test-server-node": null,
+    "sn-listbox": [
+        "0.3.3"
+    ],
     "sn3akysnak3-test": null,
     "snap-design-system-icons": null,
     "snap-design-system-marketing": null,
@@ -45044,7 +47759,21 @@
     "tsleep": null,
     "tslint-conf": null,
     "tslint-folder-schema": [
-        "1.0.6"
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.15",
+        "1.0.16",
+        "1.0.17",
+        "1.0.18",
+        "1.0.19",
+        "1.0.20"
     ],
     "tsliverhome": null,
     "tsnzau-devapptea": null,
@@ -47094,6 +49823,40 @@
     "vercel-repros": null,
     "vercel-v0": null,
     "verceltemplateblogstudio": null,
+    "verdaccio-okta-oauth": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6",
+        "38.1.7",
+        "38.1.8",
+        "38.1.9",
+        "38.1.10",
+        "38.1.11",
+        "38.1.12",
+        "38.1.13",
+        "38.1.14",
+        "38.1.15"
+    ],
+    "verdaccio-tarball-local-storage": [
+        "38.1.1",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6",
+        "38.1.7",
+        "38.1.8",
+        "38.1.9",
+        "38.1.10",
+        "38.1.11",
+        "38.1.12",
+        "38.1.13",
+        "38.1.14",
+        "38.1.15"
+    ],
     "verdi-chat-library": null,
     "verification-workers": null,
     "verizon-media-open-source-project-protal": null,
@@ -49190,6 +51953,9 @@
     "wordpecker-fx": null,
     "work-planner-client": null,
     "work_app": null,
+    "workbench-browser-server": [
+        "0.0.2"
+    ],
     "workbox-stable-xyz": null,
     "worker-build": null,
     "worker-common": null,
