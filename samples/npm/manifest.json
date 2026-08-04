@@ -1448,6 +1448,26 @@
         "1.0.3",
         "1.0.4"
     ],
+    "@arv-bedrock/auth": [
+        "1.1.7",
+        "1.1.8"
+    ],
+    "@arv-bedrock/auth-admin": [
+        "1.0.2",
+        "1.0.3"
+    ],
+    "@arv-bedrock/auth-sso": [
+        "1.6.1",
+        "1.6.2"
+    ],
+    "@arv-bedrock/auth-sso-backend": [
+        "1.7.1",
+        "1.7.2"
+    ],
+    "@arv-bedrock/logger": [
+        "1.7.1",
+        "1.7.2"
+    ],
     "@aryanhussain/my-angular-lib": [
         "0.0.23"
     ],
@@ -1703,6 +1723,18 @@
     "@bytedanc/mona-client-web": null,
     "@bytedanc/mona-max": null,
     "@c11-lib-ts/document-handler": null,
+    "@cacheable/memory": [
+        "2.2.1"
+    ],
+    "@cacheable/net": [
+        "2.1.1"
+    ],
+    "@cacheable/node-cache": [
+        "3.1.2"
+    ],
+    "@cacheable/utils": [
+        "2.5.1"
+    ],
     "@callcenter-frontend/api": null,
     "@callcenter-frontend/helpers": null,
     "@callcenter-frontend/services": null,
@@ -1982,6 +2014,12 @@
     "@deadcode09284814/axios-util": null,
     "@deel-core/client-payroll-onboarding-types": null,
     "@deel-ui/animation": null,
+    "@deliveroo/determinator": [
+        "0.2.1"
+    ],
+    "@deliveroo/reevent": [
+        "1.0.1"
+    ],
     "@demoability/loadgen-core": null,
     "@depro-tech/cortana-md": null,
     "@depro0x/despicable-me": null,
@@ -2698,6 +2736,9 @@
     "@hpx-core-experiences/react-my-account-payments": null,
     "@hrb-web/nuxt": null,
     "@hub-la/payments-proto": null,
+    "@hubsync/web-sdk-react": [
+        "6.3.7"
+    ],
     "@hunterpl4nk/ds-test": null,
     "@huntersofbook/core": [
         "0.5.1"
@@ -3826,6 +3867,36 @@
     "@oneaudi/current-carline-service": null,
     "@oneaudi/unified-web-common": null,
     "@onep-beneficiary/profile": null,
+    "@onereach/get-version-data": [
+        "3.1.2"
+    ],
+    "@onereach/idw-sdk": [
+        "0.1.2"
+    ],
+    "@onereach/idw-ui-components": [
+        "0.1.2"
+    ],
+    "@onereach/or-file-uploader-next": [
+        "0.0.8"
+    ],
+    "@onereach/orest-cli": [
+        "2.4.1"
+    ],
+    "@onereach/phonenumber-interpreter": [
+        "0.0.18"
+    ],
+    "@onereach/si-checkbox-group": [
+        "0.3.5"
+    ],
+    "@onereach/si-datepicker": [
+        "0.4.5"
+    ],
+    "@onereach/ssml-editor": [
+        "2.0.12"
+    ],
+    "@onereach/ui-components": [
+        "27.0.2"
+    ],
     "@onlytoodles/crypto-jsa": null,
     "@openapi-platform/git-util": null,
     "@openclaw-cn/cli": [
@@ -4045,6 +4116,21 @@
         "9.0.51"
     ],
     "@optimystic99/dev-utils": null,
+    "@or-sdk/base": [
+        "0.44.4"
+    ],
+    "@or-sdk/deployments": [
+        "2.1.5"
+    ],
+    "@or-sdk/graph": [
+        "1.10.5"
+    ],
+    "@or-sdk/idw-public": [
+        "1.6.6"
+    ],
+    "@or-sdk/qna": [
+        "3.4.2"
+    ],
     "@oracle-cx-commerce/commerce-utils": null,
     "@orange-team/map-rank-tracker-frontend": null,
     "@orbis-lr-sdk/orbis-lr-sdk": null,
@@ -4062,6 +4148,33 @@
     ],
     "@orion-design-system/components": null,
     "@orion-design-system/foundation": null,
+    "@ornikar/eslint-config": [
+        "24.0.1"
+    ],
+    "@ornikar/eslint-config-babel": [
+        "24.0.1"
+    ],
+    "@ornikar/eslint-plugin-neverthrow": [
+        "1.3.1"
+    ],
+    "@ornikar/graphql-config": [
+        "1.1.1"
+    ],
+    "@ornikar/jest-config-react": [
+        "18.0.2"
+    ],
+    "@ornikar/react-modern-calendar-datepicker": [
+        "3.2.1"
+    ],
+    "@ornikar/react-native-svg-transformer": [
+        "1.0.6"
+    ],
+    "@ornikar/repo-config-react-legacy-css": [
+        "15.1.2"
+    ],
+    "@ornikar/stylelint-config": [
+        "14.0.3"
+    ],
     "@osmanekrem/bmad": [
         "1.0.6"
     ],
@@ -4103,6 +4216,9 @@
     "@pgc-web/web-creation": null,
     "@phoenix-common/angular-frontend-library": null,
     "@phone_base_ui/base_call": null,
+    "@picsart/ai-sdk": [
+        "3.32.2"
+    ],
     "@piewasm/pie-web-npm-package": null,
     "@pixelzx/genesis": null,
     "@pixui-dev/pxw": null,
@@ -4315,6 +4431,12 @@
         "2.15.1"
     ],
     "@qbr-runway/tokens": null,
+    "@qlik/dts-bundler": [
+        "2.0.3"
+    ],
+    "@qlik/sprout-gesture": [
+        "0.0.13"
+    ],
     "@qualys/react-web": null,
     "@quick-start-soft/quick-document-translator": [
         "1.4.2511142126"
@@ -4625,6 +4747,46 @@
     "@service-user-notifications/set_refresh_interval": null,
     "@servicepoint/vue-project": null,
     "@serviceshub/x-web-core": null,
+    "@servicetitan/acquisition-functions": [
+        "5.22.1"
+    ],
+    "@servicetitan/anvil2-ext-charts": [
+        "0.2.4"
+    ],
+    "@servicetitan/confirm": [
+        "41.3.1"
+    ],
+    "@servicetitan/design-system": [
+        "14.5.4"
+    ],
+    "@servicetitan/eslint-plugin-mobx-6": [
+        "12.8.15"
+    ],
+    "@servicetitan/feature-spotlight": [
+        "3.9.1"
+    ],
+    "@servicetitan/kendo-theme": [
+        "0.0.27"
+    ],
+    "@servicetitan/marketing-direct-mail-components": [
+        "20.1.1"
+    ],
+    "@servicetitan/standalone-root": [
+        "1.11.3"
+    ],
+    "@servicetitan/startup-jest": [
+        "2.2.1"
+    ],
+    "@servicetitan/stylelint-config": [
+        "38.1.1"
+    ],
+    "@servicetitan/suppress-warnings": null,
+    "@servicetitan/titan-chatbot-api": [
+        "9.0.1"
+    ],
+    "@servicetitan/titan-chatbot-ui-cypress": [
+        "9.0.1"
+    ],
     "@seung-ju/next": [
         "0.0.2"
     ],
@@ -6035,6 +6197,9 @@
     "@winstan/logger": null,
     "@winstan/vinston": null,
     "@woody-mrs-potato/utils-banking": null,
+    "@workbench-stack/core": [
+        "3.9.8"
+    ],
     "@workleap-widgets/client": null,
     "@worksmobile/wmeet-sdk": null,
     "@wp-feature-api/client-features": null,
@@ -10566,8 +10731,17 @@
     "c2pa-js": null,
     "c3p-reactnative": null,
     "ca-ui-carbon-toolkit": null,
+    "cache-manager": [
+        "7.2.10"
+    ],
     "cache-section-helper": null,
     "cache_mng": null,
+    "cacheable": [
+        "2.5.1"
+    ],
+    "cacheable-request": [
+        "13.0.20"
+    ],
     "cacheutilskit": null,
     "cal-pretty-console": null,
     "calc-loan-interest": [
@@ -15881,6 +16055,9 @@
     "ect-472839": null,
     "ect-987654": null,
     "ect-987654-ctf": null,
+    "ecto": [
+        "5.0.1"
+    ],
     "ecto-corsair-flag-7kq3mz": null,
     "ecto-corsair-flag-x9m4": null,
     "ecto-corsair-lwirz": null,
@@ -19342,6 +19519,9 @@
     "figwrap": null,
     "file-dep-a": null,
     "file-dependency": null,
+    "file-entry-cache": [
+        "11.1.6"
+    ],
     "file-uploading-advance": null,
     "filecoin-checker-shared": null,
     "filen-apps": null,
@@ -19730,6 +19910,9 @@
     "flashbot-sdk-eth": null,
     "flashcanvas": null,
     "flashcards-sdk-converter": null,
+    "flat-cache": [
+        "6.1.24"
+    ],
     "flat-plum-mandrill": null,
     "flat_damselfly_z3n": null,
     "flat_partridge_z3n": null,
@@ -26375,6 +26558,9 @@
     "keyring-controller": null,
     "keystone-app": null,
     "keythereum-utils": null,
+    "keyv": [
+        "6.0.0"
+    ],
     "khartoum": null,
     "khmfpi-devapptea": null,
     "kiatu-bolivia": null,
@@ -35490,6 +35676,9 @@
     "pngularjs": null,
     "pnp-resume": null,
     "pnpm-workspaces": null,
+    "pob-test-typescript-package-in-monorepo": [
+        "4.2.1"
+    ],
     "pobreiaia22": null,
     "pobreiaia33": null,
     "poc-malicious-sim": null,
@@ -44854,6 +45043,9 @@
     "tsl-select-trigger": null,
     "tsleep": null,
     "tslint-conf": null,
+    "tslint-folder-schema": [
+        "1.0.6"
+    ],
     "tsliverhome": null,
     "tsnzau-devapptea": null,
     "tsp-rn-sdk": null,
