@@ -1696,9 +1696,6 @@
     "@bowozzz/baileys": null,
     "@breezeai-frontend/tailwind-config": null,
     "@brewnet/cli": null,
-    "@briskcloth16/samlify": [
-        "2.13.2"
-    ],
     "@brokenzzz/garfish": null,
     "@browserbasehq/bb9": [
         "1.2.21"
