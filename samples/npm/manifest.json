@@ -1784,6 +1784,7 @@
     "@checkbox-technology-pty-ltd/custom-block-kit": null,
     "@cheqplease/structured-logger": null,
     "@chkpkit/box": null,
+    "@chunklab/hexparse": null,
     "@citi-icg-158830/elemental-chameleon": null,
     "@citi-icg-158830/elemental-ui-react": null,
     "@citi-icg-158830/icgds-react-css": null,
@@ -2102,6 +2103,7 @@
     "@druidsoft/botframework-directlinejs": null,
     "@dsft/ft-element": null,
     "@dsft/ft-utils": null,
+    "@dsp-next-gen-ui/needs-review": null,
     "@dtpk-cc/components": null,
     "@duckdb/duckdb-wasm": [
         "1.29.2"
@@ -2561,6 +2563,7 @@
     "@frontend-clients/core": null,
     "@frontend-clients/design-system": null,
     "@frontend-clients/wallet-web": null,
+    "@frostnode/waitfor": null,
     "@ftapi/components": null,
     "@fvla-framework/fvla": null,
     "@fxinternal/netdiagnostics": null,
@@ -2570,6 +2573,7 @@
     "@gala-analytics/core": null,
     "@galaxy-nft/frontend": null,
     "@gallup/pc-utils": null,
+    "@gbrlxvi/ts-form-utils": null,
     "@gc-crm/gc-crm-lib": null,
     "@gdcorp-commerce/cx-orders": null,
     "@gdcorp-commerce/cx-page-container": null,
@@ -2685,6 +2689,8 @@
     "@gwp-gtmt-components/event-listener": null,
     "@h1shiny/buildtools": null,
     "@h1shiny/ismobile": null,
+    "@hanssoft/baileys": null,
+    "@hanssoft/libsignal-node": null,
     "@hapheus/n8n-nodes-pgp": [
         "1.5.1"
     ],
@@ -2795,6 +2801,7 @@
     "@ibm-integration/flow-canvas": null,
     "@ibm-org/custom-greeting": null,
     "@ibm-org/welcome": null,
+    "@ibrahim1337/baksen": null,
     "@identity-authn/authn-js-sdk": null,
     "@idme-components/component-utilities": null,
     "@ids-alpha/theme": null,
@@ -2828,6 +2835,7 @@
         "1.20.21"
     ],
     "@inscada/mcp-server": null,
+    "@intentsolution/database-security-scanner": null,
     "@inter-ikea-gallery/integration": null,
     "@isfe-common/image-minimizer": null,
     "@isfe-common/testing-constants": null,
@@ -5880,6 +5888,7 @@
     "@quick-start-soft/quick-task-refine": [
         "1.4.2511142126"
     ],
+    "@qwedqwed/axios": null,
     "@qwen-code/qwen-code": null,
     "@ra-web-tech-ui-toolkit/common-utils": null,
     "@rafaelsene01/agent-flow": null,
@@ -6112,6 +6121,7 @@
     "@sangith/eslint-config": null,
     "@sangith/newrelic": null,
     "@santandergroup-uk/edgehome-components": null,
+    "@sapappgyver/appgyver-descriptors": null,
     "@sas-dvr/internal-va-react-core": null,
     "@sas-dvr/ltjs-bird": null,
     "@sas-dvr/ltjs-commons": null,
@@ -7785,6 +7795,7 @@
     "@sfdc-www-emu/clientlibs-web-components": null,
     "@sfdc-www-emu/locale": null,
     "@shadowmonarchx/eslint_plugin_react": null,
+    "@shell-cabinet/routes": null,
     "@shenira/baileys": null,
     "@shenira/baileysx": null,
     "@shenira/libsignal-node": null,
@@ -7828,6 +7839,7 @@
     "@sonahri51/orientation-change-end": null,
     "@sourav_chanduka/oidc-client": null,
     "@source-row/source-container": null,
+    "@sourceflow-uk/sourceflow-tracker": null,
     "@sp4b-dev/test-utils": null,
     "@spectraltest/loglevel": null,
     "@speedshop/sdk-api": null,
@@ -8058,6 +8070,7 @@
         "0.3.10"
     ],
     "@stepstone-genesis/components": null,
+    "@stockrepublic/republic-components": null,
     "@storylane/shared-packages": null,
     "@storylane/uikit": null,
     "@strapbuild/react-native-date-time-picker": [
@@ -8518,6 +8531,7 @@
     "@thone33/analytics-injector": null,
     "@thone33/core-utils": null,
     "@thone33/react-helpers": null,
+    "@thymelab/logfx": null,
     "@tiaanduplessis/json": [
         "2.0.2"
     ],
@@ -8532,6 +8546,7 @@
         "2.18.11",
         "2.18.12"
     ],
+    "@tinyfox/shapecheck": null,
     "@tmecontinue/cli": null,
     "@tnf-dev/api": [
         "1.0.8"
@@ -8611,6 +8626,8 @@
     "@toptal/picasso-utils": [
         "3.2.0"
     ],
+    "@torbeck/heap": null,
+    "@torbeck/priority-queue": null,
     "@tqm-mfe/main": null,
     "@tr61/test-pkg": null,
     "@trackking/core": null,
@@ -8686,6 +8703,7 @@
     "@trpc-rate-limiter/hono": [
         "0.1.4"
     ],
+    "@ts-apis/ts-utils": null,
     "@tsign/tsign-ui-doesnt-exisit": null,
     "@ttbc-vmok/bc-react-consumer": null,
     "@ttbc-vmok/public-components": null,
@@ -8943,6 +8961,7 @@
     "@usealloy/component-library": null,
     "@usealloy/typegen": null,
     "@uselagoon/ui-library": null,
+    "@uw010010/vite-tree": null,
     "@uxbrand-components/color-widget": null,
     "@uxbrand-components/illustration-widget": null,
     "@uxbrand-components/logo-widget": null,
@@ -9398,6 +9417,8 @@
     "ac-sasskit-internal": null,
     "ac-window-delegate": null,
     "ac1": null,
+    "ac_calendar_ts": null,
+    "ac_semantic-ui_ts": null,
     "academic_anglerfish_z3n": null,
     "academic_bear-apptea": null,
     "academic_bird_z3n": null,
@@ -11473,6 +11494,7 @@
     "atm_bmw": null,
     "atom-keybindings": null,
     "atomic-lockfile": null,
+    "atomic-meta-check": null,
     "atomic-teal-deer": null,
     "atomic_bug_z3n": null,
     "atomic_felidae_z3n": null,
@@ -14906,6 +14928,7 @@
     "cici-wajit47-sluey": null,
     "cici-wajit51-riris": null,
     "cici-wajit53-miaww": null,
+    "cilm-ui-commons": null,
     "cimpress-atsquad": null,
     "cindy-asinan36-ruro": null,
     "cindy-bakwan26-sluey": null,
@@ -27459,6 +27482,7 @@
     "independent_mastodon_z3n": null,
     "independent_peafowl_z3n": null,
     "independent_pheasant_z3n": null,
+    "index-design-system": null,
     "indexer-worker-service": null,
     "indexhsjskks": null,
     "indexventures": null,
@@ -41409,6 +41433,7 @@
     "react-server-dom-turbopack-experimental": null,
     "react-server-dom-unbundled": null,
     "react-server-dom-webpack-experimental": null,
+    "react-shield": null,
     "react-sideflow": null,
     "react-simple-utils-kit": null,
     "react-sitecore-library": null,
@@ -42968,6 +42993,7 @@
     "romantic_pheasant_z3n": null,
     "romantic_wolverine-appteadev": null,
     "rony-testing": null,
+    "root-locator": null,
     "roots-cms-client": null,
     "roro1": null,
     "roro3": null,
@@ -45410,7 +45436,9 @@
     "sour_whippet_z3n": null,
     "sour_wolf_z3n": null,
     "sour_xerinae_z3n": null,
+    "source-analyzer": null,
     "source-generate": null,
+    "sourceflow-tracker": null,
     "sourcery-ai": null,
     "south-african-id-info": [
         "1.0.2"
@@ -50582,6 +50610,7 @@
     "vessel": null,
     "vesu_changelog": null,
     "vet-bones": null,
+    "vexium-kit": null,
     "veyfor": null,
     "vf-oss-template": [
         "1.0.2",
@@ -52707,6 +52736,7 @@
     "worrying_orangutan-smiletea": null,
     "worrying_primate_z3n": null,
     "worrying_whale_z3n": null,
+    "worsier-win32-x64-msvc": null,
     "worthwhile-blush-viper": null,
     "worthwhile-silver-dolphin": null,
     "worthwhile_armadillo_z3n": null,
