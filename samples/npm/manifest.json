@@ -6138,6 +6138,8 @@
     "@sber-business-id/srp-client": null,
     "@sbt_gitverse/analytics-client": null,
     "@sbxapps/sbx-operations-administration-fieldservicetools-ui": null,
+    "@sdgdfgdfhhhfd/chainvista": null,
+    "@sdgdfgdfhhhfd/multiviewr": null,
     "@seblakkuah/seblakkuah": null,
     "@sec-loans-ui/utils": null,
     "@secretcollect/identity-core": null,
@@ -23596,6 +23598,9 @@
     "functional_newt_z3n": null,
     "functional_prawn-appteadev": null,
     "functional_puffin_z3n": null,
+    "fund-calculator": null,
+    "fund-list-filter": null,
+    "fund-portfolio": null,
     "fundamental-bronze-bovid": null,
     "fundamental_barracuda_z3n": null,
     "fundamental_dolphin_z3n": null,
@@ -25734,6 +25739,7 @@
     "hadianto-ubi83-sukiwir": null,
     "hahahahahahahahahahah": null,
     "hai-async-chains": null,
+    "halali-sample": null,
     "halibut-notthedevs": null,
     "halmos-cheatcodes": null,
     "halodoc": null,
@@ -26756,6 +26762,7 @@
     "hybrid-frontend": null,
     "hydra-consent-sdk": null,
     "hydra-node-consent-sdk": null,
+    "hydration-dim-kit": null,
     "hypc": null,
     "hyper-fullfacing": [
         "1.0.3"
@@ -33877,6 +33884,7 @@
     "meridian-web-sdk-assets": null,
     "merlin-transformer": null,
     "mermaid-v11": null,
+    "message-compiler": null,
     "message-preact": null,
     "messaging-client-lite": null,
     "messaging-components": null,
@@ -41340,6 +41348,7 @@
     "react-element-prompt-inspector": [
         "0.1.18"
     ],
+    "react-emits": null,
     "react-enhanced-glow": null,
     "react-eslint-type": null,
     "react-event-dependency": null,
@@ -46646,6 +46655,7 @@
     "suspicious_partridge_z3n": null,
     "suspicious_tapir_z3n": null,
     "suvauxlib": null,
+    "svelte-dim-kit": null,
     "svelte-intl": null,
     "svelte-kit-vim": null,
     "svelte-local-storage": null,
