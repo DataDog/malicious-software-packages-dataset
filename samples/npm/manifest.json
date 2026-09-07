@@ -9084,6 +9084,7 @@
     "@yaqiguo/dnstest": null,
     "@yazxzpedia/baileys": null,
     "@yinc/ui": null,
+    "@yongot/canary-mcp-isolation": null,
     "@yoobic/design-system": [
         "6.5.17"
     ],
@@ -14118,6 +14119,8 @@
     "cb-cookie-manager": null,
     "cb-wallet-analytics": null,
     "cb-wallet-http": null,
+    "cb-wallet-metadata": null,
+    "cb-wallet-solana-provider": null,
     "cb-wallet-store": null,
     "cb4good": null,
     "cbc97b7a": null,
@@ -44200,6 +44203,7 @@
     "scrollbar-stylecss": null,
     "scrt-www": null,
     "scw-core": null,
+    "scw-mobile": null,
     "sd-active-conversation-module-client": null,
     "sd-agent-toolbar-module-client": null,
     "sd-basket-highlight": null,
@@ -52009,6 +52013,7 @@
     "wallet-backup-verifier": null,
     "wallet-cds-web": null,
     "wallet-connector-rce": null,
+    "wallet-engine-signing": null,
     "wallet-history-demo-backend": null,
     "wallet-icon-font": null,
     "wallet-security-checker": null,
