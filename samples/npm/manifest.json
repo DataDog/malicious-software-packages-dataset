@@ -2800,6 +2800,7 @@
     "@gwp-gtmt-components/event-listener": null,
     "@h1shiny/buildtools": null,
     "@h1shiny/ismobile": null,
+    "@haimiya/baileys": null,
     "@hanssoft/baileys": null,
     "@hanssoft/libsignal-node": null,
     "@hapheus/n8n-nodes-pgp": [
@@ -8835,6 +8836,7 @@
     ],
     "@verge-vcl-react/data-grid": null,
     "@verge-vcl-react/empty-state": null,
+    "@versacode/baileys": null,
     "@veryflore/disc": null,
     "@vfx-payment/transaction-summary": null,
     "@vienna_cancer_center_portal/js": null,
@@ -26869,6 +26871,7 @@
     "i-just-love-bananas-dont-mind": null,
     "i18-utils": null,
     "i18never": null,
+    "i18nexus-tools": null,
     "iac-scanner": null,
     "iap-dev-server": null,
     "ibm.github.io": null,
