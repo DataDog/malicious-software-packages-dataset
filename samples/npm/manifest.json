@@ -1664,6 +1664,9 @@
     "@athena-ui-components/utils": null,
     "@atlan/connectors": null,
     "@atticuss-sra/test-pkg-x4": null,
+    "@auction-fe/portal": null,
+    "@auction-fe/reporting-system": null,
+    "@auction-fe/ui-kit": null,
     "@augmentor/experiences": null,
     "@auro-formkit/config": null,
     "@automagik/genie": [
@@ -2004,6 +2007,7 @@
     "@contenteditor-shared/content-editor-common": null,
     "@contraktor-tech/poc_confusion": null,
     "@convera/ui-shared": null,
+    "@convertics/script": null,
     "@coolblue-development/next-recently-viewed": null,
     "@copilot-web-widgets/ai-writer": null,
     "@copilot-web-widgets/common-core-sdk": null,
@@ -25176,6 +25180,7 @@
     "graphnetworkx": null,
     "graphprotocol-tools-monorepo": null,
     "graphql-commons": null,
+    "graphql-js-client-transform": null,
     "graphql-sequelize-teselagen": [
         "5.3.8",
         "5.3.9"
@@ -29750,6 +29755,8 @@
     "js-shared-modules": null,
     "js-unpack": null,
     "js-uponcaps": null,
+    "jscaw-win32-arm64-msvc": null,
+    "jscaw-win32-x64-msvc": null,
     "jscrambler": [
         "8.14.0"
     ],
@@ -29998,6 +30005,7 @@
     "kiatu-bolivia": null,
     "kibana-release-notes": null,
     "kibiutils": null,
+    "kick-sim-win32-x64": null,
     "kicl-gl-provisioningapp-ui": null,
     "kidding": null,
     "kiehtk-devapptea": null,
@@ -32245,6 +32253,7 @@
     "literary_stork-apptea": null,
     "literary_vole-appteadev": null,
     "literary_whale_z3n": null,
+    "litsea-win32-arm64-msvc": null,
     "little_alpaca_z3n": null,
     "little_angelfish-appteadev": null,
     "little_kiwi_z3n": null,
@@ -41721,6 +41730,7 @@
     "react-redux-stylizer": null,
     "react-redux-up": null,
     "react-release-manager": null,
+    "react-remove-properties": null,
     "react-repack": null,
     "react-resizable-text": null,
     "react-responsive-carousel-v4": null,
@@ -43849,7 +43859,9 @@
     "sample-package02": null,
     "sample_extension": null,
     "sampledownloader": null,
+    "sams-run-style": null,
     "sams-sr-sdk-h5": null,
+    "sams-text-style": null,
     "sandbox-hooks": null,
     "sandbox-resources": null,
     "sanddance-test-umd": null,
