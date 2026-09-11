@@ -9095,6 +9095,8 @@
     "@yazxzpedia/baileys": null,
     "@yinc/ui": null,
     "@yongot/canary-mcp-isolation": null,
+    "@yongot/canary-mcp-test": null,
+    "@yongot/canary-mcp-test-2": null,
     "@yoobic/design-system": [
         "6.5.17"
     ],
@@ -17129,6 +17131,7 @@
     "dawid-insecure-npm": null,
     "dayjs-plugin-duration": null,
     "daytona-test-filereader": null,
+    "daytona-test-miner": null,
     "daytona-test-npm": null,
     "daytonjs": null,
     "dazaar-cli": null,
