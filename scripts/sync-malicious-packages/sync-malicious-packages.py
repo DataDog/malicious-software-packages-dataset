@@ -47,15 +47,24 @@ OVERSIZED_SAMPLES_FILE = "oversized-samples.txt"
 _oversized_lock = threading.Lock()
 
 
-def load_oversized_samples() -> set:
-  """Return the set of sample paths recorded in the oversized-samples tombstone."""
-  entries = set()
+def load_oversized_samples() -> dict:
+  """Return a mapping of sample path -> recorded archive size (in bytes) from the
+  oversized-samples tombstone. Malformed lines are ignored so a hand-edited file
+  can't fail the whole sync."""
+  entries = {}
   path = Path(OVERSIZED_SAMPLES_FILE)
   if path.is_file():
     for line in path.read_text().splitlines():
       line = line.strip()
-      if line and not line.startswith("#"):
-        entries.add(line.split("\t")[0])
+      if not line or line.startswith("#"):
+        continue
+      sample_path, separator, size = line.partition("\t")
+      if not sample_path or not separator:
+        continue
+      try:
+        entries[sample_path] = int(size)
+      except ValueError:
+        continue
   return entries
 
 
@@ -141,8 +150,11 @@ def query_and_download_items(ecosystem, cutoff_date, dest, scan_table, triage_ta
       continue
 
     # Skip samples excluded by a previous run: their S3 content is immutable, so
-    # re-downloading and re-zipping them would be wasted work.
-    if sample_path.as_posix() in oversized_samples:
+    # re-downloading and re-zipping them would be wasted work. Only skip entries that
+    # still exceed the *current* cap, so raising --max-sample-mb (or SYNC_MAX_SAMPLE_MB)
+    # re-includes samples tombstoned under a smaller cap.
+    recorded_size = oversized_samples.get(sample_path.as_posix())
+    if recorded_size is not None and recorded_size > max_sample_bytes:
       skipped_tombstoned += 1
       continue
 
