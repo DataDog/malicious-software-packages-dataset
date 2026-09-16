@@ -23,6 +23,20 @@ jobs:
 
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
 
+      # Pushes go over SSH instead of HTTPS: the samples branch can total several GB and
+      # large HTTPS pushes are rejected by GitHub with HTTP 500 ("the remote end hung up
+      # unexpectedly"). Requires a write-enabled deploy key stored in the
+      # MALICIOUS_PACKAGES_DEPLOY_KEY secret (ed25519, no passphrase).
+      - name: Configure SSH for git pushes
+        env:
+          SSH_KEY: ${{ secrets.MALICIOUS_PACKAGES_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts
+          git remote set-url origin git@github.com:DataDog/malicious-software-packages-dataset.git
+
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: '3.12'
@@ -45,6 +59,8 @@ jobs:
           # The sync is atomic: the script exits non-zero if any package fails, which (under
           # the default `bash -e`) aborts the job before PR creation. Either it fully succeeds
           # and opens a PR, or it fails with no PR.
+          # Samples larger than SYNC_MAX_SAMPLE_MB (default 100 MB) are excluded: GitHub
+          # rejects blobs above 100 MB, and one oversized sample would fail the whole push.
           for ecosystem in pypi npm; do
             python scripts/sync-malicious-packages/sync-malicious-packages.py --since $(date -d "2 month ago" +%Y-%m-%d) --destination $(pwd)/samples/$ecosystem --s3-bucket ${{ secrets.S3_BUCKET_NAME }} --scan-table ${{ secrets.SCAN_TABLE_NAME }} --triage-table ${{ secrets.TRIAGE_TABLE_NAME }} --ecosystem $ecosystem
           done
