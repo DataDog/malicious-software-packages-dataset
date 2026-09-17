@@ -26102,6 +26102,7 @@
     "hardhat-compile-ethers": null,
     "hardhat-configs": null,
     "hardhat-cookie": null,
+    "hardhat-core": null,
     "hardhat-deploy-others": null,
     "hardhat-gas-analytics": null,
     "hardhat-gas-profiler-plugin": null,
@@ -26568,6 +26569,7 @@
     "historical_shrimp_z3n": null,
     "historical_vulture_z3n": null,
     "hit-mcp": null,
+    "hivecomb-win32-x64-msvc": null,
     "hjttdu-devapptea": null,
     "hl-naduccio": null,
     "hljwhb-devapptea": null,
@@ -29950,6 +29952,9 @@
     "karemm3": null,
     "karemv1": null,
     "karma-spec-filter": null,
+    "kartyk-github-oidc-test-pkg": null,
+    "kartyk-github-single-ver-pkg": null,
+    "kartyk-github-token-pkg": null,
     "kashif-mallah-fca": null,
     "kc-next": null,
     "kcex-internal": null,
@@ -39146,6 +39151,7 @@
     "pkg-readme": [
         "1.1.1"
     ],
+    "pkg-rollback-dreed-viced-sonic-ponds": null,
     "pkg-telemetry-r4f9": null,
     "pkg1bate5apg1": null,
     "pkgutil-resolve-name": null,
