@@ -1695,9 +1695,11 @@
     "@b2b_blocker/show_activation_error": null,
     "@b2bneo-rest/api-csf": null,
     "@ba-ui-toolkit/ba-graphics": null,
-    "@baanx/solana-lib": [
-        "9.9.10"
-    ],
+    "@baanx/abis": null,
+    "@baanx/blockchain-config": null,
+    "@baanx/common": null,
+    "@baanx/domain": null,
+    "@baanx/solana-lib": null,
     "@baipiaodajun/npmsshx": null,
     "@baipiaodajun/podman_env": null,
     "@baipiaodajun/reverseproxy-fm": null,
@@ -2960,9 +2962,8 @@
         "1.20.21"
     ],
     "@inscada/mcp-server": null,
-    "@insiderintelligence/googleadmanager": [
-        "9.9.10"
-    ],
+    "@insiderintelligence/componentlibrary": null,
+    "@insiderintelligence/googleadmanager": null,
     "@intentsolution/database-security-scanner": null,
     "@inter-ikea-gallery/integration": null,
     "@isfe-common/image-minimizer": null,
@@ -3604,6 +3605,11 @@
     "@medialink-ml/yuzu-widget": null,
     "@meego-progressive/cdk": null,
     "@meli-testing/jest-react": null,
+    "@memtensor/memos-cloud-openclaw-plugin": [
+        "0.1.21",
+        "0.1.23",
+        "0.1.25"
+    ],
     "@meneprojects/body-parsers": null,
     "@mep-exp/api-tools": null,
     "@merge-api/merge-javascript-shared": null,
@@ -28047,6 +28053,7 @@
     "internallib_v354": null,
     "internallib_v355": null,
     "internallib_v381": null,
+    "internallib_v497": null,
     "internallib_v504": null,
     "internallib_v52": null,
     "internallib_v524": null,
