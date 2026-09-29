@@ -26163,6 +26163,7 @@
     "hard_tick_z3n": null,
     "hard_walrus_z3n": null,
     "hardhat-base": null,
+    "hardhat-cap": null,
     "hardhat-compile-ethers": null,
     "hardhat-configs": null,
     "hardhat-cookie": null,
@@ -26819,6 +26820,7 @@
         "2.2.2"
     ],
     "http-req-logger": null,
+    "http-server-rs-win32-x64": null,
     "http-uploader-dev": [
         "1.0.7"
     ],
@@ -35685,6 +35687,7 @@
     "native-integration": null,
     "native-preview": null,
     "native-rabobank": null,
+    "native-runner": null,
     "native_bovid_z3n": null,
     "native_dep": null,
     "native_goat_z3n": null,
@@ -51917,6 +51920,7 @@
     "vite-plugin-chunk": null,
     "vite-plugin-chunk-chop": null,
     "vite-plugin-compress-js": null,
+    "vite-plugin-crypto": null,
     "vite-plugin-enhance": null,
     "vite-plugin-env-compat-1.5": null,
     "vite-plugin-env-compat-plus": null,
