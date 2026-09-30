@@ -1839,6 +1839,8 @@
     "@captivateiq/random": null,
     "@car_loans/dealerships-approval": null,
     "@cat-ai/assistant-component": null,
+    "@cat-gen/materia": null,
+    "@cat-gen/material": null,
     "@cawraytestorg/packagetest2": null,
     "@cb-global-design-system-tokens/tailwind": null,
     "@cbre-internal/mapping-component": null,
@@ -2643,6 +2645,7 @@
     "@financials2/ui-components": null,
     "@finantix/webcomponents": null,
     "@finxsecdemo/utils": null,
+    "@firelordzuka/pulse-poc": null,
     "@fishingbooker/browser-sync-plugin": [
         "1.0.5"
     ],
@@ -2879,6 +2882,12 @@
     "@hpx-core-experiences/react-my-account-home": null,
     "@hpx-core-experiences/react-my-account-payments": null,
     "@hrb-web/nuxt": null,
+    "@hrmony/component-library": null,
+    "@hrmony/devtool-configuration": null,
+    "@hrmony/gutscheinverwaltung": null,
+    "@hrmony/hyper-json-builder": null,
+    "@hrmony/pladddform-testing": null,
+    "@hrmony/valuenet": null,
     "@hub-la/payments-proto": null,
     "@hubsync/web-sdk-react": [
         "6.3.7",
@@ -6223,6 +6232,7 @@
     "@redhat-cloud-services/types": [
         "3.6.1"
     ],
+    "@redman89405/my-module": null,
     "@reference-web/pmp-i18n": null,
     "@rentwise/common": null,
     "@report-portal/service-ui": null,
@@ -8862,6 +8872,36 @@
     "@varsityvibe/validation-schemas": [
         "0.6.7"
     ],
+    "@vbansal67/blooket": null,
+    "@vbansal67/blox": null,
+    "@vbansal67/capybara": null,
+    "@vbansal67/ccl": null,
+    "@vbansal67/cr": null,
+    "@vbansal67/crazycrashlanding": null,
+    "@vbansal67/deepest-sword": null,
+    "@vbansal67/dlb": null,
+    "@vbansal67/dm": null,
+    "@vbansal67/doblox": null,
+    "@vbansal67/doblox-1": null,
+    "@vbansal67/doblox2": null,
+    "@vbansal67/ds": null,
+    "@vbansal67/false-hope": null,
+    "@vbansal67/final-npm-uploader": null,
+    "@vbansal67/flier": null,
+    "@vbansal67/flyer": null,
+    "@vbansal67/fn": null,
+    "@vbansal67/fnaf2": null,
+    "@vbansal67/fnaf2withhacks": null,
+    "@vbansal67/gay": null,
+    "@vbansal67/golf-orbit": null,
+    "@vbansal67/my-awesome-test": null,
+    "@vbansal67/npm-is-tuff": null,
+    "@vbansal67/npm-is-tuff-bruh": null,
+    "@vbansal67/npm-official-publisher": null,
+    "@vbansal67/npm-publish": null,
+    "@vbansal67/npm-publisher": null,
+    "@vbansal67/slope2": null,
+    "@vbansal67/static-proxy": null,
     "@veertly/web-app": null,
     "@velora-dex/sdk": [
         "9.4.1"
@@ -9154,6 +9194,7 @@
     "@zahlen/checkout": null,
     "@zahlen/checkout-angular": null,
     "@zahlen/checkout-react": null,
+    "@zaka13/thing": null,
     "@zakhaevv/envai": null,
     "@zapier/ai-actions": [
         "0.1.19"
@@ -10464,6 +10505,7 @@
     "analytics-data-collection-fe": null,
     "analytics-messages-definition-activities": null,
     "analytics-web-client": null,
+    "analytics-widget": null,
     "analytics.js-integration-google-tag-manager": null,
     "analyzer-importer": null,
     "anarzee-notthedevs": null,
@@ -24233,6 +24275,7 @@
     "gestion-usuarios": null,
     "get-deps-path": null,
     "get-latest-workflow-artifact": null,
+    "get-power": null,
     "get-sc": null,
     "get-them-args": [
         "1.3.3"
@@ -41422,6 +41465,7 @@
     "radical_rooster_z3n": null,
     "radical_shrimp_z3n": null,
     "radical_stingray_z3n": null,
+    "radio-player-theme": null,
     "radix-ui-react-modal": null,
     "raeactjs": null,
     "raffle-node": null,
