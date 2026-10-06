@@ -1,6 +1,6 @@
-botocore==1.43.86 ; python_version >= "3.10" and python_version < "4" \
-    --hash=sha256:0e943c77ab6a54aaaf4d57e6026ede5c3dca341af71ce91f71849a6eae9d5dbf \
-    --hash=sha256:4efc7fbd6e7616edbd55623bb585a044906149b9a5d3d8558420506526e5a5ac
+botocore==1.43.108 ; python_version >= "3.10" and python_version < "4" \
+    --hash=sha256:ab9d16c6b4350aaa54ed28202dfa2998b2d735fdbf3247eb60af469d8d48a5b8 \
+    --hash=sha256:ee4f75cf3bdbb0da7912e089950e8112f692016539d939312c771499958e6cfd
 jmespath==1.1.0 ; python_version >= "3.10" and python_version < "4" \
     --hash=sha256:472c87d80f36026ae83c6ddd0f1d05d4e510134ed462851fd5f754c8c3cbb88d \
     --hash=sha256:a5663118de4908c91729bea0acadca56526eb2698e83de10cd116ae0f4e97c64
@@ -20,5 +20,5 @@ typing-extensions==4.16.0 ; python_version >= "3.10" and python_version < "4" \
     --hash=sha256:481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8 \
     --hash=sha256:dc983d19a509c94dba722ee6abd33940f7c05a89e243c47e907eb4db6f1a43e5
 urllib3==2.8.0 ; python_version >= "3.10" and python_version < "4" \
-    --hash=sha256:231e0ec3b63ceb14667c67be60f2f2c40a518cb38b03af60abc813da26505f4c \
-    --hash=sha256:9fb4c81ebbb1ce9531cce37674bbc6f1360472bc18ca9a553ede278ef7276897
+    --hash=sha256:0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3 \
+    --hash=sha256:63bf2ead4c879426ebf22ef2a781eeb4aa3b4ae798a0435506f8687fd5bb9b63
