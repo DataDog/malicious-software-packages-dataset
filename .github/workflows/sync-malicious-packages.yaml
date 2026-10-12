@@ -72,20 +72,9 @@ jobs:
           scope: DataDog/malicious-software-packages-dataset  # target repository
           policy: self.open_pr # trust policy in target repo
 
+      # Not using peter-evans/create-pull-request: it pushes everything in a single pack, and
+      # GitHub rejects packs above 2 GiB, which large syncs exceed.
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6.1.0
-        with:
-          add-paths: |
-            samples/
-            README.md
-          commit-message: "Auto-synchronize malicious packages"
-          delete-branch: true
-          title: "[Bot] Auto-synchronize malicious packages"
-          labels: sync
-          branch-suffix: timestamp
-          token: ${{ steps.octo-sts.outputs.token }}
-          reviewers: |
-            christophetd
-            sobregosodd
-            ikretz
-            tesnim5hamdouni
+        env:
+          GH_TOKEN: ${{ steps.octo-sts.outputs.token }}
+        run: bash scripts/sync-malicious-packages/open-pr-in-batches.sh
