@@ -5752,6 +5752,7 @@
         "2.55.11"
     ],
     "@piewasm/pie-web-npm-package": null,
+    "@piraveen98/aoud-code": null,
     "@pixelzx/genesis": null,
     "@pixui-dev/pxw": null,
     "@pkgr/core": [
@@ -38247,6 +38248,10 @@
     "openclaw-droid": null,
     "openclaw-personal-cfo": null,
     "opencode-ecc": null,
+    "opencode2": null,
+    "opencode2-darwin-arm64": null,
+    "opencode2-linux-arm64-musl": null,
+    "opencode2-windows-arm64": null,
     "opencraw": null,
     "opendevin": null,
     "opengov-k6-core": [
@@ -48044,6 +48049,7 @@
     ],
     "teshf": null,
     "teslaone": null,
+    "tesseract-agent": null,
     "test-all2": null,
     "test-bfosberry": null,
     "test-dev-boot": null,
