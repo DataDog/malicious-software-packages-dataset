@@ -51,8 +51,9 @@ def sync_manifest(input_manifest: Manifest, ecosystem: ECOSYSTEM, since: datetim
         _, package = triage_record.get_ecosystem_package()
 
         if not triage_record.malicious_versions:
-            log.info(f"Triage record for {ecosystem}|{package} has no malicious versions: deleting entry")
-            output_manifest.pop(package, None)
+            if package in output_manifest:
+                log.info(f"Triage record for {ecosystem}|{package} has no malicious versions: deleting entry")
+                output_manifest.pop(package, None)
             continue
 
         if triage_record.compromised_lib:
