@@ -12106,6 +12106,7 @@
         "0.3.3",
         "0.4.3"
     ],
+    "babel-polyfill-plugin-corejs2": null,
     "babel-preset-app": null,
     "babel-preset-ibm-cloud-cognitive": null,
     "babel-preset-lib-client": null,
