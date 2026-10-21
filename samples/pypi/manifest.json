@@ -777,7 +777,8 @@
     "lindze": null,
     "litellm": [
         "1.82.7",
-        "1.82.8"
+        "1.82.8",
+        "1.107.0"
     ],
     "lmaoalmost": null,
     "loadcoremwassistant": null,
