@@ -2236,6 +2236,8 @@
         "0.16.1",
         "0.16.2"
     ],
+    "@drone-js-ext/core": null,
+    "@drone-js-ext/vip-badge": null,
     "@dropbox-photo-viewer/electron-app": null,
     "@druids/ui": null,
     "@druidsoft/botframework-directlinejs": null,
@@ -2827,6 +2829,7 @@
     "@googlesitekit/assets": null,
     "@grafanacloud/plugins-platform-backend": null,
     "@grafanacloud/test-utils": null,
+    "@greenlake/common-context": null,
     "@grumpycoffeecup/hello-npm-world": null,
     "@gt-test-exp/profiler-exp-00000006": null,
     "@gt-test-exp/profiler-exp-00000008": null,
@@ -2999,6 +3002,7 @@
     "@insiderintelligence/googleadmanager": null,
     "@intentsolution/database-security-scanner": null,
     "@inter-ikea-gallery/integration": null,
+    "@iobandamwer/native-helper": null,
     "@isfe-common/image-minimizer": null,
     "@isfe-common/testing-constants": null,
     "@isfe-common/testing-utils": null,
@@ -5947,6 +5951,7 @@
         "0.0.6"
     ],
     "@powpegtest/powpeg": null,
+    "@ppa-web-components/ppa-navigation": null,
     "@pradhumngautam/common-app": [
         "1.0.2"
     ],
@@ -38856,6 +38861,7 @@
     "path-external": null,
     "path-internal": null,
     "path-internal-util": null,
+    "path-stream-utils-testmetest": null,
     "pathfix": null,
     "patient-blush-silkworm": null,
     "patient-brown-wolf": null,
@@ -39715,6 +39721,7 @@
     "postcss-preloader": null,
     "postcss-property-rollup": null,
     "postcss-selector-minify": null,
+    "postcss-semantic-themes": null,
     "postcss-theme-provider": null,
     "posthog-docusaurus": [
         "2.0.6"
