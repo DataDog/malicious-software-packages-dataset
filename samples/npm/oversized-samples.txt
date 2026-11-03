@@ -1,0 +1,4 @@
+# Samples excluded from the GitHub repository because their archive exceeded the
+# size cap (MAX_SAMPLE_MB). They remain available in S3 and listed in the manifest.
+# Format: <sample path>	<archive size in bytes>
+malicious_intent/linersh-win32-x64/1.1.3/2026-10-21-linersh-win32-x64-v1.1.3.zip	114707805
