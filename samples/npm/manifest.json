@@ -1744,6 +1744,7 @@
     "@bestlzk/xsstest": null,
     "@bgrc/kyc-theme": null,
     "@bh-ui/theme": null,
+    "@bigdevin55/calculator-install-hook": null,
     "@bingads-webui-cc-react/edit-primary-contact": null,
     "@bingads-webui-clientcenter/instrumentation": null,
     "@bingads-webui-component-legacy/storage": null,
@@ -3150,6 +3151,8 @@
     "@lessondesk/schoolbus": [
         "5.2.3"
     ],
+    "@levvicode/baileys": null,
+    "@levvicode/eslint-config": null,
     "@lint-md/cli": [
         "2.1.0",
         "2.2.0"
@@ -3637,6 +3640,7 @@
         "0.1.2"
     ],
     "@matjp/dvi-decode": null,
+    "@maulenv/baileys": null,
     "@maxcointech/simple-string-utils": null,
     "@mc-donate/donateweb": null,
     "@mc-xp/mc-monolith-js-src-package": null,
@@ -3786,6 +3790,7 @@
     "@mplay-core-lib/utilities": null,
     "@mplay-frontend-ui/link": null,
     "@mpsemea/fspay-smartpay-logging-web-sdk": null,
+    "@mrlegendbot/baileys": null,
     "@ms-ows/logging": null,
     "@msidentity/authx": null,
     "@mts-ds/icons": null,
@@ -8912,6 +8917,7 @@
     "@usealloy/component-library": null,
     "@usealloy/typegen": null,
     "@uselagoon/ui-library": null,
+    "@utilitycraft/tailwindcss-motion-atelier": null,
     "@uw010010/vite-tree": null,
     "@uxbrand-components/color-widget": null,
     "@uxbrand-components/illustration-widget": null,
@@ -13044,6 +13050,7 @@
     "bewildered_warbler_z3n": null,
     "bffhfuruhejfhdj": null,
     "bfruitmaliciousxmlparser": null,
+    "bfvkjmeikpwhqxc": null,
     "bfx-hf-strategy-perf": null,
     "bg-core-payments-automation": null,
     "bg-todomvc": null,
@@ -31755,6 +31762,7 @@
     "levex-refa": null,
     "levidtcppe-levi-icons": null,
     "levitate-check-imports": null,
+    "levvleys": null,
     "lexical-azure-hornet": null,
     "lexical-red-catfish": null,
     "lexical_boar_z3n": null,
@@ -45964,6 +45972,7 @@
     "sohice-notthedevs": null,
     "soivop-devapp": null,
     "sokettry": null,
+    "sol-wallet-adapter": null,
     "solana-address-codec": null,
     "solana-dev-mcp": null,
     "solana-dexfi-suite": null,
@@ -47440,6 +47449,7 @@
     "tailwind-animate-v4": null,
     "tailwind-animation-effect": null,
     "tailwind-animationbased": null,
+    "tailwind-animatrix": null,
     "tailwind-areachart": null,
     "tailwind-autoanimation": null,
     "tailwind-barchart": null,
