@@ -2155,6 +2155,7 @@
     "@dailyapy-rn/rn-push-provisioning": null,
     "@dappaoffc/baileys": null,
     "@dappaoffc/baileys-mod": null,
+    "@db-tools/main-app": null,
     "@dbtw/mfe-gateway": null,
     "@ddh-libs/analytics": null,
     "@deadcode09284814/axios-util": null,
@@ -6357,6 +6358,7 @@
     "@sage-org/fabric-ui-root-config": null,
     "@saidddddddddd/ggsgg": null,
     "@saif777/codemirror5": null,
+    "@salesforce/cli": null,
     "@sameepsi/sor": [
         "1.0.3"
     ],
@@ -30566,6 +30568,7 @@
     "kosin": null,
     "kotlin-wasm-package-lock-project-test": null,
     "kpi-media-metrics": null,
+    "kr-node-logger": null,
     "kraken-ui": null,
     "kraken-wallet-cryptoicons": null,
     "kraken-wallet-network-icons": null,
@@ -45210,6 +45213,7 @@
     "sick_raccoon-appteadev": null,
     "sick_stingray_z3n": null,
     "sick_wasp-appteadev": null,
+    "sickle-wrapper": null,
     "side-effects-package": null,
     "sidebar-basket": null,
     "sieve2workers": null,
@@ -47624,6 +47628,7 @@
     "take3-hello-world": null,
     "take4-hello-world": null,
     "talk-desktop": null,
+    "talk-lang": null,
     "talkingagent": null,
     "tall_bison_z3n": null,
     "tall_centipede_z3n": null,
@@ -48126,6 +48131,7 @@
     "test-utils-bundle": null,
     "test-wastu": null,
     "test-website-hashroute": null,
+    "test1817": null,
     "test1sharp": null,
     "test23112222-api": [
         "1.0.1"
@@ -51465,6 +51471,7 @@
         "1.0.3",
         "1.0.4"
     ],
+    "vfat-tools": null,
     "vg-interaction-model": null,
     "vgandau-notthedevs": null,
     "vhtjsi-devapptea": null,
@@ -52978,6 +52985,7 @@
     "webengage": null,
     "webflow": null,
     "webflow-extension": null,
+    "webhook-easy": null,
     "webhooks-contacts-app": null,
     "webhooks-tool": null,
     "webinarwebhookapp": null,
